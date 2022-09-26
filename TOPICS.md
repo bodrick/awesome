@@ -5786,7 +5786,7 @@
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 *   [martijnboland/LeanAspNetCore-React](https://github.com/martijnboland/LeanAspNetCore-React) - Lean ASP.NET 6.0 app that uses Razor Pages for server pages and React for part of the client application. Client-side build is done with Vite.
 *   [github/browser-support](https://github.com/github/browser-support) - Polyfills & Capable Browser detection
-*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) -
+*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 *   [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) -
 *   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) -
 *   [dotnet/Docker.DotNet](https://github.com/dotnet/Docker.DotNet) - :whale: .NET (C#) Client Library for Docker API
