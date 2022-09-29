@@ -791,7 +791,7 @@
 *   [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 *   [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 *   [github/browser-support](https://github.com/github/browser-support) - Polyfills & Capable Browser detection
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
 *   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.

@@ -1082,6 +1082,7 @@
 *   [angularjs](#angularjs)
 *   [service-portal](#service-portal)
 *   [servicenow](#servicenow)
+*   [hacktoberfest-accepted](#hacktoberfest-accepted)
 *   [hacktoberfest2021](#hacktoberfest2021)
 *   [appattach](#appattach)
 *   [appinstaller](#appinstaller)
@@ -3613,7 +3614,6 @@
 *   [opera](#opera)
 *   [cv](#cv)
 *   [jsdoc](#jsdoc)
-*   [hacktoberfest-accepted](#hacktoberfest-accepted)
 *   [windows-subsystem](#windows-subsystem)
 *   [windows-subsystem-for-linux](#windows-subsystem-for-linux)
 *   [agnoster](#agnoster)
@@ -6535,7 +6535,7 @@
 
 *   [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 *   [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -6899,7 +6899,7 @@
 
 *   [kirillgroshkov/kg-releases](https://github.com/kirillgroshkov/kg-releases) - :fire: Keep track of opensource releases :package:
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [Shinigami92/eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
 *   [angular-eslint/angular-eslint](https://github.com/angular-eslint/angular-eslint) - :sparkles: Monorepo for all the tooling related to using ESLint with Angular
 *   [KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor) - A smorgasbord of modern .NET tech written with functional and asynchronous patterns
@@ -10201,7 +10201,7 @@
 ## firefox-addon
 
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 *   [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
@@ -11256,7 +11256,7 @@
 
 ## browser-extension
 
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 *   [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 *   [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.
@@ -11268,7 +11268,7 @@
 
 ## bundler
 
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [Auxpack/Auxpack](https://github.com/Auxpack/Auxpack) - A dashboard for monitoring Webpack build stats.
 *   [egoist/bili](https://github.com/egoist/bili) - Bili makes it easier to bundle JavaScript libraries.
 *   [finmavis/webpack-4-boilerplate](https://github.com/finmavis/webpack-4-boilerplate) - Webpack 4 Boilerplate with Babel, SASS or SCSS, browser autoprefix, and optimization using gzip and brotli for Production
@@ -11277,15 +11277,15 @@
 
 ## edge-addon
 
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 
 ## parcel
 
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 
 ## reactjs
 
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 *   [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
@@ -11297,7 +11297,7 @@
 
 ## sdk
 
-*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+*   [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 *   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
 *   [Countly/countly-server](https://github.com/Countly/countly-server) - Countly helps you get insights from your application. Available self-hosted or on private cloud.
 *   [CZEMacLeod/MSBuild.SDK.SystemWeb](https://github.com/CZEMacLeod/MSBuild.SDK.SystemWeb) - This MSBuild SDK is designed to allow for the easy creation and use of SDK (shortform) projects targeting ASP.NET 4.x using System.Web.
@@ -12543,6 +12543,7 @@
 ## hacktoberfest2022
 
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
 
 ## mach-o
 
@@ -14772,6 +14773,11 @@
 *   [antonemking/servicenow](https://github.com/antonemking/servicenow) - Useful Scripts that I have developed to accomplish various tasks
 *   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
 *   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
+
+## hacktoberfest-accepted
+
+*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
+*   [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 
 ## hacktoberfest2021
 
@@ -27261,10 +27267,6 @@
 ## jsdoc
 
 *   [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
-
-## hacktoberfest-accepted
-
-*   [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 
 ## windows-subsystem
 
