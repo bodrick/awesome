@@ -1888,9 +1888,11 @@
 *   [papermc](#papermc)
 *   [spigot-fork](#spigot-fork)
 *   [tacos](#tacos)
+*   [keyboard-emulation](#keyboard-emulation)
+*   [mouse](#mouse)
+*   [mouse-emulation](#mouse-emulation)
 *   [barrier](#barrier)
 *   [gplv2](#gplv2)
-*   [mouse](#mouse)
 *   [sharing](#sharing)
 *   [incredible-prettier-plugins](#incredible-prettier-plugins)
 *   [prettier](#prettier)
@@ -5854,7 +5856,6 @@
 *   [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
 *   [dotnet/format](https://github.com/dotnet/format) - Home for the dotnet-format command
 *   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 *   [facebook/jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 *   [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) -
 *   [adamralph/minver](https://github.com/adamralph/minver) - 🏷 Minimalistic versioning using Git tags.
@@ -9765,6 +9766,7 @@
 ## keyboard
 
 *   [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 *   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
 ## keyboard-firmware
@@ -19178,15 +19180,24 @@
 
 *   [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
 
+## keyboard-emulation
+
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+
+## mouse
+
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+## mouse-emulation
+
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+
 ## barrier
 
 *   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
 ## gplv2
-
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-
-## mouse
 
 *   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
