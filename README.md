@@ -307,7 +307,6 @@
 *   [AzureAD/microsoft-identity-web](https://github.com/AzureAD/microsoft-identity-web) - Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
 *   [derekgreer/conventional-options](https://github.com/derekgreer/conventional-options) - A configuration options convenience library
 *   [TortugaResearch/DotNet-ORM-Cookbook](https://github.com/TortugaResearch/DotNet-ORM-Cookbook) - This repository is meant to show how to perform common tasks using C# with variety of ORMs.
-*   [bricelam/EFCore.TextTemplating](https://github.com/bricelam/EFCore.TextTemplating) - Sample using T4 with reverse engineering in EF Core
 *   [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
 *   [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 *   [yorek/dapper-samples](https://github.com/yorek/dapper-samples) - Tutorial samples that shows how to use Dapper .NET
@@ -2352,6 +2351,7 @@
 
 *   [SQLadmin/tsqltools](https://github.com/SQLadmin/tsqltools) - Tsql stored procedures and scripts  to help the DBAs and Developers to make their job easier
 *   [amachanic/sp\_whoisactive](https://github.com/amachanic/sp_whoisactive) - sp\_whoisactive
+*   [bricelam/EFCore.TextTemplating](https://github.com/bricelam/EFCore.TextTemplating) - Sample using T4 with reverse engineering in EF Core
 *   [AnthonyGiretti/commonfeatures-webapi-aspnetcore](https://github.com/AnthonyGiretti/commonfeatures-webapi-aspnetcore) - Authenticating, validating, caching, error handling, logging, documenting, testing and profiling are common features in web API, here are code samples to show how to implement them. I also added CRUD samples, Healthcheck usage, Http retry strategies with Polly, Keyvault usage, application Insights integration, streaming , compression, API versionning and multiTenancy
 *   [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 *   [microsoft/DiagManager](https://github.com/microsoft/DiagManager) - Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine. The data collected can be used by SQL Nexus tool  which help you troubleshoot SQL Server performance problems.  This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems.

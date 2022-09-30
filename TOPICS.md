@@ -2818,6 +2818,7 @@
 *   [bash-script](#bash-script)
 *   [rclone](#rclone)
 *   [synology](#synology)
+*   [labs](#labs)
 *   [lambda-functions](#lambda-functions)
 *   [starter-kit](#starter-kit)
 *   [front-end-development](#front-end-development)
@@ -23699,6 +23700,10 @@
 ## synology
 
 *   [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+
+## labs
+
+*   [postlight/serverless-typescript-starter](https://github.com/postlight/serverless-typescript-starter) - 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
 
 ## lambda-functions
 
