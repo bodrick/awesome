@@ -2342,7 +2342,6 @@
 *   [everything-search](#everything-search)
 *   [taskbar](#taskbar)
 *   [taskbar-application](#taskbar-application)
-*   [taskbar-launcher](#taskbar-launcher)
 *   [toolbar](#toolbar)
 *   [windows-taskbar](#windows-taskbar)
 *   [local](#local)
@@ -6642,6 +6641,7 @@
 *   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 *   [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 *   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+*   [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 *   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 *   [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 *   [FakeItEasy/FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET
@@ -6651,6 +6651,7 @@
 *   [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 *   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 *   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+*   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 *   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 *   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -6666,6 +6667,7 @@
 *   [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 *   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 *   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core
+*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 *   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 *   [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
 *   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
@@ -7807,6 +7809,7 @@
 *   [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
 *   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+*   [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 *   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 *   [stax76/mpv.net](https://github.com/stax76/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 *   [oxyplot/oxyplot](https://github.com/oxyplot/oxyplot) - A cross-platform plotting library for .NET
@@ -12568,6 +12571,7 @@
 
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 *   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
+*   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 *   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
 ## mach-o
@@ -21493,10 +21497,6 @@
 *   [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 
 ## taskbar-application
-
-*   [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
-
-## taskbar-launcher
 
 *   [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 
