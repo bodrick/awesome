@@ -7104,6 +7104,7 @@
 *   [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
 *   [WhitewaterFoundry/Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor) - A smorgasbord of modern .NET tech written with functional and asynchronous patterns
 *   [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
 *   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
 *   [Tyrrrz/Onova](https://github.com/Tyrrrz/Onova) - Unopinionated auto-update framework for desktop applications
@@ -7152,7 +7153,6 @@
 *   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 *   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
 *   [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 *   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 *   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 *   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
@@ -7192,6 +7192,7 @@
 *   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 *   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
 *   [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
+*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 *   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
 *   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 *   [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
