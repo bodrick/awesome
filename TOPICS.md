@@ -3771,6 +3771,7 @@
 *   [publiconly](#publiconly)
 *   [pubops](#pubops)
 *   [windowsdocs](#windowsdocs)
+*   [public](#public)
 *   [etcd](#etcd)
 *   [load-balancer](#load-balancer)
 *   [marathon](#marathon)
@@ -4895,7 +4896,6 @@
 *   [package-manager-tool](#package-manager-tool)
 *   [softwareautomation](#softwareautomation)
 *   [apis](#apis)
-*   [public](#public)
 *   [public-api](#public-api)
 *   [public-apis](#public-apis)
 *   [graphing](#graphing)
@@ -5850,7 +5850,6 @@
 *   [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
 *   [microsoft/DSCEA](https://github.com/microsoft/DSCEA) - DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration.
 *   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
-*   [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - A repository of step templates and other community-contributed extensions to Octopus Deploy
 *   [J-east/JevonsCameraViewer](https://github.com/J-east/JevonsCameraViewer) - An app for viewing multiple video streams from USB cameras. Low cost real time eye tracking. You can rotate and mirror the images and also use a variety of filters. Easily take screenshots. Very useful for c270 hacks. Exposure lock and some openCV examples included
 *   [ALM-Rangers/DevOps-VSTS-Bot](https://github.com/ALM-Rangers/DevOps-VSTS-Bot) - Making Visual Studio Team Services (VSTS) part of your daily digital conversations
 *   [jelledruyts/TfsWorkspacesCleaner](https://github.com/jelledruyts/TfsWorkspacesCleaner) - TFS Workspaces Cleaner deletes Team Foundation Server workspaces that have not been accessed in a number of days, along with their files locally on disk.
@@ -28329,6 +28328,12 @@
 
 *   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
 
+## public
+
+*   [OctopusDeploy/PowerShell-IIS-Examples](https://github.com/OctopusDeploy/PowerShell-IIS-Examples) - Examples showing how to do everything with IIS and PowerShell
+*   [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - A repository of step templates and other community-contributed extensions to Octopus Deploy
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
 ## etcd
 
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -33159,10 +33164,6 @@
 
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 *   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-
-## public
-
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## public-api
 
