@@ -969,7 +969,7 @@
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 *   [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
 *   [mimecorg/vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
-*   [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - A repository of step templates and other community-contributed extensions to Octopus Deploy
+*   [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - | Public |  A repository of step templates and other community-contributed extensions to Octopus Deploy
 *   [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 *   [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap components built with Vue.js
 *   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
