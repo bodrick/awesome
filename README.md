@@ -1609,7 +1609,6 @@
 *   [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 *   [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 *   [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report
-*   [AlexAegis/minesweeper](https://github.com/AlexAegis/minesweeper) - A minesweeper clone for the web using TinySlice! My state manager libary.
 *   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
 *   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
@@ -2426,6 +2425,7 @@
 
 *   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 *   [raphtlw/symbit](https://github.com/raphtlw/symbit) - A simple root manager for Android devices without TWRP
+*   [AlexAegis/minesweeper](https://github.com/AlexAegis/minesweeper) - A minesweeper clone for the web using TinySlice! My state manager libary.
 
 ## Visual Basic
 

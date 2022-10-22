@@ -6096,6 +6096,7 @@
 *   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 *   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 *   [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow\_right: prettier :arrow\_right: eslint --fix :arrow\_right: Formatted Code :sparkles:
+*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 *   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 *   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 *   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
