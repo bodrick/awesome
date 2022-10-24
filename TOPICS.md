@@ -5383,7 +5383,7 @@
 *   [pokemon](#pokemon)
 *   [age-of-empires](#age-of-empires)
 *   [clone](#clone)
-*   [cpp17](#cpp17)
+*   [cpp20](#cpp20)
 *   [engine](#engine)
 *   [entity-component-system](#entity-component-system)
 *   [nyan](#nyan)
@@ -35227,7 +35227,7 @@
 
 *   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 
-## cpp17
+## cpp20
 
 *   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 
