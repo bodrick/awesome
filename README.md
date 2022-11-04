@@ -785,7 +785,6 @@
 *   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
 *   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
 *   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
-*   [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 *   [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
 *   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
 *   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
@@ -1735,6 +1734,7 @@
 *   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 *   [wrye-bash/wrye-bash](https://github.com/wrye-bash/wrye-bash) - A swiss army knife for modding Bethesda games. This is the main repository.
 *   [christgau/wsdd](https://github.com/christgau/wsdd) - A Web Service Discovery host daemon.
+*   [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 *   [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 *   [senguptaumd/Background-Matting](https://github.com/senguptaumd/Background-Matting) - Background Matting: The World is Your Green Screen
 *   [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
