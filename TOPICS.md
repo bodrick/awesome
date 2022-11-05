@@ -1527,6 +1527,7 @@
 *   [open-telemetry](#open-telemetry)
 *   [prometheus](#prometheus)
 *   [skywalking](#skywalking)
+*   [telegraf](#telegraf)
 *   [web-performance](#web-performance)
 *   [zabbix](#zabbix)
 *   [adb](#adb)
@@ -17562,6 +17563,10 @@
 *   [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## skywalking
+
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+
+## telegraf
 
 *   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
 
