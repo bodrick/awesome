@@ -66,6 +66,8 @@
 
 ## C\#
 
+*   [PavelTorgashov/FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 *   [smourier/TraceSpy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
 *   [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
 *   [Cinchoo/ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
@@ -1502,7 +1504,6 @@
 *   [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 *   [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 *   [occ/TraceKit](https://github.com/occ/TraceKit) - Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.
-*   [RobinHerbots/Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 
 ## Shell
 
@@ -2393,7 +2394,6 @@
 *   [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 *   [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
 *   [paypal/bootstrap-accessibility-plugin](https://github.com/paypal/bootstrap-accessibility-plugin) - Accessibility Plugin for Bootstrap 3 and Bootstrap 3 as SubModule
-*   [Eonasdan/tempus-dominus](https://github.com/Eonasdan/tempus-dominus) - A powerful Date/time picker widget.
 
 ## Makefile
 
