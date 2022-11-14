@@ -5470,7 +5470,6 @@
 *   [socket-io](#socket-io)
 *   [not-maintained](#not-maintained)
 *   [bootstrap-multiselect](#bootstrap-multiselect)
-*   [stacktracejs](#stacktracejs)
 
 ## 2000
 
@@ -5478,6 +5477,8 @@
 
 ## miscellaneous
 
+*   [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
+*   [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
 *   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
 *   [PavelTorgashov/FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
@@ -6306,7 +6307,6 @@
 *   [rstaib/jquery-steps](https://github.com/rstaib/jquery-steps) - A powerful jQuery wizard plugin that supports accessibility and HTML5.
 *   [gfranko/jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - A jQuery Select Box Plugin for Mobile, Tablet, and Desktop
 *   [lzzluca/MultiSelect](https://github.com/lzzluca/MultiSelect) - Multi selection on the select tag without holding the \<ctrl> button; the plugin doesn't add any additional HTML.
-*   [occ/TraceKit](https://github.com/occ/TraceKit) - Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.
 
 ## debugging
 
@@ -7037,7 +7037,6 @@
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 *   [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
-*   [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 
 ## react
 
@@ -7526,7 +7525,7 @@
 *   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 *   [Dotnet-Boxed/Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages.
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 *   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
 *   [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
@@ -8322,7 +8321,7 @@
 *   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
 *   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 *   [KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor) - A smorgasbord of modern .NET tech written with functional and asynchronous patterns
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 *   [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
 *   [microsoft/ApplicationInsights-JS](https://github.com/microsoft/ApplicationInsights-JS) - Microsoft Application Insights SDK for JavaScript
@@ -8438,7 +8437,7 @@
 *   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 *   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
 *   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
 *   [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let's Encrypt certificates of a specified domain which Traefik stores in acme.json.
 *   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
@@ -8624,7 +8623,7 @@
 
 *   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 *   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 
 ## mqtt
 
@@ -9340,7 +9339,7 @@
 *   [KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor) - A smorgasbord of modern .NET tech written with functional and asynchronous patterns
 *   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 *   [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 *   [ardalis/CleanArchitecture.WorkerService](https://github.com/ardalis/CleanArchitecture.WorkerService) - A solution template using Clean Architecture for building a .NET Core Worker Service.
 *   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
@@ -9471,7 +9470,7 @@
 
 *   [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
 *   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [aspnetrun/run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Ocelot API Gateway, MongoDB, Redis, PostgreSQL, SqlServer, Dapper, Entity Framework Core, CQRS and Clean Architecture implementation. Also includes Cross-Cutting concerns like Implementing Centralized Distributed Logging with Elasticsearch, Kibana and SeriLog, use the HealthChecks with Watchdog, Implement Retry and Circuit Breaker patterns with Polly and so on.. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount->
 
 ## release
@@ -9595,7 +9594,7 @@
 ## domain-driven-design
 
 *   [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD.
 *   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 *   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core
@@ -13100,7 +13099,7 @@
 *   [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 *   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 *   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 *   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
@@ -13318,7 +13317,7 @@
 ## blazor
 
 *   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core
 
 ## blazor-application
@@ -14213,7 +14212,7 @@
 ## serilog
 
 *   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
 
 ## serilog-extension
@@ -14427,7 +14426,7 @@
 *   [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - GUI Client for GRPC Services
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 *   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 *   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 *   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
@@ -14436,7 +14435,7 @@
 
 *   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 *   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 *   [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 *   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
@@ -16030,7 +16029,6 @@
 *   [bugsnag/bugsnag-js](https://github.com/bugsnag/bugsnag-js) - Javascript error handling tool for Bugsnag. Monitor and report JavaScript bugs & errors.
 *   [bugsnag/bugsnag-vue](https://github.com/bugsnag/bugsnag-vue) - \[DEPRECATED] This package now lives within the monorepo for our Universal JS notifier "@bugsnag/js" • https://github.com/bugsnag/bugsnag-js
 *   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
-*   [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
 
 ## error-manager
 
@@ -17402,7 +17400,7 @@
 ## signalr
 
 *   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 *   [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 
@@ -17412,7 +17410,7 @@
 
 ## aws
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 *   [postlight/serverless-typescript-starter](https://github.com/postlight/serverless-typescript-starter) - 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
 *   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
@@ -17420,11 +17418,11 @@
 
 ## ci-cd-pipeline
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 
 ## cqrs
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 *   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 *   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
@@ -17432,7 +17430,7 @@
 
 ## oauth2
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 *   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 *   [mmacneil/AngularASPNETCoreOAuth](https://github.com/mmacneil/AngularASPNETCoreOAuth) - Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4
@@ -17443,11 +17441,11 @@
 
 ## security-headers
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 
 ## selenium
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [bonigarcia/selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) - JUnit 5 extension for Selenium WebDriver
 *   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API
 *   [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
@@ -17455,7 +17453,7 @@
 
 ## stylecop
 
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith) samples (+Blazor, Angular 14, React 18, Vue 2.7), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR, Hosted Services, Health Checks, Security Headers, ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 *   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
 
 ## community-edition
@@ -35581,7 +35579,3 @@
 ## bootstrap-multiselect
 
 *   [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) - JQuery multiselect plugin based on Twitter Bootstrap.
-
-## stacktracejs
-
-*   [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
