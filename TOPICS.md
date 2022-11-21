@@ -5508,6 +5508,7 @@
 *   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 *   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 *   [leo/args](https://github.com/leo/args) - Toolkit for building command line interfaces
 *   [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces
 *   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -17883,6 +17884,7 @@
 *   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 *   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 *   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
 *   [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 *   [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Declarative framework for building command line interfaces
 *   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
