@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Go](#go)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
-*   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [PHP](#php)
@@ -64,242 +64,9 @@
 *   [SQLPL](#sqlpl)
 *   [Objective-C](#objective-c)
 
-## Go
-
-*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-*   [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
-*   [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
-*   [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-*   [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provide network connectivity to WSL 2 when blocked by VPN
-*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-*   [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-*   [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-*   [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-*   [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
-*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-*   [TykTechnologies/tyk-identity-broker](https://github.com/TykTechnologies/tyk-identity-broker) - Tyk Authentication Proxy for third-party login
-*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-*   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
-*   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-*   [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-*   [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-*   [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
-*   [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
-*   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-*   [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-*   [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
-*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-*   [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
-*   [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
-*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-*   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-*   [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-*   [jaredpetersen/raspilive](https://github.com/jaredpetersen/raspilive) - 📷 Stream video from the Raspberry Pi Camera Module to the web
-*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-*   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-*   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
-*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
-*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
-*   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
-*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-
-## PowerShell
-
-*   [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
-*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
-*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create your own Gold Master image. Completely STIG Standalone Windows Systems to DoD STIG/SRG Requirements and NSACyber Guidance. The ultimate Windows 10 security and compliance script!
-*   [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
-*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-*   [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
-*   [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
-*   [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
-*   [dataplat/dbachecks](https://github.com/dataplat/dbachecks) - ✔ SQL Server Environmental Validation
-*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
-*   [pawelgnatowski/WSL2-Network-Fix](https://github.com/pawelgnatowski/WSL2-Network-Fix) -
-*   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
-*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-*   [devonfw-forge/rd-installer](https://github.com/devonfw-forge/rd-installer) - Supercharged installer of Rancher Desktop as Docker Desktop alternative
-*   [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
-*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
-*   [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
-*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-*   [PowershellFrameworkCollective/psframework](https://github.com/PowershellFrameworkCollective/psframework) - A module that provides tools for other modules and scripts
-*   [jessehouwing/azure-pipelines-tasks-zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips) - This repository contains a pre-built version of the built-in tasks of Azure DevOps. In case you need to install an updated version into Team Foundation Server or Azure DevOps Server, you can use these zips.
-*   [promptussoftware/bigfix-powershell](https://github.com/promptussoftware/bigfix-powershell) - Integration module offering a consistent, simple, and streamlined approach to interacting with the BigFix suite of products and APIs directly from within PowerShell.
-*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-*   [Devolutions/RDMSamples-ps](https://github.com/Devolutions/RDMSamples-ps) - Remote Desktop Manager (RDM) samples of powershell code
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-*   [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
-*   [AArnott/Library.Template](https://github.com/AArnott/Library.Template) - A template for a NuGet package with tests, stylecop, fxcop, versioning, and Azure Pipelines build ready to go.
-*   [mikefrobbins/PowerShell](https://github.com/mikefrobbins/PowerShell) - PowerShell scripts and functions
-*   [nsacyber/Mitigating-Obsolete-TLS](https://github.com/nsacyber/Mitigating-Obsolete-TLS) - Guidance for mitigating obsolete Transport Layer Security configurations. #nsacyber
-*   [itpro-tips/PowerShell-Toolbox](https://github.com/itpro-tips/PowerShell-Toolbox) -
-*   [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
-*   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
-*   [AjahnCharles/lab-image-win](https://github.com/AjahnCharles/lab-image-win) -
-*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-*   [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
-*   [OnyxXP/Poor\_System\_Performance](https://github.com/OnyxXP/Poor_System_Performance) - Generic but extensive cleanup of cookies/cache/temp files on Windows based assets.
-*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
-*   [awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer) - Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-*   [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Manually ported color themes for ConEmu
-*   [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-*   [Justin-Lund/Printer-Remapper](https://github.com/Justin-Lund/Printer-Remapper) - Deletes network printers & printer drivers, & then re-installs the printers
-*   [PoshCode/Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
-*   [PowerShellOrg/Plaster](https://github.com/PowerShellOrg/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
-*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-*   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
-*   [PNRxA/corrupted-media-scanner](https://github.com/PNRxA/corrupted-media-scanner) - Uses handbrake to check if files are corrupt or unplayable
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
-*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
-*   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-*   [Average-Bear/Configure-StigIIS](https://github.com/Average-Bear/Configure-StigIIS) -
-*   [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
-*   [microsoft/PowerStigDsc](https://github.com/microsoft/PowerStigDsc) - This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig
-*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
-*   [microsoft/BaselineManagement](https://github.com/microsoft/BaselineManagement) - Conversion tool used to Convert Group Policy baselines into DSC
-*   [steviecoaster/PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) - A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-*   [adbertram/PSSoftware](https://github.com/adbertram/PSSoftware) -
-*   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
-*   [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
-*   [microsoft/DSCEA](https://github.com/microsoft/DSCEA) - DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration.
-*   [Sup3rlativ3/Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) - This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution.
-*   [dataplat/dbareports](https://github.com/dataplat/dbareports) - PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.**
-*   [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
-*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-*   [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
-*   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
-*   [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
-*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
-*   [SQLDBAWithABeard/DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) - This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate
-*   [MikeShepard/SQLPSX](https://github.com/MikeShepard/SQLPSX) - SQL PowerShell Extensions
-*   [joel74/POSH-LTM-Rest](https://github.com/joel74/POSH-LTM-Rest) - PowerShell module and scripts for working with F5's LTM REST API
-*   [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
-*   [MattHodge/PoshHubot](https://github.com/MattHodge/PoshHubot) - PowerShell Module for Hubot
-*   [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
-*   [BladeFireLight/WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) - PowerShell Tools creating and updating Windows Images
-*   [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
-*   [slavizh/Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) - In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it.
-*   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
-
-## Shell
-
-*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-*   [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
-*   [tryretool/retool-onpremise](https://github.com/tryretool/retool-onpremise) - Deploying Retool On Prem
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) -
-*   [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
-*   [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
-*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
-*   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-*   [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
-*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-*   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
-*   [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker.
-*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-*   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
-*   [TRaSH-/Guides-Synology-Templates](https://github.com/TRaSH-/Guides-Synology-Templates) - Here you will find a collection of docker-compose's for Synology related to TRaSH Guides
-*   [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
-*   [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let's Encrypt certificates of a specified domain which Traefik stores in acme.json.
-*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-*   [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
-*   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-*   [slydetector/simply-nzedb](https://github.com/slydetector/simply-nzedb) - The simplest way to get nZEDb up and running with docker
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-*   [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes
-*   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-*   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-*   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-*   [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
-*   [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
-*   [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
-*   [alexellis/k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian) - Kubernetes on Raspbian (Raspberry Pi)
-*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
-*   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-*   [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
-*   [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
-*   [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
-*   [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
-*   [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
-*   [microsoft/vsts-agent-docker](https://github.com/microsoft/vsts-agent-docker) - (Deprecated) VSTS agent Docker images
-*   [colindembovsky/cols-service-now-extensions](https://github.com/colindembovsky/cols-service-now-extensions) -
-*   [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
-*   [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
-*   [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
-*   [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-*   [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
-*   [graysky2/lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
-*   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-*   [d4rkcat/pia](https://github.com/d4rkcat/pia) - Private Internet Access VPN Linux bash client
-*   [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
-*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-*   [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
-*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-*   [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-*   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-*   [BlameTheNetwork/NetPi](https://github.com/BlameTheNetwork/NetPi) - NetPi Network Analyzer based on Raspberry Pi b+/2 hardware
-*   [shmick/TV\_Stuff](https://github.com/shmick/TV_Stuff) - Scripts and documentation for my TV Setup
-*   [mr-canoehead/vpn\_client\_gateway](https://github.com/mr-canoehead/vpn_client_gateway) - Pi-Powered VPN Client Gateway: installation documentation and related files.
-*   [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
-*   [debian-pi/raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
-*   [pschmitt/pia-tools](https://github.com/pschmitt/pia-tools) - Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff
-
 ## C\#
 
+*   [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 *   [DavidXanatos/priv10](https://github.com/DavidXanatos/priv10) - Privacy tool for windows with a built in firewall
 *   [PavelTorgashov/FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
@@ -917,6 +684,240 @@
 *   [getsentry/raven-csharp](https://github.com/getsentry/raven-csharp) - Superseded by: https://github.com/getsentry/sentry-dotnet
 *   [owin/owin.dll](https://github.com/owin/owin.dll) - OWIN defines a standard interface between .NET web servers and web applications.
 *   [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
+
+## Go
+
+*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+*   [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
+*   [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
+*   [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [sakai135/wsl-vpnkit](https://github.com/sakai135/wsl-vpnkit) - Provide network connectivity to WSL 2 when blocked by VPN
+*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+*   [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+*   [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
+*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+*   [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+*   [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
+*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+*   [TykTechnologies/tyk-identity-broker](https://github.com/TykTechnologies/tyk-identity-broker) - Tyk Authentication Proxy for third-party login
+*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+*   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+*   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+*   [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+*   [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
+*   [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
+*   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+*   [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
+*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+*   [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
+*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+*   [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
+*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
+*   [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
+*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+*   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+*   [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+*   [jaredpetersen/raspilive](https://github.com/jaredpetersen/raspilive) - 📷 Stream video from the Raspberry Pi Camera Module to the web
+*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+*   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+*   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
+*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
+*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
+*   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
+*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+
+## PowerShell
+
+*   [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
+*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
+*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create your own Gold Master image. Completely STIG Standalone Windows Systems to DoD STIG/SRG Requirements and NSACyber Guidance. The ultimate Windows 10 security and compliance script!
+*   [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
+*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+*   [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
+*   [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
+*   [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
+*   [dataplat/dbachecks](https://github.com/dataplat/dbachecks) - ✔ SQL Server Environmental Validation
+*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+*   [pawelgnatowski/WSL2-Network-Fix](https://github.com/pawelgnatowski/WSL2-Network-Fix) -
+*   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
+*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+*   [devonfw-forge/rd-installer](https://github.com/devonfw-forge/rd-installer) - Supercharged installer of Rancher Desktop as Docker Desktop alternative
+*   [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
+*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+*   [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
+*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
+*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+*   [PowershellFrameworkCollective/psframework](https://github.com/PowershellFrameworkCollective/psframework) - A module that provides tools for other modules and scripts
+*   [jessehouwing/azure-pipelines-tasks-zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips) - This repository contains a pre-built version of the built-in tasks of Azure DevOps. In case you need to install an updated version into Team Foundation Server or Azure DevOps Server, you can use these zips.
+*   [promptussoftware/bigfix-powershell](https://github.com/promptussoftware/bigfix-powershell) - Integration module offering a consistent, simple, and streamlined approach to interacting with the BigFix suite of products and APIs directly from within PowerShell.
+*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+*   [Devolutions/RDMSamples-ps](https://github.com/Devolutions/RDMSamples-ps) - Remote Desktop Manager (RDM) samples of powershell code
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+*   [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
+*   [AArnott/Library.Template](https://github.com/AArnott/Library.Template) - A template for a NuGet package with tests, stylecop, fxcop, versioning, and Azure Pipelines build ready to go.
+*   [mikefrobbins/PowerShell](https://github.com/mikefrobbins/PowerShell) - PowerShell scripts and functions
+*   [nsacyber/Mitigating-Obsolete-TLS](https://github.com/nsacyber/Mitigating-Obsolete-TLS) - Guidance for mitigating obsolete Transport Layer Security configurations. #nsacyber
+*   [itpro-tips/PowerShell-Toolbox](https://github.com/itpro-tips/PowerShell-Toolbox) -
+*   [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
+*   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
+*   [AjahnCharles/lab-image-win](https://github.com/AjahnCharles/lab-image-win) -
+*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
+*   [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
+*   [OnyxXP/Poor\_System\_Performance](https://github.com/OnyxXP/Poor_System_Performance) - Generic but extensive cleanup of cookies/cache/temp files on Windows based assets.
+*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
+*   [awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer) - Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
+*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
+*   [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Manually ported color themes for ConEmu
+*   [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
+*   [Justin-Lund/Printer-Remapper](https://github.com/Justin-Lund/Printer-Remapper) - Deletes network printers & printer drivers, & then re-installs the printers
+*   [PoshCode/Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
+*   [PowerShellOrg/Plaster](https://github.com/PowerShellOrg/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+*   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+*   [PNRxA/corrupted-media-scanner](https://github.com/PNRxA/corrupted-media-scanner) - Uses handbrake to check if files are corrupt or unplayable
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
+*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
+*   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+*   [Average-Bear/Configure-StigIIS](https://github.com/Average-Bear/Configure-StigIIS) -
+*   [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
+*   [microsoft/PowerStigDsc](https://github.com/microsoft/PowerStigDsc) - This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig
+*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
+*   [microsoft/BaselineManagement](https://github.com/microsoft/BaselineManagement) - Conversion tool used to Convert Group Policy baselines into DSC
+*   [steviecoaster/PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) - A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+*   [adbertram/PSSoftware](https://github.com/adbertram/PSSoftware) -
+*   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
+*   [BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin
+*   [microsoft/DSCEA](https://github.com/microsoft/DSCEA) - DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration.
+*   [Sup3rlativ3/Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) - This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution.
+*   [dataplat/dbareports](https://github.com/dataplat/dbareports) - PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.**
+*   [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+*   [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
+*   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
+*   [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
+*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+*   [SQLDBAWithABeard/DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) - This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate
+*   [MikeShepard/SQLPSX](https://github.com/MikeShepard/SQLPSX) - SQL PowerShell Extensions
+*   [joel74/POSH-LTM-Rest](https://github.com/joel74/POSH-LTM-Rest) - PowerShell module and scripts for working with F5's LTM REST API
+*   [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
+*   [MattHodge/PoshHubot](https://github.com/MattHodge/PoshHubot) - PowerShell Module for Hubot
+*   [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
+*   [BladeFireLight/WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) - PowerShell Tools creating and updating Windows Images
+*   [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+*   [slavizh/Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) - In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it.
+*   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
+
+## Shell
+
+*   [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
+*   [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
+*   [tryretool/retool-onpremise](https://github.com/tryretool/retool-onpremise) - Deploying Retool On Prem
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) -
+*   [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
+*   [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
+*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
+*   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
+*   [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
+*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+*   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
+*   [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker.
+*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+*   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
+*   [TRaSH-/Guides-Synology-Templates](https://github.com/TRaSH-/Guides-Synology-Templates) - Here you will find a collection of docker-compose's for Synology related to TRaSH Guides
+*   [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
+*   [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let's Encrypt certificates of a specified domain which Traefik stores in acme.json.
+*   [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
+*   [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+*   [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) - Run JetBrains IDEs remotely with Docker
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+*   [slydetector/simply-nzedb](https://github.com/slydetector/simply-nzedb) - The simplest way to get nZEDb up and running with docker
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+*   [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes
+*   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+*   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+*   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+*   [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
+*   [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
+*   [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+*   [alexellis/k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian) - Kubernetes on Raspbian (Raspberry Pi)
+*   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
+*   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+*   [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS
+*   [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+*   [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
+*   [8483/notes](https://github.com/8483/notes) - Full-stack web development notes.
+*   [breunigs/bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) - Shell snippets to auth and send remote control commands to Sony Bravia TVs
+*   [microsoft/vsts-agent-docker](https://github.com/microsoft/vsts-agent-docker) - (Deprecated) VSTS agent Docker images
+*   [colindembovsky/cols-service-now-extensions](https://github.com/colindembovsky/cols-service-now-extensions) -
+*   [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+*   [GhostWriters/DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with running apps in Docker.
+*   [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
+*   [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+*   [na--/ebook-tools](https://github.com/na--/ebook-tools) - Shell scripts for organizing and managing ebook collections
+*   [graysky2/lostfiles](https://github.com/graysky2/lostfiles) - Simple script that identifies files not owned by any Arch Linux package.
+*   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+*   [d4rkcat/pia](https://github.com/d4rkcat/pia) - Private Internet Access VPN Linux bash client
+*   [MichielDerhaeg/build-linux](https://github.com/MichielDerhaeg/build-linux) - A short tutorial about building Linux based operating systems.
+*   [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+*   [guysoft/FullPageOS](https://github.com/guysoft/FullPageOS) - A raspberrypi distro to display a full page browser on boot
+*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+*   [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
+*   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+*   [BlameTheNetwork/NetPi](https://github.com/BlameTheNetwork/NetPi) - NetPi Network Analyzer based on Raspberry Pi b+/2 hardware
+*   [shmick/TV\_Stuff](https://github.com/shmick/TV_Stuff) - Scripts and documentation for my TV Setup
+*   [mr-canoehead/vpn\_client\_gateway](https://github.com/mr-canoehead/vpn_client_gateway) - Pi-Powered VPN Client Gateway: installation documentation and related files.
+*   [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
+*   [debian-pi/raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) - Raspbian (minimal) unattended netinstaller
+*   [pschmitt/pia-tools](https://github.com/pschmitt/pia-tools) - Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff
 
 ## miscellaneous
 
@@ -1735,7 +1736,6 @@
 *   [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
 *   [rstaib/jquery-steps](https://github.com/rstaib/jquery-steps) - A powerful jQuery wizard plugin that supports accessibility and HTML5.
 *   [gfranko/jquery.selectBoxIt.js](https://github.com/gfranko/jquery.selectBoxIt.js) - A jQuery Select Box Plugin for Mobile, Tablet, and Desktop
-*   [lzzluca/MultiSelect](https://github.com/lzzluca/MultiSelect) - Multi selection on the select tag without holding the \<ctrl> button; the plugin doesn't add any additional HTML.
 
 ## C++
 
