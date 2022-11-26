@@ -851,7 +851,7 @@
 *   [tom-englert/ProjectConfigurationManager](https://github.com/tom-englert/ProjectConfigurationManager) - A Visual Studio extension to ease management of solution and project configurations.
 *   [daveaglick/Buildalyzer](https://github.com/daveaglick/Buildalyzer) - A utility to perform design-time builds of .NET projects without having to think too hard about it.
 *   [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [rsdn/CodeJam](https://github.com/rsdn/CodeJam) - Set of handy reusable .NET components that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another
 *   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit

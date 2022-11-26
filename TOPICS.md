@@ -6411,7 +6411,7 @@
 *   [CZEMacLeod/MSBuild.SDK.SystemWeb](https://github.com/CZEMacLeod/MSBuild.SDK.SystemWeb) - This MSBuild SDK is designed to allow for the easy creation and use of SDK (shortform) projects targeting ASP.NET 4.x using System.Web.
 *   [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 *   [icsharpcode/AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy) - Avalonia-based .NET Decompiler (port of ILSpy)
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 *   [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 *   [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
@@ -7104,7 +7104,7 @@
 *   [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
 *   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
 *   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 *   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
 *   [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
@@ -7173,7 +7173,7 @@
 *   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
 *   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
 *   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 *   [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
@@ -7964,7 +7964,7 @@
 
 *   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
 *   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 *   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 *   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
@@ -7974,7 +7974,7 @@
 ## xaml
 
 *   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 *   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 *   [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF
@@ -9221,7 +9221,7 @@
 *   [chronoxor/NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 *   [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all performance vitals metrics
 *   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 *   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 *   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
@@ -10373,7 +10373,7 @@
 *   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 *   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 *   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
 *   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
 *   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
@@ -10815,7 +10815,7 @@
 *   [VsixCommunity/Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit) - Making it easier to write Visual Studio extensions
 *   [FortuneN/FineCodeCoverage](https://github.com/FortuneN/FineCodeCoverage) - Visualize unit test code coverage easily for free in Visual Studio Community Edition (and other editions too)
 *   [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core
 *   [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
 *   [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
@@ -13905,7 +13905,7 @@
 *   [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 *   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
 *   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 *   [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
 *   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
@@ -15782,7 +15782,7 @@
 *   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
 *   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
 *   [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 *   [oxyplot/oxyplot](https://github.com/oxyplot/oxyplot) - A cross-platform plotting library for .NET
 *   [nickbabcock/Pfim](https://github.com/nickbabcock/Pfim) - .NET Standard targa (.tga) and direct draw surface (.dds) image decoder
@@ -19707,45 +19707,45 @@
 
 ## computing
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 
 ## d2d1
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 
 ## directx
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [prasannavl/WinApi](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
 *   [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 
 ## gpgpu
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [turbo/js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
 
 ## gpu
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 *   [turbo/js](https://github.com/turbo/js) - turbo.js - perform massive parallel computations in your browser with GPGPU.
 
 ## hlsl
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 
 ## hlsl-shader
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 
 ## shader
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 
 ## winui3
 
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1 and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 *   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
 
 ## algorithm
