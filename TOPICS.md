@@ -3680,6 +3680,7 @@
 *   [bundlesize](#bundlesize)
 *   [gatsby-plugin](#gatsby-plugin)
 *   [nextjs-plugin](#nextjs-plugin)
+*   [webpack-analyzer](#webpack-analyzer)
 *   [bookmark-manager](#bookmark-manager)
 *   [web-interface](#web-interface)
 *   [chord](#chord)
@@ -4567,8 +4568,8 @@
 *   [coreclr](#coreclr)
 *   [corefx](#corefx)
 *   [access](#access)
-*   [bulk](#bulk)
 *   [bulk-inserts](#bulk-inserts)
+*   [etl](#etl)
 *   [firebird](#firebird)
 *   [informix](#informix)
 *   [sap-hana](#sap-hana)
@@ -28119,6 +28120,10 @@
 
 *   [relative-ci/bundle-stats](https://github.com/relative-ci/bundle-stats) - Analyze webpack stats(bundle size, assets, modules, packages) and compare the results between different builds.
 
+## webpack-analyzer
+
+*   [relative-ci/bundle-stats](https://github.com/relative-ci/bundle-stats) - Analyze webpack stats(bundle size, assets, modules, packages) and compare the results between different builds.
+
 ## bookmark-manager
 
 *   [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -31988,11 +31993,11 @@
 
 *   [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
-## bulk
+## bulk-inserts
 
 *   [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
-## bulk-inserts
+## etl
 
 *   [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 
