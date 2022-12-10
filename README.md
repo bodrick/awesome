@@ -5,6 +5,8 @@
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [HTML](#html)
+*   [XSLT](#xslt)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
@@ -22,7 +24,6 @@
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
-*   [HTML](#html)
 *   [Vue](#vue)
 *   [Mustache](#mustache)
 *   [HCL](#hcl)
@@ -66,6 +67,7 @@
 
 ## JavaScript
 
+*   [Lombiq/NodeJs-Extensions](https://github.com/Lombiq/NodeJs-Extensions) - Utilities and extensions for Node.js, used in ASP.NET (Core) MVC and Orchard (Core) CMS development.
 *   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 *   [ibillingsley/HumbleNewTabPage](https://github.com/ibillingsley/HumbleNewTabPage) - New tab page extension for Chrome and Firefox
 *   [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
@@ -627,7 +629,76 @@
 *   [jquery-form/form](https://github.com/jquery-form/form) - jQuery Form Plugin
 *   [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 *   [DataTables/VisualEvent](https://github.com/DataTables/VisualEvent) - Visually show Javascript events on a page
-*   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
+
+## HTML
+
+*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+*   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
+*   [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+*   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+*   [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+*   [mcreed/zoombot](https://github.com/mcreed/zoombot) - A highly advanced AI to handle Zoom calls
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+*   [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
+*   [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
+*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+*   [jfriend00/docReady](https://github.com/jfriend00/docReady) - Plain javascript replacement for jQuery's .ready() so code can be scheduled to run when the document is ready
+*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
+*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+*   [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
+*   [frontarm/async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
+*   [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
+*   [GMG-Special-Projects-Desk/pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
+*   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
+*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
+*   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+*   [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
+*   [weiweihuanghuang/Work-Sans](https://github.com/weiweihuanghuang/Work-Sans) - A grotesque sans.
+*   [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) -  Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
+*   [microsoft/process-customization-scripts](https://github.com/microsoft/process-customization-scripts) - sample scripts for customers who are exporting and importing process templates to/from TFS
+*   [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
+*   [PolarNotion/starwarsintro](https://github.com/PolarNotion/starwarsintro) - A CSS Library for the Star Wars Intro Crawl
+*   [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
+*   [KittyGiraudel/SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon
+*   [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
+*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+*   [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
+*   [alxlit/bootstrap-chosen](https://github.com/alxlit/bootstrap-chosen) - An alternate stylesheet for Chosen that integrates with Bootstrap.
+*   [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
+*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+*   [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+*   [dnasir/jquery-cascading-dropdown](https://github.com/dnasir/jquery-cascading-dropdown) - A simple and lighweight jQuery plugin for cascading dropdown.
+*   [webgio/Rotativa](https://github.com/webgio/Rotativa) - Rotativa, /rota'tiva/. Make Pdf from Asp.Net MVC. Available on Nuget https://www.nuget.org/packages/Rotativa
+*   [jbowyers/chartinator](https://github.com/jbowyers/chartinator) - A jQuery plugin for transforming HTML tables into charts using Google Charts
+*   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+*   [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
+*   [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
+*   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+*   [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+*   [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
+*   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
+*   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
+*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
+*   [websemantics/Image-Select](https://github.com/websemantics/Image-Select) - Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags.
+*   [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+*   [Pixabay/jQuery-tagEditor](https://github.com/Pixabay/jQuery-tagEditor) - A powerful and lightweight tag editor plugin for jQuery.
+*   [chrisnager/cursors](https://github.com/chrisnager/cursors) - All available cursors
+*   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
+*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+*   [steveathon/bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor
+
+## XSLT
+
+*   [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)
 
 ## TypeScript
 
@@ -938,7 +1009,6 @@
 *   [szechyjs/mbelib](https://github.com/szechyjs/mbelib) - P25 Phase 1 and ProVoice vocoder
 *   [microtony/RTLSDR-Airband](https://github.com/microtony/RTLSDR-Airband) - RTLSDR AM demodulator, support multiple channels per dongle, intended for x86 and Raspberry Pi
 *   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
-*   [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 
 ## miscellaneous
 
@@ -1877,7 +1947,6 @@
 *   [jehugaleahsa/mustache-sharp](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
 *   [JaCraig/Craig-s-Utility-Library](https://github.com/JaCraig/Craig-s-Utility-Library) - A giant set of utility classes originally start back in the .Net 2.0 days and updated until .Net Core and .Net Standard became a thing. At which point I took the library and broke it up into a ton of smaller libraries. View my profile for more up to date versions of everything.
 *   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
-*   [xamarin/PortableRazor](https://github.com/xamarin/PortableRazor) - A lightweight implementation of ASP.NET MVC APIs for mobile devices.
 
 ## Python
 
@@ -2306,71 +2375,6 @@
 *   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-## HTML
-
-*   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-*   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
-*   [TRaSH-/Guides](https://github.com/TRaSH-/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
-*   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-*   [kangax/compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
-*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [mcreed/zoombot](https://github.com/mcreed/zoombot) - A highly advanced AI to handle Zoom calls
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-*   [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
-*   [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
-*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-*   [jfriend00/docReady](https://github.com/jfriend00/docReady) - Plain javascript replacement for jQuery's .ready() so code can be scheduled to run when the document is ready
-*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
-*   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
-*   [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
-*   [frontarm/async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
-*   [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
-*   [GMG-Special-Projects-Desk/pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
-*   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
-*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
-*   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-*   [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
-*   [weiweihuanghuang/Work-Sans](https://github.com/weiweihuanghuang/Work-Sans) - A grotesque sans.
-*   [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) -  Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
-*   [microsoft/process-customization-scripts](https://github.com/microsoft/process-customization-scripts) - sample scripts for customers who are exporting and importing process templates to/from TFS
-*   [eladnava/mailgen](https://github.com/eladnava/mailgen) - A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail.
-*   [PolarNotion/starwarsintro](https://github.com/PolarNotion/starwarsintro) - A CSS Library for the Star Wars Intro Crawl
-*   [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
-*   [KittyGiraudel/SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon
-*   [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
-*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-*   [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
-*   [alxlit/bootstrap-chosen](https://github.com/alxlit/bootstrap-chosen) - An alternate stylesheet for Chosen that integrates with Bootstrap.
-*   [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
-*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
-*   [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-*   [dnasir/jquery-cascading-dropdown](https://github.com/dnasir/jquery-cascading-dropdown) - A simple and lighweight jQuery plugin for cascading dropdown.
-*   [webgio/Rotativa](https://github.com/webgio/Rotativa) - Rotativa, /rota'tiva/. Make Pdf from Asp.Net MVC. Available on Nuget https://www.nuget.org/packages/Rotativa
-*   [jbowyers/chartinator](https://github.com/jbowyers/chartinator) - A jQuery plugin for transforming HTML tables into charts using Google Charts
-*   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-*   [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
-*   [uncss/grunt-uncss](https://github.com/uncss/grunt-uncss) - :scissors: A grunt task for removing unused CSS from your projects.
-*   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
-*   [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
-*   [filamentgroup/grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.
-*   [keen/dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates 📊✨
-*   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
-*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
-*   [websemantics/Image-Select](https://github.com/websemantics/Image-Select) - Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags.
-*   [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
-*   [Pixabay/jQuery-tagEditor](https://github.com/Pixabay/jQuery-tagEditor) - A powerful and lightweight tag editor plugin for jQuery.
-*   [chrisnager/cursors](https://github.com/chrisnager/cursors) - All available cursors
-*   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
-*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-*   [steveathon/bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor
 
 ## Vue
 
