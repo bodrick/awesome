@@ -5,8 +5,8 @@
 ## Table of Contents
 
 *   [PowerShell](#powershell)
-*   [C#](#c)
-*   [C](#c-1)
+*   [C](#c)
+*   [C#](#c-1)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
@@ -39,13 +39,13 @@
 *   [CSS](#css)
 *   [OCaml](#ocaml)
 *   [Haskell](#haskell)
+*   [Ruby](#ruby)
 *   [SCSS](#scss)
 *   [Roff](#roff)
 *   [Markdown](#markdown)
 *   [Pascal](#pascal)
 *   [Clojure](#clojure)
 *   [Vala](#vala)
-*   [Ruby](#ruby)
 *   [Handlebars](#handlebars)
 *   [Lua](#lua)
 *   [F#](#f)
@@ -67,6 +67,7 @@
 
 ## PowerShell
 
+*   [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - A set of PowerShell tools for automating script and module development.
 *   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
 *   [Jaykul/BetterCredentials](https://github.com/Jaykul/BetterCredentials) - A wrapper for Get-Credential offering options that it should have offered
 *   [EliteLoser/DotNetVersionLister](https://github.com/EliteLoser/DotNetVersionLister) - Use Svendsen Tech's Get-STDotNetVersion function to get a list of installed .NET Framework versions on (remote) Windows computers
@@ -165,8 +166,89 @@
 *   [slavizh/Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) - In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it.
 *   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
 
+## C
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [pauldotknopf/WPFKeyboard](https://github.com/pauldotknopf/WPFKeyboard) - A virtual keyboard in WPF that uses the built in keyboard layouts of the operating system.
+*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
+*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+*   [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
+*   [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
+*   [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+*   [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - UltraVNC Server and UltraVNC Viewer | Official repository: https://github.com/ultravnc/UltraVNC
+*   [FontManager/font-manager](https://github.com/FontManager/font-manager) -
+*   [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
+*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+*   [LTRData/ImDisk](https://github.com/LTRData/ImDisk) - ImDisk Virtual Disk Driver
+*   [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
+*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
+*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
+*   [FreeTDS/freetds](https://github.com/FreeTDS/freetds) - Official FreeTDS repository
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+*   [cezanne/usbip-win](https://github.com/cezanne/usbip-win) - USB/IP for Windows
+*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
+*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
+*   [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
+*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
+*   [merbanan/rtl\_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+*   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [xC0000005/Marlin](https://github.com/xC0000005/Marlin) - Optimized firmware for RepRap 3D printers based on the Arduino platform.
+*   [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271
+*   [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
+*   [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) - The Sandboxie application
+*   [openconnect/openconnect](https://github.com/openconnect/openconnect) - Mirror of the official openconnect repository
+*   [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
+*   [ipartola/hawkeye](https://github.com/ipartola/hawkeye) - An simple and fast USB webcam MJPEG streaming server.
+*   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
+*   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [desowin/usbpcap](https://github.com/desowin/usbpcap) - USB packet capture for Windows
+*   [dEskoG/rDUINOScope](https://github.com/dEskoG/rDUINOScope) - rDUINOScope - Arduino based telescope control system (GOTO)
+*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
+*   [pvaret/rtl8192cu-fixes](https://github.com/pvaret/rtl8192cu-fixes) - Realtek 8192 chipset driver, ported to kernel 3.11.
+*   [rxseger/rx\_tools](https://github.com/rxseger/rx_tools) - rx\_fm, rx\_power, and rx\_sdr tools for receiving data from SDRs, based on rtl\_fm, rtl\_power, and rtl\_sdr from librtlsdr, but using the SoapySDR vendor-neutral SDR support library instead, intended to support a wider range of devices than RTL-SDR
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+*   [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+*   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
+*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+*   [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
+*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
+*   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+*   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
+*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+*   [mutability/dump978](https://github.com/mutability/dump978) - Experimental demodulator/decoder for UAT on 978MHz
+*   [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma) - Mapping for Terraria
+*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
+*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
+*   [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
+*   [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+*   [dl8aau/librtlsdr](https://github.com/dl8aau/librtlsdr) - Software to turn the RTL2832U into an SDR
+*   [jgaeddert/liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - digital signal processing library for software-defined radios
+*   [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+*   [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
+*   [basil00/Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
+*   [mutability/rtl-sdr](https://github.com/mutability/rtl-sdr) - RTL-SDR *very* experimental branch - it's probably broken!
+*   [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
+*   [Discriminator/PDW](https://github.com/Discriminator/PDW) - PDW Paging Decoder
+*   [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) -
+*   [keenerd/rtl-sdr](https://github.com/keenerd/rtl-sdr) - RTL-SDR experimental branch
+*   [MalcolmRobb/dump1090](https://github.com/MalcolmRobb/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
+*   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
+*   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
+
 ## C\#
 
+*   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
 *   [jmalarcon/DotNetVersions](https://github.com/jmalarcon/DotNetVersions) - Command line tool that shows the currently installed "classic" .NET versions in your system
 *   [arkane-systems/mousejiggler](https://github.com/arkane-systems/mousejiggler) - Mouse Jiggler is a very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
 *   [gmamaladze/globalmousekeyhook](https://github.com/gmamaladze/globalmousekeyhook) - This library allows you to tap keyboard and mouse, detect and record their activity even when an application is inactive and runs in background.
@@ -808,88 +890,6 @@
 *   [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 *   [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 *   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
-*   [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
-*   [mwrock/RequestReduce](https://github.com/mwrock/RequestReduce) - Instantly makes your .net website faster by reducing the number and size of requests with almost no effort.
-
-## C
-
-*   [pauldotknopf/WPFKeyboard](https://github.com/pauldotknopf/WPFKeyboard) - A virtual keyboard in WPF that uses the built in keyboard layouts of the operating system.
-*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
-*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-*   [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
-*   [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
-*   [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-*   [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - UltraVNC Server and UltraVNC Viewer | Official repository: https://github.com/ultravnc/UltraVNC
-*   [FontManager/font-manager](https://github.com/FontManager/font-manager) -
-*   [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
-*   [LTRData/ImDisk](https://github.com/LTRData/ImDisk) - ImDisk Virtual Disk Driver
-*   [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
-*   [RoganDawes/LOGITacker](https://github.com/RoganDawes/LOGITacker) - Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle.
-*   [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
-*   [FreeTDS/freetds](https://github.com/FreeTDS/freetds) - Official FreeTDS repository
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-*   [cezanne/usbip-win](https://github.com/cezanne/usbip-win) - USB/IP for Windows
-*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
-*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
-*   [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader
-*   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-*   [merbanan/rtl\_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
-*   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [xC0000005/Marlin](https://github.com/xC0000005/Marlin) - Optimized firmware for RepRap 3D printers based on the Arduino platform.
-*   [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271
-*   [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
-*   [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) - The Sandboxie application
-*   [openconnect/openconnect](https://github.com/openconnect/openconnect) - Mirror of the official openconnect repository
-*   [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
-*   [ipartola/hawkeye](https://github.com/ipartola/hawkeye) - An simple and fast USB webcam MJPEG streaming server.
-*   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
-*   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [desowin/usbpcap](https://github.com/desowin/usbpcap) - USB packet capture for Windows
-*   [dEskoG/rDUINOScope](https://github.com/dEskoG/rDUINOScope) - rDUINOScope - Arduino based telescope control system (GOTO)
-*   [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-*   [pvaret/rtl8192cu-fixes](https://github.com/pvaret/rtl8192cu-fixes) - Realtek 8192 chipset driver, ported to kernel 3.11.
-*   [rxseger/rx\_tools](https://github.com/rxseger/rx_tools) - rx\_fm, rx\_power, and rx\_sdr tools for receiving data from SDRs, based on rtl\_fm, rtl\_power, and rtl\_sdr from librtlsdr, but using the SoapySDR vendor-neutral SDR support library instead, intended to support a wider range of devices than RTL-SDR
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-*   [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-*   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
-*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
-*   [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
-*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
-*   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-*   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
-*   [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
-*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
-*   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-*   [mutability/dump978](https://github.com/mutability/dump978) - Experimental demodulator/decoder for UAT on 978MHz
-*   [mrkite/TerraFirma](https://github.com/mrkite/TerraFirma) - Mapping for Terraria
-*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
-*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
-*   [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
-*   [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
-*   [dl8aau/librtlsdr](https://github.com/dl8aau/librtlsdr) - Software to turn the RTL2832U into an SDR
-*   [jgaeddert/liquid-dsp](https://github.com/jgaeddert/liquid-dsp) - digital signal processing library for software-defined radios
-*   [raspberrypi/linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
-*   [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
-*   [basil00/Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
-*   [mutability/rtl-sdr](https://github.com/mutability/rtl-sdr) - RTL-SDR *very* experimental branch - it's probably broken!
-*   [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
-*   [Discriminator/PDW](https://github.com/Discriminator/PDW) - PDW Paging Decoder
-*   [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) -
-*   [keenerd/rtl-sdr](https://github.com/keenerd/rtl-sdr) - RTL-SDR experimental branch
-*   [MalcolmRobb/dump1090](https://github.com/MalcolmRobb/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
-*   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
-*   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## Python
 
@@ -915,7 +915,7 @@
 *   [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 *   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
 *   [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 *   [Opticos/GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
 *   [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 *   [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
@@ -1772,7 +1772,6 @@
 *   [geeklearningio/gl-vsts-tasks-yarn](https://github.com/geeklearningio/gl-vsts-tasks-yarn) - Yarn Package Manager Visual Studio Team Services Build and Release Management extensions
 *   [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-*   [tinglesoftware/dependabot-azure-devops](https://github.com/tinglesoftware/dependabot-azure-devops) - Convenience tool for updating dependencies in Azure DevOps repositories using https://dependabot.com
 *   [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 *   [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 *   [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
@@ -2621,6 +2620,19 @@
 *   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 *   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## Ruby
+
+*   [tinglesoftware/dependabot-azure-devops](https://github.com/tinglesoftware/dependabot-azure-devops) - Convenience tool for updating dependencies in Azure DevOps repositories using https://dependabot.com
+*   [kaltura/adobe-connect-to-mkv-to-kaltura](https://github.com/kaltura/adobe-connect-to-mkv-to-kaltura) - Generate MKV files out of Adobe Connect recordings and \[optionally] ingest them onto Kaltura
+*   [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
+*   [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
+*   [FontCustom/fontcustom](https://github.com/FontCustom/fontcustom) - Generate custom icon webfonts from the comfort of the command line.
+*   [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
+*   [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
+*   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+*   [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
+*   [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure.
+
 ## SCSS
 
 *   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
@@ -2651,18 +2663,6 @@
 ## Vala
 
 *   [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
-
-## Ruby
-
-*   [kaltura/adobe-connect-to-mkv-to-kaltura](https://github.com/kaltura/adobe-connect-to-mkv-to-kaltura) - Generate MKV files out of Adobe Connect recordings and \[optionally] ingest them onto Kaltura
-*   [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
-*   [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
-*   [FontCustom/fontcustom](https://github.com/FontCustom/fontcustom) - Generate custom icon webfonts from the comfort of the command line.
-*   [bbc/wraith](https://github.com/bbc/wraith) - Wraith — A responsive screenshot comparison tool
-*   [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
-*   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
-*   [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
-*   [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure.
 
 ## Handlebars
 

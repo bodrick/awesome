@@ -5,11 +5,21 @@
 ## Table of Contents
 
 *   [2000](#2000)
+*   [miscellaneous](#miscellaneous)
+*   [c](#c)
+*   [elastic](#elastic)
+*   [kafka](#kafka)
+*   [log-management](#log-management)
+*   [logging](#logging)
+*   [python](#python)
+*   [syslog](#syslog)
+*   [syslog-ng](#syslog-ng)
+*   [converter](#converter)
+*   [csharp](#csharp)
 *   [powershell](#powershell)
 *   [powershell-module](#powershell-module)
 *   [scoop](#scoop)
 *   [tab-completion](#tab-completion)
-*   [miscellaneous](#miscellaneous)
 *   [dotnet](#dotnet)
 *   [dotnet-framework](#dotnet-framework)
 *   [version](#version)
@@ -20,7 +30,6 @@
 *   [mouse-movement](#mouse-movement)
 *   [mousemove](#mousemove)
 *   [cross-platform](#cross-platform)
-*   [csharp](#csharp)
 *   [hook](#hook)
 *   [simulator](#simulator)
 *   [keyboard](#keyboard)
@@ -214,7 +223,6 @@
 *   [photo-manager](#photo-manager)
 *   [photo-organizer](#photo-organizer)
 *   [photography](#photography)
-*   [python](#python)
 *   [python3](#python3)
 *   [synology](#synology)
 *   [synology-nas](#synology-nas)
@@ -345,7 +353,6 @@
 *   [paas](#paas)
 *   [debugging](#debugging)
 *   [error-reporting](#error-reporting)
-*   [logging](#logging)
 *   [productivity-tools](#productivity-tools)
 *   [trace](#trace)
 *   [dotnet-standard](#dotnet-standard)
@@ -378,7 +385,6 @@
 *   [remap](#remap)
 *   [utilities](#utilities)
 *   [atmel-avr](#atmel-avr)
-*   [c](#c)
 *   [c-plus-plus](#c-plus-plus)
 *   [clueboard](#clueboard)
 *   [ergodox-ez](#ergodox-ez)
@@ -438,7 +444,6 @@
 *   [ssh-gateway](#ssh-gateway)
 *   [amqp](#amqp)
 *   [asyncapi](#asyncapi)
-*   [kafka](#kafka)
 *   [mqtt](#mqtt)
 *   [reactive](#reactive)
 *   [specification](#specification)
@@ -3598,7 +3603,6 @@
 *   [log4j](#log4j)
 *   [log4net](#log4net)
 *   [lua-scripting](#lua-scripting)
-*   [syslog](#syslog)
 *   [syslog-client](#syslog-client)
 *   [log4j2](#log4j2)
 *   [logback](#logback)
@@ -3953,7 +3957,6 @@
 *   [smtp-server](#smtp-server)
 *   [clr](#clr)
 *   [code-converter](#code-converter)
-*   [converter](#converter)
 *   [online-snippet-converter](#online-snippet-converter)
 *   [vb-net](#vb-net)
 *   [background-jobs](#background-jobs)
@@ -5649,89 +5652,9 @@
 
 *   [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 
-## powershell
-
-*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
-*   [EliteLoser/DotNetVersionLister](https://github.com/EliteLoser/DotNetVersionLister) - Use Svendsen Tech's Get-STDotNetVersion function to get a list of installed .NET Framework versions on (remote) Windows computers
-*   [jdhitsolutions/WingetTools](https://github.com/jdhitsolutions/WingetTools) - A set of PowerShell tools for working with the winget package manager.
-*   [compwiz32/PowerShell](https://github.com/compwiz32/PowerShell) - My everyday PS code as well as a collection of scripts I have downloaded for reference
-*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create your own Gold Master image. Completely STIG Standalone Windows Systems to DoD STIG/SRG Requirements and NSACyber Guidance. The ultimate Windows 10 security and compliance script!
-*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
-*   [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
-*   [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
-*   [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
-*   [dataplat/dbachecks](https://github.com/dataplat/dbachecks) - ✔ SQL Server Environmental Validation
-*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
-*   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
-*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
-*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-*   [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
-*   [Devolutions/RDMSamples-ps](https://github.com/Devolutions/RDMSamples-ps) - Remote Desktop Manager (RDM) samples of powershell code
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-*   [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
-*   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
-*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
-*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
-*   [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
-*   [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-*   [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
-*   [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
-*   [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
-*   [PoshCode/Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-*   [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
-*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
-*   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
-*   [OctopusDeploy/PowerShell-IIS-Examples](https://github.com/OctopusDeploy/PowerShell-IIS-Examples) - Examples showing how to do everything with IIS and PowerShell
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-*   [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
-*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-*   [Dalmirog-zz/OctoPosh](https://github.com/Dalmirog-zz/OctoPosh) - The Octopus Deploy Powershell module
-*   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
-*   [Sup3rlativ3/Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) - This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution.
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
-*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
-*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-*   [ebekker/ACMESharp](https://github.com/ebekker/ACMESharp) - An ACME client library and PowerShell client for the .NET platform (Let's Encrypt)
-*   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
-*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
-*   [MikeShepard/SQLPSX](https://github.com/MikeShepard/SQLPSX) - SQL PowerShell Extensions
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
-*   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
-
-## powershell-module
-
-*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
-*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
-*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-*   [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
-*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
-
-## scoop
-
-*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
-*   [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-
-## tab-completion
-
-*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
-
 ## miscellaneous
 
+*   [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - A set of PowerShell tools for automating script and module development.
 *   [Jaykul/BetterCredentials](https://github.com/Jaykul/BetterCredentials) - A wrapper for Get-Credential offering options that it should have offered
 *   [jmalarcon/DotNetVersions](https://github.com/jmalarcon/DotNetVersions) - Command line tool that shows the currently installed "classic" .NET versions in your system
 *   [gmamaladze/globalmousekeyhook](https://github.com/gmamaladze/globalmousekeyhook) - This library allows you to tap keyboard and mouse, detect and record their activity even when an application is inactive and runs in background.
@@ -6599,8 +6522,330 @@
 *   [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 *   [winmarkltd/BootstrapFormHelpers](https://github.com/winmarkltd/BootstrapFormHelpers) - Bootstrap Form Helpers
 *   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
-*   [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
-*   [mwrock/RequestReduce](https://github.com/mwrock/RequestReduce) - Instantly makes your .net website faster by reducing the number and size of requests with almost no effort.
+
+## c
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
+*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
+*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
+*   [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
+*   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+*   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
+*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+*   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
+*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
+*   [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+*   [szechyjs/mbelib](https://github.com/szechyjs/mbelib) - P25 Phase 1 and ProVoice vocoder
+*   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
+
+## elastic
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+
+## kafka
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
+*   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
+
+## log-management
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+
+## logging
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [smourier/TraceSpy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
+*   [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
+*   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
+*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+*   [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
+*   [couchcoding/Logbert](https://github.com/couchcoding/Logbert) - Logbert is an advanced log message viewer for log4net, log4j and others.
+*   [huxi/lilith](https://github.com/huxi/lilith) - Lilith is a Logging- and AccessEvent viewer for Logback, log4j, log4j2 and java.util.logging
+*   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
+*   [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+*   [caiogondim/logdown.js](https://github.com/caiogondim/logdown.js) - :pencil2: Debug utility with markdown support that runs on browser and server
+*   [damianh/LibLog](https://github.com/damianh/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
+*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
+*   [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
+*   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
+
+## python
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
+*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+*   [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+*   [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+*   [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
+*   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+*   [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+*   [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+*   [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
+*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+*   [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+*   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+*   [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
+*   [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
+*   [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and scans for vulnerabilities
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+*   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+*   [nityanandagohain/proxy\_configuration](https://github.com/nityanandagohain/proxy_configuration) - System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration
+*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+*   [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
+*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+*   [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
+*   [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
+*   [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
+*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
+*   [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
+*   [AmadeusITGroup/GraphDash](https://github.com/AmadeusITGroup/GraphDash) - A web-based dashboard built on graphs and their metadata.
+*   [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
+*   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
+*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+*   [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
+*   [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
+*   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
+*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
+*   [pothosware/SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor and platform neutral SDR support library.
+*   [kevinburke/hamms](https://github.com/kevinburke/hamms) - Malformed servers to test your HTTP client
+*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
+*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+*   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+*   [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
+
+## syslog
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [couchcoding/Logbert](https://github.com/couchcoding/Logbert) - Logbert is an advanced log message viewer for log4net, log4j and others.
+
+## syslog-ng
+
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+
+## converter
+
+*   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
+*   [icsharpcode/CodeConverter](https://github.com/icsharpcode/CodeConverter) - Convert code from C# to VB.NET and vice versa using Roslyn
+*   [kaltura/adobe-connect-to-mkv-to-kaltura](https://github.com/kaltura/adobe-connect-to-mkv-to-kaltura) - Generate MKV files out of Adobe Connect recordings and \[optionally] ingest them onto Kaltura
+*   [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+*   [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+
+## csharp
+
+*   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
+*   [TolikPylypchuk/SharpHook](https://github.com/TolikPylypchuk/SharpHook) - SharpHook provides a cross-platform global keyboard and mouse hook for .NET, and the ability to simulate input events
+*   [microsoft/CsWinRT](https://github.com/microsoft/CsWinRT) - C# language projection for the Windows Runtime
+*   [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
+*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
+*   [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
+*   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
+*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+*   [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
+*   [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
+*   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
+*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
+*   [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
+*   [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
+*   [zzzprojects/Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
+*   [freezy/VisualPinball.Engine](https://github.com/freezy/VisualPinball.Engine) - :video\_game: Visual Pinball Engine for Unity
+*   [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
+*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+*   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
+*   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+*   [Concurrency-Lab/ParallelHelper](https://github.com/Concurrency-Lab/ParallelHelper) - Parallel Helper is a static code analyzer for C# projects that supports the development of parallel and asynchronous code. The analyzer is built with the help of the .NET Compiler Platform (Roslyn) and is available as a NuGet package as well as a Visual Studio extension.
+*   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
+*   [manuelroemer/Nullable](https://github.com/manuelroemer/Nullable) - A source code only package which allows you to use .NET's nullable attributes in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework.
+*   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
+*   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
+*   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
+*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
+*   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
+*   [FortuneN/FineCodeCoverage](https://github.com/FortuneN/FineCodeCoverage) - Visualize unit test code coverage easily for free in Visual Studio Community Edition (and other editions too)
+*   [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
+*   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
+*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
+*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
+*   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+*   [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
+*   [reinforced/Reinforced.Typings](https://github.com/reinforced/Reinforced.Typings) - Converts C# classes to TypeScript interfaces (and many more) within project build. 0-dependency, minimal, gluten-free
+*   [mregni/EmbyStat](https://github.com/mregni/EmbyStat) - Multiplatform statistics server for Emby server
+*   [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
+*   [JeringTech/Javascript.NodeJS](https://github.com/JeringTech/Javascript.NodeJS) - Invoke Javascript in NodeJS, from C#
+*   [ModernRonin/ProjectRenamer](https://github.com/ModernRonin/ProjectRenamer) - Conveniently rename your csproj files
+*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, ASP.NET Core, Entity Framework Core, C#, Angular 15, Clean Code, SOLID, DDD.
+*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+*   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+*   [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
+*   [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
+*   [mikependon/RepoDB](https://github.com/mikependon/RepoDB) - A hybrid ORM library for .NET.
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
+*   [davidwhitney/CoreBoy](https://github.com/davidwhitney/CoreBoy) - A GameBoy Emulator, in C#
+*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
+*   [Xyene/Emulator.NES](https://github.com/Xyene/Emulator.NES) - 📺 Nintendo Entertainment System emulator written in C#.
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+*   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core
+*   [NimaAra/Easy.Common](https://github.com/NimaAra/Easy.Common) - A set of useful .NET utilities and C# helpers used across Easy.\* projects.
+*   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+*   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
+*   [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
+*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
+*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+*   [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
+*   [Nordes/HoNoSoFt.DotNet.Web.Spa.ProjectTemplates](https://github.com/Nordes/HoNoSoFt.DotNet.Web.Spa.ProjectTemplates) - .Net Core 2.2 > SPA Application with VueJS/Vuex/WebPack 4/Picnic CSS/Fontello
+*   [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+*   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+*   [ttu/dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) - Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
+*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+*   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
+*   [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
+*   [iolevel/peachpie-wordpress](https://github.com/iolevel/peachpie-wordpress) - WordPress running on .NET Core.
+*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
+*   [rajanadar/VaultSharp](https://github.com/rajanadar/VaultSharp) - A comprehensive cross-platform .NET Library for HashiCorp's Vault, a secret management tool
+*   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
+*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+*   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
+*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+*   [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
+*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
+*   [lduchosal/ipnetwork](https://github.com/lduchosal/ipnetwork) - IPNetwork command line and C# library take care of complex network, IP, IPv4, IPv6, netmask, CIDR, subnet, subnetting, supernet, and supernetting calculation for .NET developers. It works with IPv4 as well as IPv6, is written in C#, has a light and clean API, and is fully unit-tested
+*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+*   [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
+*   [coderrio/Coderr.Server](https://github.com/coderrio/Coderr.Server) - Replace logfiles with Coderr to correct bugs faster and more efficiently.
+*   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
+*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+*   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
+*   [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
+*   [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
+*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
+*   [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
+*   [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
+*   [alanmcgovern/monotorrent](https://github.com/alanmcgovern/monotorrent) - The official repository for MonoTorrent, a bittorrent library for .NET
+*   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
+
+## powershell
+
+*   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
+*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
+*   [EliteLoser/DotNetVersionLister](https://github.com/EliteLoser/DotNetVersionLister) - Use Svendsen Tech's Get-STDotNetVersion function to get a list of installed .NET Framework versions on (remote) Windows computers
+*   [jdhitsolutions/WingetTools](https://github.com/jdhitsolutions/WingetTools) - A set of PowerShell tools for working with the winget package manager.
+*   [compwiz32/PowerShell](https://github.com/compwiz32/PowerShell) - My everyday PS code as well as a collection of scripts I have downloaded for reference
+*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create your own Gold Master image. Completely STIG Standalone Windows Systems to DoD STIG/SRG Requirements and NSACyber Guidance. The ultimate Windows 10 security and compliance script!
+*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
+*   [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
+*   [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
+*   [PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
+*   [dataplat/dbachecks](https://github.com/dataplat/dbachecks) - ✔ SQL Server Environmental Validation
+*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+*   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
+*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
+*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+*   [PowerShell/platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
+*   [Devolutions/RDMSamples-ps](https://github.com/Devolutions/RDMSamples-ps) - Remote Desktop Manager (RDM) samples of powershell code
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+*   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
+*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
+*   [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
+*   [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
+*   [ktaranov/sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) - Useful links, scripts, tools and best practice for Microsoft SQL Server Database
+*   [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
+*   [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
+*   [PoshCode/Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+*   [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
+*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
+*   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
+*   [OctopusDeploy/PowerShell-IIS-Examples](https://github.com/OctopusDeploy/PowerShell-IIS-Examples) - Examples showing how to do everything with IIS and PowerShell
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+*   [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
+*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+*   [Dalmirog-zz/OctoPosh](https://github.com/Dalmirog-zz/OctoPosh) - The Octopus Deploy Powershell module
+*   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
+*   [Sup3rlativ3/Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) - This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution.
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+*   [ebekker/ACMESharp](https://github.com/ebekker/ACMESharp) - An ACME client library and PowerShell client for the .NET platform (Let's Encrypt)
+*   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
+*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+*   [MikeShepard/SQLPSX](https://github.com/MikeShepard/SQLPSX) - SQL PowerShell Extensions
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+*   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
+
+## powershell-module
+
+*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
+*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
+*   [tillig/ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
+*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
+
+## scoop
+
+*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
+*   [martinet101/WingetUI](https://github.com/martinet101/WingetUI) - WingetUI: a package manager for Winget and Scoop
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+
+## tab-completion
+
+*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
 
 ## dotnet
 
@@ -6824,108 +7069,6 @@
 *   [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 *   [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
-
-## csharp
-
-*   [TolikPylypchuk/SharpHook](https://github.com/TolikPylypchuk/SharpHook) - SharpHook provides a cross-platform global keyboard and mouse hook for .NET, and the ability to simulate input events
-*   [microsoft/CsWinRT](https://github.com/microsoft/CsWinRT) - C# language projection for the Windows Runtime
-*   [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
-*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
-*   [dotnet/try-convert](https://github.com/dotnet/try-convert) - Helping .NET developers port their projects to .NET Core!
-*   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
-*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-*   [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
-*   [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
-*   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-*   [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
-*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
-*   [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
-*   [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
-*   [zzzprojects/Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
-*   [freezy/VisualPinball.Engine](https://github.com/freezy/VisualPinball.Engine) - :video\_game: Visual Pinball Engine for Unity
-*   [xoofx/markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
-*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-*   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
-*   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-*   [Concurrency-Lab/ParallelHelper](https://github.com/Concurrency-Lab/ParallelHelper) - Parallel Helper is a static code analyzer for C# projects that supports the development of parallel and asynchronous code. The analyzer is built with the help of the .NET Compiler Platform (Roslyn) and is available as a NuGet package as well as a Visual Studio extension.
-*   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-*   [manuelroemer/Nullable](https://github.com/manuelroemer/Nullable) - A source code only package which allows you to use .NET's nullable attributes in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework.
-*   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
-*   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
-*   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
-*   [winsw/winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
-*   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
-*   [FortuneN/FineCodeCoverage](https://github.com/FortuneN/FineCodeCoverage) - Visualize unit test code coverage easily for free in Visual Studio Community Edition (and other editions too)
-*   [mayuki/Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
-*   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
-*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
-*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
-*   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
-*   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
-*   [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
-*   [reinforced/Reinforced.Typings](https://github.com/reinforced/Reinforced.Typings) - Converts C# classes to TypeScript interfaces (and many more) within project build. 0-dependency, minimal, gluten-free
-*   [mregni/EmbyStat](https://github.com/mregni/EmbyStat) - Multiplatform statistics server for Emby server
-*   [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
-*   [JeringTech/Javascript.NodeJS](https://github.com/JeringTech/Javascript.NodeJS) - Invoke Javascript in NodeJS, from C#
-*   [ModernRonin/ProjectRenamer](https://github.com/ModernRonin/ProjectRenamer) - Conveniently rename your csproj files
-*   [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 7, ASP.NET Core, Entity Framework Core, C#, Angular 15, Clean Code, SOLID, DDD.
-*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-*   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-*   [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
-*   [twitchax/AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
-*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
-*   [mikependon/RepoDB](https://github.com/mikependon/RepoDB) - A hybrid ORM library for .NET.
-*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-*   [davidwhitney/CoreBoy](https://github.com/davidwhitney/CoreBoy) - A GameBoy Emulator, in C#
-*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
-*   [Xyene/Emulator.NES](https://github.com/Xyene/Emulator.NES) - 📺 Nintendo Entertainment System emulator written in C#.
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-*   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core
-*   [NimaAra/Easy.Common](https://github.com/NimaAra/Easy.Common) - A set of useful .NET utilities and C# helpers used across Easy.\* projects.
-*   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
-*   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
-*   [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
-*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
-*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross-platform UI framework for .NET
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
-*   [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
-*   [Nordes/HoNoSoFt.DotNet.Web.Spa.ProjectTemplates](https://github.com/Nordes/HoNoSoFt.DotNet.Web.Spa.ProjectTemplates) - .Net Core 2.2 > SPA Application with VueJS/Vuex/WebPack 4/Picnic CSS/Fontello
-*   [MichalStrehovsky/zerosharp](https://github.com/MichalStrehovsky/zerosharp) - Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology.
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-*   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
-*   [ttu/dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) - Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
-*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
-*   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
-*   [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
-*   [iolevel/peachpie-wordpress](https://github.com/iolevel/peachpie-wordpress) - WordPress running on .NET Core.
-*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
-*   [rajanadar/VaultSharp](https://github.com/rajanadar/VaultSharp) - A comprehensive cross-platform .NET Library for HashiCorp's Vault, a secret management tool
-*   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
-*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-*   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
-*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-*   [JosefPihrt/Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn.
-*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
-*   [lduchosal/ipnetwork](https://github.com/lduchosal/ipnetwork) - IPNetwork command line and C# library take care of complex network, IP, IPv4, IPv6, netmask, CIDR, subnet, subnetting, supernet, and supernetting calculation for .NET developers. It works with IPv4 as well as IPv6, is written in C#, has a light and clean API, and is fully unit-tested
-*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-*   [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
-*   [coderrio/Coderr.Server](https://github.com/coderrio/Coderr.Server) - Replace logfiles with Coderr to correct bugs faster and more efficiently.
-*   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
-*   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-*   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-*   [mathnet/mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
-*   [dotnet/docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
-*   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
-*   [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
-*   [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
-*   [alanmcgovern/monotorrent](https://github.com/alanmcgovern/monotorrent) - The official repository for MonoTorrent, a bittorrent library for .NET
-*   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 
 ## hook
 
@@ -9239,64 +9382,6 @@
 *   [LycheeOrg/Lychee-v3](https://github.com/LycheeOrg/Lychee-v3) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 *   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
-## python
-
-*   [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
-*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-*   [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
-*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
-*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-*   [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-*   [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
-*   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-*   [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-*   [machawk1/wail](https://github.com/machawk1/wail) - :whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-*   [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation
-*   [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
-*   [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-*   [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
-*   [earwig/git-repo-updater](https://github.com/earwig/git-repo-updater) - A console script that allows you to easily update multiple git repositories at once
-*   [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and scans for vulnerabilities
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-*   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-*   [nityanandagohain/proxy\_configuration](https://github.com/nityanandagohain/proxy_configuration) - System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration
-*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-*   [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-*   [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
-*   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-*   [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
-*   [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
-*   [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
-*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-*   [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
-*   [AmadeusITGroup/GraphDash](https://github.com/AmadeusITGroup/GraphDash) - A web-based dashboard built on graphs and their metadata.
-*   [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
-*   [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
-*   [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-*   [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
-*   [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
-*   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
-*   [pothosware/SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor and platform neutral SDR support library.
-*   [kevinburke/hamms](https://github.com/kevinburke/hamms) - Malformed servers to test your HTTP client
-*   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
-*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
-*   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
-*   [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
-
 ## python3
 
 *   [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer, manager and workflow automation tool.
@@ -9485,7 +9570,7 @@
 *   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
 *   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 *   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 *   [slydetector/simply-nzedb](https://github.com/slydetector/simply-nzedb) - The simplest way to get nZEDb up and running with docker
 *   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -9527,7 +9612,6 @@
 *   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 *   [mr-canoehead/vpn\_client\_gateway](https://github.com/mr-canoehead/vpn_client_gateway) - Pi-Powered VPN Client Gateway: installation documentation and related files.
 *   [pschmitt/pia-tools](https://github.com/pschmitt/pia-tools) - Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## vpn-server
 
@@ -9900,7 +9984,6 @@
 *   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 *   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## apk
 
@@ -10462,24 +10545,6 @@
 *   [airbrake/airbrake-js](https://github.com/airbrake/airbrake-js) - Airbrake JavaScript Notifier
 *   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
 
-## logging
-
-*   [smourier/TraceSpy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
-*   [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
-*   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
-*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-*   [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
-*   [couchcoding/Logbert](https://github.com/couchcoding/Logbert) - Logbert is an advanced log message viewer for log4net, log4j and others.
-*   [huxi/lilith](https://github.com/huxi/lilith) - Lilith is a Logging- and AccessEvent viewer for Logback, log4j, log4j2 and java.util.logging
-*   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
-*   [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-*   [caiogondim/logdown.js](https://github.com/caiogondim/logdown.js) - :pencil2: Debug utility with markdown support that runs on browser and server
-*   [damianh/LibLog](https://github.com/damianh/LibLog) - LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.
-*   [exceptionless/Exceptionless](https://github.com/exceptionless/Exceptionless) - Exceptionless server and jobs
-*   [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
-*   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
-
 ## productivity-tools
 
 *   [smourier/TraceSpy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
@@ -11008,33 +11073,6 @@
 
 *   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
-## c
-
-*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple library for communicating with HID devices on Linux, Mac and Windows.
-*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
-*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
-*   [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
-*   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-*   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
-*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
-*   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
-*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
-*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
-*   [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
-*   [szechyjs/mbelib](https://github.com/szechyjs/mbelib) - P25 Phase 1 and ProVoice vocoder
-*   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
-
 ## c-plus-plus
 
 *   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -11548,7 +11586,7 @@
 *   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
 *   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 *   [Soloplan/whatson](https://github.com/Soloplan/whatson) - Build status monitoring for Windows with support for Jenkins, Travis-CI, CC.NET (alternative to CCTray)
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 *   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 *   [amachanic/sp\_whoisactive](https://github.com/amachanic/sp_whoisactive) - sp\_whoisactive
 *   [CatSnake11/webpack-ops](https://github.com/CatSnake11/webpack-ops) - 📁 webpack bundle visualization // optimization // config tool
@@ -11630,12 +11668,6 @@
 ## asyncapi
 
 *   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-
-## kafka
-
-*   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-*   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 14, React 18, Vue 2.7, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Cloud (Azure, AWS) Services, ...
 
 ## mqtt
 
@@ -22041,7 +22073,6 @@
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 *   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## hostseditor
 
@@ -22366,23 +22397,23 @@
 
 ## change-alert
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## change-detection
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## change-monitoring
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## changedetection
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## notifications
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 *   [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 *   [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 *   [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
@@ -22392,58 +22423,58 @@
 
 ## restock
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## restock-monitor
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## scraper
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 *   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 *   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
 
 ## url-monitor
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## visualping
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## web-scraping
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## website-change-detection
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## website-change-detector
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## website-change-monitor
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## website-change-notification
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## website-change-tracker
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## website-monitor
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 *   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 
 ## website-monitoring
 
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection, Restock Monitoring, Visualping and Apify alternative
 
 ## awt
 
@@ -23765,7 +23796,6 @@
 *   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 *   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
 *   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## adblocker
 
@@ -28138,10 +28168,6 @@
 
 *   [couchcoding/Logbert](https://github.com/couchcoding/Logbert) - Logbert is an advanced log message viewer for log4net, log4j and others.
 
-## syslog
-
-*   [couchcoding/Logbert](https://github.com/couchcoding/Logbert) - Logbert is an advanced log message viewer for log4net, log4j and others.
-
 ## syslog-client
 
 *   [couchcoding/Logbert](https://github.com/couchcoding/Logbert) - Logbert is an advanced log message viewer for log4net, log4j and others.
@@ -29669,14 +29695,6 @@
 
 *   [icsharpcode/CodeConverter](https://github.com/icsharpcode/CodeConverter) - Convert code from C# to VB.NET and vice versa using Roslyn
 
-## converter
-
-*   [icsharpcode/CodeConverter](https://github.com/icsharpcode/CodeConverter) - Convert code from C# to VB.NET and vice versa using Roslyn
-*   [kaltura/adobe-connect-to-mkv-to-kaltura](https://github.com/kaltura/adobe-connect-to-mkv-to-kaltura) - Generate MKV files out of Adobe Connect recordings and \[optionally] ingest them onto Kaltura
-*   [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
-*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-*   [showdownjs/showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-
 ## online-snippet-converter
 
 *   [icsharpcode/CodeConverter](https://github.com/icsharpcode/CodeConverter) - Convert code from C# to VB.NET and vice versa using Roslyn
@@ -29774,7 +29792,6 @@
 *   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 *   [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## blokada
 
