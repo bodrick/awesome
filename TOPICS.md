@@ -6655,7 +6655,7 @@
 *   [cezarypiatek/msbuild-cheatsheet](https://github.com/cezarypiatek/msbuild-cheatsheet) -
 *   [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 *   [mikefrobbins/PowerShell](https://github.com/mikefrobbins/PowerShell) - PowerShell scripts and functions
-*   [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 6, Blazor, SignalR Core, and WebRTC.
+*   [immense/Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 6, Blazor, and SignalR Core.
 *   [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet) - Secure cross-platform token cache for MSAL public client apps
 *   [derskythe/WpfSettings](https://github.com/derskythe/WpfSettings) -
 *   [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
