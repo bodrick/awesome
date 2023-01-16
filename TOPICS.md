@@ -220,6 +220,7 @@
 *   [application](#application)
 *   [desktop-app](#desktop-app)
 *   [gpt-3](#gpt-3)
+*   [notes-app](#notes-app)
 *   [openai](#openai)
 *   [rust](#rust)
 *   [tauri](#tauri)
@@ -3378,7 +3379,6 @@
 *   [parse](#parse)
 *   [interactive](#interactive)
 *   [graph-visualisation](#graph-visualisation)
-*   [notes-app](#notes-app)
 *   [personal-knowledge-base](#personal-knowledge-base)
 *   [pkm](#pkm)
 *   [zettelkasten](#zettelkasten)
@@ -7142,7 +7142,7 @@
 *   [bootcards/bootcards](https://github.com/bootcards/bootcards) - No longer maintained. See below for details.
 *   [pazguille/aload](https://github.com/pazguille/aload) - Loads images, background images, scripts, styles, iframes, videos and audios asynchronously (just 241 bytes).
 *   [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-*   [benhmoore/Knwl.js](https://github.com/benhmoore/Knwl.js) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
+*   [benhmoore/Knwl](https://github.com/benhmoore/Knwl) - Find Dates, Places, Times, and More. A .js library for parsing text for specific information.
 *   [Pikaday/Pikaday](https://github.com/Pikaday/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 *   [doedje/jquery.soap](https://github.com/doedje/jquery.soap) - This script uses $.ajax to send a SOAP:Envelope. It can take XML DOM, XML string or JSON as input and the response can be returned as either XML DOM, XML string or JSON too.
 *   [camohub/jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) - jQuery plugin to sorting lists also the tree structures.
@@ -9179,6 +9179,12 @@
 ## gpt-3
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+## notes-app
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+*   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ## openai
 
@@ -27431,11 +27437,6 @@
 ## graph-visualisation
 
 *   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-
-## notes-app
-
-*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-*   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 
 ## personal-knowledge-base
 
