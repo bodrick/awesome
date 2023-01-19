@@ -346,15 +346,15 @@
 *   [intellisense](#intellisense)
 *   [language-server](#language-server)
 *   [language-server-protocol](#language-server-protocol)
+*   [aarch64](#aarch64)
 *   [d3d12](#d3d12)
 *   [debloat](#debloat)
 *   [direct3d](#direct3d)
 *   [direct3d12](#direct3d12)
-*   [maui](#maui)
+*   [mbr](#mbr)
 *   [optimization](#optimization)
 *   [privacy-protection](#privacy-protection)
 *   [rufus](#rufus)
-*   [steamplay](#steamplay)
 *   [windows-desktop](#windows-desktop)
 *   [windows-terminal](#windows-terminal)
 *   [windows10](#windows10)
@@ -945,6 +945,7 @@
 *   [windows-service](#windows-service)
 *   [context-menu](#context-menu)
 *   [file-explorer](#file-explorer)
+*   [nilesoft-shell](#nilesoft-shell)
 *   [right-click](#right-click)
 *   [shell-extension](#shell-extension)
 *   [bulk-rename](#bulk-rename)
@@ -1531,7 +1532,6 @@
 *   [gpt](#gpt)
 *   [grub](#grub)
 *   [grub4dos](#grub4dos)
-*   [mbr](#mbr)
 *   [md5](#md5)
 *   [sha1](#sha1)
 *   [sha256](#sha256)
@@ -1878,7 +1878,6 @@
 *   [scale](#scale)
 *   [sns](#sns)
 *   [sqs](#sqs)
-*   [aarch64](#aarch64)
 *   [alpine-image](#alpine-image)
 *   [alpine-linux](#alpine-linux)
 *   [amd64](#amd64)
@@ -1904,6 +1903,7 @@
 *   [domain-driven](#domain-driven)
 *   [entity](#entity)
 *   [rules](#rules)
+*   [maui](#maui)
 *   [netframework](#netframework)
 *   [uno-platform](#uno-platform)
 *   [autofac](#autofac)
@@ -10535,6 +10535,11 @@
 *   [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
 *   [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 
+## aarch64
+
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
+*   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
+
 ## d3d12
 
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
@@ -10561,11 +10566,10 @@
 
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
 
-## maui
+## mbr
 
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
-*   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
-*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
 ## optimization
 
@@ -10585,10 +10589,6 @@
 *   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
 
 ## rufus
-
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
-
-## steamplay
 
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Graphics (AMD/NVIDIA/Intel ARC), Software Apps, and Resources.
 
@@ -15199,6 +15199,10 @@
 
 *   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 
+## nilesoft-shell
+
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
+
 ## right-click
 
 *   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
@@ -18430,10 +18434,6 @@
 
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 
-## mbr
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
 ## md5
 
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -20131,10 +20131,6 @@
 
 *   [BrighterCommand/Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 
-## aarch64
-
-*   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
-
 ## alpine-image
 
 *   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
@@ -20253,6 +20249,11 @@
 ## rules
 
 *   [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates) - Some design approaches to enforcing a business rule requiring no duplicates. Domain driven design.
+
+## maui
+
+*   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
+*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 ## netframework
 

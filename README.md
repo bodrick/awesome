@@ -27,6 +27,7 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Perl](#perl)
 *   [Dart](#dart)
+*   [NWScript](#nwscript)
 *   [Mustache](#mustache)
 *   [HCL](#hcl)
 *   [Visual Basic .NET](#visual-basic-net)
@@ -1776,7 +1777,6 @@
 *   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
 *   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 *   [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
-*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 *   [Cybermaxs/awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
 *   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 *   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -2519,6 +2519,10 @@
 *   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 *   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## NWScript
+
+*   [moudey/Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 
 ## Mustache
 
