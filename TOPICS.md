@@ -506,10 +506,10 @@
 *   [language-server](#language-server)
 *   [language-server-protocol](#language-server-protocol)
 *   [d3d12](#d3d12)
-*   [microsoft-teams](#microsoft-teams)
 *   [optimization](#optimization)
 *   [privacy-protection](#privacy-protection)
 *   [rufus](#rufus)
+*   [wayland](#wayland)
 *   [windows-defender](#windows-defender)
 *   [windows-terminal](#windows-terminal)
 *   [winget](#winget)
@@ -1315,6 +1315,7 @@
 *   [irc](#irc)
 *   [matrix](#matrix)
 *   [mattermost](#mattermost)
+*   [microsoft-teams](#microsoft-teams)
 *   [minecraft-chat](#minecraft-chat)
 *   [mumble](#mumble)
 *   [nextcloud](#nextcloud)
@@ -2398,7 +2399,6 @@
 *   [flutter-mobile](#flutter-mobile)
 *   [flutter-ui](#flutter-ui)
 *   [flutter-web](#flutter-web)
-*   [wayland](#wayland)
 *   [pi-hole-blocklists](#pi-hole-blocklists)
 *   [pihole-blocklists](#pihole-blocklists)
 *   [clean-code](#clean-code)
@@ -9244,7 +9244,6 @@
 ## customization
 
 *   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 *   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 
@@ -10561,7 +10560,6 @@
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 *   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 *   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## openstack-swift
@@ -11146,6 +11144,7 @@
 ## awesome-lists
 
 *   [lockys/AwesomeSearch2021](https://github.com/lockys/AwesomeSearch2021) - 🔍 2021 Awesome Search
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 *   [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 *   [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
@@ -11680,6 +11679,7 @@
 
 *   [DyonR/docker-qbittorrentvpn](https://github.com/DyonR/docker-qbittorrentvpn) - Docker container which runs a qBittorent-nox client with an optional WireGuard or OpenVPN connection
 *   [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 *   [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 *   [runfalk/synology-wireguard](https://github.com/runfalk/synology-wireguard) - WireGuard support for some Synology NAS drives
@@ -12577,12 +12577,6 @@
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
 
-## microsoft-teams
-
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-
 ## optimization
 
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
@@ -12603,6 +12597,11 @@
 ## rufus
 
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+
+## wayland
+
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption,  Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 
 ## windows-defender
 
@@ -17642,6 +17641,11 @@
 ## mattermost
 
 *   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+
+## microsoft-teams
+
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 
 ## minecraft-chat
 
@@ -23128,10 +23132,6 @@
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 
 ## flutter-web
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-
-## wayland
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 
