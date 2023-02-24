@@ -65,6 +65,7 @@
 *   [R](#r)
 *   [D](#d)
 *   [SQLPL](#sqlpl)
+*   [MATLAB](#matlab)
 *   [Objective-C](#objective-c)
 
 ## Python
@@ -1259,7 +1260,6 @@
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name it compatible.
 *   [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 *   [mozilla/shumway](https://github.com/mozilla/shumway) - Shumway is a Flash VM and runtime written in JavaScript
-*   [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 *   [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 *   [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
@@ -2847,6 +2847,10 @@
 ## SQLPL
 
 *   [MichelleUfford/sql-scripts](https://github.com/MichelleUfford/sql-scripts) - Repo for Microsoft SQL Server scripts. These are targeted at both DBAs/admins and at database developers.
+
+## MATLAB
+
+*   [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 ## Objective-C
 
