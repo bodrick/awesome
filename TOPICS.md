@@ -121,6 +121,7 @@
 *   [rollup-plugin](#rollup-plugin)
 *   [vite-plugin](#vite-plugin)
 *   [vitejs](#vitejs)
+*   [esbuild](#esbuild)
 *   [unplugin](#unplugin)
 *   [vite](#vite)
 *   [webpack](#webpack)
@@ -130,7 +131,6 @@
 *   [template](#template)
 *   [cdn](#cdn)
 *   [deno](#deno)
-*   [esbuild](#esbuild)
 *   [esm](#esm)
 *   [infrastructure](#infrastructure)
 *   [js](#js)
@@ -8349,7 +8349,7 @@
 
 *   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 *   [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 *   [rollup/plugins](https://github.com/rollup/plugins) - 🍣  The one-stop shop for official Rollup plugins
 *   [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 *   [jaredpalmer/tsdx](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development
@@ -8415,13 +8415,19 @@
 *   [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 *   [mohammad-hosein-shahpouri/AspNetCore.SpaServices.ViteDevelopmentServer](https://github.com/mohammad-hosein-shahpouri/AspNetCore.SpaServices.ViteDevelopmentServer) - A library that allows you to use SPAs with Vite.js on ASP.NET Core
 
+## esbuild
+
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global CDN for NPM packages with ESM format.
+*   [maxmilton/new-tab](https://github.com/maxmilton/new-tab) - ⚡ A high-performance browser new tab page that gets you where you need to go faster.
+
 ## unplugin
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 
 ## vite
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 *   [mohammad-hosein-shahpouri/AspNetCore.SpaServices.ViteDevelopmentServer](https://github.com/mohammad-hosein-shahpouri/AspNetCore.SpaServices.ViteDevelopmentServer) - A library that allows you to use SPAs with Vite.js on ASP.NET Core
 *   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 *   [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
@@ -8431,7 +8437,7 @@
 
 ## webpack
 
-*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, and more
+*   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 *   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 *   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
 *   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
@@ -8516,11 +8522,6 @@
 *   [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 *   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-## esbuild
-
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global CDN for NPM packages with ESM format.
-*   [maxmilton/new-tab](https://github.com/maxmilton/new-tab) - ⚡ A high-performance browser new tab page that gets you where you need to go faster.
 
 ## esm
 
