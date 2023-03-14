@@ -1781,6 +1781,7 @@
 *   [obsidianforensics/hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium
 *   [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 *   [Luctia/ezarr](https://github.com/Luctia/ezarr) - Ezarr aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker
+*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 *   [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 *   [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 *   [cedricbonhomme/freshermeat](https://github.com/cedricbonhomme/freshermeat) - An open source software directory and release tracker.
@@ -2213,7 +2214,6 @@
 ## Jupyter Notebook
 
 *   [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
-*   [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 *   [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
 *   [EmanueleMeazzo/tsql.tech-Code-snippets](https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets) - Useful SQL Server scripts/SPs for DBA or SQL Developers that I use and/or have created
 *   [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
