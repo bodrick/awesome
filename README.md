@@ -1893,7 +1893,6 @@
 *   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 *   [walmik/timer.jquery](https://github.com/walmik/timer.jquery) - jQuery Timer: Start/Stop/Resume/Remove pretty timer inside any HTML element.
 *   [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 *   [javierbyte/cohesive-colors](https://github.com/javierbyte/cohesive-colors) - Tool that may help you to create cohesive color schemes.
 *   [cheeaun/mooeditable](https://github.com/cheeaun/mooeditable) - \[DISCONTINUED] A simple web-based WYSIWYG editor, written in MooTools.
 *   [mrdoob/stats.js](https://github.com/mrdoob/stats.js) - JavaScript Performance Monitor
@@ -2483,6 +2482,7 @@
 *   [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 *   [KittyGiraudel/SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon
 *   [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 *   [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
 *   [alxlit/bootstrap-chosen](https://github.com/alxlit/bootstrap-chosen) - An alternate stylesheet for Chosen that integrates with Bootstrap.
 *   [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
