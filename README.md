@@ -295,7 +295,6 @@
 *   [chinhdo/txFileManager](https://github.com/chinhdo/txFileManager) - .NET Transactional File Manager is a .NET Standard library that allows you to enlist file operations (file/folder copies, writes, deletes, appends, etc.) in distributed transactions.
 *   [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 *   [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) -
-*   [builtbybel/LoveWindowsAgain](https://github.com/builtbybel/LoveWindowsAgain) - Fall in love with Windows 11
 *   [amd989/Symlinker](https://github.com/amd989/Symlinker) - Symbolic Link Creator. GUI for mklink, Microsoft Windows symlink utility
 *   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
 *   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) -
@@ -1131,7 +1130,7 @@
 *   [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Bundling Chrome Extensions can be pretty complex. It doesn't have to be.
 *   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
 *   [emosheeep/vite-plugin-virtual-mpa](https://github.com/emosheeep/vite-plugin-virtual-mpa) - Out-of-box MPA plugin for Vite, with html template engine and virtual files support.
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 *   [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
 *   [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
 *   [xcv58/Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website
@@ -2215,6 +2214,7 @@
 *   [StackExchange/StackExchange.DataExplorer](https://github.com/StackExchange/StackExchange.DataExplorer) - Stack Exchange Data Explorer
 *   [t32k/grunt-csso](https://github.com/t32k/grunt-csso) - Minify CSS files with CSSO.
 *   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
+*   [codepb/jquery-template](https://github.com/codepb/jquery-template) - A template plugin for jQuery. Allows templating without cluttering JavaScript code with markup. Simple, Concise yet powerful.
 
 ## Python
 
