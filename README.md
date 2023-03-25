@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Lua](#lua)
 *   [PowerShell](#powershell)
 *   [C#](#c)
 *   [C](#c-1)
@@ -48,7 +49,6 @@
 *   [Pascal](#pascal)
 *   [Vala](#vala)
 *   [Handlebars](#handlebars)
-*   [Lua](#lua)
 *   [F#](#f)
 *   [Haml](#haml)
 *   [AutoHotkey](#autohotkey)
@@ -66,6 +66,12 @@
 *   [SQLPL](#sqlpl)
 *   [MATLAB](#matlab)
 *   [Objective-C](#objective-c)
+
+## Lua
+
+*   [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
+*   [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
+*   [Openarl/PathOfBuilding](https://github.com/Openarl/PathOfBuilding) - Offline build planner for Path of Exile.
 
 ## PowerShell
 
@@ -2214,7 +2220,6 @@
 *   [StackExchange/StackExchange.DataExplorer](https://github.com/StackExchange/StackExchange.DataExplorer) - Stack Exchange Data Explorer
 *   [t32k/grunt-csso](https://github.com/t32k/grunt-csso) - Minify CSS files with CSSO.
 *   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
-*   [codepb/jquery-template](https://github.com/codepb/jquery-template) - A template plugin for jQuery. Allows templating without cluttering JavaScript code with markup. Simple, Concise yet powerful.
 
 ## Python
 
@@ -2871,11 +2876,6 @@
 ## Handlebars
 
 *   [flatlogic/sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4.5 💥
-
-## Lua
-
-*   [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API
-*   [Openarl/PathOfBuilding](https://github.com/Openarl/PathOfBuilding) - Offline build planner for Path of Exile.
 
 ## F\#
 

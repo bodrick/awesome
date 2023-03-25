@@ -5,6 +5,10 @@
 ## Table of Contents
 
 *   [2000](#2000)
+*   [clink](#clink)
+*   [clink-completions](#clink-completions)
+*   [completions](#completions)
+*   [lua](#lua)
 *   [miscellaneous](#miscellaneous)
 *   [c-sharp](#c-sharp)
 *   [rawinput](#rawinput)
@@ -152,7 +156,6 @@
 *   [vscode-extension](#vscode-extension)
 *   [autocomplete](#autocomplete)
 *   [cli](#cli)
-*   [completions](#completions)
 *   [prediction](#prediction)
 *   [suggestion](#suggestion)
 *   [terminal](#terminal)
@@ -2005,7 +2008,6 @@
 *   [farmanager](#farmanager)
 *   [file-handling](#file-handling)
 *   [file-management](#file-management)
-*   [lua](#lua)
 *   [ofm](#ofm)
 *   [winscp](#winscp)
 *   [windows-api](#windows-api)
@@ -6025,6 +6027,27 @@
 
 *   [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 
+## clink
+
+*   [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
+
+## clink-completions
+
+*   [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
+
+## completions
+
+*   [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
+*   [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
+*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
+
+## lua
+
+*   [vladimir-kotikov/clink-completions](https://github.com/vladimir-kotikov/clink-completions) - Completion files to clink util
+*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
+*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
+*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
+
 ## miscellaneous
 
 *   [MSEndpointMgr/ModernDriverManagement](https://github.com/MSEndpointMgr/ModernDriverManagement) - Official repo of Modern Driver Management from MSEndpointMgr.com
@@ -6942,7 +6965,6 @@
 *   [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 *   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 *   [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
-*   [codepb/jquery-template](https://github.com/codepb/jquery-template) - A template plugin for jQuery. Allows templating without cluttering JavaScript code with markup. Simple, Concise yet powerful.
 
 ## c-sharp
 
@@ -9596,11 +9618,6 @@
 *   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 *   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
 *   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-
-## completions
-
-*   [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
-*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 
 ## prediction
 
@@ -21611,12 +21628,6 @@
 ## file-management
 
 *   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
-
-## lua
-
-*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
-*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
-*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
 
 ## ofm
 
