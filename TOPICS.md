@@ -4370,8 +4370,8 @@
 *   [cc-by-sa](#cc-by-sa)
 *   [hardening-steps](#hardening-steps)
 *   [linux-server](#linux-server)
+*   [ai-assistant](#ai-assistant)
 *   [assistant](#assistant)
-*   [deepspeech](#deepspeech)
 *   [flite](#flite)
 *   [leon](#leon)
 *   [personal-assistant](#personal-assistant)
@@ -32711,14 +32711,14 @@
 
 *   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
+## ai-assistant
+
+*   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
+
 ## assistant
 
 *   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 *   [alexa-pi/AlexaPi](https://github.com/alexa-pi/AlexaPi) - Alexa client for all your devices! # No active development. PRs welcome # consider https://github.com/respeaker/avs instead
-
-## deepspeech
-
-*   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 ## flite
 
