@@ -227,10 +227,12 @@
 *   [fortigate](#fortigate)
 *   [fortinet](#fortinet)
 *   [iperf3](#iperf3)
+*   [msgraph](#msgraph)
 *   [networking](#networking)
 *   [nmap](#nmap)
 *   [office365](#office365)
 *   [pcsetup](#pcsetup)
+*   [pwsh](#pwsh)
 *   [vmware](#vmware)
 *   [browserslist](#browserslist)
 *   [caniuse](#caniuse)
@@ -2089,6 +2091,7 @@
 *   [wipe](#wipe)
 *   [ltsc](#ltsc)
 *   [sophia-script](#sophia-script)
+*   [tweak](#tweak)
 *   [coding-guidelines](#coding-guidelines)
 *   [visual-basic](#visual-basic)
 *   [angularjs](#angularjs)
@@ -4211,7 +4214,6 @@
 *   [gaming-tweak-guide](#gaming-tweak-guide)
 *   [gaming-tweaks](#gaming-tweaks)
 *   [linux-gaming](#linux-gaming)
-*   [tweak](#tweak)
 *   [windows-gaming](#windows-gaming)
 *   [workaroundows-10](#workaroundows-10)
 *   [bitwarden](#bitwarden)
@@ -10596,6 +10598,10 @@
 
 *   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 
+## msgraph
+
+*   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
+
 ## networking
 
 *   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
@@ -10618,6 +10624,10 @@
 *   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 
 ## pcsetup
+
+*   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
+
+## pwsh
 
 *   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
 
@@ -21575,7 +21585,6 @@
 ## 21h2
 
 *   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## 22h2
 
@@ -21607,6 +21616,7 @@
 ## tweaker
 
 *   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## tweaking
 
@@ -22089,6 +22099,11 @@
 ## sophia-script
 
 *   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+
+## tweak
+
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
 
 ## coding-guidelines
 
@@ -32023,10 +32038,6 @@
 *   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
 
 ## linux-gaming
-
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-
-## tweak
 
 *   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
 
