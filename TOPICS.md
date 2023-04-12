@@ -3760,10 +3760,8 @@
 *   [facebook](#facebook)
 *   [google-location-history](#google-location-history)
 *   [instagram](#instagram)
-*   [anki](#anki)
-*   [annotation](#annotation)
-*   [flashcards](#flashcards)
 *   [annotate](#annotate)
+*   [annotation](#annotation)
 *   [full-text-search](#full-text-search)
 *   [research](#research)
 *   [chrome-pak-customizer](#chrome-pak-customizer)
@@ -6671,7 +6669,6 @@
 *   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 *   [openedx/paragon](https://github.com/openedx/paragon) - 💎 An accessible, theme-ready design system built for learning applications and Open edX.
 *   [CatSnake11/webpack-ops](https://github.com/CatSnake11/webpack-ops) - 📁 webpack bundle visualization // optimization // config tool
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
 *   [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 *   [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
@@ -7907,6 +7904,7 @@
 *   [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 *   [xdissent/ievms](https://github.com/xdissent/ievms) - Automated installation of the Microsoft IE App Compat virtual machines
 *   [winmarkltd/BootstrapFormHelpers](https://github.com/winmarkltd/BootstrapFormHelpers) - Bootstrap Form Helpers
+*   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 
 ## cloud-workloads
 
@@ -7960,7 +7958,7 @@
 *   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 *   [neuroneural/brainchop](https://github.com/neuroneural/brainchop) - Brainchop: In-browser 3D MRI rendering and segmentation
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 *   [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 *   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
@@ -10314,7 +10312,6 @@
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 *   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 *   [CatSnake11/webpack-ops](https://github.com/CatSnake11/webpack-ops) - 📁 webpack bundle visualization // optimization // config tool
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 *   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 *   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
@@ -10753,7 +10750,7 @@
 ## gpt-2
 
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## huggingface-transformers
 
@@ -10762,12 +10759,12 @@
 ## llama
 
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## llm
 
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## peft
 
@@ -11114,35 +11111,35 @@
 
 ## alpaca
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## cerebras
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## fine-tuning
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## finetuning
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## galactica
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## gpt-j
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## language-model
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## lora
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Build, customize and control your own private LLMs
+*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own private LLMs
 
 ## c-sharp
 
@@ -14588,7 +14585,6 @@
 *   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 *   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
 *   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 *   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -20199,7 +20195,6 @@
 ## ebook-reader
 
 *   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
 ## epub
@@ -20236,7 +20231,6 @@
 *   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 *   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 *   [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 *   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 *   [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
@@ -20592,7 +20586,6 @@
 *   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 *   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 *   [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 *   [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
 *   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
@@ -29362,7 +29355,6 @@
 ## ebooks
 
 *   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
 ## movies
@@ -30438,20 +30430,11 @@
 
 *   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
 
-## anki
+## annotate
 
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-
-## annotation
-
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 *   [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
-## flashcards
-
-*   [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
-
-## annotate
+## annotation
 
 *   [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 
