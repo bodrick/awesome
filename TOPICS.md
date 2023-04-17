@@ -674,7 +674,9 @@
 *   [uxtu](#uxtu)
 *   [free](#free)
 *   [memo](#memo)
+*   [microblog](#microblog)
 *   [self-hosted](#self-hosted)
+*   [social-network](#social-network)
 *   [azure-openai](#azure-openai)
 *   [dall-e](#dall-e)
 *   [openai-api](#openai-api)
@@ -4741,6 +4743,8 @@
 *   [application-insights](#application-insights)
 *   [pageviews](#pageviews)
 *   [usage](#usage)
+*   [git-server](#git-server)
+*   [github-clone](#github-clone)
 *   [gogs](#gogs)
 *   [date-fns](#date-fns)
 *   [esmodules](#esmodules)
@@ -14420,6 +14424,10 @@
 
 *   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 
+## microblog
+
+*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+
 ## self-hosted
 
 *   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
@@ -14452,6 +14460,10 @@
 *   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 *   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## social-network
+
+*   [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 
 ## azure-openai
 
@@ -23428,6 +23440,7 @@
 ## git-gui
 
 *   [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## gitextensions
 
@@ -34805,6 +34818,14 @@
 ## usage
 
 *   [microsoft/ApplicationInsights-JS](https://github.com/microsoft/ApplicationInsights-JS) - Microsoft Application Insights SDK for JavaScript
+
+## git-server
+
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+
+## github-clone
+
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## gogs
 
