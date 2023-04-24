@@ -14550,7 +14550,7 @@
 ## esbuild
 
 *   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, and more
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [maxmilton/new-tab](https://github.com/maxmilton/new-tab) - ⚡ A high-performance browser new tab page that gets you where you need to go faster.
 
 ## rspack
@@ -14592,32 +14592,32 @@
 
 ## cdn
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [thednp/bootstrap.native](https://github.com/thednp/bootstrap.native) - Bootstrap components build with Typescript
 *   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 ## deno
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 *   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## esm
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 *   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
 ## infrastructure
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [wikijm/PowerShell-AdminScripts](https://github.com/wikijm/PowerShell-AdminScripts) - PowerShell Administration scripts
 
 ## js
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [hodgef/simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard - Customizable, responsive and lightweight
 *   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
 *   [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
@@ -14630,7 +14630,7 @@
 
 ## npm
 
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global, \&smart CDN for modern(es2015+) web development.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, global, & smart CDN for modern(es2015+) web development.
 *   [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 *   [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
