@@ -1565,7 +1565,7 @@
 *   [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) -
 *   [amd989/Symlinker](https://github.com/amd989/Symlinker) - Symbolic Link Creator. GUI for mklink, Microsoft Windows symlink utility
 *   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
-*   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) -
+*   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime.
 *   [wieslawsoltes/Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library.
 *   [RandomEngy/UnitTestBoilerplateGenerator](https://github.com/RandomEngy/UnitTestBoilerplateGenerator) - An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
 *   [mattwhitfield/Unitverse](https://github.com/mattwhitfield/Unitverse) - A unit test generation extension for Visual Studio that aims to always produce code that compiles - covering the basic cases automatically and preparing as much as it can for the complex cases.
