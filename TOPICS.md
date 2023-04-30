@@ -7605,7 +7605,7 @@
 *   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 *   [pagermon/pagermon](https://github.com/pagermon/pagermon) - Multimon-ng pager message parser and viewer
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -9483,7 +9483,7 @@
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 *   [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
 *   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_entry: A minimal JS library for showing & hiding things
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 *   [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 *   [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
@@ -9580,7 +9580,7 @@
 *   [wbkd/webpack-starter](https://github.com/wbkd/webpack-starter) - ✨ A lightweight foundation for your next webpack based frontend project.
 *   [flatlogic/sing-app](https://github.com/flatlogic/sing-app) - 💥Free and open-source admin dashboard template built with Bootstrap 4.5 💥
 *   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 *   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
 ## typefaces
@@ -13860,7 +13860,7 @@
 *   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
 *   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 *   [jquintozamora/react-typescript-webpack2-cssModules-postCSS](https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS) - Simple Starter Template for React, TypeScript, postCSS, ITCSS, CSS-Modules, Webpack and Live Reloading (React Hot Loader 3)
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 
 ## vls
 
@@ -17903,7 +17903,7 @@
 *   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
 *   [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow\_right: prettier :arrow\_right: eslint --fix :arrow\_right: Formatted Code :sparkles:
 *   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 *   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 
 ## build
@@ -21668,7 +21668,7 @@
 
 *   [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 *   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 
 ## javascipt
@@ -26950,7 +26950,7 @@
 *   [voorhoede/front-end-tooling-recipes](https://github.com/voorhoede/front-end-tooling-recipes) - Collection of pre-configured front-end tooling setups for common uses.
 *   [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 
 ## haskell
 
@@ -30110,7 +30110,7 @@
 ## popover
 
 *   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 *   [mistic100/Bootstrap-Confirmation](https://github.com/mistic100/Bootstrap-Confirmation) - Bootstrap plugin for on-place confirm boxes using Popover
 
@@ -30125,7 +30125,7 @@
 ## tooltip
 
 *   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 *   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 *   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -37626,23 +37626,23 @@
 
 ## popovers
 
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 ## position
 
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 ## positioning
 
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 ## positioning-engine
 
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 ## tooltip-position
 
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 
 ## tag
 
@@ -39798,7 +39798,7 @@
 
 ## postcss-plugins
 
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 
 ## video-streaming
 

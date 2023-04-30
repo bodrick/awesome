@@ -622,7 +622,7 @@
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements: tooltips, popovers, dropdowns, and more
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [prisma-archive/chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 *   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
 *   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1218,7 +1218,7 @@
 *   [crlcu/multiselect](https://github.com/crlcu/multiselect) - jQuery multiselect plugin with two sides. The user can select one or more items and send them to the other side.
 *   [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 *   [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
-*   [morishitter/stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 *   [streamaserver/streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. https://docs.streama-project.com/
 *   [LeaVerou/stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be
 *   [travist/jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
