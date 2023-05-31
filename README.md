@@ -555,7 +555,7 @@
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 *   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 *   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 *   [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
 *   [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 *   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
@@ -2583,7 +2583,7 @@
 *   [tj/n](https://github.com/tj/n) - Node version management
 *   [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
+*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 *   [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 *   [DyonR/docker-qbittorrentvpn](https://github.com/DyonR/docker-qbittorrentvpn) - Docker container which runs a qBittorent-nox client with an optional WireGuard or OpenVPN connection
 *   [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
