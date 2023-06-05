@@ -6,6 +6,26 @@
 
 *   [2000](#2000)
 *   [miscellaneous](#miscellaneous)
+*   [eslint](#eslint)
+*   [hadolint](#hadolint)
+*   [language-tool](#language-tool)
+*   [linter](#linter)
+*   [markdownlint](#markdownlint)
+*   [php-code-sniffer](#php-code-sniffer)
+*   [proselint](#proselint)
+*   [pylint](#pylint)
+*   [reek](#reek)
+*   [rubocop](#rubocop)
+*   [ruby](#ruby)
+*   [shellcheck](#shellcheck)
+*   [sqlfluff](#sqlfluff)
+*   [stylelint](#stylelint)
+*   [swiftlint](#swiftlint)
+*   [textlint](#textlint)
+*   [vale](#vale)
+*   [vscode](#vscode)
+*   [vscode-extension](#vscode-extension)
+*   [yamllint](#yamllint)
 *   [dot](#dot)
 *   [emscripten](#emscripten)
 *   [graphviz](#graphviz)
@@ -60,8 +80,6 @@
 *   [language-engineering](#language-engineering)
 *   [language-server-protocol](#language-server-protocol)
 *   [typescript](#typescript)
-*   [vscode](#vscode)
-*   [vscode-extension](#vscode-extension)
 *   [gpt](#gpt)
 *   [machine-learning](#machine-learning)
 *   [openai](#openai)
@@ -334,7 +352,6 @@
 *   [command-line-tool](#command-line-tool)
 *   [continuous-integration](#continuous-integration)
 *   [grep](#grep)
-*   [linter](#linter)
 *   [refactoring](#refactoring)
 *   [rust](#rust)
 *   [search](#search)
@@ -904,9 +921,7 @@
 *   [fastify](#fastify)
 *   [starter-kit](#starter-kit)
 *   [alloyteam](#alloyteam)
-*   [eslint](#eslint)
 *   [eslint-config](#eslint-config)
-*   [stylelint](#stylelint)
 *   [vls](#vls)
 *   [volar](#volar)
 *   [vue-tsc](#vue-tsc)
@@ -1113,7 +1128,6 @@
 *   [clojurescript](#clojurescript)
 *   [knowledge-graph](#knowledge-graph)
 *   [org-mode](#org-mode)
-*   [ruby](#ruby)
 *   [two-factor](#two-factor)
 *   [twofactorauth](#twofactorauth)
 *   [c-charp](#c-charp)
@@ -3208,9 +3222,7 @@
 *   [postcss](#postcss)
 *   [haskell](#haskell)
 *   [dockerfile-linter](#dockerfile-linter)
-*   [hadolint](#hadolint)
 *   [vscode-plugin](#vscode-plugin)
-*   [shellcheck](#shellcheck)
 *   [hoverzoom](#hoverzoom)
 *   [images](#images)
 *   [zoom-images](#zoom-images)
@@ -6400,6 +6412,7 @@
 
 ## miscellaneous
 
+*   [DamianEdwards/MinimalApiPlayground](https://github.com/DamianEdwards/MinimalApiPlayground) - A place I'm trying out the new ASP.NET Core minimal APIs features.
 *   [CodeMazeBlog/CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
 *   [tallesl/net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
 *   [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -7378,8 +7391,182 @@
 *   [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes, and more
 *   [madskristensen/MiniBlog](https://github.com/madskristensen/MiniBlog) - A minimal blog engine using Razor Web Pages
 *   [owin/owin.dll](https://github.com/owin/owin.dll) - OWIN defines a standard interface between .NET web servers and web applications.
-*   [winjs/winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
-*   [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
+
+## eslint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
+*   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
+*   [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
+*   [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time
+*   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
+*   [keithamus/eslint-plugin-escompat](https://github.com/keithamus/eslint-plugin-escompat) - Report errors for code which wont work in browsers without transpiling
+*   [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
+*   [Shinigami92/eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
+*   [angular-eslint/angular-eslint](https://github.com/angular-eslint/angular-eslint) - :sparkles: Monorepo for all the tooling related to using ESLint with Angular
+*   [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
+*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+*   [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 46 plugins. 1228 rules. React, Vue, Node, and pure JS/TS.
+*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
+*   [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
+*   [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+*   [ljosberinn/eslint-config-galex](https://github.com/ljosberinn/eslint-config-galex) - hopefully the last eslint config you'll ever need - customizable & modern best practices for JS, TS, Node, React, Remix, Next, Jest, testing-library & storybook
+*   [postlight/serverless-typescript-starter](https://github.com/postlight/serverless-typescript-starter) - 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (May 2023)
+*   [manuelbieh/react-ssr-setup](https://github.com/manuelbieh/react-ssr-setup) - React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
+*   [typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate](https://github.com/typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate) - :bento: Nuxt.js with TypeScript and Run with docker and docker-compose 🐶🦄🔥 visit: https://typescript-nuxtjs-boilerplate.netlify.com/example
+*   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+*   [babel/babel-eslint](https://github.com/babel/babel-eslint) - :tokyo\_tower: A wrapper for Babel's parser used for ESLint (renamed to @babel/eslint-parser)
+*   [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
+*   [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow\_right: prettier :arrow\_right: eslint --fix :arrow\_right: Formatted Code :sparkles:
+*   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+
+## hadolint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
+
+## language-tool
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## linter
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
+*   [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
+*   [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
+*   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
+*   [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint) - Configurable linting for TSQL
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+*   [joereynolds/sql-lint](https://github.com/joereynolds/sql-lint) - An SQL linter
+*   [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
+*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+*   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+*   [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
+*   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+*   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+*   [twbs/bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projects
+
+## markdownlint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## php-code-sniffer
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## proselint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## pylint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## reek
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## rubocop
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## ruby
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
+*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+*   [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
+*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+
+## shellcheck
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+
+## sqlfluff
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## stylelint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
+*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+*   [jquintozamora/react-typescript-webpack2-cssModules-postCSS](https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS) - Simple Starter Template for React, TypeScript, postCSS, ITCSS, CSS-Modules, Webpack and Live Reloading (React Hot Loader 3)
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+
+## swiftlint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## textlint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## vale
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+
+## vscode
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [langium/langium](https://github.com/langium/langium) - Next-gen language engineering / DSL framework
+*   [swellaby/vscode-workspace-config-plus](https://github.com/swellaby/vscode-workspace-config-plus) -
+*   [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
+*   [tahabasri/snippets](https://github.com/tahabasri/snippets) - VSCode extension which lets you manage your code snippets without quitting your editor.
+*   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
+*   [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
+*   [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+*   [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+*   [folke/vscode-monorepo-workspace](https://github.com/folke/vscode-monorepo-workspace) - 📦✨Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories.
+*   [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands) - VSCode extension to run commands from Tree View / Status Bar / Quick Pick.
+*   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
+*   [KnisterPeter/vscode-commitizen](https://github.com/KnisterPeter/vscode-commitizen) - Visual Studio Code Commitizen Support
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+*   [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+*   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
+*   [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## vscode-extension
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [swellaby/vscode-workspace-config-plus](https://github.com/swellaby/vscode-workspace-config-plus) -
+*   [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
+*   [tahabasri/snippets](https://github.com/tahabasri/snippets) - VSCode extension which lets you manage your code snippets without quitting your editor.
+*   [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
+*   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
+*   [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
+*   [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
+*   [folke/vscode-monorepo-workspace](https://github.com/folke/vscode-monorepo-workspace) - 📦✨Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories.
+*   [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands) - VSCode extension to run commands from Tree View / Status Bar / Quick Pick.
+*   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
+*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
+*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+*   [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## yamllint
+
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
 
 ## dot
 
@@ -8669,45 +8856,6 @@
 *   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue + SwiftUI, Jetpack Compose, Flutter and you name it compatible.
 *   [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
-
-## vscode
-
-*   [langium/langium](https://github.com/langium/langium) - Next-gen language engineering / DSL framework
-*   [swellaby/vscode-workspace-config-plus](https://github.com/swellaby/vscode-workspace-config-plus) -
-*   [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
-*   [tahabasri/snippets](https://github.com/tahabasri/snippets) - VSCode extension which lets you manage your code snippets without quitting your editor.
-*   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
-*   [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
-*   [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-*   [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
-*   [folke/vscode-monorepo-workspace](https://github.com/folke/vscode-monorepo-workspace) - 📦✨Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories.
-*   [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands) - VSCode extension to run commands from Tree View / Status Bar / Quick Pick.
-*   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
-*   [KnisterPeter/vscode-commitizen](https://github.com/KnisterPeter/vscode-commitizen) - Visual Studio Code Commitizen Support
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-*   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-*   [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-*   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
-*   [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-
-## vscode-extension
-
-*   [swellaby/vscode-workspace-config-plus](https://github.com/swellaby/vscode-workspace-config-plus) -
-*   [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
-*   [tahabasri/snippets](https://github.com/tahabasri/snippets) - VSCode extension which lets you manage your code snippets without quitting your editor.
-*   [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
-*   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
-*   [p42ai/js-assistant](https://github.com/p42ai/js-assistant) - 120+ refactorings and code-assists for Visual Studio Code
-*   [rubberduck-ai/rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - Use AI-powered code edits, explanations, code generation, error diagnosis, and chat in Visual Studio Code with the official OpenAI API.
-*   [folke/vscode-monorepo-workspace](https://github.com/folke/vscode-monorepo-workspace) - 📦✨Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories.
-*   [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands) - VSCode extension to run commands from Tree View / Status Bar / Quick Pick.
-*   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
-*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
-*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-*   [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
 ## gpt
 
@@ -12173,33 +12321,6 @@
 
 *   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-## linter
-
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
-*   [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
-*   [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
-*   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
-*   [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint) - Configurable linting for TSQL
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
-*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-*   [joereynolds/sql-lint](https://github.com/joereynolds/sql-lint) - An SQL linter
-*   [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
-*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
-*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-*   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
-*   [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
-*   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
-*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
-*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-*   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-*   [twbs/bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projects
 
 ## refactoring
 
@@ -16538,37 +16659,6 @@
 
 *   [AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
 
-## eslint
-
-*   [AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
-*   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
-*   [lydell/eslint-plugin-simple-import-sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
-*   [IanVS/eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time
-*   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
-*   [keithamus/eslint-plugin-escompat](https://github.com/keithamus/eslint-plugin-escompat) - Report errors for code which wont work in browsers without transpiling
-*   [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
-*   [Shinigami92/eslint-define-config](https://github.com/Shinigami92/eslint-define-config) - Provide a defineConfig function for .eslintrc.js files
-*   [angular-eslint/angular-eslint](https://github.com/angular-eslint/angular-eslint) - :sparkles: Monorepo for all the tooling related to using ESLint with Angular
-*   [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
-*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-*   [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 46 plugins. 1228 rules. React, Vue, Node, and pure JS/TS.
-*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
-*   [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
-*   [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
-*   [ljosberinn/eslint-config-galex](https://github.com/ljosberinn/eslint-config-galex) - hopefully the last eslint config you'll ever need - customizable & modern best practices for JS, TS, Node, React, Remix, Next, Jest, testing-library & storybook
-*   [postlight/serverless-typescript-starter](https://github.com/postlight/serverless-typescript-starter) - 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (May 2023)
-*   [manuelbieh/react-ssr-setup](https://github.com/manuelbieh/react-ssr-setup) - React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
-*   [typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate](https://github.com/typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate) - :bento: Nuxt.js with TypeScript and Run with docker and docker-compose 🐶🦄🔥 visit: https://typescript-nuxtjs-boilerplate.netlify.com/example
-*   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-*   [babel/babel-eslint](https://github.com/babel/babel-eslint) - :tokyo\_tower: A wrapper for Babel's parser used for ESLint (renamed to @babel/eslint-parser)
-*   [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-*   [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow\_right: prettier :arrow\_right: eslint --fix :arrow\_right: Formatted Code :sparkles:
-*   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-
 ## eslint-config
 
 *   [AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy) - Progressive ESLint config for your React/Vue/TypeScript projects
@@ -16576,13 +16666,6 @@
 *   [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 46 plugins. 1228 rules. React, Vue, Node, and pure JS/TS.
 *   [ljosberinn/eslint-config-galex](https://github.com/ljosberinn/eslint-config-galex) - hopefully the last eslint config you'll ever need - customizable & modern best practices for JS, TS, Node, React, Remix, Next, Jest, testing-library & storybook
 *   [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
-
-## stylelint
-
-*   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
-*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-*   [jquintozamora/react-typescript-webpack2-cssModules-postCSS](https://github.com/jquintozamora/react-typescript-webpack2-cssModules-postCSS) - Simple Starter Template for React, TypeScript, postCSS, ITCSS, CSS-Modules, Webpack and Live Reloading (React Hot Loader 3)
-*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
 
 ## vls
 
@@ -17814,14 +17897,6 @@
 ## org-mode
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-
-## ruby
-
-*   [2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
-*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
-*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-*   [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
-*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 ## two-factor
 
@@ -28536,17 +28611,9 @@
 *   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
 *   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
-## hadolint
-
-*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
-
 ## vscode-plugin
 
 *   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
-
-## shellcheck
-
-*   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 ## hoverzoom
 
