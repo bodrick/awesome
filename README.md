@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [CSS](#css)
 *   [C#](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -17,7 +19,6 @@
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [C++](#c-2)
-*   [Go](#go)
 *   [Shell](#shell)
 *   [Pascal](#pascal)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -34,7 +35,6 @@
 *   [Roff](#roff)
 *   [Svelte](#svelte)
 *   [Clojure](#clojure)
-*   [CSS](#css)
 *   [PHP](#php)
 *   [Zig](#zig)
 *   [XSLT](#xslt)
@@ -69,6 +69,144 @@
 *   [SQLPL](#sqlpl)
 *   [Objective-C](#objective-c)
 
+## Go
+
+*   [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
+*   [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
+*   [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+*   [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+*   [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
+*   [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+*   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+*   [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+*   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+*   [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+*   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
+*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
+*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+*   [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
+*   [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+*   [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+*   [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
+*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+*   [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+*   [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
+*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+*   [TykTechnologies/tyk-identity-broker](https://github.com/TykTechnologies/tyk-identity-broker) - Tyk Authentication Proxy for third-party login
+*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+*   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+*   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+*   [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+*   [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
+*   [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
+*   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+*   [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
+*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+*   [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
+*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+*   [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
+*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
+*   [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
+*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+*   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+*   [jaredpetersen/raspilive](https://github.com/jaredpetersen/raspilive) - 📷 Stream video from the Raspberry Pi Camera Module to the web
+*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+*   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+*   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
+*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
+*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
+*   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
+*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+
+## CSS
+
+*   [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+*   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
+*   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
+*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+*   [ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
+*   [cristianmiranda/mediabox](https://github.com/cristianmiranda/mediabox) - 🐳 Docker based MEDIABOX 📺
+*   [shawnwildermuth/WilderBlog](https://github.com/shawnwildermuth/WilderBlog) - My Blog as an ASP.NET Core 5 Project
+*   [microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders) -
+*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
+*   [psu-libraries/psul-wc](https://github.com/psu-libraries/psul-wc) - A mono-repo for storage of web components with development led by the Pennsylvania State University Libraries
+*   [csstools/postcss-normalize](https://github.com/csstools/postcss-normalize) - Use the parts of normalize.css (or sanitize.css) you need from your browserslist
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+*   [mausba/rssheap](https://github.com/mausba/rssheap) - An advanced web and mobile based RSS reader for software developers built on the .NET platform
+*   [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
+*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+*   [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
+*   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
+*   [googlearchive/big-rig](https://github.com/googlearchive/big-rig) - A proof-of-concept Performance Dashboard, CLI and Node module
+*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
+*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+*   [tatygrassini/landio-html](https://github.com/tatygrassini/landio-html) - Landio design (Sketch to HTML)
+*   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_entry: A minimal JS library for showing & hiding things
+*   [t0m/select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css) - simple css to make select2 widgets fit in with bootstrap
+*   [bootcards/bootcards](https://github.com/bootcards/bootcards) - No longer maintained. See below for details.
+*   [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
+*   [jillix/url.js](https://github.com/jillix/url.js) - :page\_with\_curl: A lightweight JavaScript library to manipulate the page url.
+*   [jaicab/localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds
+*   [joaopereirawd/fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
+*   [aaronlumsden/Material-Preloader](https://github.com/aaronlumsden/Material-Preloader) - A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
+*   [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
+*   [bassjobsen/typeahead.js-bootstrap-css](https://github.com/bassjobsen/typeahead.js-bootstrap-css) - LESS / CSS code for using typeahead.js with Bootstrap 3
+*   [dsheiko/autofill](https://github.com/dsheiko/autofill) - Bookmarklet to fill out forms when testing by simply clicking on it.
+
 ## C\#
 
 *   [christianhelle/apiclientcodegen](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio custom tool code generators for Swagger / OpenAPI specification files
@@ -87,7 +225,6 @@
 *   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
 *   [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker) - 🖱️ Windows Autoclicker with a modern ui
 *   [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
-*   [qgindi/LibreAutomate](https://github.com/qgindi/LibreAutomate) - C# script editor and automation library for Windows
 *   [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection. Inspired by MapStruct.
 *   [microsoft/VSConfigFinder](https://github.com/microsoft/VSConfigFinder) - Locate Visual Studio installation configuration files (.vsconfigs) downstream recursively and merge them all together
 *   [devlooped/nugetizer](https://github.com/devlooped/nugetizer) - A simple to understand packing model for authoring NuGet packages
@@ -1280,7 +1417,7 @@
 *   [dfinke/PowerShellAI](https://github.com/dfinke/PowerShellAI) - PowerShell AI module for OpenAI GPT-3 and DALL-E
 *   [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
 *   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
-*   [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click
+*   [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
 *   [mdgrs-mei/DynamicTitle](https://github.com/mdgrs-mei/DynamicTitle) - A PowerShell module for advanced console title customizations.
 *   [MSEndpointMgr/ModernDriverManagement](https://github.com/MSEndpointMgr/ModernDriverManagement) - Official repo of Modern Driver Management from MSEndpointMgr.com
 *   [dakhama-mehdi/Modern\_ActiveDirectory](https://github.com/dakhama-mehdi/Modern_ActiveDirectory) - Modern Active Directory
@@ -2013,8 +2150,6 @@
 *   [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
 *   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 *   [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
-*   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
-*   [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes, and more
 
 ## Python
 
@@ -2240,6 +2375,7 @@
 ## C
 
 *   [SoftEtherVPN/SoftEtherVPN\_Stable](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable) - Cross-platform multi-protocol VPN software. This repository is officially managed by Daiyuu Nobori, the founder of the project. Pull requests should be sent to the master repository at https://github.com/SoftEtherVPN/SoftEtherVPN.
+*   [qgindi/LibreAutomate](https://github.com/qgindi/LibreAutomate) - C# script editor and automation library for Windows
 *   [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
 *   [ViGEm/DsHidMini](https://github.com/ViGEm/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 *   [EasyHook/EasyHook](https://github.com/EasyHook/EasyHook) - EasyHook - The reinvention of Windows API Hooking
@@ -2588,102 +2724,6 @@
 *   [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 *   [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
 
-## Go
-
-*   [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
-*   [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-*   [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
-*   [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
-*   [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-*   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
-*   [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - ✦ A fast, smart, & global CDN for modern(es2015+) web development.
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-*   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-*   [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-*   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
-*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
-*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-*   [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
-*   [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-*   [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-*   [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-*   [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-*   [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
-*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-*   [TykTechnologies/tyk-identity-broker](https://github.com/TykTechnologies/tyk-identity-broker) - Tyk Authentication Proxy for third-party login
-*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-*   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-*   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-*   [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-*   [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-*   [securitywithoutborders/hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
-*   [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
-*   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-*   [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-*   [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
-*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-*   [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
-*   [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
-*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-*   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
-*   [jaredpetersen/raspilive](https://github.com/jaredpetersen/raspilive) - 📷 Stream video from the Raspberry Pi Camera Module to the web
-*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-*   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-*   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
-*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
-*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
-*   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
-*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-
 ## Shell
 
 *   [007revad/Synology\_M2\_volume](https://github.com/007revad/Synology_M2_volume) - Easily create an M.2 volume on Synology NAS
@@ -2926,46 +2966,6 @@
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 *   [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 *   [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-
-## CSS
-
-*   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
-*   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
-*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
-*   [ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
-*   [cristianmiranda/mediabox](https://github.com/cristianmiranda/mediabox) - 🐳 Docker based MEDIABOX 📺
-*   [shawnwildermuth/WilderBlog](https://github.com/shawnwildermuth/WilderBlog) - My Blog as an ASP.NET Core 5 Project
-*   [microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders) -
-*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
-*   [psu-libraries/psul-wc](https://github.com/psu-libraries/psul-wc) - A mono-repo for storage of web components with development led by the Pennsylvania State University Libraries
-*   [csstools/postcss-normalize](https://github.com/csstools/postcss-normalize) - Use the parts of normalize.css (or sanitize.css) you need from your browserslist
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [mausba/rssheap](https://github.com/mausba/rssheap) - An advanced web and mobile based RSS reader for software developers built on the .NET platform
-*   [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-*   [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
-*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-*   [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
-*   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
-*   [googlearchive/big-rig](https://github.com/googlearchive/big-rig) - A proof-of-concept Performance Dashboard, CLI and Node module
-*   [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-*   [tatygrassini/landio-html](https://github.com/tatygrassini/landio-html) - Landio design (Sketch to HTML)
-*   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_entry: A minimal JS library for showing & hiding things
-*   [t0m/select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css) - simple css to make select2 widgets fit in with bootstrap
-*   [bootcards/bootcards](https://github.com/bootcards/bootcards) - No longer maintained. See below for details.
-*   [Compass/compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful, performance-focused pure css loading animations.
-*   [jillix/url.js](https://github.com/jillix/url.js) - :page\_with\_curl: A lightweight JavaScript library to manipulate the page url.
-*   [jaicab/localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds
-*   [joaopereirawd/fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
-*   [aaronlumsden/Material-Preloader](https://github.com/aaronlumsden/Material-Preloader) - A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox).
-*   [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-*   [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
-*   [bassjobsen/typeahead.js-bootstrap-css](https://github.com/bassjobsen/typeahead.js-bootstrap-css) - LESS / CSS code for using typeahead.js with Bootstrap 3
-*   [dsheiko/autofill](https://github.com/dsheiko/autofill) - Bookmarklet to fill out forms when testing by simply clicking on it.
 
 ## PHP
 
