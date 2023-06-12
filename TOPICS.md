@@ -12087,7 +12087,7 @@
 *   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 *   [neuroneural/brainchop](https://github.com/neuroneural/brainchop) - Brainchop: In-browser 3D MRI rendering and segmentation
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 *   [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 *   [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
@@ -13704,7 +13704,7 @@
 
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## openai-api
 
@@ -13875,7 +13875,7 @@
 *   [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## active-directory
 
@@ -16057,7 +16057,7 @@
 ## gpt-2
 
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## huggingface-transformers
 
@@ -16066,7 +16066,7 @@
 ## llama
 
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## peft
 
@@ -16246,31 +16246,31 @@
 
 ## alpaca
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## cerebras
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## fine-tuning
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## finetuning
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## galactica
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## gpt-j
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## lora
 
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 
 ## obfuscate
 

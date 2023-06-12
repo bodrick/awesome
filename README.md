@@ -2175,7 +2175,7 @@
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 *   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
-*   [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 *   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 *   [HackerBCI/EEGwithRaspberryPI](https://github.com/HackerBCI/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
 *   [funkyfuture/deck-chores](https://github.com/funkyfuture/deck-chores) - A job scheduler for Docker containers, configured via labels.
