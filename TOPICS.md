@@ -3116,13 +3116,11 @@
 *   [dumper](#dumper)
 *   [cloud-infrastructure](#cloud-infrastructure)
 *   [oauth2-proxy](#oauth2-proxy)
-*   [captcha-emails](#captcha-emails)
 *   [epic-games](#epic-games)
 *   [epic-games-client](#epic-games-client)
 *   [epic-games-store](#epic-games-store)
 *   [epicgames-freegames-node](#epicgames-freegames-node)
 *   [free-games](#free-games)
-*   [hcaptcha](#hcaptcha)
 *   [cyberghost](#cyberghost)
 *   [dns-over-tls](#dns-over-tls)
 *   [nordvpn](#nordvpn)
@@ -8675,7 +8673,7 @@
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 *   [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 *   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 *   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -12554,7 +12552,7 @@
 *   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 7 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith), Blazor, Angular 15, React 18, Vue 3, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, Identity Server, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud (Azure, AWS) Services, ...
 *   [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
 *   [kereis/traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - Dumps Let's Encrypt certificates of a specified domain which Traefik stores in acme.json.
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 *   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 *   [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -12651,7 +12649,7 @@
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 *   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 *   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 *   [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
@@ -28458,33 +28456,25 @@
 *   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 *   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
 
-## captcha-emails
-
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
-
 ## epic-games
 
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 
 ## epic-games-client
 
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 
 ## epic-games-store
 
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 
 ## epicgames-freegames-node
 
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 
 ## free-games
 
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
-
-## hcaptcha
-
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 
 ## cyberghost
 

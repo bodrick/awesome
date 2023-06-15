@@ -226,7 +226,7 @@
 *   [Apicurio/apicurio-studio](https://github.com/Apicurio/apicurio-studio) - Open Source API Design
 *   [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 *   [Swatinem/rollup-plugin-dts](https://github.com/Swatinem/rollup-plugin-dts) - A rollup plugin to generate .d.ts rollup files for your typescript project
-*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+*   [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sessions, and scheduled runs.
 *   [bill-ahmed/qbit-matUI](https://github.com/bill-ahmed/qbit-matUI) - A material WebUI for qBittorrent, written in Angular.
 *   [unional/type-plus](https://github.com/unional/type-plus) - Additional types and types adjusted utilities for TypeScript
 *   [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (313 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
