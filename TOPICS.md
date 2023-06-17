@@ -661,6 +661,7 @@
 *   [chatgpt-python](#chatgpt-python)
 *   [command-line-tools](#command-line-tools)
 *   [gpt-35-turbo](#gpt-35-turbo)
+*   [langchain](#langchain)
 *   [llms](#llms)
 *   [markdown-generator](#markdown-generator)
 *   [openai-gpt3](#openai-gpt3)
@@ -7764,7 +7765,7 @@
 *   [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 *   [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -12357,7 +12358,7 @@
 ## readme
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -12372,7 +12373,7 @@
 ## readme-generator
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## readme-md
@@ -12383,7 +12384,7 @@
 ## readme-template
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
@@ -14609,7 +14610,7 @@
 
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 *   [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -14623,7 +14624,7 @@
 
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -14895,7 +14896,7 @@
 ## openai-api
 
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [betalgo/openai](https://github.com/betalgo/openai) - OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK
 
 ## openai-chatgpt
@@ -15138,53 +15139,57 @@
 
 ## auto-readme
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## automated-readme
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## badge-generator
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## chatgpt-python
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## command-line-tools
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
 ## gpt-35-turbo
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+## langchain
+
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## llms
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## markdown-generator
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## openai-gpt3
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## openai-python
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## readme-automation
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## readme-generator-template
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README.md files. Powered by OpenAI's language model APIs 💫
 
 ## vite
 
