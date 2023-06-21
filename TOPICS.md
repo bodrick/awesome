@@ -604,11 +604,11 @@
 *   [babel](#babel)
 *   [codemod](#codemod)
 *   [codereview](#codereview)
-*   [continuous-integration](#continuous-integration)
 *   [grep](#grep)
 *   [refactoring](#refactoring)
 *   [search](#search)
 *   [static-analysis](#static-analysis)
+*   [structural-search](#structural-search)
 *   [tree-sitter](#tree-sitter)
 *   [contributions-welcome](#contributions-welcome)
 *   [ddd](#ddd)
@@ -3027,6 +3027,7 @@
 *   [zabbix](#zabbix)
 *   [adb](#adb)
 *   [developer-experience](#developer-experience)
+*   [continuous-integration](#continuous-integration)
 *   [localstack](#localstack)
 *   [chainsaw](#chainsaw)
 *   [encapsulation](#encapsulation)
@@ -9128,7 +9129,6 @@
 
 *   [WinUICommunity/Common](https://github.com/WinUICommunity/Common) - Useful Classes, Helpers and Extension Methods
 *   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## navigation
 
@@ -9338,6 +9338,7 @@
 *   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 *   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 *   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 *   [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
 *   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 *   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
@@ -14797,14 +14798,6 @@
 
 *   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
 
-## continuous-integration
-
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-*   [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
-*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
-
 ## grep
 
 *   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
@@ -14845,6 +14838,10 @@
 *   [anchore/anchore-engine](https://github.com/anchore/anchore-engine) - A service that analyzes docker images and scans for vulnerabilities
 *   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 *   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
+
+## structural-search
+
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
 
 ## tree-sitter
 
@@ -28083,6 +28080,13 @@
 
 *   [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
 *   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+
+## continuous-integration
+
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+*   [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 
 ## localstack
 
