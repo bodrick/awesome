@@ -716,17 +716,18 @@
 *   [mysql-client](#mysql-client)
 *   [plotly](#plotly)
 *   [redshift](#redshift)
-*   [automated-documentation](#automated-documentation)
+*   [ai-tools](#ai-tools)
+*   [auto-readme](#auto-readme)
+*   [autodoc](#autodoc)
 *   [awesome-readme](#awesome-readme)
 *   [chatgpt-python](#chatgpt-python)
-*   [documentation-generator](#documentation-generator)
 *   [gpt-35-turbo](#gpt-35-turbo)
 *   [llmops](#llmops)
 *   [llms](#llms)
-*   [markdown-generator](#markdown-generator)
 *   [openai-chatbot](#openai-chatbot)
 *   [openai-python](#openai-python)
-*   [python-ai](#python-ai)
+*   [readme-bolierplate](#readme-bolierplate)
+*   [readme-stats](#readme-stats)
 *   [shieldsio-badges](#shieldsio-badges)
 *   [vite](#vite)
 *   [mozilla-firefox](#mozilla-firefox)
@@ -4861,7 +4862,6 @@
 *   [documentation-template](#documentation-template)
 *   [documentation-theme](#documentation-theme)
 *   [project-documentation](#project-documentation)
-*   [readme-bolierplate](#readme-bolierplate)
 *   [readme-first](#readme-first)
 *   [readme-standard](#readme-standard)
 *   [technical-writing](#technical-writing)
@@ -5681,6 +5681,7 @@
 *   [windowscontainers](#windowscontainers)
 *   [ddd-sample](#ddd-sample)
 *   [identityserver](#identityserver)
+*   [documentation-generator](#documentation-generator)
 *   [openapi31](#openapi31)
 *   [redoc](#redoc)
 *   [sysadmin](#sysadmin)
@@ -6876,7 +6877,7 @@
 *   [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 *   [dotnet-architecture/grpc-for-wcf-developers](https://github.com/dotnet-architecture/grpc-for-wcf-developers) - gRPC for WCF Developers guidance samples
 *   [AArnott/Library.Template](https://github.com/AArnott/Library.Template) - A template for a NuGet package with tests, stylecop, fxcop, versioning, and Azure Pipelines build ready to go.
-*   [AArnott/Nerdbank.Streams](https://github.com/AArnott/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
+*   [nerdcash/Nerdbank.Streams](https://github.com/nerdcash/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
 *   [cpmcgrath/codealignment](https://github.com/cpmcgrath/codealignment) -
 *   [mmanela/SnippetDesigner](https://github.com/mmanela/SnippetDesigner) - The Snippet Designer is a plugin which enhances the Visual Studio IDE to allow a richer and more productive code snippet experience.
 *   [cezarypiatek/msbuild-cheatsheet](https://github.com/cezarypiatek/msbuild-cheatsheet) -
@@ -13327,7 +13328,7 @@
 ## readme
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -13338,12 +13339,12 @@
 ## readme-badges
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## readme-generator
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## readme-md
@@ -13354,6 +13355,7 @@
 ## readme-template
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
@@ -13445,7 +13447,6 @@
 
 *   [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 *   [jzillmann/pdf-to-markdown](https://github.com/jzillmann/pdf-to-markdown) - A PDF to Markdown converter
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open-source personal knowledge management software, written in typescript and golang.
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 *   [mysticmind/reversemarkdown-net](https://github.com/mysticmind/reversemarkdown-net) - ReverseMarkdown.Net is a Html to Markdown converter library in C#. Conversion is very reliable since HtmlAgilityPack (HAP) library is used for traversing the Html DOM
@@ -15233,7 +15234,7 @@
 
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 *   [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -15247,7 +15248,7 @@
 
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -15497,7 +15498,7 @@
 ## openai-api
 
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [betalgo/openai](https://github.com/betalgo/openai) - OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK
 
 ## openai-chatgpt
@@ -15738,55 +15739,59 @@
 *   [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 *   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
-## automated-documentation
+## ai-tools
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
+
+## auto-readme
+
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
+
+## autodoc
+
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## awesome-readme
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## chatgpt-python
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
-
-## documentation-generator
-
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
-*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## gpt-35-turbo
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## llmops
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## llms
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
-
-## markdown-generator
-
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## openai-chatbot
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## openai-python
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
-## python-ai
+## readme-bolierplate
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+
+## readme-stats
+
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## shieldsio-badges
 
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 
 ## vite
 
@@ -36455,10 +36460,6 @@
 
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
-## readme-bolierplate
-
-*   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-
 ## readme-first
 
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -39987,6 +39988,10 @@
 ## identityserver
 
 *   [IdentityModel/IdentityModel](https://github.com/IdentityModel/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
+
+## documentation-generator
+
+*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
 ## openapi31
 

@@ -488,7 +488,7 @@
 *   [mobile46/de4dot](https://github.com/mobile46/de4dot) - .NET deobfuscator and unpacker.
 *   [dotnet/ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 *   [dotnet-architecture/grpc-for-wcf-developers](https://github.com/dotnet-architecture/grpc-for-wcf-developers) - gRPC for WCF Developers guidance samples
-*   [AArnott/Nerdbank.Streams](https://github.com/AArnott/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
+*   [nerdcash/Nerdbank.Streams](https://github.com/nerdcash/Nerdbank.Streams) - Specialized .NET Streams and pipes for full duplex in-proc communication, web sockets, and multiplexing
 *   [neuecc/MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org\[C#]
 *   [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates) - Some design approaches to enforcing a business rule requiring no duplicates. Domain driven design.
 *   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
@@ -1060,7 +1060,7 @@
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [mi4code/onscreen-hid](https://github.com/mi4code/onscreen-hid) - fully customizable onscreen keyboard and touchpad app written in python and HTML
-*   [eli64s/README-AI](https://github.com/eli64s/README-AI) - 🚀 Generate awesome README files from the terminal, powered by OpenAI's GPT language model APIs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README markdown files from the terminal, powered by OpenAI's GPT language model APIs 💫
 *   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 *   [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
@@ -1346,7 +1346,6 @@
 ## Vue
 
 *   [Flowko/website-shot](https://github.com/Flowko/website-shot) - 📸 Generate a full web-page screenshot, Website-shot provides rich interface to make any kind of web screenshots online for free with no limits.
-*   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 *   [antfu/vite-plugin-inspect](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -2219,6 +2218,7 @@
 *   [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 *   [Lisoveliy/StarCoderEx](https://github.com/Lisoveliy/StarCoderEx) - Extension for using alternative GitHub Copilot (StarCoder API) in VSCode
 *   [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
+*   [webfansplz/vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) - Vite + Vue DevTools = DX  🔥
 *   [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 *   [Canna71/obsidian-readlater](https://github.com/Canna71/obsidian-readlater) -
 *   [jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper) - Obsidian plugin that allows users to clip parts of a website into their obsidian daily note (or new note)
