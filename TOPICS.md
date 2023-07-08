@@ -6836,7 +6836,6 @@
 *   [NimaAra/Easy.Common](https://github.com/NimaAra/Easy.Common) - A set of useful .NET utilities and C# helpers used across Easy.\* projects.
 *   [natemcmaster/CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET
 *   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
 *   [markiodev/Networker](https://github.com/markiodev/Networker) - A simple to use TCP and UDP networking library for .NET. Compatible with Unity.
 *   [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
@@ -12103,6 +12102,7 @@
 *   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 *   [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 *   [manuelbieh/react-ssr-setup](https://github.com/manuelbieh/react-ssr-setup) - React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 *   [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
@@ -18840,6 +18840,7 @@
 *   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio
 *   [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 *   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 *   [msawczyn/EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond
 *   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
@@ -19911,6 +19912,7 @@
 *   [iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.
 *   [Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi](https://github.com/Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi) - A combined sample for a .NET web application that calls a .NET web API, both secured using Azure AD B2C
 *   [josephwoodward/GlobalExceptionHandlerDotNet](https://github.com/josephwoodward/GlobalExceptionHandlerDotNet) - Exception handling as a convention in the ASP.NET Core request pipeline
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 *   [ttu/dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) - Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
 *   [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
@@ -21464,6 +21466,7 @@
 *   [serenity-is/Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 *   [jitbit/AspNetSaml](https://github.com/jitbit/AspNetSaml) - Very simple SAML 2.0 consumer module for ASP.NET/C#
 *   [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation.
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [mmacneil/AngularASPNETCoreOAuth](https://github.com/mmacneil/AngularASPNETCoreOAuth) - Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4
 *   [EEParker/aspnetcore-vueclimiddleware](https://github.com/EEParker/aspnetcore-vueclimiddleware) - Helpers for building single-page applications on ASP.NET MVC Core using Vue Cli or Quasar Cli.
 *   [soukoku/aspnetcore-vue](https://github.com/soukoku/aspnetcore-vue) - Sample setup on using asp.net core 2.1 + vue cli 3 in one project. This sample is deprecated and rolled into https://github.com/soukoku/AspNetCore.SpaServices.VueCli
