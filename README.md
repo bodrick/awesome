@@ -452,7 +452,7 @@
 *   [dotnet/xdt](https://github.com/dotnet/xdt) - XDT is Microsoft's Xml Document Transformation library.
 *   [jasonsultana/xml-transformer](https://github.com/jasonsultana/xml-transformer) - A cross platform desktop UI that can apply transform files to XML configuration
 *   [JetBrains/resharper-presentation-assistant](https://github.com/JetBrains/resharper-presentation-assistant) - ReSharper extension to show executing commands and keystrokes
-*   [fyr77/EnvyUpdate](https://github.com/fyr77/EnvyUpdate) - Small update checker application for Nvidia GPUs
+*   [fyr77/EnvyUpdate](https://github.com/fyr77/EnvyUpdate) - Small update checker application for Nvidia Geforce GPUs
 *   [microsoft/azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) - Azure Pipelines Agent 🚀
 *   [DamianEdwards/MinimalApis.Extensions](https://github.com/DamianEdwards/MinimalApis.Extensions) - A set of extensions and helpers for working with ASP.NET Core Minimal APIs.
 *   [DamianEdwards/MiniValidation](https://github.com/DamianEdwards/MiniValidation) - A minimalist validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace
