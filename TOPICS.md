@@ -858,6 +858,7 @@
 *   [volume-control](#volume-control)
 *   [volume-mixer](#volume-mixer)
 *   [digital-garden](#digital-garden)
+*   [evernote](#evernote)
 *   [knowledge-base](#knowledge-base)
 *   [local-first](#local-first)
 *   [obsidian](#obsidian)
@@ -865,8 +866,6 @@
 *   [privacy-first](#privacy-first)
 *   [self-hosting](#self-hosting)
 *   [spaced-repetition](#spaced-repetition)
-*   [tesseract](#tesseract)
-*   [webdav](#webdav)
 *   [bring-your-own-device](#bring-your-own-device)
 *   [integrity-checker](#integrity-checker)
 *   [safe-exam-browser](#safe-exam-browser)
@@ -1560,6 +1559,7 @@
 *   [sftp](#sftp)
 *   [sftp-client](#sftp-client)
 *   [webapp](#webapp)
+*   [webdav](#webdav)
 *   [webdav-client](#webdav-client)
 *   [amazon-drive](#amazon-drive)
 *   [azure-blob](#azure-blob)
@@ -2487,7 +2487,6 @@
 *   [linux-distribution](#linux-distribution)
 *   [wsl-debian](#wsl-debian)
 *   [enex-files](#enex-files)
-*   [evernote](#evernote)
 *   [joplin](#joplin)
 *   [synchronisation](#synchronisation)
 *   [dotnet-maui](#dotnet-maui)
@@ -4502,7 +4501,7 @@
 *   [native-bindings](#native-bindings)
 *   [nodejs-development](#nodejs-development)
 *   [styleguide](#styleguide)
-*   [dotnetcore3](#dotnetcore3)
+*   [dotnetcore6](#dotnetcore6)
 *   [dotnetstandard](#dotnetstandard)
 *   [opencvsharp](#opencvsharp)
 *   [emgucv](#emgucv)
@@ -5915,6 +5914,7 @@
 *   [always-on](#always-on)
 *   [indexes](#indexes)
 *   [vlf](#vlf)
+*   [tesseract](#tesseract)
 *   [charting-library](#charting-library)
 *   [data-visualisation](#data-visualisation)
 *   [recharts](#recharts)
@@ -16676,6 +16676,12 @@
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
+## evernote
+
+*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+
 ## knowledge-base
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -16715,22 +16721,6 @@
 ## spaced-repetition
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-## tesseract
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-
-## webdav
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
-*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 
 ## bring-your-own-device
 
@@ -20783,6 +20773,16 @@
 *   [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - Cloud Database Manager
 *   [AzureADQuickStarts/AppModelv2-WebApp-OpenIDConnect-DotNet](https://github.com/AzureADQuickStarts/AppModelv2-WebApp-OpenIDConnect-DotNet) - ASP.NET Web Server - OpenID Connect v2 Endpoint Sample
 *   [Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi](https://github.com/Azure-Samples/active-directory-b2c-dotnet-webapp-and-webapi) - A combined sample for a .NET web application that calls a .NET web API, both secured using Azure AD B2C
+
+## webdav
+
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+*   [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 
 ## webdav-client
 
@@ -25620,11 +25620,6 @@
 ## enex-files
 
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-
-## evernote
-
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
 ## joplin
 
@@ -34980,7 +34975,7 @@
 *   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 *   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
-## dotnetcore3
+## dotnetcore6
 
 *   [shimat/opencvsharp](https://github.com/shimat/opencvsharp) - OpenCV wrapper for .NET
 
@@ -41012,6 +41007,10 @@
 ## vlf
 
 *   [microsoft/tigertoolbox](https://github.com/microsoft/tigertoolbox) - Toolbox repository for Tiger team
+
+## tesseract
+
+*   [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 
 ## charting-library
 
