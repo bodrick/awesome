@@ -864,7 +864,6 @@
 *   [local-first](#local-first)
 *   [obsidian](#obsidian)
 *   [pkm](#pkm)
-*   [privacy-first](#privacy-first)
 *   [self-hosting](#self-hosting)
 *   [spaced-repetition](#spaced-repetition)
 *   [bring-your-own-device](#bring-your-own-device)
@@ -16713,10 +16712,6 @@
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 *   [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-
-## privacy-first
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## self-hosting
 
