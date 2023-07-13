@@ -11016,7 +11016,7 @@
 *   [vuejs-templates/pwa](https://github.com/vuejs-templates/pwa) - PWA template for vue-cli based on the webpack template
 *   [FortAwesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome Vue component
 *   [TrilonIO/aspnetcore-Vue-starter](https://github.com/TrilonIO/aspnetcore-Vue-starter) - *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO
-*   [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Stars Repositories Manager
 *   [jimmerioles/progressive-weather-app](https://github.com/jimmerioles/progressive-weather-app) - A local weather app that fetches weather forecast from Openweathermap.org. A Progressive Web App built with Vue.js.
 *   [bugsnag/bugsnag-vue](https://github.com/bugsnag/bugsnag-vue) - \[DEPRECATED] This package now lives within the monorepo for our Universal JS notifier "@bugsnag/js" • https://github.com/bugsnag/bugsnag-js
 *   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
@@ -15541,7 +15541,7 @@
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 *   [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
-*   [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Stars Repositories Manager
 *   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 *   [joeyespo/grip](https://github.com/joeyespo/grip) - Preview GitHub README.md files locally before committing them.
 *   [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -27084,7 +27084,7 @@
 ## manager
 
 *   [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
-*   [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Stars Repositories Manager
 
 ## rfcomm
 
@@ -39403,7 +39403,7 @@
 ## stars
 
 *   [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
-*   [znlbwo/gitstars](https://github.com/znlbwo/gitstars) - Github Stars Repositories Manager
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Stars Repositories Manager
 *   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 
 ## organize
