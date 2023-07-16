@@ -7882,7 +7882,7 @@
 *   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 *   [HackerBCI/EEGwithRaspberryPI](https://github.com/HackerBCI/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
 *   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 *   [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
 *   [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
@@ -8386,7 +8386,7 @@
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 *   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 *   [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
 *   [kirillgroshkov/kg-releases](https://github.com/kirillgroshkov/kg-releases) - :fire: Keep track of opensource releases :package:
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -9163,7 +9163,7 @@
 *   [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
 *   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 *   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 *   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 *   [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -10629,7 +10629,7 @@
 *   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 *   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 *   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 *   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
@@ -11575,7 +11575,7 @@
 *   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 *   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 *   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [jmathai/elodie](https://github.com/jmathai/elodie) - An EXIF-based photo assistant, organizer  and workflow automation tool.
 *   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 *   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -13350,7 +13350,7 @@
 *   [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [alirizaadiyahsi/Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 *   [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 *   [Dotnet-Boxed/Framework](https://github.com/Dotnet-Boxed/Framework) - .NET Core Extensions and Helper NuGet packages.
@@ -13438,7 +13438,7 @@
 
 *   [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 *   [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 *   [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -19082,7 +19082,7 @@
 ## express
 
 *   [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 *   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (May 2023)
@@ -22952,15 +22952,15 @@
 
 ## contribution
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## decorators
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## dependency-injection
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [SimplifyNet/Simplify](https://github.com/SimplifyNet/Simplify) - Simplify is an open-source set of lightweight .NET libraries that provide infrastructure for your applications. DI and mocking friendly.
 *   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
 *   [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
@@ -22968,20 +22968,20 @@
 
 ## ioc
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
 
 ## koa
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## lifecycle-hooks
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## middleware
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [maikebing/SilkierQuartz](https://github.com/maikebing/SilkierQuartz) -  SilkierQuartz can host jobs  using HostService and   Provide a  web   management tools for Quartz !
 *   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 *   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
@@ -22991,24 +22991,24 @@
 
 ## multer
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## nodejs-api
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## nodejs-framework
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 ## socket-io
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 
 ## typescript-framework
 
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 ## elodie

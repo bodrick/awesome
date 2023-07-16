@@ -1668,7 +1668,7 @@
 *   [usernamehw/vscode-commands](https://github.com/usernamehw/vscode-commands) - VSCode extension to run commands from Tree View / Status Bar / Quick Pick.
 *   [maxmilton/new-tab](https://github.com/maxmilton/new-tab) - ⚡ A high-performance browser new tab page that gets you where you need to go faster.
 *   [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
 *   [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 *   [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
