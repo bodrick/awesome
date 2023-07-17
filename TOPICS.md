@@ -7513,7 +7513,7 @@
 *   [IdentityModel/oidc-client-js](https://github.com/IdentityModel/oidc-client-js) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
 *   [Jorriss/StatisticsParser](https://github.com/Jorriss/StatisticsParser) - Parses and formats SQL Server Statistics IO and Statistics Time output.
 *   [SQLDBAWithABeard/DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) - This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate
-*   [readyroll/generate-sql-merge](https://github.com/readyroll/generate-sql-merge) - Generate SQL MERGE statements with Table data
+*   [dnlnln/generate-sql-merge](https://github.com/dnlnln/generate-sql-merge) - Generate SQL MERGE statements with Table data
 *   [TaoK/PoorMansTSqlFormatter](https://github.com/TaoK/PoorMansTSqlFormatter) - A small free .Net and JS library (with demo UI, command-line bulk formatter, SSMS/VS add-in, notepad++ plugin, winmerge plugin, and demo webpage) for reformatting and coloring T-SQL code to the user's preferences.
 *   [DbUp/DbUp](https://github.com/DbUp/DbUp) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
 *   [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library

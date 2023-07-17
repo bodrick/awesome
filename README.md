@@ -3189,7 +3189,7 @@
 *   [SQLUndercover/UndercoverToolbox](https://github.com/SQLUndercover/UndercoverToolbox) - A collection of cool and useful tools, procedures and scripts for the discerning DBA
 *   [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution
 *   [BrentOzarULTD/SQL-Server-First-Responder-Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) - sp\_Blitz, sp\_BlitzCache, sp\_BlitzFirst, sp\_BlitzIndex, and other SQL Server scripts for health checks and performance tuning.
-*   [readyroll/generate-sql-merge](https://github.com/readyroll/generate-sql-merge) - Generate SQL MERGE statements with Table data
+*   [dnlnln/generate-sql-merge](https://github.com/dnlnln/generate-sql-merge) - Generate SQL MERGE statements with Table data
 
 ## Brightscript
 
