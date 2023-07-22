@@ -969,6 +969,7 @@
 *   [redshift](#redshift)
 *   [auto-readme](#auto-readme)
 *   [automated-readme](#automated-readme)
+*   [awesome-chatgpt](#awesome-chatgpt)
 *   [awesome-readme](#awesome-readme)
 *   [chatgpt-python](#chatgpt-python)
 *   [gpt-35-turbo](#gpt-35-turbo)
@@ -977,8 +978,7 @@
 *   [llms](#llms)
 *   [openai-chatbot](#openai-chatbot)
 *   [openai-python](#openai-python)
-*   [readme-bolierplate](#readme-bolierplate)
-*   [shieldsio-badges](#shieldsio-badges)
+*   [shieldsio](#shieldsio)
 *   [mozilla-firefox](#mozilla-firefox)
 *   [progressive-web-app](#progressive-web-app)
 *   [pwa](#pwa)
@@ -4995,6 +4995,7 @@
 *   [documentation-template](#documentation-template)
 *   [documentation-theme](#documentation-theme)
 *   [project-documentation](#project-documentation)
+*   [readme-bolierplate](#readme-bolierplate)
 *   [readme-first](#readme-first)
 *   [readme-standard](#readme-standard)
 *   [technical-writing](#technical-writing)
@@ -6673,8 +6674,6 @@
 *   [csscomb](#csscomb)
 *   [full-sized](#full-sized)
 *   [logging-library](#logging-library)
-*   [netstandard13](#netstandard13)
-*   [netstandard15](#netstandard15)
 *   [csso](#csso)
 *   [prefixer](#prefixer)
 *   [loading-animation](#loading-animation)
@@ -8553,7 +8552,7 @@
 *   [mintty/wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 *   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 *   [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
-*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
+*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 *   [microsoft/binskim](https://github.com/microsoft/binskim) - A binary static analysis tool that provides security and correctness results for Windows Portable Executable and \*nix ELF binary formats
 *   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -17702,6 +17701,10 @@
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 
+## awesome-chatgpt
+
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+
 ## awesome-readme
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
@@ -17735,12 +17738,7 @@
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 
-## readme-bolierplate
-
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
-*   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-
-## shieldsio-badges
+## shieldsio
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 
@@ -37495,6 +37493,10 @@
 
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
+## readme-bolierplate
+
+*   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+
 ## readme-first
 
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
@@ -44537,14 +44539,6 @@
 *   [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 
 ## logging-library
-
-*   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
-
-## netstandard13
-
-*   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
-
-## netstandard15
 
 *   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 
