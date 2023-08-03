@@ -931,6 +931,7 @@
 *   [homepage](#homepage)
 *   [startpage](#startpage)
 *   [amdocs](#amdocs)
+*   [apitesting](#apitesting)
 *   [automated](#automated)
 *   [automatic](#automatic)
 *   [ginger](#ginger)
@@ -945,6 +946,8 @@
 *   [testing-tools](#testing-tools)
 *   [testng](#testng)
 *   [tests](#tests)
+*   [uitesting](#uitesting)
+*   [visualtesting](#visualtesting)
 *   [automation-ui](#automation-ui)
 *   [qa](#qa)
 *   [ui-automation](#ui-automation)
@@ -17501,6 +17504,10 @@
 
 *   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
 
+## apitesting
+
+*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
+
 ## automated
 
 *   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
@@ -17610,6 +17617,14 @@
 
 *   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
 *   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+
+## uitesting
+
+*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
+
+## visualtesting
+
+*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
 
 ## automation-ui
 
