@@ -3286,14 +3286,14 @@
 *   [atari2600](#atari2600)
 *   [atari7800](#atari7800)
 *   [ds](#ds)
+*   [emulatorjs](#emulatorjs)
 *   [gameboy](#gameboy)
 *   [n64](#n64)
 *   [nes](#nes)
 *   [nintendo-game-boy](#nintendo-game-boy)
 *   [playstation](#playstation)
 *   [retroarch](#retroarch)
-*   [retroarch-cores](#retroarch-cores)
-*   [retroarch-web](#retroarch-web)
+*   [retroarch-wasm](#retroarch-wasm)
 *   [sega-cd](#sega-cd)
 *   [sega-mega-drive](#sega-mega-drive)
 *   [sega-saturn](#sega-saturn)
@@ -29915,6 +29915,10 @@
 
 *   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
 
+## emulatorjs
+
+*   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
+
 ## gameboy
 
 *   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
@@ -29943,11 +29947,7 @@
 *   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
 *   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 
-## retroarch-cores
-
-*   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
-
-## retroarch-web
+## retroarch-wasm
 
 *   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
 
