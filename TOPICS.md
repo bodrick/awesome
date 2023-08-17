@@ -172,8 +172,6 @@
 *   [douyin](#douyin)
 *   [dribbble](#dribbble)
 *   [instagram](#instagram)
-*   [iqiyi](#iqiyi)
-*   [jike](#jike)
 *   [juejin](#juejin)
 *   [pixiv](#pixiv)
 *   [rss](#rss)
@@ -4419,6 +4417,7 @@
 *   [webpack-configuration](#webpack-configuration)
 *   [crawler](#crawler)
 *   [downloader](#downloader)
+*   [iqiyi](#iqiyi)
 *   [qq](#qq)
 *   [tumblr](#tumblr)
 *   [youku](#youku)
@@ -10996,15 +10995,6 @@
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 *   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-
-## iqiyi
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-
-## jike
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 
 ## juejin
 
@@ -35558,6 +35548,10 @@
 *   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 *   [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
 *   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+
+## iqiyi
+
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
 ## qq
 
