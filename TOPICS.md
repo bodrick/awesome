@@ -645,11 +645,11 @@
 *   [hid](#hid)
 *   [usb-hid](#usb-hid)
 *   [authentication](#authentication)
+*   [authorization](#authorization)
 *   [container](#container)
 *   [decentralized](#decentralized)
 *   [home-assistant](#home-assistant)
 *   [home-automation](#home-automation)
-*   [llms](#llms)
 *   [mqtt](#mqtt)
 *   [oauth](#oauth)
 *   [observability](#observability)
@@ -1503,7 +1503,6 @@
 *   [ddd-patterns](#ddd-patterns)
 *   [patterns](#patterns)
 *   [authentik](#authentik)
-*   [authorization](#authorization)
 *   [oauth2](#oauth2)
 *   [oauth2-client](#oauth2-client)
 *   [oauth2-server](#oauth2-server)
@@ -1576,6 +1575,7 @@
 *   [gpt-4-api](#gpt-4-api)
 *   [llm-agent](#llm-agent)
 *   [llm-prompting](#llm-prompting)
+*   [llms](#llms)
 *   [openai-cli](#openai-cli)
 *   [openai-python](#openai-python)
 *   [mozilla-firefox](#mozilla-firefox)
@@ -15926,6 +15926,15 @@
 *   [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
 *   [ritterim/stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
 
+## authorization
+
+*   [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+*   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+*   [PolicyServer/PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) - Sample OSS version of PolicyServer
+*   [damienbod/AspNet6IdentityServer4AngularOidcFlows](https://github.com/damienbod/AspNet6IdentityServer4AngularOidcFlows) - OpenID Connect Code Flow PKCE /  Implicit Flow with Angular and ASP.NET Core 6 IdentityServer4
+*   [ritterim/stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
+
 ## container
 
 *   [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
@@ -15952,11 +15961,6 @@
 *   [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 *   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-
-## llms
-
-*   [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 
 ## mqtt
 
@@ -21435,14 +21439,6 @@
 
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 
-## authorization
-
-*   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
-*   [PolicyServer/PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) - Sample OSS version of PolicyServer
-*   [damienbod/AspNet6IdentityServer4AngularOidcFlows](https://github.com/damienbod/AspNet6IdentityServer4AngularOidcFlows) - OpenID Connect Code Flow PKCE /  Implicit Flow with Angular and ASP.NET Core 6 IdentityServer4
-*   [ritterim/stuntman](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.
-
 ## oauth2
 
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -21870,6 +21866,10 @@
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 
 ## llm-prompting
+
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
+
+## llms
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 
