@@ -130,6 +130,7 @@
 *   [csp](#csp)
 *   [csrf](#csrf)
 *   [entra](#entra)
+*   [microsoftentraid](#microsoftentraid)
 *   [microsoftidentity](#microsoftidentity)
 *   [msal](#msal)
 *   [nx](#nx)
@@ -9993,6 +9994,10 @@
 *   [damienbod/bff-aspnetcore-angular](https://github.com/damienbod/bff-aspnetcore-angular) - Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend
 
 ## entra
+
+*   [damienbod/bff-aspnetcore-angular](https://github.com/damienbod/bff-aspnetcore-angular) - Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend
+
+## microsoftentraid
 
 *   [damienbod/bff-aspnetcore-angular](https://github.com/damienbod/bff-aspnetcore-angular) - Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend
 
