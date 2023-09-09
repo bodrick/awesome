@@ -6,6 +6,51 @@
 
 *   [365](#365)
 *   [2000](#2000)
+*   [adguard](#adguard)
+*   [css](#css)
+*   [open-source](#open-source)
+*   [availability](#availability)
+*   [availability-checker](#availability-checker)
+*   [availability-monitor](#availability-monitor)
+*   [domain](#domain)
+*   [domain-access](#domain-access)
+*   [domain-controller](#domain-controller)
+*   [domain-name](#domain-name)
+*   [domains](#domains)
+*   [hosts](#hosts)
+*   [hosts-file](#hosts-file)
+*   [http-status-code](#http-status-code)
+*   [network](#network)
+*   [nslookup](#nslookup)
+*   [pyfunceble](#pyfunceble)
+*   [testing](#testing)
+*   [testing-tool](#testing-tool)
+*   [testing-tools](#testing-tools)
+*   [url](#url)
+*   [url-monitor](#url-monitor)
+*   [whois](#whois)
+*   [ad-blocker](#ad-blocker)
+*   [adblock](#adblock)
+*   [adblock-plus](#adblock-plus)
+*   [brave-browser](#brave-browser)
+*   [filterlist](#filterlist)
+*   [firefox](#firefox)
+*   [json](#json)
+*   [opera](#opera)
+*   [ublock-origin](#ublock-origin)
+*   [vivaldi](#vivaldi)
+*   [filter-list](#filter-list)
+*   [visual-studio-extension](#visual-studio-extension)
+*   [language-grammars](#language-grammars)
+*   [language-statistics](#language-statistics)
+*   [linguistic](#linguistic)
+*   [syntax-highlighting](#syntax-highlighting)
+*   [linter](#linter)
+*   [adblock-list](#adblock-list)
+*   [adblocker](#adblocker)
+*   [adblocking](#adblocking)
+*   [easylist](#easylist)
+*   [ublock](#ublock)
 *   [miscellaneous](#miscellaneous)
 *   [add-on](#add-on)
 *   [auto-scroll](#auto-scroll)
@@ -13,7 +58,6 @@
 *   [autopagerize](#autopagerize)
 *   [chrome](#chrome)
 *   [chrome-extension](#chrome-extension)
-*   [firefox](#firefox)
 *   [firefox-addon](#firefox-addon)
 *   [greasemonkey](#greasemonkey)
 *   [image-downloader](#image-downloader)
@@ -90,7 +134,6 @@
 *   [msal](#msal)
 *   [nx](#nx)
 *   [yarp](#yarp)
-*   [linter](#linter)
 *   [nodejs](#nodejs)
 *   [npm](#npm)
 *   [npm-package](#npm-package)
@@ -235,7 +278,6 @@
 *   [social](#social)
 *   [next-auth](#next-auth)
 *   [nextjs](#nextjs)
-*   [open-source](#open-source)
 *   [postgresql](#postgresql)
 *   [prisma](#prisma)
 *   [t3-stack](#t3-stack)
@@ -302,7 +344,6 @@
 *   [webrtc](#webrtc)
 *   [diagrams](#diagrams)
 *   [graph](#graph)
-*   [json](#json)
 *   [productivity](#productivity)
 *   [visualization](#visualization)
 *   [atlas](#atlas)
@@ -363,11 +404,8 @@
 *   [video](#video)
 *   [watch](#watch)
 *   [youtube-video](#youtube-video)
-*   [adblock](#adblock)
-*   [adblocker](#adblocker)
 *   [chromium](#chromium)
 *   [firefox-extension](#firefox-extension)
-*   [opera](#opera)
 *   [sponsorblock](#sponsorblock)
 *   [sponsored-segments](#sponsored-segments)
 *   [web-extension](#web-extension)
@@ -448,7 +486,6 @@
 *   [sort](#sort)
 *   [tasks](#tasks)
 *   [todo](#todo)
-*   [visual-studio-extension](#visual-studio-extension)
 *   [input](#input)
 *   [keyboard](#keyboard)
 *   [mouse](#mouse)
@@ -985,19 +1022,13 @@
 *   [yarn](#yarn)
 *   [yarnpkg](#yarnpkg)
 *   [highlighting](#highlighting)
-*   [language-grammars](#language-grammars)
 *   [syntax-highlighter](#syntax-highlighter)
-*   [syntax-highlighting](#syntax-highlighting)
-*   [adguard](#adguard)
 *   [ads](#ads)
 *   [blacklist](#blacklist)
 *   [blocklist](#blocklist)
 *   [coins](#coins)
 *   [dns](#dns)
-*   [domains](#domains)
 *   [fake](#fake)
-*   [filterlist](#filterlist)
-*   [hosts](#hosts)
 *   [malware](#malware)
 *   [metrics](#metrics)
 *   [phishing](#phishing)
@@ -1008,7 +1039,6 @@
 *   [tracking](#tracking)
 *   [adguard-dns](#adguard-dns)
 *   [adguard-home](#adguard-home)
-*   [adblock-list](#adblock-list)
 *   [pi-hole-blocklists](#pi-hole-blocklists)
 *   [pi-hole-lists](#pi-hole-lists)
 *   [pihole](#pihole)
@@ -1021,8 +1051,6 @@
 *   [ide](#ide)
 *   [remote-development](#remote-development)
 *   [remote-development-environment](#remote-development-environment)
-*   [filter-list](#filter-list)
-*   [ublock](#ublock)
 *   [eslint-config](#eslint-config)
 *   [dev-server](#dev-server)
 *   [dx](#dx)
@@ -1307,7 +1335,6 @@
 *   [userstyles-dark-theme](#userstyles-dark-theme)
 *   [userstyles-org](#userstyles-org)
 *   [website-themes](#website-themes)
-*   [css](#css)
 *   [custom-css](#custom-css)
 *   [dark-mode](#dark-mode)
 *   [docker-mods](#docker-mods)
@@ -1455,9 +1482,7 @@
 *   [test-driven-development](#test-driven-development)
 *   [test-framework](#test-framework)
 *   [test-runner](#test-runner)
-*   [testing](#testing)
 *   [testing-framework](#testing-framework)
-*   [testing-tools](#testing-tools)
 *   [testng](#testng)
 *   [tests](#tests)
 *   [uitesting](#uitesting)
@@ -1710,7 +1735,6 @@
 *   [volume-control](#volume-control)
 *   [volume-mixer](#volume-mixer)
 *   [anki](#anki)
-*   [digital-garden](#digital-garden)
 *   [evernote](#evernote)
 *   [knowledge-base](#knowledge-base)
 *   [local-first](#local-first)
@@ -2657,7 +2681,6 @@
 *   [tricks](#tricks)
 *   [devsecops](#devsecops)
 *   [mesh](#mesh)
-*   [network](#network)
 *   [virtual-network](#virtual-network)
 *   [virtual-networking](#virtual-networking)
 *   [vpn-server](#vpn-server)
@@ -3199,7 +3222,6 @@
 *   [mono](#mono)
 *   [localhost](#localhost)
 *   [tunnel](#tunnel)
-*   [hosts-file](#hosts-file)
 *   [optimize](#optimize)
 *   [registry-hacks](#registry-hacks)
 *   [registry-tweaks](#registry-tweaks)
@@ -3652,7 +3674,6 @@
 *   [serializer](#serializer)
 *   [xamarin](#xamarin)
 *   [business-rules](#business-rules)
-*   [domain](#domain)
 *   [domain-driven](#domain-driven)
 *   [entity](#entity)
 *   [rules](#rules)
@@ -4183,7 +4204,6 @@
 *   [changedetection](#changedetection)
 *   [restock](#restock)
 *   [restock-monitor](#restock-monitor)
-*   [url-monitor](#url-monitor)
 *   [website-change-detection](#website-change-detection)
 *   [website-change-detector](#website-change-detector)
 *   [website-change-monitor](#website-change-monitor)
@@ -4411,7 +4431,6 @@
 *   [windows-taskbar](#windows-taskbar)
 *   [local](#local)
 *   [photo](#photo)
-*   [ad-blocker](#ad-blocker)
 *   [adguardhome](#adguardhome)
 *   [docker-installation](#docker-installation)
 *   [pi-hole-setup](#pi-hole-setup)
@@ -4428,7 +4447,6 @@
 *   [flyway](#flyway)
 *   [hostfile](#hostfile)
 *   [ublock-list](#ublock-list)
-*   [adblocking](#adblocking)
 *   [blocking](#blocking)
 *   [pi-hole-ftl](#pi-hole-ftl)
 *   [anti-virus](#anti-virus)
@@ -5916,7 +5934,6 @@
 *   [traceroute](#traceroute)
 *   [wake-on-lan](#wake-on-lan)
 *   [web-console](#web-console)
-*   [whois](#whois)
 *   [dev-cpp](#dev-cpp)
 *   [latam](#latam)
 *   [maintenance-tool](#maintenance-tool)
@@ -6791,7 +6808,6 @@
 *   [free-for-developers](#free-for-developers)
 *   [drag-drop](#drag-drop)
 *   [dragging](#dragging)
-*   [ublock-origin](#ublock-origin)
 *   [otapi](#otapi)
 *   [terraria-api](#terraria-api)
 *   [terraria-server](#terraria-server)
@@ -7075,16 +7091,6 @@
 *   [full-sized](#full-sized)
 *   [logging-library](#logging-library)
 *   [csso](#csso)
-*   [prefixer](#prefixer)
-*   [loading-animation](#loading-animation)
-*   [loading-bar](#loading-bar)
-*   [loading-indicator](#loading-indicator)
-*   [pace](#pace)
-*   [pace-js](#pace-js)
-*   [progress-bar](#progress-bar)
-*   [asp-mvc](#asp-mvc)
-*   [iqueryable](#iqueryable)
-*   [jquery-datatables-plugin](#jquery-datatables-plugin)
 
 ## 365
 
@@ -7093,6 +7099,462 @@
 ## 2000
 
 *   [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
+
+## adguard
+
+*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [AdguardTeam/FiltersCompiler](https://github.com/AdguardTeam/FiltersCompiler) - A tool that compiles & validates filters
+*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
+*   [AdguardTeam/AGLint](https://github.com/AdguardTeam/AGLint) - Universal adblock filter list linter
+*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+*   [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
+*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+## css
+
+*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
+*   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+*   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+*   [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
+*   [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+*   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
+*   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
+*   [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
+*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Drop-in Bootstrap replacement, fully customizable with CSS variables.
+*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+*   [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
+*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
+*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
+*   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
+*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+*   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+*   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+*   [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
+*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+*   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+*   [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
+*   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_entry: A minimal JS library for showing & hiding things
+*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+*   [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
+*   [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+*   [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
+*   [chrisnager/cursors](https://github.com/chrisnager/cursors) - All available cursors
+*   [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [hakanersu/AmaranJS](https://github.com/hakanersu/AmaranJS) - Nice, sleek and stylish notifications.
+*   [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
+*   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+
+## open-source
+
+*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
+*   [AdguardTeam/FiltersCompiler](https://github.com/AdguardTeam/FiltersCompiler) - A tool that compiles & validates filters
+*   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+*   [shaikhsajid1111/facebook\_page\_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper) - Scrapes facebook's pages front end with no limitations & provides a feature to turn data into structured JSON or CSV
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
+*   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
+*   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
+*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+*   [HackerBCI/EEGwithRaspberryPI](https://github.com/HackerBCI/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
+*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
+*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
+*   [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
+*   [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
+*   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
+*   [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+*   [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+
+## availability
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## availability-checker
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## availability-monitor
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## domain
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates) - Some design approaches to enforcing a business rule requiring no duplicates. Domain driven design.
+
+## domain-access
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## domain-controller
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## domain-name
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## domains
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
+## hosts
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+
+## hosts-file
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+
+## http-status-code
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## network
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+*   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
+*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+*   [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
+*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
+
+## nslookup
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## pyfunceble
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## testing
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
+*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
+*   [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management, a dbt server, streamlit workbench, and git-integrated dbt model output diff tools
+*   [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
+*   [danielpalme/ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
+*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
+*   [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+*   [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
+*   [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
+*   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+*   [bonigarcia/selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) - JUnit 5 extension for Selenium WebDriver
+*   [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
+*   [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
+*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
+*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
+*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+*   [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
+*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
+*   [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
+*   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
+*   [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
+*   [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
+*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
+*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
+*   [tecnickcom/tcexam](https://github.com/tecnickcom/tcexam) - TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams.
+*   [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
+*   [dsheiko/autofill](https://github.com/dsheiko/autofill) - Bookmarklet to fill out forms when testing by simply clicking on it.
+
+## testing-tool
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## testing-tools
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
+*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
+*   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+*   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+*   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
+*   [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
+*   [dsheiko/autofill](https://github.com/dsheiko/autofill) - Bookmarklet to fill out forms when testing by simply clicking on it.
+
+## url
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+
+## url-monitor
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
+
+## whois
+
+*   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
+
+## ad-blocker
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
+*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+
+## adblock
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
+*   [AdguardTeam/AGLint](https://github.com/AdguardTeam/AGLint) - Universal adblock filter list linter
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
+*   [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+*   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
+
+## adblock-plus
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+
+## brave-browser
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+
+## filterlist
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+*   [evoluteur/structured-filter](https://github.com/evoluteur/structured-filter) - jQuery UI widget for structured queries like "Contacts where Firstname starts with A and Birthday before 1/1/2000 and State in (CA, NY, FL)"...
+
+## firefox
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
+*   [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
+*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+*   [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
+*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
+*   [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+*   [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
+*   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
+*   [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
+*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
+*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
+*   [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark\_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+*   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
+*   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
+*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
+*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+*   [marius-wieschollek/passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
+*   [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
+*   [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+*   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
+
+## json
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+*   [microsoft/json-document-transforms](https://github.com/microsoft/json-document-transforms) - JDT - Transform JSON files using a JSON transformation file
+*   [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+*   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+*   [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
+*   [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
+*   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
+*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+*   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
+*   [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
+*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+*   [ttu/dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) - Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
+*   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+*   [ServiceStack/ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
+*   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
+*   [jquery-form/form](https://github.com/jquery-form/form) - jQuery Form Plugin
+
+## opera
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
+*   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
+*   [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
+*   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
+
+## ublock-origin
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
+*   [AdguardTeam/AGLint](https://github.com/AdguardTeam/AGLint) - Universal adblock filter list linter
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+## vivaldi
+
+*   [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
+
+## filter-list
+
+*   [AdguardTeam/FiltersCompiler](https://github.com/AdguardTeam/FiltersCompiler) - A tool that compiles & validates filters
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+
+## visual-studio-extension
+
+*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
+*   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
+*   [christianhelle/apiclientcodegen](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio custom tool code generators for Swagger / OpenAPI specification files
+*   [ReMinoer/SubSolution](https://github.com/ReMinoer/SubSolution) - Read & edit .sln solution files with various tools: .Subsln files, Visual Studio plugin, command line tool & .NET libraries.
+*   [RandomEngy/UnitTestBoilerplateGenerator](https://github.com/RandomEngy/UnitTestBoilerplateGenerator) - An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
+*   [mattwhitfield/Unitverse](https://github.com/mattwhitfield/Unitverse) - A unit test generation extension for Visual Studio that aims to always produce code that compiles - covering the basic cases automatically and preparing as much as it can for the complex cases.
+*   [unchase/Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - :scroll: Visual Studio extension to generate OpenAPI (Swagger) web service reference.
+*   [VsixCommunity/Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit) - Making it easier to write Visual Studio extensions
+*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
+*   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
+*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
+*   [rionmonster/Glyphfriend](https://github.com/rionmonster/Glyphfriend) - Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio.
+*   [kspearrin/Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) - 130+ jQuery code snippets for Visual Studio 2012-2019.
+
+## language-grammars
+
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+
+## language-statistics
+
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+
+## linguistic
+
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+
+## syntax-highlighting
+
+*   [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+
+## linter
+
+*   [AdguardTeam/AGLint](https://github.com/AdguardTeam/AGLint) - Universal adblock filter list linter
+*   [tclindner/npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - Configurable linter for package.json files
+*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+*   [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
+*   [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
+*   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
+*   [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint) - Configurable linting for TSQL
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+*   [joereynolds/sql-lint](https://github.com/joereynolds/sql-lint) - An SQL linter
+*   [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
+*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+*   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+*   [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
+*   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
+*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+*   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+*   [twbs/bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projects
+
+## adblock-list
+
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+
+## adblocker
+
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
+*   [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
+
+## adblocking
+
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [mmotti/pihole-regex](https://github.com/mmotti/pihole-regex) - Custom regex filter list for use with Pi-hole.
+*   [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
+
+## easylist
+
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+
+## ublock
+
+*   [easylist/easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## miscellaneous
 
@@ -7135,7 +7597,7 @@
 *   [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
 *   [AvaloniaInside/Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require
 *   [RickStrahl/Westwind.Wpf.Statusbar](https://github.com/RickStrahl/Westwind.Wpf.Statusbar) - A small WPF library to provide animated status bar operations
-*   [PowerShell/DSC](https://github.com/PowerShell/DSC) -
+*   [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 *   [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
 *   [javerous/freshrss-greader-redate](https://github.com/javerous/freshrss-greader-redate) - FreshRSS extension to replace dates of the GReader API.
 *   [LibUsbDotNet/LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet) - My updates to LibUsbDotNet, an excellent library for cross-platform USB device control using Mono/.NET
@@ -8206,10 +8668,6 @@
 *   [StackExchange/StackExchange.DataExplorer](https://github.com/StackExchange/StackExchange.DataExplorer) - Stack Exchange Data Explorer
 *   [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 *   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
-*   [HubSpot/offline](https://github.com/HubSpot/offline) - Automatically display online/offline indication to your users
-*   [codepb/jquery-template](https://github.com/codepb/jquery-template) - A template plugin for jQuery. Allows templating without cluttering JavaScript code with markup. Simple, Concise yet powerful.
-*   [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-*   [scottjehl/Respond](https://github.com/scottjehl/Respond) - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
 
 ## add-on
 
@@ -8312,37 +8770,6 @@
 *   [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
 *   [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 *   [itsjavi/fontawesome-iconpicker](https://github.com/itsjavi/fontawesome-iconpicker) - Font Awesome Icon Picker component for Bootstrap.
-
-## firefox
-
-*   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
-*   [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
-*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-*   [xcv58/Tab-Manager-v2](https://github.com/xcv58/Tab-Manager-v2) - Quickly and conveniently manage your open tabs https://tab-manager.vercel.app
-*   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of a complete web page in a single HTML file
-*   [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-*   [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
-*   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
-*   [Alexays/Epiboard](https://github.com/Alexays/Epiboard) - Web Extension — A new tab page extension with material design and useful features :new: :tada:
-*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-*   [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark\_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
-*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-*   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
-*   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
-*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-*   [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
-*   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-*   [marius-wieschollek/passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
-*   [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
-*   [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-*   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 
 ## firefox-addon
 
@@ -8844,7 +9271,7 @@
 *   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 *   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
 *   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 *   [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 *   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 *   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
@@ -9333,7 +9760,7 @@
 *   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
 *   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 *   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 *   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 *   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 *   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
@@ -9587,35 +10014,6 @@
 
 *   [damienbod/bff-aspnetcore-angular](https://github.com/damienbod/bff-aspnetcore-angular) - Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend
 *   [berhir/AspNetCore.SpaYarp](https://github.com/berhir/AspNetCore.SpaYarp) - An alternative approach to the new ASP.NET Core SPA templates in .NET 6. It uses YARP as proxy to forward requests to the SPA dev server.
-
-## linter
-
-*   [tclindner/npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - Configurable linter for package.json files
-*   [fnando/vscode-linter](https://github.com/fnando/vscode-linter) - Extension for code linting, all in one package. New linters can be easily added through an extension framework.
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
-*   [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
-*   [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
-*   [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
-*   [tsqllint/tsqllint](https://github.com/tsqllint/tsqllint) - Configurable linting for TSQL
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
-*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-*   [joereynolds/sql-lint](https://github.com/joereynolds/sql-lint) - An SQL linter
-*   [google/gts](https://github.com/google/gts) - ☂️ TypeScript style guide, formatter, and linter.
-*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
-*   [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
-*   [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
-*   [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-*   [michaellzc/vscode-hadolint](https://github.com/michaellzc/vscode-hadolint) - VSCode extension to integrate hadolint, a Dockerfile linter, into VSCode
-*   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter and code transformer with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
-*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
-*   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-*   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-*   [twbs/bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projects
 
 ## nodejs
 
@@ -10222,7 +10620,6 @@
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 *   [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 *   [stacktracejs/stacktrace.js](https://github.com/stacktracejs/stacktrace.js) - Generate, parse, and enhance JavaScript stack traces in all web browsers
-*   [soundasleep/jquery-dropdown](https://github.com/soundasleep/jquery-dropdown) - Bootstrap-style dropdowns with some added features and no dependencies.
 
 ## lua
 
@@ -11946,7 +12343,7 @@
 *   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
 *   [daynix/UsbDk](https://github.com/daynix/UsbDk) - Usb Drivers Development Kit for Windows
 *   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 *   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -12059,7 +12456,7 @@
 *   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 *   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 *   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 *   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 *   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -12584,34 +12981,6 @@
 *   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 *   [ljosberinn/eslint-config-galex](https://github.com/ljosberinn/eslint-config-galex) - hopefully the last eslint config you'll ever need - customizable & modern best practices for JS, TS, Node, React, Remix, Next, Jest, testing-library & storybook
 *   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
-
-## open-source
-
-*   [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-*   [shaikhsajid1111/facebook\_page\_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper) - Scrapes facebook's pages front end with no limitations & provides a feature to turn data into structured JSON or CSV
-*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
-*   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
-*   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-*   [HackerBCI/EEGwithRaspberryPI](https://github.com/HackerBCI/EEGwithRaspberryPI) - Open-Source board for converting RaspberryPI to Brain-computer interface
-*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
-*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-*   [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
-*   [alphaonex86/Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...
-*   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
-*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
-*   [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-*   [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 
 ## postgresql
 
@@ -13358,29 +13727,6 @@
 *   [shutterstock/rickshaw](https://github.com/shutterstock/rickshaw) -  JavaScript toolkit for creating interactive real-time graphs
 *   [c3js/c3](https://github.com/c3js/c3) - :bar\_chart: A D3-based reusable chart library
 
-## json
-
-*   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-*   [microsoft/json-document-transforms](https://github.com/microsoft/json-document-transforms) - JDT - Transform JSON files using a JSON transformation file
-*   [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-*   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-*   [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()
-*   [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
-*   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
-*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-*   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
-*   [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
-*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
-*   [ttu/dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) - Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End.
-*   [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-*   [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-*   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - Source code for jsonlint.com
-*   [ServiceStack/ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
-*   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
-*   [jquery-form/form](https://github.com/jquery-form/form) - jQuery Form Plugin
-
 ## productivity
 
 *   [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -13984,25 +14330,6 @@
 *   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 *   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
-## adblock
-
-*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
-*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-*   [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
-*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-*   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
-*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
-
-## adblocker
-
-*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-*   [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
-
 ## chromium
 
 *   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
@@ -14037,14 +14364,6 @@
 *   [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 *   [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 *   [RetireJS/retire.js](https://github.com/RetireJS/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilities. Can also generate an SBOM of the libraries it finds.
-
-## opera
-
-*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-*   [ovity/octotree](https://github.com/ovity/octotree) - GitHub on steroids
-*   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
-*   [andryou/scriptsafe](https://github.com/andryou/scriptsafe) - a browser extension to bring security and privacy to chrome, firefox, and opera
-*   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 
 ## sponsorblock
 
@@ -14736,21 +15055,6 @@
 ## todo
 
 *   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
-
-## visual-studio-extension
-
-*   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
-*   [christianhelle/apiclientcodegen](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio custom tool code generators for Swagger / OpenAPI specification files
-*   [ReMinoer/SubSolution](https://github.com/ReMinoer/SubSolution) - Read & edit .sln solution files with various tools: .Subsln files, Visual Studio plugin, command line tool & .NET libraries.
-*   [RandomEngy/UnitTestBoilerplateGenerator](https://github.com/RandomEngy/UnitTestBoilerplateGenerator) - An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
-*   [mattwhitfield/Unitverse](https://github.com/mattwhitfield/Unitverse) - A unit test generation extension for Visual Studio that aims to always produce code that compiles - covering the basic cases automatically and preparing as much as it can for the complex cases.
-*   [unchase/Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - :scroll: Visual Studio extension to generate OpenAPI (Swagger) web service reference.
-*   [VsixCommunity/Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit) - Making it easier to write Visual Studio extensions
-*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
-*   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
-*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
-*   [rionmonster/Glyphfriend](https://github.com/rionmonster/Glyphfriend) - Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio.
-*   [kspearrin/Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) - 130+ jQuery code snippets for Visual Studio 2012-2019.
 
 ## input
 
@@ -16841,7 +17145,7 @@
 *   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
 *   [asterics/esp32\_mouse\_keyboard](https://github.com/asterics/esp32_mouse_keyboard) - ESP32 implementation for HID over GATT Keyboard and Mouse (Bluetooth Low Energy). Including serial API for external modules (similar to Adafruit EZKey HID)
 *   [mi4code/onscreen-hid](https://github.com/mi4code/onscreen-hid) - fully customizable onscreen keyboard and touchpad app written in python and HTML
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 *   [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper \[Alpha]
 *   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
 *   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
@@ -18259,7 +18563,6 @@
 *   [kspearrin/Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) - 130+ jQuery code snippets for Visual Studio 2012-2019.
 *   [rmariuzzo/checkboxes.js](https://github.com/rmariuzzo/checkboxes.js) - ☑️ A jQuery plugin that gives you nice powers over your checkboxes.
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-*   [soundasleep/jquery-dropdown](https://github.com/soundasleep/jquery-dropdown) - Bootstrap-style dropdowns with some added features and no dependencies.
 
 ## pager
 
@@ -18420,28 +18723,9 @@
 *   [tintoy/msbuild-project-tools-vscode](https://github.com/tintoy/msbuild-project-tools-vscode) - VS Code extension for MSBuild intellisense (including PackageReference completion).
 *   [olsh/resharper-structured-logging](https://github.com/olsh/resharper-structured-logging) - An extension for ReSharper and Rider that highlights structured logging templates and contains some useful analyzers
 
-## language-grammars
-
-*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-
 ## syntax-highlighter
 
 *   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-
-## syntax-highlighting
-
-*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-
-## adguard
-
-*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-*   [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
-*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-*   [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 
 ## ads
 
@@ -18475,25 +18759,10 @@
 *   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 *   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 
-## domains
-
-*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-
 ## fake
 
 *   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 *   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-
-## filterlist
-
-*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-*   [evoluteur/structured-filter](https://github.com/evoluteur/structured-filter) - jQuery UI widget for structured queries like "Contacts where Firstname starts with A and Birthday before 1/1/2000 and State in (CA, NY, FL)"...
-
-## hosts
-
-*   [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## malware
 
@@ -18553,10 +18822,6 @@
 ## adguard-home
 
 *   [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
-
-## adblock-list
-
-*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 
 ## pi-hole-blocklists
 
@@ -18649,15 +18914,6 @@
 ## remote-development-environment
 
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-
-## filter-list
-
-*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-
-## ublock
-
-*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## eslint-config
 
@@ -19058,7 +19314,7 @@
 *   [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 *   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
 *   [GermanAizek/WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 *   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 *   [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 *   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
@@ -19220,7 +19476,6 @@
 ## wiki
 
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 *   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
 *   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 *   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -19250,7 +19505,6 @@
 *   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 *   [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 *   [linq2db/linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
-*   [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
 
 ## parser
 
@@ -20424,62 +20678,6 @@
 
 *   [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
 
-## css
-
-*   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
-*   [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
-*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
-*   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-*   [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
-*   [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
-*   [csstools/sanitize.css](https://github.com/csstools/sanitize.css) - A best-practices CSS foundation
-*   [elad2412/the-new-css-reset](https://github.com/elad2412/the-new-css-reset) - The New Simple and Lighter CSS Reset
-*   [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
-*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-*   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Drop-in Bootstrap replacement, fully customizable with CSS variables.
-*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
-*   [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
-*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
-*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
-*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-*   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
-*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
-*   [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-*   [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-*   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-*   [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
-*   [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-*   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-*   [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
-*   [peduarte/wallop](https://github.com/peduarte/wallop) - :no\_entry: currently unmaintained :no\_entry: A minimal JS library for showing & hiding things
-*   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
-*   [prettydiff/prettydiff](https://github.com/prettydiff/prettydiff) - Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things.
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-*   [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
-*   [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-*   [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
-*   [chrisnager/cursors](https://github.com/chrisnager/cursors) - All available cursors
-*   [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-*   [hakanersu/AmaranJS](https://github.com/hakanersu/AmaranJS) - Nice, sleek and stylish notifications.
-*   [addyosmani/critical](https://github.com/addyosmani/critical) - Extract & Inline Critical-path CSS in HTML pages
-*   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
-*   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
-
 ## custom-css
 
 *   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -21415,55 +21613,9 @@
 *   [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 *   [Nike-Inc/burnside](https://github.com/Nike-Inc/burnside) - Fast and Reliable E2E Web Testing with only Javascript
 
-## testing
-
-*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
-*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
-*   [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management, a dbt server, streamlit workbench, and git-integrated dbt model output diff tools
-*   [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
-*   [danielpalme/ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
-*   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
-*   [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
-*   [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
-*   [cypress-io/cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
-*   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2023)
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-*   [bonigarcia/selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) - JUnit 5 extension for Selenium WebDriver
-*   [ChangemakerStudios/Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
-*   [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
-*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
-*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
-*   [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
-*   [checkly/puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
-*   [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
-*   [developit/karmatic](https://github.com/developit/karmatic) - 🦑 Easy automatic (headless) browser testing with Jest's API, but powered by Karma & Webpack.
-*   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
-*   [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
-*   [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
-*   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
-*   [tecnickcom/tcexam](https://github.com/tecnickcom/tcexam) - TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams.
-*   [theintern/intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
-*   [dsheiko/autofill](https://github.com/dsheiko/autofill) - Bookmarklet to fill out forms when testing by simply clicking on it.
-
 ## testing-framework
 
 *   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
-
-## testing-tools
-
-*   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
-*   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
-*   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
-*   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-*   [DevExpress/testcafe](https://github.com/DevExpress/testcafe) - A Node.js tool to automate end-to-end web testing.
-*   [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
-*   [dsheiko/autofill](https://github.com/dsheiko/autofill) - Bookmarklet to fill out forms when testing by simply clicking on it.
 
 ## testng
 
@@ -21825,7 +21977,6 @@
 *   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 *   [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-*   [soundasleep/jquery-dropdown](https://github.com/soundasleep/jquery-dropdown) - Bootstrap-style dropdowns with some added features and no dependencies.
 
 ## droptop
 
@@ -22488,7 +22639,7 @@
 ## dualshock4
 
 *   [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 
 ## gamepad
 
@@ -22633,7 +22784,6 @@
 ## gpt-35-turbo
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
-*   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## gpt-4-api
 
@@ -22718,7 +22868,7 @@
 *   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 *   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 *   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 
 ## native
 
@@ -22921,10 +23071,6 @@
 *   [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
 
 ## anki
-
-*   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-
-## digital-garden
 
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
@@ -23156,7 +23302,7 @@
 *   [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 *   [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 *   [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 *   [EmulatorJS/EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
 *   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
@@ -25586,11 +25732,11 @@
 
 ## bus-driver
 
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 
 ## xbox360-controller
 
-*   [ViGEm/ViGEmBus](https://github.com/ViGEm/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 
 ## input-output
 
@@ -27841,16 +27987,6 @@
 ## mesh
 
 *   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-
-## network
-
-*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-*   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
-*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-*   [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
-*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
 
 ## virtual-network
 
@@ -30527,10 +30663,6 @@
 *   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 *   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 
-## hosts-file
-
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-
 ## optimize
 
 *   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
@@ -32549,10 +32681,6 @@
 *   [NLog/NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
 
 ## business-rules
-
-*   [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates) - Some design approaches to enforcing a business rule requiring no duplicates. Domain driven design.
-
-## domain
 
 *   [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates) - Some design approaches to enforcing a business rule requiring no duplicates. Domain driven design.
 
@@ -35054,10 +35182,6 @@
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
 
-## url-monitor
-
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
-
 ## website-change-detection
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
@@ -35451,7 +35575,7 @@
 ## mmorpg
 
 *   [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 
 ## server-emulator
 
@@ -36097,14 +36221,6 @@
 
 *   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 
-## ad-blocker
-
-*   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-*   [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
-*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-
 ## adguardhome
 
 *   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
@@ -36171,11 +36287,6 @@
 ## ublock-list
 
 *   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-
-## adblocking
-
-*   [mmotti/pihole-regex](https://github.com/mmotti/pihole-regex) - Custom regex filter list for use with Pi-hole.
-*   [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 
 ## blocking
 
@@ -42705,11 +42816,6 @@
 
 *   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
-## whois
-
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
-*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
-
 ## dev-cpp
 
 *   [ManuelGil/Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
@@ -43526,7 +43632,6 @@
 *   [filamentgroup/tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
 *   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 *   [ALMMa/datatables.aspnet](https://github.com/ALMMa/datatables.aspnet) - Microsoft AspNet bindings and automatic parsing for jQuery DataTables along with extension methods to help on data queries.
-*   [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
 
 ## datepicker
 
@@ -45344,17 +45449,17 @@
 
 ## multiplayer
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 *   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 *   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
 
 ## trinitycore
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 
 ## wow
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51237, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51261, 3.3.5 = 3.3.5a.12340)
 
 ## game-engine-3d
 
@@ -46125,7 +46230,6 @@
 ## postcss-plugins
 
 *   [masaakim/stylefmt](https://github.com/masaakim/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
-*   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
 
 ## video-streaming
 
@@ -46340,10 +46444,6 @@
 ## dragging
 
 *   [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok\_hand: Drag and drop so simple it hurts
-
-## ublock-origin
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## otapi
 
@@ -47484,43 +47584,3 @@
 ## csso
 
 *   [t32k/grunt-csso](https://github.com/t32k/grunt-csso) - Minify CSS files with CSSO.
-
-## prefixer
-
-*   [postcss/autoprefixer](https://github.com/postcss/autoprefixer) -  Parse CSS and add vendor prefixes to rules by Can I Use
-
-## loading-animation
-
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-
-## loading-bar
-
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-
-## loading-indicator
-
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-
-## pace
-
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-
-## pace-js
-
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-
-## progress-bar
-
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-
-## asp-mvc
-
-*   [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
-
-## iqueryable
-
-*   [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
-
-## jquery-datatables-plugin
-
-*   [mcintyre321/mvc.jquery.datatables](https://github.com/mcintyre321/mvc.jquery.datatables) - ASP MVC Helpers for connecting IQueryables with the amazing DataTables.net plugin
