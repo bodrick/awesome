@@ -1296,7 +1296,9 @@
 *   [hdd](#hdd)
 *   [nvme](#nvme)
 *   [ssd](#ssd)
+*   [sdl](#sdl)
 *   [sdl2](#sdl2)
+*   [sdl3](#sdl3)
 *   [controlzex](#controlzex)
 *   [fluentribbon](#fluentribbon)
 *   [icon-pack](#icon-pack)
@@ -8868,13 +8870,13 @@
 *   [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 *   [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 *   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 
 ## llms
 
 *   [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## nlp
 
@@ -9170,7 +9172,7 @@
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 *   [mspnp/AzureNamingTool](https://github.com/mspnp/AzureNamingTool) - The Azure Naming Tool is a .NET 7 Blazor application, with a RESTful API. The UI consists of several pages to allow the configuration and generation of Azure Resource names. The API provides a programmatic interface for the functionality.
 *   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 *   [MethodsAndPractices/vsteam](https://github.com/MethodsAndPractices/vsteam) - PowerShell module for accessing Azure DevOps Services and Azure DevOps Server (formerly VSTS or TFS)
 *   [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 *   [jchristn/BlobHelper](https://github.com/jchristn/BlobHelper) - BlobHelper is a common, consistent storage interface for Microsoft Azure, Amazon S3, Komodo, Kvpbase, and local filesystem written in C#.
@@ -9193,7 +9195,7 @@
 *   [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 *   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 *   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 *   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
 *   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -12622,6 +12624,7 @@
 ## hacktoberfest
 
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+*   [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
 *   [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨
 *   [microsoft/accessibility-insights-windows](https://github.com/microsoft/accessibility-insights-windows) - Accessibility Insights for Windows
 *   [AvaloniaUI/Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
@@ -12657,6 +12660,7 @@
 *   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 *   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 *   [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
+*   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 *   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 *   [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -
@@ -12687,6 +12691,7 @@
 *   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
 *   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 *   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
+*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 *   [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 *   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 *   [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -13971,6 +13976,7 @@
 *   [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generate and run CLI
 *   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Use any LLM as a drop in replacement for GPT. Use Azure, OpenAI, Cohere, Anthropic, Ollama, VLLM, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 
 ## dashboard
 
@@ -15890,7 +15896,7 @@
 *   [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 *   [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 *   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 *   [IgnoranceAI/hugh](https://github.com/IgnoranceAI/hugh) - A voice-powered AI built with Whisper, ChatGPT, and ElevenLabs
 *   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 *   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
@@ -15950,7 +15956,6 @@
 *   [rr-wfm/MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) - An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
 *   [microsoft/VSConfigFinder](https://github.com/microsoft/VSConfigFinder) - Locate Visual Studio installation configuration files (.vsconfigs) downstream recursively and merge them all together
 *   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [ReMinoer/SubSolution](https://github.com/ReMinoer/SubSolution) - Read & edit .sln solution files with various tools: .Subsln files, Visual Studio plugin, command line tool & .NET libraries.
 *   [mattwhitfield/Unitverse](https://github.com/mattwhitfield/Unitverse) - A unit test generation extension for Visual Studio that aims to always produce code that compiles - covering the basic cases automatically and preparing as much as it can for the complex cases.
 *   [unchase/Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - :scroll: Visual Studio extension to generate OpenAPI (Swagger) web service reference.
@@ -16577,7 +16582,7 @@
 
 *   [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
 
 ## windowscontainers
@@ -16732,7 +16737,7 @@
 *   [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 *   [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -16760,7 +16765,7 @@
 ## azure-openai
 
 *   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 *   [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
 
 ## gpt3
@@ -16796,12 +16801,12 @@
 
 ## gpt-4
 
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 *   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 *   [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -17435,7 +17440,7 @@
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## readme-stats
@@ -18547,6 +18552,7 @@
 ## sysadmin
 
 *   [FranciscoNabas/WindowsUtils](https://github.com/FranciscoNabas/WindowsUtils) - PowerShell module to aid Windows computers administration.
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 *   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 
@@ -20596,10 +20602,18 @@
 
 *   [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 
+## sdl
+
+*   [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
+
 ## sdl2
 
 *   [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+
+## sdl3
+
+*   [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 
 ## controlzex
 
@@ -22374,7 +22388,7 @@
 ## readme
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -22389,13 +22403,13 @@
 ## readme-md
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
 ## readme-template
 
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 *   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 
@@ -23644,47 +23658,47 @@
 
 ## auto-documentation
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## auto-readme
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## automated-documentation
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## automated-readme
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## awesome-readme
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## badge-generator
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## chatgpt-python
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## gpt-35-turbo
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## gpt-4-api
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## llm-agent
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## openai-python
 
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 
 ## mozilla-firefox
 

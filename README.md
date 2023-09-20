@@ -450,6 +450,7 @@
 *   [xceedsoftware/DocX](https://github.com/xceedsoftware/DocX) - Fast and easy to use .NET library that creates or modifies Microsoft Word files without installing Word.
 *   [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 *   [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
 *   [ironmansoftware/code-conversion](https://github.com/ironmansoftware/code-conversion) - Code conversion command line tool for PowerShell and C#
 *   [jmalarcon/DotNetVersions](https://github.com/jmalarcon/DotNetVersions) - Command line tool that shows the currently installed "classic" .NET versions in your system
@@ -2128,7 +2129,7 @@
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [mi4code/onscreen-hid](https://github.com/mi4code/onscreen-hid) - fully customizable onscreen keyboard and touchpad app written in python and HTML
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Auto-generate beautiful README files. Powered by OpenAI's GPT LLMs 💫
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files. Powered by OpenAI's GPT language model APIs 💫
 *   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 *   [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
@@ -2298,7 +2299,7 @@
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 *   [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
 *   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain.
 *   [PowerShell/DSC-Samples](https://github.com/PowerShell/DSC-Samples) - Samples and tutorials for DSC v3
 *   [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
 *   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
@@ -2447,7 +2448,6 @@
 *   [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
 *   [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 *   [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - A set of PowerShell 7.x tools for automating script and module development.
 *   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
 *   [Jaykul/BetterCredentials](https://github.com/Jaykul/BetterCredentials) - A wrapper for Get-Credential offering options that it should have offered
