@@ -6,8 +6,67 @@
 
 *   [365](#365)
 *   [2000](#2000)
-*   [rdp](#rdp)
+*   [miscellaneous](#miscellaneous)
+*   [cross-platform](#cross-platform)
+*   [interception-driver](#interception-driver)
+*   [keyboard](#keyboard)
+*   [keyboard-layout](#keyboard-layout)
+*   [linux](#linux)
+*   [mouse](#mouse)
+*   [mouse-emulation](#mouse-emulation)
 *   [rust](#rust)
+*   [windows](#windows)
+*   [autohotkey](#autohotkey)
+*   [colemak](#colemak)
+*   [dvorak](#dvorak)
+*   [karabiner](#karabiner)
+*   [layout](#layout)
+*   [mapping](#mapping)
+*   [modifiers](#modifiers)
+*   [qmk](#qmk)
+*   [tmk](#tmk)
+*   [workman](#workman)
+*   [neo-layout](#neo-layout)
+*   [command-line-arguments](#command-line-arguments)
+*   [double-click](#double-click)
+*   [fix](#fix)
+*   [performant](#performant)
+*   [tray-application](#tray-application)
+*   [windows-10](#windows-10)
+*   [windows-7](#windows-7)
+*   [bios](#bios)
+*   [boost](#boost)
+*   [debloat](#debloat)
+*   [decrease](#decrease)
+*   [fps](#fps)
+*   [gaming](#gaming)
+*   [guide](#guide)
+*   [increase](#increase)
+*   [input](#input)
+*   [lag](#lag)
+*   [latency](#latency)
+*   [milliseconds](#milliseconds)
+*   [optimization](#optimization)
+*   [overclock](#overclock)
+*   [pc](#pc)
+*   [performance](#performance)
+*   [ping](#ping)
+*   [tweak](#tweak)
+*   [artemis](#artemis)
+*   [hacktoberfest](#hacktoberfest)
+*   [rgb](#rgb)
+*   [rgb-leds](#rgb-leds)
+*   [rgb-perhipherals](#rgb-perhipherals)
+*   [asus](#asus)
+*   [aura](#aura)
+*   [macos](#macos)
+*   [msi-mystic-light](#msi-mystic-light)
+*   [open](#open)
+*   [rgb-controller](#rgb-controller)
+*   [rgb-devices](#rgb-devices)
+*   [smbus](#smbus)
+*   [source](#source)
+*   [rdp](#rdp)
 *   [android](#android)
 *   [c](#c)
 *   [freerdp](#freerdp)
@@ -22,7 +81,6 @@
 *   [xaml](#xaml)
 *   [xaml-source](#xaml-source)
 *   [xaml-styler](#xaml-styler)
-*   [miscellaneous](#miscellaneous)
 *   [api](#api)
 *   [detour](#detour)
 *   [hooking](#hooking)
@@ -119,8 +177,6 @@
 *   [desktop](#desktop)
 *   [remote](#remote)
 *   [remote-control](#remote-control)
-*   [windows](#windows)
-*   [windows-10](#windows-10)
 *   [windows-11](#windows-11)
 *   [asdf-vm](#asdf-vm)
 *   [cli](#cli)
@@ -173,7 +229,6 @@
 *   [wsl](#wsl)
 *   [automation](#automation)
 *   [collection](#collection)
-*   [cross-platform](#cross-platform)
 *   [powershell-scripts](#powershell-scripts)
 *   [ps1](#ps1)
 *   [scripts](#scripts)
@@ -300,7 +355,6 @@
 *   [cpp](#cpp)
 *   [dlang](#dlang)
 *   [go](#go)
-*   [hacktoberfest](#hacktoberfest)
 *   [haskell](#haskell)
 *   [ispc](#ispc)
 *   [rust-lang](#rust-lang)
@@ -424,8 +478,6 @@
 *   [events](#events)
 *   [iokit](#iokit)
 *   [libudev](#libudev)
-*   [linux](#linux)
-*   [macos](#macos)
 *   [net-standard](#net-standard)
 *   [wmi](#wmi)
 *   [avalonia](#avalonia)
@@ -522,12 +574,7 @@
 *   [visualization](#visualization)
 *   [atlas](#atlas)
 *   [atlasos](#atlasos)
-*   [debloat](#debloat)
-*   [fps](#fps)
-*   [gaming](#gaming)
-*   [latency](#latency)
 *   [opensource](#opensource)
-*   [performance](#performance)
 *   [firefox-config](#firefox-config)
 *   [batch](#batch)
 *   [reg-own](#reg-own)
@@ -653,9 +700,6 @@
 *   [region](#region)
 *   [sort](#sort)
 *   [todo](#todo)
-*   [input](#input)
-*   [keyboard](#keyboard)
-*   [mouse](#mouse)
 *   [directinput](#directinput)
 *   [game-controller](#game-controller)
 *   [xinput](#xinput)
@@ -710,6 +754,10 @@
 *   [metagpt](#metagpt)
 *   [datagrid](#datagrid)
 *   [treedatagrid](#treedatagrid)
+*   [hac](#hac)
+*   [playwright](#playwright)
+*   [playwright-dotnet](#playwright-dotnet)
+*   [xunit](#xunit)
 *   [azure-openai-proxy](#azure-openai-proxy)
 *   [cloudflare-workers](#cloudflare-workers)
 *   [gpt-3](#gpt-3)
@@ -988,7 +1036,6 @@
 *   [conversion](#conversion)
 *   [lab-color](#lab-color)
 *   [palette](#palette)
-*   [rgb](#rgb)
 *   [camelot](#camelot)
 *   [commander](#commander)
 *   [csharp-code](#csharp-code)
@@ -1347,7 +1394,6 @@
 *   [header-only](#header-only)
 *   [logging](#logging)
 *   [memory-profiler](#memory-profiler)
-*   [optimization](#optimization)
 *   [profiler](#profiler)
 *   [profiling](#profiling)
 *   [xpath](#xpath)
@@ -1380,7 +1426,6 @@
 *   [winuicommunity](#winuicommunity)
 *   [color](#color)
 *   [customization](#customization)
-*   [autohotkey](#autohotkey)
 *   [dwm](#dwm)
 *   [fancyzones](#fancyzones)
 *   [gridmove](#gridmove)
@@ -1642,7 +1687,6 @@
 *   [autotext](#autotext)
 *   [hotkeys](#hotkeys)
 *   [toolbars](#toolbars)
-*   [mapping](#mapping)
 *   [visual-studio-installation](#visual-studio-installation)
 *   [2fa](#2fa)
 *   [linux-firewall](#linux-firewall)
@@ -2306,7 +2350,6 @@
 *   [intel](#intel)
 *   [laptop](#laptop)
 *   [mobile](#mobile)
-*   [overclock](#overclock)
 *   [overclocking](#overclocking)
 *   [power-control](#power-control)
 *   [ryzen](#ryzen)
@@ -2412,7 +2455,6 @@
 *   [sles](#sles)
 *   [windows-subsystem-for-linux](#windows-subsystem-for-linux)
 *   [camera](#camera)
-*   [mouse-emulation](#mouse-emulation)
 *   [wxwidgets](#wxwidgets)
 *   [gitpython](#gitpython)
 *   [manim](#manim)
@@ -2672,7 +2714,6 @@
 *   [on-screen-keyboard-source-code](#on-screen-keyboard-source-code)
 *   [on-screen-wordboard](#on-screen-wordboard)
 *   [osk-source-code](#osk-source-code)
-*   [windows-7](#windows-7)
 *   [java-robot](#java-robot)
 *   [keyboards](#keyboards)
 *   [mouse-pointer](#mouse-pointer)
@@ -2681,7 +2722,6 @@
 *   [otg](#otg)
 *   [raspberry-pi-zero-w](#raspberry-pi-zero-w)
 *   [virtual-devices](#virtual-devices)
-*   [asus](#asus)
 *   [coolermaster](#coolermaster)
 *   [corsair](#corsair)
 *   [dota2](#dota2)
@@ -2693,7 +2733,6 @@
 *   [overwatch](#overwatch)
 *   [razer](#razer)
 *   [razer-chroma](#razer-chroma)
-*   [rgb-perhipherals](#rgb-perhipherals)
 *   [steelseries](#steelseries)
 *   [wooting](#wooting)
 *   [yeelight](#yeelight)
@@ -2886,7 +2925,6 @@
 *   [keyboard-firmware](#keyboard-firmware)
 *   [keyboard-support](#keyboard-support)
 *   [olkb](#olkb)
-*   [qmk](#qmk)
 *   [digital](#digital)
 *   [kiosk](#kiosk)
 *   [screen-keyboard](#screen-keyboard)
@@ -2915,7 +2953,6 @@
 *   [cctray](#cctray)
 *   [cd-pipelines](#cd-pipelines)
 *   [teamcity](#teamcity)
-*   [tray-application](#tray-application)
 *   [rdp-gateway](#rdp-gateway)
 *   [ssh-gateway](#ssh-gateway)
 *   [amqp](#amqp)
@@ -3020,7 +3057,6 @@
 *   [teamviewer](#teamviewer)
 *   [vnc](#vnc)
 *   [codegen](#codegen)
-*   [source](#source)
 *   [explorer-integration](#explorer-integration)
 *   [posh-git](#posh-git)
 *   [repositories](#repositories)
@@ -3129,7 +3165,6 @@
 *   [uml-diagrams](#uml-diagrams)
 *   [pdf-viewer](#pdf-viewer)
 *   [drop](#drop)
-*   [fix](#fix)
 *   [extract](#extract)
 *   [extract-files](#extract-files)
 *   [install-script](#install-script)
@@ -3304,7 +3339,6 @@
 *   [dotnet-maui](#dotnet-maui)
 *   [dotnetmaui](#dotnetmaui)
 *   [orleans](#orleans)
-*   [playwright](#playwright)
 *   [playwright-typescript](#playwright-typescript)
 *   [signalr](#signalr)
 *   [config](#config)
@@ -3461,7 +3495,6 @@
 *   [persistence](#persistence)
 *   [secure-boot](#secure-boot)
 *   [unattended](#unattended)
-*   [bios](#bios)
 *   [boot](#boot)
 *   [bootable-drives](#bootable-drives)
 *   [freedos](#freedos)
@@ -3508,7 +3541,6 @@
 *   [log-monitor](#log-monitor)
 *   [log-viewer](#log-viewer)
 *   [gapps](#gapps)
-*   [open](#open)
 *   [opengapps](#opengapps)
 *   [xda](#xda)
 *   [support](#support)
@@ -3627,7 +3659,6 @@
 *   [wipe](#wipe)
 *   [ltsc](#ltsc)
 *   [sophia-script](#sophia-script)
-*   [tweak](#tweak)
 *   [coding-guidelines](#coding-guidelines)
 *   [visual-basic](#visual-basic)
 *   [angularjs](#angularjs)
@@ -3953,7 +3984,6 @@
 *   [sonoff](#sonoff)
 *   [tuya](#tuya)
 *   [bazarr](#bazarr)
-*   [guide](#guide)
 *   [nzbget](#nzbget)
 *   [nzbget-script](#nzbget-script)
 *   [guidance](#guidance)
@@ -5045,7 +5075,6 @@
 *   [dota-2](#dota-2)
 *   [gta](#gta)
 *   [hotline-miami](#hotline-miami)
-*   [aura](#aura)
 *   [novation](#novation)
 *   [html-webpack-plugin](#html-webpack-plugin)
 *   [application-manager](#application-manager)
@@ -6431,7 +6460,7 @@
 *   [recipe](#recipe)
 *   [revision](#revision)
 *   [cachet](#cachet)
-*   [composer](#composer)
+*   [statuspages](#statuspages)
 *   [hack](#hack)
 *   [windows-hacks](#windows-hacks)
 *   [windowsapi](#windowsapi)
@@ -6566,7 +6595,6 @@
 *   [system-architecture](#system-architecture)
 *   [bgp](#bgp)
 *   [looking-glass](#looking-glass)
-*   [ping](#ping)
 *   [latin](#latin)
 *   [sans-serif](#sans-serif)
 *   [sans-serif-typeface](#sans-serif-typeface)
@@ -6619,7 +6647,6 @@
 *   [url-builder](#url-builder)
 *   [html5-charts](#html5-charts)
 *   [golden-layout](#golden-layout)
-*   [layout](#layout)
 *   [gerrit-mirror](#gerrit-mirror)
 *   [cba](#cba)
 *   [cbt](#cbt)
@@ -6639,7 +6666,6 @@
 *   [build-automation-tool](#build-automation-tool)
 *   [cake-build](#cake-build)
 *   [nunit](#nunit)
-*   [xunit](#xunit)
 *   [differentiation](#differentiation)
 *   [fft](#fft)
 *   [interpolation](#interpolation)
@@ -7145,12 +7171,6 @@
 *   [feature-detection](#feature-detection)
 *   [modernizr](#modernizr)
 *   [automatic-binders](#automatic-binders)
-*   [nancy-application](#nancy-application)
-*   [nancyfx](#nancyfx)
-*   [aspnet-webpages](#aspnet-webpages)
-*   [nomvc](#nomvc)
-*   [checkboxes](#checkboxes)
-*   [multiple-select](#multiple-select)
 
 ## 365
 
@@ -7160,274 +7180,10 @@
 
 *   [nicholas-ochoa/OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - OpenSC2K - An Open Source remake of Sim City 2000 by Maxis
 
-## rdp
-
-*   [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
-*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-*   [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
-*   [Terminals-Origin/Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-## rust
-
-*   [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
-*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-*   [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-*   [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
-*   [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
-*   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-*   [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
-*   [danstiner/rust-u2f](https://github.com/danstiner/rust-u2f) - U2F security token emulator written in Rust
-*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-*   [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-*   [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-## android
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
-*   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
-*   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-*   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
-*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
-*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
-*   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-*   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-*   [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
-*   [raphtlw/symbit](https://github.com/raphtlw/symbit) - A simple root manager for Android devices without TWRP
-*   [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
-*   [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
-*   [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
-*   [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
-*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
-*   [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
-*   [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) - 🔪Swiss-army knife for Android testing and development 🔪 ⛺
-*   [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
-*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [marius-wieschollek/passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
-*   [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
-*   [NielsMasdorp/Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) - \[Not maintained] Android application powering a magic mirror.
-*   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
-*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
-
-## c
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-*   [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
-*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-*   [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
-*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
-*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
-*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
-*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
-*   [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
-*   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
-*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
-*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-*   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
-*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
-*   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
-*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
-*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
-*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
-*   [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
-*   [szechyjs/mbelib](https://github.com/szechyjs/mbelib) - P25 Phase 1 and ProVoice vocoder
-*   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
-
-## freerdp
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-
-## library
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [AderitoSilva/XInputium](https://github.com/AderitoSilva/XInputium) - The elemental XInput library for .NET.
-*   [itext/itext7-dotnet](https://github.com/itext/itext7-dotnet) - iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enha
-*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-*   [Nyrest/FastGenericNew](https://github.com/Nyrest/FastGenericNew) - The ultimate fast alternative to Activator.CreateInstance\<T> / new T()
-*   [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-*   [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
-*   [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
-*   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
-*   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
-*   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
-*   [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
-*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-*   [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
-*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
-*   [Mevrael/bunny](https://github.com/Mevrael/bunny) - BunnyJS - Lightweight native (vanilla) JavaScript (JS) and ECMAScript 6 (ES6) browser library, package of small stand-alone components without dependencies: FormData, upload, image preview, HTML5 validation, Autocomplete, Dropdown, Calendar, Datepicker, Ajax, Datatable, Pagination, URL, Template engine, Element positioning, smooth scrolling, routing, inversion of control and more. Simple syntax and architecture. Next generation jQuery and front-end framework. Documentation and examples available.
-*   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
-*   [WesSouza/calendar-base](https://github.com/WesSouza/calendar-base) - Base methods for generating calendars using JavaScript.
-*   [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
-
-## remote-desktop
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
-*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-*   [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
-*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
-*   [Ulterius/server](https://github.com/Ulterius/server) - \[WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood:
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-## wiki
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
-*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-*   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-*   [roadkillwiki/roadkill](https://github.com/roadkillwiki/roadkill) - A modern .NET Wiki
-
-## jetbrains-rider
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
-
-## uwp
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-*   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP applications. Seamlessly view and manipulate UI elements and their properties in real time.
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-*   [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
-*   [CommunityToolkit/Labs-Windows](https://github.com/CommunityToolkit/Labs-Windows) - A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.
-*   [CommunityToolkit/Microsoft.Toolkit.Win32](https://github.com/CommunityToolkit/Microsoft.Toolkit.Win32) - ARCHIVE - This repository contained XAML Islands wrapper controls and tooling for XAML Islands with WinUI 2, see readme for more info about XAML Islands with WinUI 3 and the WindowsAppSDK.
-*   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
-*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
-*   [smourier/TraceSpy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
-*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
-*   [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
-*   [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
-*   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
-*   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
-*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
-*   [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-## uwp-applications
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-
-## uwp-apps
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-*   [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
-*   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-
-## visual-studio-extension
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
-*   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
-*   [christianhelle/apiclientcodegen](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio custom tool code generators for Swagger / OpenAPI specification files
-*   [ReMinoer/SubSolution](https://github.com/ReMinoer/SubSolution) - Read & edit .sln solution files with various tools: .Subsln files, Visual Studio plugin, command line tool & .NET libraries.
-*   [RandomEngy/UnitTestBoilerplateGenerator](https://github.com/RandomEngy/UnitTestBoilerplateGenerator) - An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
-*   [mattwhitfield/Unitverse](https://github.com/mattwhitfield/Unitverse) - A unit test generation extension for Visual Studio that aims to always produce code that compiles - covering the basic cases automatically and preparing as much as it can for the complex cases.
-*   [unchase/Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - :scroll: Visual Studio extension to generate OpenAPI (Swagger) web service reference.
-*   [VsixCommunity/Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit) - Making it easier to write Visual Studio extensions
-*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
-*   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
-*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
-*   [rionmonster/Glyphfriend](https://github.com/rionmonster/Glyphfriend) - Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio.
-*   [kspearrin/Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) - 130+ jQuery code snippets for Visual Studio 2012-2019.
-
-## xaml
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-*   [snoopwpf/snoopwpf](https://github.com/snoopwpf/snoopwpf) - Snoop - The WPF Spy Utility
-*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
-*   [wieslawsoltes/TreeDataGridEx](https://github.com/wieslawsoltes/TreeDataGridEx) - TreeDataGridEx is an experimental version of TreeDataGrid for Avalonia with added XAML syntax.
-*   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP applications. Seamlessly view and manipulate UI elements and their properties in real time.
-*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
-*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-*   [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
-*   [HavenDV/H.NotifyIcon](https://github.com/HavenDV/H.NotifyIcon) - TrayIcon for WPF/WinUI/Uno.
-*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-*   [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [ElinamLLC/SharpVectors](https://github.com/ElinamLLC/SharpVectors) - SharpVectors - SVG# Reloaded: SVG DOM and Rendering in C# for the .Net.
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-
-## xaml-source
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-
-## xaml-styler
-
-*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
-
 ## miscellaneous
 
+*   [skeeto/optparse](https://github.com/skeeto/optparse) - Portable, reentrant, getopt-like option parser
+*   [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 *   [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 *   [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 *   [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
@@ -7468,7 +7224,6 @@
 *   [thoemmi/Solutionizer](https://github.com/thoemmi/Solutionizer) - Creating ad-hoc solutions for Visual Studio.
 *   [xojs/vscode-linter-xo](https://github.com/xojs/vscode-linter-xo) - Linter for XO
 *   [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
-*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
 *   [1hub/dotnet-heapview](https://github.com/1hub/dotnet-heapview) - Simple viewer for .NET .gcdump files
 *   [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 *   [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -
@@ -7567,7 +7322,7 @@
 *   [SoftEtherVPN/SoftEtherVPN\_Stable](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable) - Cross-platform multi-protocol VPN software. This repository is officially managed by Daiyuu Nobori, the founder of the project. Pull requests should be sent to the master repository at https://github.com/SoftEtherVPN/SoftEtherVPN.
 *   [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) - Lets you create profiles to include the selected extensions in the desired project.
 *   [dangmai/vscode-workspace-default-settings](https://github.com/dangmai/vscode-workspace-default-settings) - Keep your team VSCode workspace settings in sync
-*   [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH guides to your Sonarr and Radarr instances
+*   [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 *   [nefarius/Nefarius.Drivers.WinUSB](https://github.com/nefarius/Nefarius.Drivers.WinUSB) - WinUSB .NET wrapper library
 *   [JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022](https://github.com/JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022) - Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022
 *   [Protektor-Desura/Archon](https://github.com/Protektor-Desura/Archon) - A Home Server for media streaming, game streaming, home automation and management.
@@ -8523,10 +8278,1309 @@
 *   [kartik-v/dependent-dropdown](https://github.com/kartik-v/dependent-dropdown) - JQuery plugin that enables to add and control multi level dependent dropdown lists.
 *   [guybedford/require-css](https://github.com/guybedford/require-css) - A RequireJS CSS loader plugin to allow CSS requires and optimization
 *   [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
-*   [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
-*   [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
-*   [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes, and more
-*   [madskristensen/MiniBlog](https://github.com/madskristensen/MiniBlog) - A minimal blog engine using Razor Web Pages
+
+## cross-platform
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).
+*   [AvaloniaUI/Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
+*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
+*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+*   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
+*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+*   [TolikPylypchuk/SharpHook](https://github.com/TolikPylypchuk/SharpHook) - SharpHook provides a cross-platform global keyboard and mouse hook, event simulation, and text entry simulation for .NET
+*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+*   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
+*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
+*   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
+*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+*   [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+*   [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
+*   [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
+*   [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
+*   [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
+
+## interception-driver
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+
+## keyboard
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
+*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
+*   [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper \[Alpha]
+*   [ThoNohT/NohBoard](https://github.com/ThoNohT/NohBoard) - A Keyboard Visualizer
+*   [Seuleuzeuh/WPFTabTipMixedhardware](https://github.com/Seuleuzeuh/WPFTabTipMixedhardware) - Simple TabTip / Virtual Keyboard integration for WPF apps on Win10 with mixed Touchscreen & Keyboard
+*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
+*   [stjeong/rasp\_vusb](https://github.com/stjeong/rasp_vusb) - This repo explains how to turn your Raspberry Pi Zero into USB Keyboard and Mouse. Also provides sample code and binaries to control them.
+*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
+*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
+*   [hodgef/simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard - Customizable, responsive and lightweight
+*   [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+## keyboard-layout
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+
+## linux
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
+*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
+*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
+*   [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
+*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
+*   [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+*   [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+*   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
+*   [danstiner/rust-u2f](https://github.com/danstiner/rust-u2f) - U2F security token emulator written in Rust
+*   [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86\_64 Emulator with a twist, targeted at ARM64 Linux devices
+*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+*   [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
+*   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
+*   [TechieGuy12/FileWatcher](https://github.com/TechieGuy12/FileWatcher) - A file and folder monitor that can send notifications, perform actions, or execute a command when a file or folder is changed.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
+*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
+*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
+*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+*   [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
+*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+*   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
+*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+*   [FontManager/font-manager](https://github.com/FontManager/font-manager) -
+*   [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
+*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
+*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+*   [slydetector/simply-nzedb](https://github.com/slydetector/simply-nzedb) - The simplest way to get nZEDb up and running with docker
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
+*   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
+*   [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+*   [nityanandagohain/proxy\_configuration](https://github.com/nityanandagohain/proxy_configuration) - System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51313, 3.3.5 = 3.3.5a.12340)
+*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+*   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+*   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
+
+## mouse
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
+*   [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper \[Alpha]
+*   [arkane-systems/mousejiggler](https://github.com/arkane-systems/mousejiggler) - Mouse Jiggler is a very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
+*   [Seuleuzeuh/WPFTabTipMixedhardware](https://github.com/Seuleuzeuh/WPFTabTipMixedhardware) - Simple TabTip / Virtual Keyboard integration for WPF apps on Win10 with mixed Touchscreen & Keyboard
+*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
+*   [stjeong/rasp\_vusb](https://github.com/stjeong/rasp_vusb) - This repo explains how to turn your Raspberry Pi Zero into USB Keyboard and Mouse. Also provides sample code and binaries to control them.
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+
+## mouse-emulation
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
+*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
+*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+
+## rust
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+*   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+*   [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
+*   [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+*   [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust
+*   [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+*   [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
+*   [danstiner/rust-u2f](https://github.com/danstiner/rust-u2f) - U2F security token emulator written in Rust
+*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+*   [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+*   [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter.
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+*   [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+## windows
+
+*   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
+*   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+*   [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
+*   [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below
+*   [microsoft/accessibility-insights-windows](https://github.com/microsoft/accessibility-insights-windows) - Accessibility Insights for Windows
+*   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
+*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
+*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
+*   [mawosoft/WindowsSearchManager](https://github.com/mawosoft/WindowsSearchManager) - Powershell module for managing Windows Search.
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+*   [FranciscoNabas/WindowsUtils](https://github.com/FranciscoNabas/WindowsUtils) - PowerShell module to aid Windows computers administration.
+*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
+*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
+*   [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Windows tool to check for NVIDIA GPU driver updates
+*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+*   [mirtlecn/GridMove](https://github.com/mirtlecn/GridMove) - A window manager utility on Windows. A fork version of JGPaiva's GridMove with additional features and fixes.
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
+*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+*   [daynix/UsbDk](https://github.com/daynix/UsbDk) - Usb Drivers Development Kit for Windows
+*   [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker) - 🖱️ Windows Autoclicker with a modern ui
+*   [stefankueng/sendmessage](https://github.com/stefankueng/sendmessage) - SendMessage is a little tool to send Windows messages to any window.
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+*   [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
+*   [Turnerj/NetworkedVegas2](https://github.com/Turnerj/NetworkedVegas2) - Helps connect Rainbow Six Vegas 2 across the internet
+*   [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
+*   [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+*   [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
+*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+*   [GermanAizek/WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
+*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
+*   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
+*   [dahall/TaskScheduler](https://github.com/dahall/TaskScheduler) - Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization.
+*   [diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse) - An advanced tool for working with access tokens and Windows security policy.
+*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
+*   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
+*   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
+*   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
+*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
+*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+*   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
+*   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
+*   [cyd01/KiTTY](https://github.com/cyd01/KiTTY) - :computer: KiTTY, a free telnet/ssh client for Windows
+*   [TechieGuy12/FileWatcher](https://github.com/TechieGuy12/FileWatcher) - A file and folder monitor that can send notifications, perform actions, or execute a command when a file or folder is changed.
+*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
+*   [wikijm/PowerShell-AdminScripts](https://github.com/wikijm/PowerShell-AdminScripts) - PowerShell Administration scripts
+*   [microsoft/CsWinRT](https://github.com/microsoft/CsWinRT) - C# language projection for the Windows Runtime
+*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
+*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
+*   [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
+*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
+*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create a compliant and secure Windows 10/11 system with our Gold Master image creation tool. Adhere to DoD STIG/SRG Requirements and NSA Cybersecurity guidance for standalone Windows systems with ease, using our ultimate STIG script.
+*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+*   [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
+*   [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
+*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+*   [slonopotamus/stevedore](https://github.com/slonopotamus/stevedore) - 🚢 Docker distribution for Windows Containers that Just Works
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
+*   [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) - DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
+*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+*   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
+*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+*   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
+*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
+*   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
+*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
+*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
+*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
+*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
+*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+*   [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
+*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
+*   [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
+*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+*   [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF
+*   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+*   [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
+*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [ManuelGil/Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
+*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
+*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
+*   [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
+*   [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
+*   [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+*   [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
+*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+
+## autohotkey
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [mirtlecn/GridMove](https://github.com/mirtlecn/GridMove) - A window manager utility on Windows. A fork version of JGPaiva's GridMove with additional features and fixes.
+*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+
+## colemak
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+
+## dvorak
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
+
+## karabiner
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+
+## layout
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
+
+## mapping
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
+*   [cezarypiatek/MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) - :arrows\_counterclockwise: "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time.
+*   [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
+
+## modifiers
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+
+## qmk
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+
+## tmk
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+
+## workman
+
+*   [cajhin/capsicain](https://github.com/cajhin/capsicain) - Powerful low-level keyboard remapping tool for Windows
+
+## neo-layout
+
+*   [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
+
+## command-line-arguments
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+
+## double-click
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+
+## fix
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+*   [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
+
+## performant
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+
+## tray-application
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+*   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
+*   [Soloplan/whatson](https://github.com/Soloplan/whatson) - Build status monitoring for Windows with support for Jenkins, Travis-CI, CC.NET (alternative to CCTray)
+
+## windows-10
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+*   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
+*   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
+*   [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
+*   [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+*   [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
+*   [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
+*   [CommunityToolkit/Microsoft.Toolkit.Win32](https://github.com/CommunityToolkit/Microsoft.Toolkit.Win32) - ARCHIVE - This repository contained XAML Islands wrapper controls and tooling for XAML Islands with WinUI 2, see readme for more info about XAML Islands with WinUI 3 and the WindowsAppSDK.
+*   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
+*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
+*   [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
+*   [LeonidMTertitski/osk-on-screen-keyboard-windows](https://github.com/LeonidMTertitski/osk-on-screen-keyboard-windows) - On screen keyboard/wordboard for MS Windows
+*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
+*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
+*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+*   [WhitewaterFoundry/Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+*   [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+*   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+*   [Opticos/GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
+*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
+*   [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
+*   [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+*   [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
+*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
+*   [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+
+## windows-7
+
+*   [marvinlehmann/Mouse-Debouncer](https://github.com/marvinlehmann/Mouse-Debouncer) - A small performant Windows tray application which suppresses false double clicks. (Double Click Fix)
+*   [LeonidMTertitski/osk-on-screen-keyboard-windows](https://github.com/LeonidMTertitski/osk-on-screen-keyboard-windows) - On screen keyboard/wordboard for MS Windows
+*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+
+## bios
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+
+## boost
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+## debloat
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
+*   [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+
+## decrease
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+## fps
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+
+## gaming
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+*   [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+*   [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
+*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
+
+## guide
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+*   [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
+*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
+*   [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
+*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+
+## increase
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+## input
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
+*   [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
+*   [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
+
+## lag
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+## latency
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+
+## milliseconds
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+## optimization
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
+*   [Nyrest/FastGenericNew](https://github.com/Nyrest/FastGenericNew) - The ultimate fast alternative to Activator.CreateInstance\<T> / new T()
+*   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+*   [Auxpack/Auxpack](https://github.com/Auxpack/Auxpack) - A dashboard for monitoring Webpack build stats.
+*   [MoscaDotTo/Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
+*   [webpackmonitor/webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
+*   [imagemin/imagemin](https://github.com/imagemin/imagemin) - \[Unmaintained] Minify images seamlessly
+
+## overclock
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
+
+## pc
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+
+## performance
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+*   [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
+*   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
+*   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
+*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
+*   [Nyrest/FastGenericNew](https://github.com/Nyrest/FastGenericNew) - The ultimate fast alternative to Activator.CreateInstance\<T> / new T()
+*   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
+*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
+*   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
+*   [chronoxor/NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
+*   [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all performance vitals metrics
+*   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
+*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
+*   [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
+*   [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
+*   [speedracer/speedracer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
+*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+*   [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API :fire:
+*   [ErikEJ/SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress) - SQL query stress simulator created by Adam Machanic http://dataeducation.com/sqlquerystress-the-source-code/
+*   [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
+*   [jsperf/jsperf.com](https://github.com/jsperf/jsperf.com) - jsperf.com v2. https://github.com/h5bp/lazyweb-requests/issues/174
+*   [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
+*   [webpro/DOMtastic](https://github.com/webpro/DOMtastic) - Small, fast, and modular DOM and event library for modern browsers.
+*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
+*   [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+
+## ping
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
+
+## tweak
+
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
+
+## artemis
+
+*   [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) - Provides advanced unified lighting across many different brands RGB peripherals
+
+## hacktoberfest
+
+*   [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) - Provides advanced unified lighting across many different brands RGB peripherals
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+*   [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
+*   [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨
+*   [microsoft/accessibility-insights-windows](https://github.com/microsoft/accessibility-insights-windows) - Accessibility Insights for Windows
+*   [AvaloniaUI/Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
+*   [PowerShell/GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs
+*   [snoopwpf/snoopwpf](https://github.com/snoopwpf/snoopwpf) - Snoop - The WPF Spy Utility
+*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+*   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+*   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+*   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
+*   [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
+*   [shaikhsajid1111/facebook\_page\_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper) - Scrapes facebook's pages front end with no limitations & provides a feature to turn data into structured JSON or CSV
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+*   [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+*   [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for Stylelint.
+*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
+*   [projen/projen](https://github.com/projen/projen) - A new generation of project generators
+*   [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
+*   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
+*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+*   [gngrninja/PSFolderSize](https://github.com/gngrninja/PSFolderSize) - This module will allow you to get folder sizes and export information easily via PowerShell
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+*   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
+*   [rr-wfm/MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) - An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+*   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+*   [docopt/docopt.net](https://github.com/docopt/docopt.net) - Port of docopt to .net
+*   [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
+*   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
+*   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
+*   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+*   [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -
+*   [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+*   [adamgibbons/ics](https://github.com/adamgibbons/ics) - iCalendar (ics) file generator for node.js
+*   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+*   [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+*   [jonsequitur/dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive
+*   [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+*   [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
+*   [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
+*   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
+*   [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+*   [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
+*   [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+*   [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
+*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
+*   [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
+*   [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+*   [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
+*   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
+*   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
+*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
+*   [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
+*   [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
+*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+*   [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
+*   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
+*   [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
+*   [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
+*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+*   [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+*   [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
+*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+*   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
+*   [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
+*   [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+*   [WhitewaterFoundry/Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
+*   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
+*   [dotnet/nuget-trends](https://github.com/dotnet/nuget-trends) - Check out NuGet packages adoption and what's trending on NuGet.
+*   [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
+*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+*   [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
+*   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
+*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+*   [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
+*   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
+*   [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
+*   [Tyrrrz/MiniRazor](https://github.com/Tyrrrz/MiniRazor) - Portable Razor compiler & code generator
+*   [meziantou/Meziantou.Framework](https://github.com/meziantou/Meziantou.Framework) -
+*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+*   [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
+*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+*   [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
+*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+*   [jellyfin/jellyfin-roku](https://github.com/jellyfin/jellyfin-roku) - Roku Client for Jellyfin
+*   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+*   [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
+*   [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
+*   [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
+*   [daveaglick/Buildalyzer](https://github.com/daveaglick/Buildalyzer) - A utility to perform design-time builds of .NET projects without having to think too hard about it.
+*   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
+*   [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
+*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+*   [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
+*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
+*   [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) -
+*   [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
+*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
+*   [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
+*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+*   [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+*   [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
+*   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
+*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+*   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+*   [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
+*   [FakeItEasy/FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET
+*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+*   [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+*   [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
+*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+*   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+*   [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+*   [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
+*   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+*   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+*   [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
+*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
+*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+*   [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
+*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
+*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+*   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+*   [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+*   [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
+*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
+*   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
+*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+*   [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+*   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+*   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+*   [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+*   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
+*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
+*   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
+*   [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
+*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+*   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
+*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+*   [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
+*   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+*   [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+*   [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
+*   [ucfopen/VAST](https://github.com/ucfopen/VAST) - VAST is a Python script that searches an Instructure Canvas course for media and returns results in a CSV file.
+*   [ucfopen/quiz-extensions](https://github.com/ucfopen/quiz-extensions) - A self-service LTI for faculty to easily extend time for multiple users for all quizzes at once.
+*   [ucfopen/UDOIT](https://github.com/ucfopen/UDOIT) - The Universal Design Online content Inspection Tool, or UDOIT (pronounced, “You Do It”) enables faculty to identify accessibility issues in their Learning Management System. It will scan a course, generate a report, and provide resources on how to address common accessibility issues.
+*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+*   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+*   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
+*   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+*   [danielfsousa/express-rest-boilerplate](https://github.com/danielfsousa/express-rest-boilerplate) - ⌛️ Express starter for building RESTful APIs
+*   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+*   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
+*   [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow\_right: prettier :arrow\_right: eslint --fix :arrow\_right: Formatted Code :sparkles:
+*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+*   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
+*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+*   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
+*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+*   [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 RC 1 projects you can use. Readme contains explanations on all projects.
+*   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
+*   [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites
+*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+*   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
+*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+*   [pagermon/pagermon](https://github.com/pagermon/pagermon) - Multimon-ng pager message parser and viewer
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+*   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+*   [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
+*   [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
+*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+*   [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
+*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+*   [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI
+*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+*   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
+*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51313, 3.3.5 = 3.3.5a.12340)
+*   [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+*   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+*   [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
+*   [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
+*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
+*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
+*   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
+*   [gnuradio/pybombs](https://github.com/gnuradio/pybombs) - PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects.
+*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
+*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+*   [jasny/bootstrap](https://github.com/jasny/bootstrap) - The missing components for your favorite front-end framework.
+*   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+*   [gruntjs/grunt-contrib-compress](https://github.com/gruntjs/grunt-contrib-compress) - Compress files and folders.
+*   [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+
+## rgb
+
+*   [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) - Provides advanced unified lighting across many different brands RGB peripherals
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [markusn/color-diff](https://github.com/markusn/color-diff) - Implemets the CIEDE2000 color difference algorithm, conversion between RGB and lab color and mapping all colors in palette X to the closest color in palette Y based on the CIEDE2000 difference.
+*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
+*   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
+*   [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
+*   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
+
+## rgb-leds
+
+*   [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) - Provides advanced unified lighting across many different brands RGB peripherals
+
+## rgb-perhipherals
+
+*   [Artemis-RGB/Artemis](https://github.com/Artemis-RGB/Artemis) - Provides advanced unified lighting across many different brands RGB peripherals
+*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
+
+## asus
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
+*   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
+
+## aura
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
+
+## macos
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
+*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
+*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
+*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
+*   [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+*   [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
+*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+*   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
+*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
+*   [TechieGuy12/FileWatcher](https://github.com/TechieGuy12/FileWatcher) - A file and folder monitor that can send notifications, perform actions, or execute a command when a file or folder is changed.
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
+*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
+*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+*   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
+*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
+*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
+*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
+*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
+*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+*   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
+*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## msi-mystic-light
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+## open
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
+
+## rgb-controller
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+## rgb-devices
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+## smbus
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+
+## source
+
+*   [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+*   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
+*   [manuelroemer/Nullable](https://github.com/manuelroemer/Nullable) - A source code only package which allows you to use .NET's nullable attributes in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework.
+*   [manuelroemer/IsExternalInit](https://github.com/manuelroemer/IsExternalInit) - A source code only package which allows you to use C# 9's init and record features in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework by providing a polyfill for the IsExternalInit class.
+
+## rdp
+
+*   [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+*   [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
+*   [Terminals-Origin/Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+
+## android
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
+*   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+*   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+*   [tejado/android-usb-gadget](https://github.com/tejado/android-usb-gadget) - Convert your Android phone to any USB device you like! USB Gadget Tool allows you to create and activate USB device roles, like a mouse or a keyboard.  🛠🛡📱
+*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
+*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+*   [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
+*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
+*   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
+*   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
+*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
+*   [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
+*   [raphtlw/symbit](https://github.com/raphtlw/symbit) - A simple root manager for Android devices without TWRP
+*   [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+*   [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+*   [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
+*   [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
+*   [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
+*   [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) - 🔪Swiss-army knife for Android testing and development 🔪 ⛺
+*   [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
+*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [marius-wieschollek/passwords-webextension](https://github.com/marius-wieschollek/passwords-webextension) - The official browser extension for the Passwords app for Nextcloud.
+*   [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
+*   [NielsMasdorp/Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) - \[Not maintained] Android application powering a magic mirror.
+*   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
+*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
+
+## c
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
+*   [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
+*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+*   [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
+*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+*   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
+*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
+*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+*   [libusb/libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
+*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
+*   [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+*   [phpredis/phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
+*   [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
+*   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
+*   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+*   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+*   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
+*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+*   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
+*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
+*   [frankmorgner/vsmartcard](https://github.com/frankmorgner/vsmartcard) - umbrella project for emulation of smart card readers or smart cards
+*   [fdb/frequensea](https://github.com/fdb/frequensea) - Visualizing the frequency spectrum.
+*   [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+*   [szechyjs/mbelib](https://github.com/szechyjs/mbelib) - P25 Phase 1 and ProVoice vocoder
+*   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
+
+## freerdp
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+
+## library
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [AderitoSilva/XInputium](https://github.com/AderitoSilva/XInputium) - The elemental XInput library for .NET.
+*   [itext/itext7-dotnet](https://github.com/itext/itext7-dotnet) - iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enha
+*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+*   [Nyrest/FastGenericNew](https://github.com/Nyrest/FastGenericNew) - The ultimate fast alternative to Activator.CreateInstance\<T> / new T()
+*   [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+*   [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
+*   [jbevain/cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
+*   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
+*   [adambajguz/Typin](https://github.com/adambajguz/Typin) - Declarative framework for interactive CLI applications
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
+*   [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
+*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+*   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
+*   [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
+*   [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+*   [Mevrael/bunny](https://github.com/Mevrael/bunny) - BunnyJS - Lightweight native (vanilla) JavaScript (JS) and ECMAScript 6 (ES6) browser library, package of small stand-alone components without dependencies: FormData, upload, image preview, HTML5 validation, Autocomplete, Dropdown, Calendar, Datepicker, Ajax, Datatable, Pagination, URL, Template engine, Element positioning, smooth scrolling, routing, inversion of control and more. Simple syntax and architecture. Next generation jQuery and front-end framework. Documentation and examples available.
+*   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+*   [WesSouza/calendar-base](https://github.com/WesSouza/calendar-base) - Base methods for generating calendars using JavaScript.
+*   [sbstjn/timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
+
+## remote-desktop
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+*   [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, XP and Server. Generate RDP and MSI files for clients.
+*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [Ulterius/server](https://github.com/Ulterius/server) - \[WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood:
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+
+## wiki
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+*   [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+*   [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+*   [roadkillwiki/roadkill](https://github.com/roadkillwiki/roadkill) - A modern .NET Wiki
+
+## jetbrains-rider
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
+
+## uwp
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+*   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP applications. Seamlessly view and manipulate UI elements and their properties in real time.
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+*   [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
+*   [CommunityToolkit/Labs-Windows](https://github.com/CommunityToolkit/Labs-Windows) - A safe space to collaborate and engineer solutions from the prototyping stage all the way through polished finalized component for the Windows Community Toolkit.
+*   [CommunityToolkit/Microsoft.Toolkit.Win32](https://github.com/CommunityToolkit/Microsoft.Toolkit.Win32) - ARCHIVE - This repository contained XAML Islands wrapper controls and tooling for XAML Islands with WinUI 2, see readme for more info about XAML Islands with WinUI 3 and the WindowsAppSDK.
+*   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
+*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
+*   [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
+*   [smourier/TraceSpy](https://github.com/smourier/TraceSpy) - TraceSpy is a pure .NET, 100% free and open source, alternative to the very popular SysInternals DebugView tool.
+*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
+*   [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
+*   [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
+*   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
+*   [CommunityToolkit/dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
+*   [novotnyllc/MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) - Extra properties for MSBuild SDK projects
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+## uwp-applications
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+
+## uwp-apps
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+*   [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
+*   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+
+## visual-studio-extension
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+*   [AdguardTeam/VscodeAdblockSyntax](https://github.com/AdguardTeam/VscodeAdblockSyntax) - Comprehensive extension to manage Adblock Syntax in VSCode: syntax highlighter, linter and much more. Available on the VSCode Marketplace.
+*   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
+*   [christianhelle/apiclientcodegen](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio custom tool code generators for Swagger / OpenAPI specification files
+*   [ReMinoer/SubSolution](https://github.com/ReMinoer/SubSolution) - Read & edit .sln solution files with various tools: .Subsln files, Visual Studio plugin, command line tool & .NET libraries.
+*   [RandomEngy/UnitTestBoilerplateGenerator](https://github.com/RandomEngy/UnitTestBoilerplateGenerator) - An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
+*   [mattwhitfield/Unitverse](https://github.com/mattwhitfield/Unitverse) - A unit test generation extension for Visual Studio that aims to always produce code that compiles - covering the basic cases automatically and preparing as much as it can for the complex cases.
+*   [unchase/Unchase.OpenAPI.Connectedservice](https://github.com/unchase/Unchase.OpenAPI.Connectedservice) - :scroll: Visual Studio extension to generate OpenAPI (Swagger) web service reference.
+*   [VsixCommunity/Community.VisualStudio.Toolkit](https://github.com/VsixCommunity/Community.VisualStudio.Toolkit) - Making it easier to write Visual Studio extensions
+*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
+*   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
+*   [ClydeDz/fancy-comments](https://github.com/ClydeDz/fancy-comments) - Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML.
+*   [rionmonster/Glyphfriend](https://github.com/rionmonster/Glyphfriend) - Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio.
+*   [kspearrin/Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) - 130+ jQuery code snippets for Visual Studio 2012-2019.
+
+## xaml
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+*   [snoopwpf/snoopwpf](https://github.com/snoopwpf/snoopwpf) - Snoop - The WPF Spy Utility
+*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
+*   [wieslawsoltes/TreeDataGridEx](https://github.com/wieslawsoltes/TreeDataGridEx) - TreeDataGridEx is an experimental version of TreeDataGrid for Avalonia with added XAML syntax.
+*   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP applications. Seamlessly view and manipulate UI elements and their properties in real time.
+*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
+*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
+*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+*   [Windows-XAML/Template10](https://github.com/Windows-XAML/Template10) - Making Windows 10 apps great again
+*   [HavenDV/H.NotifyIcon](https://github.com/HavenDV/H.NotifyIcon) - TrayIcon for WPF/WinUI/Uno.
+*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
+*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
+*   [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF
+*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+*   [ElinamLLC/SharpVectors](https://github.com/ElinamLLC/SharpVectors) - SharpVectors - SVG# Reloaded: SVG DOM and Rendering in C# for the .Net.
+*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
+
+## xaml-source
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
+
+## xaml-styler
+
+*   [Xavalon/XamlStyler](https://github.com/Xavalon/XamlStyler) - Visual Studio extension to help format your XAML source code
 
 ## api
 
@@ -10151,233 +11205,6 @@
 *   [Terminals-Origin/Terminals](https://github.com/Terminals-Origin/Terminals) - Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex.
 *   [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 
-## windows
-
-*   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
-*   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
-*   [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
-*   [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below
-*   [microsoft/accessibility-insights-windows](https://github.com/microsoft/accessibility-insights-windows) - Accessibility Insights for Windows
-*   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
-*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-*   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
-*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
-*   [mawosoft/WindowsSearchManager](https://github.com/mawosoft/WindowsSearchManager) - Powershell module for managing Windows Search.
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-*   [FranciscoNabas/WindowsUtils](https://github.com/FranciscoNabas/WindowsUtils) - PowerShell module to aid Windows computers administration.
-*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
-*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
-*   [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Windows tool to check for NVIDIA GPU driver updates
-*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
-*   [mirtlecn/GridMove](https://github.com/mirtlecn/GridMove) - A window manager utility on Windows. A fork version of JGPaiva's GridMove with additional features and fixes.
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
-*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
-*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
-*   [daynix/UsbDk](https://github.com/daynix/UsbDk) - Usb Drivers Development Kit for Windows
-*   [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker) - 🖱️ Windows Autoclicker with a modern ui
-*   [stefankueng/sendmessage](https://github.com/stefankueng/sendmessage) - SendMessage is a little tool to send Windows messages to any window.
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-*   [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
-*   [Turnerj/NetworkedVegas2](https://github.com/Turnerj/NetworkedVegas2) - Helps connect Rainbow Six Vegas 2 across the internet
-*   [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and popups.
-*   [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
-*   [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
-*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-*   [GermanAizek/WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
-*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-*   [indiff/qttabbar](https://github.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar
-*   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
-*   [dahall/TaskScheduler](https://github.com/dahall/TaskScheduler) - Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization.
-*   [diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse) - An advanced tool for working with access tokens and Windows security policy.
-*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
-*   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
-*   [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
-*   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
-*   [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
-*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
-*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-*   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
-*   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
-*   [cyd01/KiTTY](https://github.com/cyd01/KiTTY) - :computer: KiTTY, a free telnet/ssh client for Windows
-*   [TechieGuy12/FileWatcher](https://github.com/TechieGuy12/FileWatcher) - A file and folder monitor that can send notifications, perform actions, or execute a command when a file or folder is changed.
-*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [xmichelo/Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.
-*   [wikijm/PowerShell-AdminScripts](https://github.com/wikijm/PowerShell-AdminScripts) - PowerShell Administration scripts
-*   [microsoft/CsWinRT](https://github.com/microsoft/CsWinRT) - C# language projection for the Windows Runtime
-*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
-*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
-*   [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
-*   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
-*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
-*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create a compliant and secure Windows 10/11 system with our Gold Master image creation tool. Adhere to DoD STIG/SRG Requirements and NSA Cybersecurity guidance for standalone Windows systems with ease, using our ultimate STIG script.
-*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
-*   [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
-*   [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename) - A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - These scripts will Customize, Debloat and Improve Privacy/Performance and System Responsiveness on Windows 10+.
-*   [activescott/lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.
-*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
-*   [slonopotamus/stevedore](https://github.com/slonopotamus/stevedore) - 🚢 Docker distribution for Windows Containers that Just Works
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-*   [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
-*   [dockpanelsuite/dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite) - DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms
-*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-*   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
-*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [FarGroup/FarManager](https://github.com/FarGroup/FarManager) - File and Archive Manager
-*   [derceg/explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
-*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
-*   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
-*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
-*   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
-*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-*   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-*   [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-*   [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
-*   [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
-*   [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-*   [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-*   [FantasticFiasco/mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - Library simplifying the concept of opening dialogs from a view model when using MVVM in WPF
-*   [dahall/Vanara](https://github.com/dahall/Vanara) - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-*   [malxau/yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
-*   [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
-*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-*   [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
-*   [ManuelGil/Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) - Troubleshooting Tool with Windows Updates (Developed in Dev-C++).
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-*   [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
-*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
-*   [felixrieseberg/windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm
-*   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
-*   [Belphemur/SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
-*   [LazoCoder/Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - Creative and unusual things that can be done with the Windows API.
-*   [RickStrahl/MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) - An extensible Markdown Editor, Viewer and Weblog Publisher for Windows
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-*   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
-*   [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
-*   [pbatard/libwdi](https://github.com/pbatard/libwdi) - Windows Driver Installer library for USB devices
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-
-## windows-10
-
-*   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
-*   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening settings and configurations
-*   [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
-*   [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
-*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-*   [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-*   [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
-*   [G-Stas/Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system.
-*   [CommunityToolkit/Microsoft.Toolkit.Win32](https://github.com/CommunityToolkit/Microsoft.Toolkit.Win32) - ARCHIVE - This repository contained XAML Islands wrapper controls and tooling for XAML Islands with WinUI 2, see readme for more info about XAML Islands with WinUI 3 and the WindowsAppSDK.
-*   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
-*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
-*   [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
-*   [LeonidMTertitski/osk-on-screen-keyboard-windows](https://github.com/LeonidMTertitski/osk-on-screen-keyboard-windows) - On screen keyboard/wordboard for MS Windows
-*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
-*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
-*   [ModernFlyouts-Community/ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
-*   [WhitewaterFoundry/Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-*   [builtbybel/burnbytes](https://github.com/builtbybel/burnbytes) - 🐦Open-source replica of Microsoft Disk Clean-up with aesthetics of Storage sense (aimed as community cleaner)
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-*   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-*   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
-*   [Opticos/GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
-*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-*   [CommunityToolkit/WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-*   [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
-*   [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-*   [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-*   [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-*   [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
-*   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
-*   [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
-
 ## windows-11
 
 *   [DarkCoderSc/PowerRemoteDesktop](https://github.com/DarkCoderSc/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
@@ -11048,42 +11875,6 @@
 
 *   [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).
 *   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-
-## cross-platform
-
-*   [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).
-*   [AvaloniaUI/Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
-*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
-*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-*   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
-*   [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
-*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-*   [TolikPylypchuk/SharpHook](https://github.com/TolikPylypchuk/SharpHook) - SharpHook provides a cross-platform global keyboard and mouse hook, event simulation, and text entry simulation for .NET
-*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-*   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
-*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
-*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
-*   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
-*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-*   [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-*   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
-*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
-*   [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-*   [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
-*   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
-*   [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
-*   [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) - :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
-*   [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 
 ## powershell-scripts
 
@@ -12018,6 +12809,7 @@
 ## testing
 
 *   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
 *   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
 *   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
 *   [z3z1ma/dbt-osmosis](https://github.com/z3z1ma/dbt-osmosis) - Provides automated YAML management, a dbt server, streamlit workbench, and git-integrated dbt model output diff tools
@@ -12621,290 +13413,6 @@
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 *   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 
-## hacktoberfest
-
-*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-*   [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
-*   [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨
-*   [microsoft/accessibility-insights-windows](https://github.com/microsoft/accessibility-insights-windows) - Accessibility Insights for Windows
-*   [AvaloniaUI/Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
-*   [PowerShell/GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs
-*   [snoopwpf/snoopwpf](https://github.com/snoopwpf/snoopwpf) - Snoop - The WPF Spy Utility
-*   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
-*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-*   [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
-*   [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
-*   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
-*   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
-*   [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
-*   [shaikhsajid1111/facebook\_page\_scraper](https://github.com/shaikhsajid1111/facebook_page_scraper) - Scrapes facebook's pages front end with no limitations & provides a feature to turn data into structured JSON or CSV
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-*   [FastForwardTeam/FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
-*   [hudochenkov/stylelint-order](https://github.com/hudochenkov/stylelint-order) - A plugin pack of order related linting rules for Stylelint.
-*   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-*   [projen/projen](https://github.com/projen/projen) - A new generation of project generators
-*   [pnp/powershell](https://github.com/pnp/powershell) - PnP PowerShell
-*   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
-*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-*   [gngrninja/PSFolderSize](https://github.com/gngrninja/PSFolderSize) - This module will allow you to get folder sizes and export information easily via PowerShell
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-*   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-*   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-*   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
-*   [rr-wfm/MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) - An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-*   [ThemeParkTycoon/theme.park](https://github.com/ThemeParkTycoon/theme.park) - A collection of themes/skins for 50 selfhosted apps!
-*   [docopt/docopt.net](https://github.com/docopt/docopt.net) - Port of docopt to .net
-*   [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
-*   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
-*   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
-*   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-*   [DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater) -
-*   [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
-*   [adamgibbons/ics](https://github.com/adamgibbons/ics) - iCalendar (ics) file generator for node.js
-*   [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
-*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-*   [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
-*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-*   [jonsequitur/dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive
-*   [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
-*   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
-*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-*   [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
-*   [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
-*   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
-*   [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-*   [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-*   [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
-*   [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
-*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
-*   [Smashing/smashing](https://github.com/Smashing/smashing) - The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-*   [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-*   [folke/ultra-runner](https://github.com/folke/ultra-runner) - 🏃⛰ Ultra fast monorepo script runner and build tool
-*   [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers
-*   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-*   [tsedio/tsed](https://github.com/tsedio/tsed) -  :triangular\_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone. ⭐️ Star to support our work!
-*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-*   [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
-*   [morelinq/MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
-*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-*   [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
-*   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-*   [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
-*   [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
-*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-*   [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
-*   [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
-*   [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
-*   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
-*   [meziantou/Meziantou.Analyzer](https://github.com/meziantou/Meziantou.Analyzer) - A Roslyn analyzer to enforce some good practices in C#.
-*   [quartznet/quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
-*   [WhitewaterFoundry/Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-*   [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
-*   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
-*   [dotnet/nuget-trends](https://github.com/dotnet/nuget-trends) - Check out NuGet packages adoption and what's trending on NuGet.
-*   [dotnet/winforms](https://github.com/dotnet/winforms) - Windows Forms is a .NET UI framework for building Windows desktop applications.
-*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [gitextensions/gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
-*   [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
-*   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-*   [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
-*   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
-*   [microsoft/Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
-*   [Tyrrrz/MiniRazor](https://github.com/Tyrrrz/MiniRazor) - Portable Razor compiler & code generator
-*   [meziantou/Meziantou.Framework](https://github.com/meziantou/Meziantou.Framework) -
-*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-*   [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
-*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-*   [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
-*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
-*   [jellyfin/jellyfin-roku](https://github.com/jellyfin/jellyfin-roku) - Roku Client for Jellyfin
-*   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-*   [diasurgical/devilutionX](https://github.com/diasurgical/devilutionX) - Diablo build for modern operating systems
-*   [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
-*   [dotnet/msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
-*   [daveaglick/Buildalyzer](https://github.com/daveaglick/Buildalyzer) - A utility to perform design-time builds of .NET projects without having to think too hard about it.
-*   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
-*   [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
-*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
-*   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
-*   [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
-*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-*   [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) -
-*   [TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
-*   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-*   [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with built-in ESLint and Babel support for js, jsx typescript, flow, markdown, yaml and json. Write declarative codemods in a simplest possible way 😏
-*   [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
-*   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
-*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-*   [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-*   [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
-*   [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
-*   [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-*   [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-*   [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
-*   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
-*   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
-*   [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
-*   [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
-*   [FakeItEasy/FakeItEasy](https://github.com/FakeItEasy/FakeItEasy) - The easy mocking library for .NET
-*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-*   [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-*   [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
-*   [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-*   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-*   [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
-*   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
-*   [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
-*   [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-*   [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
-*   [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
-*   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-*   [ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI
-*   [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-*   [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-*   [statoscope/statoscope](https://github.com/statoscope/statoscope) - Statoscope is a toolkit to analyze and validate webpack bundle
-*   [dotnet/command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
-*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-*   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-*   [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-*   [PrismLibrary/Prism](https://github.com/PrismLibrary/Prism) - Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications..
-*   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-*   [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-*   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
-*   [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
-*   [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
-*   [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
-*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
-*   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-*   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-*   [jamesmh/coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
-*   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
-*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
-*   [MicrosoftDocs/windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) - This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation.
-*   [statianzo/Fleck](https://github.com/statianzo/Fleck) - C# Websocket Implementation
-*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-*   [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-*   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-*   [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin
-*   [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-*   [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin) - Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
-*   [Depressurizer/Depressurizer](https://github.com/Depressurizer/Depressurizer) - A Steam library categorizing tool.
-*   [ucfopen/VAST](https://github.com/ucfopen/VAST) - VAST is a Python script that searches an Instructure Canvas course for media and returns results in a CSV file.
-*   [ucfopen/quiz-extensions](https://github.com/ucfopen/quiz-extensions) - A self-service LTI for faculty to easily extend time for multiple users for all quizzes at once.
-*   [ucfopen/UDOIT](https://github.com/ucfopen/UDOIT) - The Universal Design Online content Inspection Tool, or UDOIT (pronounced, “You Do It”) enables faculty to identify accessibility issues in their Learning Management System. It will scan a course, generate a report, and provide resources on how to address common accessibility issues.
-*   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-*   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-*   [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
-*   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-*   [danielfsousa/express-rest-boilerplate](https://github.com/danielfsousa/express-rest-boilerplate) - ⌛️ Express starter for building RESTful APIs
-*   [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
-*   [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
-*   [prettier/prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow\_right: prettier :arrow\_right: eslint --fix :arrow\_right: Formatted Code :sparkles:
-*   [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
-*   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
-*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-*   [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
-*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-*   [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-*   [dodyg/practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0, 7.0 and 8.0 RC 1 projects you can use. Readme contains explanations on all projects.
-*   [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
-*   [andrewlock/NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites
-*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
-*   [collinbarrett/FilterLists](https://github.com/collinbarrett/FilterLists) - :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances.
-*   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
-*   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-*   [pagermon/pagermon](https://github.com/pagermon/pagermon) - Multimon-ng pager message parser and viewer
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-*   [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-*   [Radarr/Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
-*   [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
-*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
-*   [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
-*   [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
-*   [NuGetPackageExplorer/NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) - Create, update and deploy Nuget Packages with a GUI
-*   [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-*   [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the \<canvas> tag
-*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51313, 3.3.5 = 3.3.5a.12340)
-*   [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-*   [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-*   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-*   [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
-*   [JoshClose/CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
-*   [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
-*   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
-*   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
-*   [gnuradio/pybombs](https://github.com/gnuradio/pybombs) - PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects.
-*   [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-*   [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
-*   [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
-*   [jasny/bootstrap](https://github.com/jasny/bootstrap) - The missing components for your favorite front-end framework.
-*   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
-*   [gruntjs/grunt-contrib-compress](https://github.com/gruntjs/grunt-contrib-compress) - Compress files and folders.
-*   [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-*   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
-
 ## haskell
 
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -13114,6 +13622,7 @@
 
 *   [damienbod/bff-aspnetcore-angular](https://github.com/damienbod/bff-aspnetcore-angular) - Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend
 *   [ligershark/WebOptimizer](https://github.com/ligershark/WebOptimizer) - A bundler and minifier for ASP.NET Core
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
 *   [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
 *   [dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 *   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
@@ -13400,7 +13909,6 @@
 *   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 *   [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 *   [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 *   [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
 *   [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -13605,6 +14113,7 @@
 *   [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
 *   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 *   [fluentribbon/Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) - WPF Ribbon control like in Office
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
 *   [AderitoSilva/XInputium](https://github.com/AderitoSilva/XInputium) - The elemental XInput library for .NET.
 *   [sharpliner/sharpliner](https://github.com/sharpliner/sharpliner) - Use C# instead of YAML to define your Azure DevOps pipelines
 *   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
@@ -13785,7 +14294,6 @@
 *   [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
 *   [alanmcgovern/monotorrent](https://github.com/alanmcgovern/monotorrent) - The official repository for MonoTorrent, a bittorrent library for .NET
 *   [codecadwallader/codemaid](https://github.com/codecadwallader/codemaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## fsharp
 
@@ -13950,7 +14458,6 @@
 *   [chromelens/chromelens](https://github.com/chromelens/chromelens) - Chrome DevTools extension for web accessibility development
 *   [pa11y/pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) - Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites
 *   [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
-*   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
 
 ## accessibility-insights
 
@@ -14337,147 +14844,6 @@
 
 *   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
 
-## linux
-
-*   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
-*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
-*   [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
-*   [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
-*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
-*   [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
-*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-*   [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
-*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-*   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
-*   [danstiner/rust-u2f](https://github.com/danstiner/rust-u2f) - U2F security token emulator written in Rust
-*   [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86\_64 Emulator with a twist, targeted at ARM64 Linux devices
-*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
-*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-*   [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
-*   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
-*   [TechieGuy12/FileWatcher](https://github.com/TechieGuy12/FileWatcher) - A file and folder monitor that can send notifications, perform actions, or execute a command when a file or folder is changed.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
-*   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-*   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
-*   [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
-*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-*   [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-*   [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
-*   [carlospolop/PEASS-ng](https://github.com/carlospolop/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-*   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-*   [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
-*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [FontManager/font-manager](https://github.com/FontManager/font-manager) -
-*   [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-*   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
-*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
-*   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-*   [slydetector/simply-nzedb](https://github.com/slydetector/simply-nzedb) - The simplest way to get nZEDb up and running with docker
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-*   [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
-*   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-*   [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
-*   [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-*   [nityanandagohain/proxy\_configuration](https://github.com/nityanandagohain/proxy_configuration) - System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.7.51313, 3.3.5 = 3.3.5a.12340)
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-*   [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-*   [SFTtech/openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine :rocket:
-*   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
-
-## macos
-
-*   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
-*   [carina-studio/ULogViewer](https://github.com/carina-studio/ULogViewer) - Cross-Platform Universal Log Viewer.
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
-*   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
-*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
-*   [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
-*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-*   [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
-*   [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-*   [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-*   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
-*   [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
-*   [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-*   [TechieGuy12/FileWatcher](https://github.com/TechieGuy12/FileWatcher) - A file and folder monitor that can send notifications, perform actions, or execute a command when a file or folder is changed.
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
-*   [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
-*   [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-*   [nodegit/nodegit](https://github.com/nodegit/nodegit) - Native Node bindings to Git.
-*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [libusb/hidapi](https://github.com/libusb/hidapi) - A Simple cross-platform library for communicating with HID devices
-*   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
-*   [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
-*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-*   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-*   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-*   [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
-*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-*   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-*   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-*   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-*   [FNA-XNA/FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [myspaghetti/macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS
-*   [enusbaum/XamariNES](https://github.com/enusbaum/XamariNES) - 🕹️📱Cross-Platform Nintendo Emulator using Xamarin and .Net Standard!
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-*   [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-*   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-*   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
 ## net-standard
 
 *   [Jinjinov/Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
@@ -14611,7 +14977,6 @@
 *   [TerribleDev/OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) - OAuth providers for Owin
 *   [codecadwallader/codemaid](https://github.com/codecadwallader/codemaid) - CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 *   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## front-end-development
 
@@ -14809,7 +15174,7 @@
 *   [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 *   [NNTmux/newznab-tmux](https://github.com/NNTmux/newznab-tmux) - Laravel based usenet indexer
 *   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+*   [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
 ## prm
 
@@ -15116,7 +15481,6 @@
 *   [astoilkov/jsblocks](https://github.com/astoilkov/jsblocks) - Better MV-ish Framework
 *   [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 *   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## functional
 
@@ -15165,7 +15529,6 @@
 *   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
 *   [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 *   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## chat
 
@@ -15213,7 +15576,6 @@
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 *   [coderaiser/cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.
 *   [pterodactyl/panel](https://github.com/pterodactyl/panel) - Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## real-time
 
@@ -15297,38 +15659,6 @@
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
 
-## debloat
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
-*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
-*   [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-*   [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-*   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-
-## fps
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-*   [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
-
-## gaming
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-*   [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
-*   [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-*   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
-
-## latency
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-
 ## opensource
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
@@ -15343,39 +15673,6 @@
 *   [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 *   [pothosware/PothosSDR](https://github.com/pothosware/PothosSDR) - Pothos SDR windows development environment
 *   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-
-## performance
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
-*   [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia) - 🏋️ Find out the cost of adding a new frontend dependency to your project
-*   [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
-*   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
-*   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
-*   [Nyrest/FastGenericNew](https://github.com/Nyrest/FastGenericNew) - The ultimate fast alternative to Activator.CreateInstance\<T> / new T()
-*   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
-*   [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
-*   [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-*   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
-*   [chronoxor/NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
-*   [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all performance vitals metrics
-*   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
-*   [Sergio0694/ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
-*   [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
-*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-*   [amireh/happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
-*   [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
-*   [speedracer/speedracer](https://github.com/speedracer/speedracer) - Collect performance metrics for your library/application.
-*   [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
-*   [fuse-box/fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API :fire:
-*   [ErikEJ/SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress) - SQL query stress simulator created by Adam Machanic http://dataeducation.com/sqlquerystress-the-source-code/
-*   [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
-*   [jsperf/jsperf.com](https://github.com/jsperf/jsperf.com) - jsperf.com v2. https://github.com/h5bp/lazyweb-requests/issues/174
-*   [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
-*   [webpro/DOMtastic](https://github.com/webpro/DOMtastic) - Small, fast, and modular DOM and event library for modern browsers.
-*   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
-*   [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 
 ## firefox-config
 
@@ -15827,8 +16124,6 @@
 *   [Caiyeon/goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI written with VueJS and Vault native Go API
 *   [vuetwo/vuetron](https://github.com/vuetwo/vuetron) - A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router.
 *   [epicmaxco/vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Free and Beautiful Vue 3 Admin Template
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
-*   [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 
 ## agplv3
 
@@ -16234,7 +16529,6 @@
 *   [aspnetboilerplate/aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 *   [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 *   [HangfireIO/Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## dotnet-framework
 
@@ -16401,38 +16695,6 @@
 ## todo
 
 *   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
-
-## input
-
-*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
-*   [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
-*   [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
-
-## keyboard
-
-*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
-*   [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper \[Alpha]
-*   [ThoNohT/NohBoard](https://github.com/ThoNohT/NohBoard) - A Keyboard Visualizer
-*   [Seuleuzeuh/WPFTabTipMixedhardware](https://github.com/Seuleuzeuh/WPFTabTipMixedhardware) - Simple TabTip / Virtual Keyboard integration for WPF apps on Win10 with mixed Touchscreen & Keyboard
-*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
-*   [stjeong/rasp\_vusb](https://github.com/stjeong/rasp_vusb) - This repo explains how to turn your Raspberry Pi Zero into USB Keyboard and Mouse. Also provides sample code and binaries to control them.
-*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
-*   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
-*   [hodgef/simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard - Customizable, responsive and lightweight
-*   [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
-*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-
-## mouse
-
-*   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
-*   [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper \[Alpha]
-*   [arkane-systems/mousejiggler](https://github.com/arkane-systems/mousejiggler) - Mouse Jiggler is a very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
-*   [Seuleuzeuh/WPFTabTipMixedhardware](https://github.com/Seuleuzeuh/WPFTabTipMixedhardware) - Simple TabTip / Virtual Keyboard integration for WPF apps on Win10 with mixed Touchscreen & Keyboard
-*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
-*   [stjeong/rasp\_vusb](https://github.com/stjeong/rasp_vusb) - This repo explains how to turn your Raspberry Pi Zero into USB Keyboard and Mouse. Also provides sample code and binaries to control them.
-*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
-*   [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
 ## directinput
 
@@ -16725,6 +16987,28 @@
 ## treedatagrid
 
 *   [wieslawsoltes/TreeDataGridEx](https://github.com/wieslawsoltes/TreeDataGridEx) - TreeDataGridEx is an experimental version of TreeDataGrid for Avalonia with added XAML syntax.
+
+## hac
+
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
+
+## playwright
+
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
+*   [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
+*   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
+*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
+*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+*   [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
+
+## playwright-dotnet
+
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
+
+## xunit
+
+*   [CZEMacLeod/C3D.Extensions.Playwright.AspNetCore](https://github.com/CZEMacLeod/C3D.Extensions.Playwright.AspNetCore) - Extensions for Microsoft.Playwright to allow better unit testing
+*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 
 ## azure-openai-proxy
 
@@ -18252,7 +18536,6 @@
 *   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible.
 *   [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
-*   [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 
 ## hid
 
@@ -18606,14 +18889,6 @@
 ## palette
 
 *   [markusn/color-diff](https://github.com/markusn/color-diff) - Implemets the CIEDE2000 color difference algorithm, conversion between RGB and lab color and mapping all colors in palette X to the closest color in palette Y based on the CIEDE2000 difference.
-
-## rgb
-
-*   [markusn/color-diff](https://github.com/markusn/color-diff) - Implemets the CIEDE2000 color difference algorithm, conversion between RGB and lab color and mapping all colors in palette X to the closest color in palette Y based on the CIEDE2000 difference.
-*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
-*   [chroma-sdk/Colore](https://github.com/chroma-sdk/Colore) - A powerful C# library for Razer Chroma's SDK
-*   [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
-*   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
 
 ## camelot
 
@@ -20978,18 +21253,6 @@
 
 *   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 
-## optimization
-
-*   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
-*   [Nyrest/FastGenericNew](https://github.com/Nyrest/FastGenericNew) - The ultimate fast alternative to Activator.CreateInstance\<T> / new T()
-*   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
-*   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-*   [Auxpack/Auxpack](https://github.com/Auxpack/Auxpack) - A dashboard for monitoring Webpack build stats.
-*   [MoscaDotTo/Winapp2](https://github.com/MoscaDotTo/Winapp2) - A database of extended cleaning routines for popular Windows PC based maintenance software.
-*   [webpackmonitor/webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
-*   [imagemin/imagemin](https://github.com/imagemin/imagemin) - \[Unmaintained] Minify images seamlessly
-
 ## profiler
 
 *   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
@@ -21168,11 +21431,6 @@
 *   [jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists) - Update Pi-hole's lists from remote sources easily
 *   [anudeepND/whitelist](https://github.com/anudeepND/whitelist) - A simple tool to add commonly white listed domains to your Pi-Hole setup.
 *   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
-
-## autohotkey
-
-*   [mirtlecn/GridMove](https://github.com/mirtlecn/GridMove) - A window manager utility on Windows. A fork version of JGPaiva's GridMove with additional features and fixes.
-*   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 
 ## dwm
 
@@ -22668,12 +22926,6 @@
 ## toolbars
 
 *   [qgindi/LibreAutomate](https://github.com/qgindi/LibreAutomate) - C# script editor and automation library for Windows
-
-## mapping
-
-*   [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
-*   [cezarypiatek/MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) - :arrows\_counterclockwise: "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time.
-*   [MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
 
 ## visual-studio-installation
 
@@ -26266,10 +26518,6 @@
 *   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 
-## overclock
-
-*   [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
-
 ## overclocking
 
 *   [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
@@ -26798,12 +27046,6 @@
 
 *   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
 
-## mouse-emulation
-
-*   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
-*   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
-*   [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
-
 ## wxwidgets
 
 *   [cmauri/eviacam](https://github.com/cmauri/eviacam) - webcam based mouse emulator
@@ -27207,7 +27449,7 @@
 
 *   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 *   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+*   [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
 ## statuspage
 
@@ -27215,7 +27457,6 @@
 *   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 *   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 *   [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## uptime
 
@@ -27477,7 +27718,6 @@
 
 *   [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 *   [cferdinandi/validate](https://github.com/cferdinandi/validate) - A lightweight form validation script.
-*   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
 
 ## googleforms
 
@@ -28073,11 +28313,6 @@
 
 *   [LeonidMTertitski/osk-on-screen-keyboard-windows](https://github.com/LeonidMTertitski/osk-on-screen-keyboard-windows) - On screen keyboard/wordboard for MS Windows
 
-## windows-7
-
-*   [LeonidMTertitski/osk-on-screen-keyboard-windows](https://github.com/LeonidMTertitski/osk-on-screen-keyboard-windows) - On screen keyboard/wordboard for MS Windows
-*   [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-
 ## java-robot
 
 *   [lucassklp/Desktop.Robot](https://github.com/lucassklp/Desktop.Robot) - A library used to control your mouse and keyboard programmatically in .NET Core
@@ -28112,11 +28347,6 @@
 ## virtual-devices
 
 *   [stjeong/rasp\_vusb](https://github.com/stjeong/rasp_vusb) - This repo explains how to turn your Raspberry Pi Zero into USB Keyboard and Mouse. Also provides sample code and binaries to control them.
-
-## asus
-
-*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
-*   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
 
 ## coolermaster
 
@@ -28173,10 +28403,6 @@
 *   [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
 
 ## razer-chroma
-
-*   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
-
-## rgb-perhipherals
 
 *   [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora) - Unified lighting effects across multiple brands and various games.
 
@@ -29149,10 +29375,6 @@
 
 *   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 
-## qmk
-
-*   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-
 ## digital
 
 *   [hodgef/simple-keyboard](https://github.com/hodgef/simple-keyboard) - Javascript Virtual Keyboard - Customizable, responsive and lightweight
@@ -29291,11 +29513,6 @@
 ## teamcity
 
 *   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
-
-## tray-application
-
-*   [AnyStatus/AnyStatus](https://github.com/AnyStatus/AnyStatus) - A remote control for your CI/CD pipelines and more
-*   [Soloplan/whatson](https://github.com/Soloplan/whatson) - Build status monitoring for Windows with support for Jenkins, Travis-CI, CC.NET (alternative to CCTray)
 
 ## rdp-gateway
 
@@ -29832,12 +30049,6 @@
 *   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
 *   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 
-## source
-
-*   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
-*   [manuelroemer/Nullable](https://github.com/manuelroemer/Nullable) - A source code only package which allows you to use .NET's nullable attributes in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework.
-*   [manuelroemer/IsExternalInit](https://github.com/manuelroemer/IsExternalInit) - A source code only package which allows you to use C# 9's init and record features in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework by providing a polyfill for the IsExternalInit class.
-
 ## explorer-integration
 
 *   [awaescher/RepoZ](https://github.com/awaescher/RepoZ) - 👨‍💻  A zero-conf git repository hub for Windows and macOS with Windows Explorer- & CLI-enhancements
@@ -30320,10 +30531,6 @@
 *   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 
 ## drop
-
-*   [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
-
-## fix
 
 *   [HerMajestyDrMona/Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - "Windows 11 Drag & Drop to the Taskbar (Fix)" fixes the missing "Drag & Drop to the Taskbar" support in Windows 11. It works with the new Windows 11 taskbar and does not require nasty changes like UndockingDisabled or restoration of the classic taskbar.
 
@@ -31171,14 +31378,6 @@
 *   [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
 *   [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 
-## playwright
-
-*   [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
-*   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
-*   [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
-*   [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-*   [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
-
 ## playwright-typescript
 
 *   [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!
@@ -31304,7 +31503,6 @@
 *   [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (\&more) - cross-platform!
 *   [xplicit/HyperFastCgi](https://github.com/xplicit/HyperFastCgi) - Performant nginx to mono fastcgi server
 *   [ServiceStack/ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) - .NET's fastest JSON, JSV and CSV Text Serializers
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## localhost
 
@@ -31912,10 +32110,6 @@
 
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
-## bios
-
-*   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-
 ## boot
 
 *   [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -32107,10 +32301,6 @@
 *   [snakefoot/snaketail-net](https://github.com/snakefoot/snaketail-net) - Tail utility for monitoring text log files and Windows EventLog
 
 ## gapps
-
-*   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-
-## open
 
 *   [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 
@@ -32612,11 +32802,6 @@
 
 *   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
-## tweak
-
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-
 ## coding-guidelines
 
 *   [bkoelman/CSharpGuidelinesAnalyzer](https://github.com/bkoelman/CSharpGuidelinesAnalyzer) - Reports diagnostics for C# coding guidelines that are not already covered by Resharper.
@@ -32856,7 +33041,6 @@
 ## nancy
 
 *   [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## organization
 
@@ -34120,15 +34304,6 @@
 *   [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 *   [cristianmiranda/mediabox](https://github.com/cristianmiranda/mediabox) - 🐳 Docker based MEDIABOX 📺
 *   [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes
-
-## guide
-
-*   [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
-*   [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
-*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-*   [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
-*   [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 ## nzbget
 
@@ -36463,7 +36638,6 @@
 *   [nosqlclient/nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient
 *   [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 *   [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 
 ## razor-parsing-engine
 
@@ -36633,7 +36807,6 @@
 
 *   [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
 *   [AzureADQuickStarts/AppModelv2-WebApp-OpenIDConnect-DotNet](https://github.com/AzureADQuickStarts/AppModelv2-WebApp-OpenIDConnect-DotNet) - ASP.NET Web Server - OpenID Connect v2 Endpoint Sample
-*   [maxtoroq/MvcPages](https://github.com/maxtoroq/MvcPages) - MvcPages combines the simplicity of ASP.NET Web Pages with the power of ASP.NET MVC
 
 ## microservice-architecture
 
@@ -39115,10 +39288,6 @@
 
 *   [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
 
-## aura
-
-*   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
-
 ## novation
 
 *   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
@@ -41542,7 +41711,6 @@
 *   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
 *   [TrilonIO/aspnetcore-Vue-starter](https://github.com/TrilonIO/aspnetcore-Vue-starter) - *NEW* Asp.net Core & Vue.js (ES6) SPA Starter kit - Vuex, webpack, Web API, Docker, and more! By @TrilonIO
 *   [mrellipse/toucan](https://github.com/mrellipse/toucan) - Boilerplate template using Vue.js, TypeScript and .NET Core 2.1, based on SOLID design principles
-*   [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 
 ## welcome-pr
 
@@ -41731,7 +41899,6 @@
 ## input-mask
 
 *   [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
-*   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
 
 ## telephone-number
 
@@ -45065,11 +45232,11 @@
 
 ## cachet
 
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+*   [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
-## composer
+## statuspages
 
-*   [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+*   [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 
 ## hack
 
@@ -45623,10 +45790,6 @@
 
 *   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
 
-## ping
-
-*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
-
 ## latin
 
 *   [weiweihuanghuang/Work-Sans](https://github.com/weiweihuanghuang/Work-Sans) - A grotesque sans.
@@ -45836,10 +45999,6 @@
 
 *   [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 
-## layout
-
-*   [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
-
 ## gerrit-mirror
 
 *   [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc.
@@ -45887,7 +46046,6 @@
 ## multiple-choice
 
 *   [tecnickcom/tcexam](https://github.com/tecnickcom/tcexam) - TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams.
-*   [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
 
 ## school
 
@@ -45914,10 +46072,6 @@
 *   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 
 ## nunit
-
-*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
-
-## xunit
 
 *   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 
@@ -47520,7 +47674,6 @@
 ## web-application-framework
 
 *   [nwjs/nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## avalonedit
 
@@ -47981,27 +48134,3 @@
 ## automatic-binders
 
 *   [ALMMa/datatables.aspnet](https://github.com/ALMMa/datatables.aspnet) - Microsoft AspNet bindings and automatic parsing for jQuery DataTables along with extension methods to help on data queries.
-
-## nancy-application
-
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
-
-## nancyfx
-
-*   [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
-
-## aspnet-webpages
-
-*   [maxtoroq/MvcPages](https://github.com/maxtoroq/MvcPages) - MvcPages combines the simplicity of ASP.NET Web Pages with the power of ASP.NET MVC
-
-## nomvc
-
-*   [maxtoroq/MvcPages](https://github.com/maxtoroq/MvcPages) - MvcPages combines the simplicity of ASP.NET Web Pages with the power of ASP.NET MVC
-
-## checkboxes
-
-*   [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
-
-## multiple-select
-
-*   [wenzhixin/multiple-select](https://github.com/wenzhixin/multiple-select) - A jQuery plugin to select multiple elements with checkboxes :)
