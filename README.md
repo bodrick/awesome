@@ -5,11 +5,12 @@
 ## Table of Contents
 
 *   [C#](#c)
+*   [Go](#go)
+*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [C++](#c-1)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Shell](#shell)
 *   [Makefile](#makefile)
@@ -17,7 +18,6 @@
 *   [Lua](#lua)
 *   [HTML](#html)
 *   [PowerShell](#powershell)
-*   [Go](#go)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Haskell](#haskell)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -77,6 +77,7 @@
 
 ## C\#
 
+*   [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 *   [hardcodet/wpf-notifyicon](https://github.com/hardcodet/wpf-notifyicon) - NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform
 *   [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
 *   [picoe/Eto](https://github.com/picoe/Eto) - Cross platform GUI framework for desktop and mobile applications in .NET
@@ -941,8 +942,329 @@
 *   [NuGet/NuGetGallery](https://github.com/NuGet/NuGetGallery) - NuGet Gallery is a package repository that powers https://www.nuget.org. Use this repo for reporting NuGet.org issues.
 *   [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 *   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
-*   [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
-*   [mwrock/RequestReduce](https://github.com/mwrock/RequestReduce) - Instantly makes your .net website faster by reducing the number and size of requests with almost no effort.
+
+## Go
+
+*   [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+*   [ndbeals/winssh-pageant](https://github.com/ndbeals/winssh-pageant) - Bridge to Windows OpenSSH agent from Pageant. This means the openssh agent has the keys and this proxies pageant requests to it.
+*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+*   [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+*   [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
+*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
+*   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
+*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
+*   [PowerShell/DSC-Samples](https://github.com/PowerShell/DSC-Samples) - Samples and tutorials for DSC v3
+*   [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
+*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+*   [qdm12/deunhealth](https://github.com/qdm12/deunhealth) - Binary program to restart unhealthy Docker containers
+*   [jdelkins/pia-tools](https://github.com/jdelkins/pia-tools) - PIA (VPN service; Private Internet Access) / Wireguard / systemd-networkd / rtorrent / transmission integration suite
+*   [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [hugows/hf](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+*   [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
+*   [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
+*   [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
+*   [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
+*   [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
+*   [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
+*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
+*   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+*   [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+*   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
+*   [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
+*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+*   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
+*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
+*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+*   [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
+*   [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
+*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+*   [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
+*   [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
+*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
+*   [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
+*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
+*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+*   [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
+*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
+*   [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
+*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+*   [TykTechnologies/tyk-identity-broker](https://github.com/TykTechnologies/tyk-identity-broker) - Tyk Authentication Proxy for third-party login
+*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+*   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
+*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
+*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
+*   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
+*   [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
+*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+*   [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+*   [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
+*   [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
+*   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
+*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+*   [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
+*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+*   [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
+*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
+*   [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
+*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
+*   [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
+*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+*   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+*   [jaredpetersen/raspilive](https://github.com/jaredpetersen/raspilive) - 📷 Stream video from the Raspberry Pi Camera Module to the web
+*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+*   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+*   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+*   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
+*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
+*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
+*   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
+*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+
+## miscellaneous
+
+*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+*   [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
+*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
+*   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+*   [ktaranov/naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
+*   [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+*   [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
+*   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+*   [JetBrains/resharper-devguide](https://github.com/JetBrains/resharper-devguide) - Developer guide for the ReSharper Platform
+*   [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
+*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
+*   [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -
+*   [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
+*   [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -
+*   [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+*   [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
+*   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild
+*   [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
+*   [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) - A collection of interesting libraries and tools for Avalonia project.
+*   [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
+*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+*   [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
+*   [tallesl/net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
+*   [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
+*   [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
+*   [JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022](https://github.com/JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022) - Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022
+*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+*   [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
+*   [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
+*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+*   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
+*   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+*   [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+*   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
+*   [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 and now Passkey resources
+*   [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
+*   [dotnet/runtimelab](https://github.com/dotnet/runtimelab) - This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.
+*   [dotnet/dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK from source
+*   [keithn/dotnetviteguide](https://github.com/keithn/dotnetviteguide) - Guide to getting started with .NET 6, Vite, and Vue 3
+*   [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
+*   [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+*   [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
+*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+*   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
+*   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
+*   [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+*   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
+*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
+*   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
+*   [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+*   [cybermaxs/awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
+*   [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
+*   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
+*   [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
+*   [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
+*   [dotnet/reproducible-builds](https://github.com/dotnet/reproducible-builds) - Contains the DotNet.ReproducibleBuilds package
+*   [networkupstools/TLS-UPSmon](https://github.com/networkupstools/TLS-UPSmon) - Replacement for NUT upsmon/upssched/upssched-cmd supports TLS 1.3
+*   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
+*   [tom-englert/VSIX-SdkProjectAdapter](https://github.com/tom-englert/VSIX-SdkProjectAdapter) - Extends Microsoft.VSSDK.BuildTools so you can use SDK style projects for your Visual Studio Extension.
+*   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
+*   [cezarypiatek/msbuild-cheatsheet](https://github.com/cezarypiatek/msbuild-cheatsheet) -
+*   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
+*   [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
+*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
+*   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
+*   [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
+*   [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+*   [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - Cloudflare Tunnel Instructions and Template for Unraid
+*   [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3) - A curated list of awesome things related to Vue 3
+*   [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
+*   [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
+*   [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
+*   [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
+*   [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
+*   [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+*   [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+*   [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
+*   [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
+*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+*   [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
+*   [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
+*   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
+*   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
+*   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
+*   [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
+*   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
+*   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
+*   [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
+*   [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) - A curated list of awesome C-Sharp frameworks, libraries and software.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [robotastic/trunk-recorder-docker](https://github.com/robotastic/trunk-recorder-docker) - a version of trunk-recorder that is designed for docker
+*   [microsoftarchive/msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) - Samples from Microsoft teams for the MSDN Code Gallery
+*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
+*   [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
+*   [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
+*   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+*   [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
+*   [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
+*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+*   [pnpm/awesome-pnpm](https://github.com/pnpm/awesome-pnpm) - Awesome pnpm resources
+*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+*   [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+*   [Jackysi/advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
+*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+*   [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+*   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
+*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+*   [htpcBeginner/AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker) - Moved - https://github.com/htpcBeginner/docker-traefik
+*   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
+*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+*   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
+*   [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+*   [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
+*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
+*   [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
+*   [microsoft/nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
+*   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+*   [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
+*   [aspnet/MusicStore](https://github.com/aspnet/MusicStore) - \[Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore
+*   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+*   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+*   [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
+*   [NeverSinkDev/NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+*   [Evdlaar/QueryStoreDashboard](https://github.com/Evdlaar/QueryStoreDashboard) - Query Store Database Performance Dashboard
+*   [leereilly/games](https://github.com/leereilly/games) - :video\_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+*   [RickStrahl/WestWindWebSurge](https://github.com/RickStrahl/WestWindWebSurge) - Quick and easy URL and Load Testing for your Web applications on Windows
+*   [verbosemode/public-notes](https://github.com/verbosemode/public-notes) - My public (install) notes. /me doing linux/networking/... networking things
+*   [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
+*   [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
+*   [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+*   [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
+*   [ossu/data-science](https://github.com/ossu/data-science) - :bar\_chart: Path to a free self-taught education in Data Science!
+*   [gsscoder/commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
+*   [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+*   [cmangos/issues](https://github.com/cmangos/issues) - This repository is used as a centralized point for all issues regarding CMaNGOS.
+*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [bmkmanoj/js-by-examples](https://github.com/bmkmanoj/js-by-examples) - Learn JavaScript by examples
+*   [zzzprojects/System.Linq.Dynamic](https://github.com/zzzprojects/System.Linq.Dynamic) - \[Deprecated] This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+*   [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
+*   [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [camohub/jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) - jQuery plugin to sorting lists also the tree structures.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [PowerShell/DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
+*   [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
+*   [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
+*   [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection for Bootstrap 5 templates.
+*   [aspnet/aspnet-docker](https://github.com/aspnet/aspnet-docker) - \[Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up.
+*   [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [justinwalsh/daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+*   [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+*   [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
+*   [corporate-gadfly/Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) -
+*   [Jackysi/advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
+*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
 
 ## Rust
 
@@ -1135,7 +1457,7 @@
 *   [1kc/razer-macos](https://github.com/1kc/razer-macos) - Color effects manager for Razer devices for macOS. Supports High Sierra (10.13) to Monterey (12.0). Made by the community, based on openrazer.
 *   [platform-experience/serviceportal-widget-library](https://github.com/platform-experience/serviceportal-widget-library) - A collection of Service Portal custom widgets
 *   [antonemking/servicenow](https://github.com/antonemking/servicenow) - Useful Scripts that I have developed to accomplish various tasks
-*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs Slack community.
+*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
 *   [gajus/eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
 *   [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) -
 *   [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -1687,7 +2009,6 @@
 *   [dangrossman/daterangepicker](https://github.com/dangrossman/daterangepicker) - JavaScript Date Range, Date and Time Picker Component
 *   [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
 *   [winmarkltd/BootstrapFormHelpers](https://github.com/winmarkltd/BootstrapFormHelpers) - Bootstrap Form Helpers
-*   [uuidjs/uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 
 ## C++
 
@@ -2028,210 +2349,6 @@
 *   [MilhouseVH/texturecache.py](https://github.com/MilhouseVH/texturecache.py) - Utility script to manage the XBMC texture cache
 *   [SiCKRAGE/SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) - Mirror of OFFICIAL SiCKRAGE
 
-## miscellaneous
-
-*   [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
-*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
-*   [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
-*   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
-*   [ktaranov/naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
-*   [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-*   [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-*   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-*   [JetBrains/resharper-devguide](https://github.com/JetBrains/resharper-devguide) - Developer guide for the ReSharper Platform
-*   [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
-*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
-*   [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -
-*   [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
-*   [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -
-*   [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-*   [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
-*   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-*   [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild
-*   [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
-*   [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) - A collection of interesting libraries and tools for Avalonia project.
-*   [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
-*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
-*   [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
-*   [tallesl/net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
-*   [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
-*   [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
-*   [JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022](https://github.com/JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022) - Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022
-*   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-*   [Droptop-Four/Basic-Version](https://github.com/Droptop-Four/Basic-Version) - Development is now moved to https://github.com/Droptop-Four/Droptop-Four
-*   [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
-*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
-*   [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
-*   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-*   [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
-*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-*   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-*   [herrjemand/awesome-webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 and now Passkey resources
-*   [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
-*   [dotnet/runtimelab](https://github.com/dotnet/runtimelab) - This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.
-*   [dotnet/dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK from source
-*   [keithn/dotnetviteguide](https://github.com/keithn/dotnetviteguide) - Guide to getting started with .NET 6, Vite, and Vue 3
-*   [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
-*   [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-*   [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
-*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
-*   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
-*   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
-*   [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
-*   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
-*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
-*   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-*   [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-*   [cybermaxs/awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-*   [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
-*   [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-*   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
-*   [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
-*   [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
-*   [dotnet/reproducible-builds](https://github.com/dotnet/reproducible-builds) - Contains the DotNet.ReproducibleBuilds package
-*   [networkupstools/TLS-UPSmon](https://github.com/networkupstools/TLS-UPSmon) - Replacement for NUT upsmon/upssched/upssched-cmd supports TLS 1.3
-*   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
-*   [tom-englert/VSIX-SdkProjectAdapter](https://github.com/tom-englert/VSIX-SdkProjectAdapter) - Extends Microsoft.VSSDK.BuildTools so you can use SDK style projects for your Visual Studio Extension.
-*   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
-*   [cezarypiatek/msbuild-cheatsheet](https://github.com/cezarypiatek/msbuild-cheatsheet) -
-*   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-*   [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
-*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
-*   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
-*   [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-*   [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
-*   [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-*   [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - Cloudflare Tunnel Instructions and Template for Unraid
-*   [vuesomedev/awesome-vue-3](https://github.com/vuesomedev/awesome-vue-3) - A curated list of awesome things related to Vue 3
-*   [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
-*   [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
-*   [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
-*   [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
-*   [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-*   [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-*   [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-*   [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
-*   [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
-*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-*   [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
-*   [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
-*   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
-*   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
-*   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
-*   [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
-*   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
-*   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
-*   [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
-*   [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) - A curated list of awesome C-Sharp frameworks, libraries and software.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [robotastic/trunk-recorder-docker](https://github.com/robotastic/trunk-recorder-docker) - a version of trunk-recorder that is designed for docker
-*   [microsoftarchive/msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) - Samples from Microsoft teams for the MSDN Code Gallery
-*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
-*   [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
-*   [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
-*   [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-*   [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
-*   [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
-*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-*   [pnpm/awesome-pnpm](https://github.com/pnpm/awesome-pnpm) - Awesome pnpm resources
-*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
-*   [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
-*   [Jackysi/advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
-*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-*   [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-*   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-*   [htpcBeginner/AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker) - Moved - https://github.com/htpcBeginner/docker-traefik
-*   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
-*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-*   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
-*   [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-*   [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-*   [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-*   [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
-*   [microsoft/nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
-*   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-*   [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
-*   [aspnet/MusicStore](https://github.com/aspnet/MusicStore) - \[Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore
-*   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-*   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-*   [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
-*   [NeverSinkDev/NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-*   [Evdlaar/QueryStoreDashboard](https://github.com/Evdlaar/QueryStoreDashboard) - Query Store Database Performance Dashboard
-*   [leereilly/games](https://github.com/leereilly/games) - :video\_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-*   [RickStrahl/WestWindWebSurge](https://github.com/RickStrahl/WestWindWebSurge) - Quick and easy URL and Load Testing for your Web applications on Windows
-*   [verbosemode/public-notes](https://github.com/verbosemode/public-notes) - My public (install) notes. /me doing linux/networking/... networking things
-*   [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
-*   [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
-*   [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-*   [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
-*   [ossu/data-science](https://github.com/ossu/data-science) - :bar\_chart: Path to a free self-taught education in Data Science!
-*   [gsscoder/commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
-*   [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-*   [cmangos/issues](https://github.com/cmangos/issues) - This repository is used as a centralized point for all issues regarding CMaNGOS.
-*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-*   [bmkmanoj/js-by-examples](https://github.com/bmkmanoj/js-by-examples) - Learn JavaScript by examples
-*   [zzzprojects/System.Linq.Dynamic](https://github.com/zzzprojects/System.Linq.Dynamic) - \[Deprecated] This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-*   [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
-*   [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [camohub/jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) - jQuery plugin to sorting lists also the tree structures.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [PowerShell/DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
-*   [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
-*   [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
-*   [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection for Bootstrap 5 templates.
-*   [aspnet/aspnet-docker](https://github.com/aspnet/aspnet-docker) - \[Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up.
-*   [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [justinwalsh/daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
-*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-*   [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
-*   [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
-*   [corporate-gadfly/Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) -
-*   [Jackysi/advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
-*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [postmanlabs/postman-app-support](https://github.com/postmanlabs/postman-app-support) - Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.
-
 ## Vue
 
 *   [antfu/icones](https://github.com/antfu/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
@@ -2501,7 +2618,6 @@
 *   [MalcolmRobb/dump1090](https://github.com/MalcolmRobb/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 *   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 *   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## Lua
 
@@ -2737,122 +2853,6 @@
 *   [slavizh/Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) - In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it.
 *   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
 
-## Go
-
-*   [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-*   [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-*   [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches
-*   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [appleboy/CodeGPT](https://github.com/appleboy/CodeGPT) - A CLI written in Go language that writes git commit messages or do a code review brief for you using ChatGPT AI (gpt-4, gpt-3.5-turbo model) and automatically installs a git prepare-commit-msg hook.
-*   [diemus/azure-openai-proxy](https://github.com/diemus/azure-openai-proxy) - A proxy for Azure OpenAI API that can convert an OpenAI request into an Azure OpenAI request.
-*   [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
-*   [PowerShell/DSC-Samples](https://github.com/PowerShell/DSC-Samples) - Samples and tutorials for DSC v3
-*   [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
-*   [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-*   [qdm12/deunhealth](https://github.com/qdm12/deunhealth) - Binary program to restart unhealthy Docker containers
-*   [jdelkins/pia-tools](https://github.com/jdelkins/pia-tools) - PIA (VPN service; Private Internet Access) / Wireguard / systemd-networkd / rtorrent / transmission integration suite
-*   [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-*   [hugows/hf](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line
-*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-*   [userstyles-world/userstyles.world](https://github.com/userstyles-world/userstyles.world) - ⭐ Website to browse and share UserCSS userstyles.  A modern replacement for UserStyles.org made by the userstyles community.
-*   [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide) - WireGuard Guide. Learn all  about WireGuard for Networking and in the Cloud (Azure, AWS, and GCP).
-*   [segmentio/ksuid](https://github.com/segmentio/ksuid) - K-Sortable Globally Unique IDs
-*   [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
-*   [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
-*   [github/git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems
-*   [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-*   [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry\_blossom: A command-line fuzzy finder
-*   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
-*   [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-*   [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
-*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-*   [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-*   [amerkurev/doku](https://github.com/amerkurev/doku) - 💽 Doku - Docker disk usage dashboard
-*   [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-*   [sclevine/yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
-*   [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
-*   [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-*   [atkrad/wait4x](https://github.com/atkrad/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-*   [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-*   [aswinkarthik/csvdiff](https://github.com/aswinkarthik/csvdiff) - A fast diff tool for comparing csv files
-*   [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
-*   [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
-*   [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-*   [docker/buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
-*   [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
-*   [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-*   [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
-*   [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-*   [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
-*   [jsha/minica](https://github.com/jsha/minica) - minica is a small, simple CA intended for use in situations where the CA operator also operates each host where a certificate will be used.
-*   [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-*   [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-*   [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-*   [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-*   [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
-*   [ldez/traefik-certs-dumper](https://github.com/ldez/traefik-certs-dumper) - Dump ACME data from Traefik to certificates
-*   [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-*   [TykTechnologies/tyk-identity-broker](https://github.com/TykTechnologies/tyk-identity-broker) - Tyk Authentication Proxy for third-party login
-*   [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-*   [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-*   [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-*   [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
-*   [editorconfig-checker/editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) - A tool to verify that your files are in harmony with your .editorconfig
-*   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
-*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-*   [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-*   [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-*   [prometheus-community/windows\_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
-*   [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-*   [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-*   [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-*   [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-*   [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
-*   [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
-*   [mholt/timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally
-*   [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-*   [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-*   [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
-*   [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-*   [oneinfra/oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service
-*   [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-*   [rancher/k3os](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
-*   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-*   [Versent/saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [mjibson/sqlfmt](https://github.com/mjibson/sqlfmt) - SQL formatter with width-aware output
-*   [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
-*   [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-*   [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-*   [quay/clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-*   [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-*   [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-*   [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-*   [jaredpetersen/raspilive](https://github.com/jaredpetersen/raspilive) - 📷 Stream video from the Raspberry Pi Camera Module to the web
-*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-*   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
-*   [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-*   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-*   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
-*   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
-*   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
-*   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
-*   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-*   [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-
 ## Visual Basic .NET
 
 *   [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
@@ -2902,7 +2902,7 @@
 *   [tclindner/npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - Configurable linter for package.json files
 *   [gund/eslint-plugin-deprecation](https://github.com/gund/eslint-plugin-deprecation) - ESLint rule that reports usage of deprecated code
 *   [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
-*   [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - Code completion VSCode extension for OSS models
+*   [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode) - LLM powered development for VSCode
 *   [webpro/knip](https://github.com/webpro/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 *   [JoshuaKGoldberg/create-typescript-app](https://github.com/JoshuaKGoldberg/create-typescript-app) - Quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in. ✨
 *   [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
