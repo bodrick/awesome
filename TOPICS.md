@@ -1653,6 +1653,7 @@
 *   [awsome-list](#awsome-list)
 *   [cef](#cef)
 *   [snyk-service-studio](#snyk-service-studio)
+*   [ssdlc-rules](#ssdlc-rules)
 *   [webview](#webview)
 *   [arch](#arch)
 *   [arch-linux](#arch-linux)
@@ -23611,6 +23612,10 @@
 *   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
 
 ## snyk-service-studio
+
+*   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
+
+## ssdlc-rules
 
 *   [OutSystems/CefGlue](https://github.com/OutSystems/CefGlue) - .NET binding for The Chromium Embedded Framework (CEF)
 
