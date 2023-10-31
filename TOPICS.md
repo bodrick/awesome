@@ -3281,7 +3281,6 @@
 *   [portable](#portable)
 *   [wox](#wox)
 *   [raycast](#raycast)
-*   [raycasting](#raycasting)
 *   [clean-architecture](#clean-architecture)
 *   [hls](#hls)
 *   [hls-downloader](#hls-downloader)
@@ -32064,10 +32063,6 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-
-## raycasting
-
-*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
 ## clean-architecture
 
