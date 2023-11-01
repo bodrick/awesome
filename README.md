@@ -3137,7 +3137,7 @@
 *   [SamHerbert/SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built with pure SVG.
 *   [pocketjoso/penthouse](https://github.com/pocketjoso/penthouse) - Generate critical css for your web pages
 *   [websemantics/Image-Select](https://github.com/websemantics/Image-Select) - Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags.
-*   [shichuan/javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Design Patterns
+*   [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 *   [Pixabay/jQuery-tagEditor](https://github.com/Pixabay/jQuery-tagEditor) - A powerful and lightweight tag editor plugin for jQuery.
 *   [chrisnager/cursors](https://github.com/chrisnager/cursors) - All available cursors
 *   [sandywalker/webui-popover](https://github.com/sandywalker/webui-popover) - A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features
