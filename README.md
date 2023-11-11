@@ -59,7 +59,7 @@
 *   [NWScript](#nwscript)
 *   [Mustache](#mustache)
 *   [Visual Basic](#visual-basic)
-*   [Brightscript](#brightscript)
+*   [BrighterScript](#brighterscript)
 *   [OCaml](#ocaml)
 *   [SCSS](#scss)
 *   [ActionScript](#actionscript)
@@ -3720,7 +3720,7 @@
 *   [AlessandroDelSole/CodeSnippetStudio](https://github.com/AlessandroDelSole/CodeSnippetStudio) -
 *   [OfficeDev/Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) -  A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository
 
-## Brightscript
+## BrighterScript
 
 *   [jellyfin/jellyfin-roku](https://github.com/jellyfin/jellyfin-roku) - Roku Client for Jellyfin
 
