@@ -2443,7 +2443,7 @@
 *   [adamgibbons/ics](https://github.com/adamgibbons/ics) - iCalendar (ics) file generator for node.js
 *   [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
 *   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [nodists/nodist](https://github.com/nodists/nodist) - Natural node.js and npm version manager for windows.
 *   [neuroneural/brainchop](https://github.com/neuroneural/brainchop) - Brainchop: In-browser 3D MRI rendering and segmentation
 *   [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻

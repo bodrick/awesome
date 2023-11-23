@@ -680,6 +680,7 @@
 *   [tracing](#tracing)
 *   [zipkin](#zipkin)
 *   [backend-as-a-service](#backend-as-a-service)
+*   [orchestration](#orchestration)
 *   [aigc](#aigc)
 *   [autogpt](#autogpt)
 *   [babyagi](#babyagi)
@@ -2996,7 +2997,6 @@
 *   [scheduler](#scheduler)
 *   [scheduler-service](#scheduler-service)
 *   [coreclr](#coreclr)
-*   [orchestration](#orchestration)
 *   [xcode](#xcode)
 *   [xplat](#xplat)
 *   [d2d1](#d2d1)
@@ -8020,6 +8020,7 @@
 
 *   [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
 *   [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
+*   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 *   [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
 *   [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 *   [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
@@ -8029,7 +8030,7 @@
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 *   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
@@ -8113,7 +8114,7 @@
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal, powered by OpenAI's GPT language models 💫
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 *   [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 *   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
@@ -9484,7 +9485,7 @@
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [wieslawsoltes/ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework.
 *   [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner) - Simple UI for LLM Model Finetuning
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -10847,7 +10848,7 @@
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [mi4code/onscreen-hid](https://github.com/mi4code/onscreen-hid) - fully customizable onscreen keyboard and touchpad app written in python and HTML
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 *   [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 *   [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
@@ -12139,6 +12140,7 @@
 *   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
 *   [Quansight/ragna](https://github.com/Quansight/ragna) - RAG orchestration framework ⛵️
 *   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+*   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 *   [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The AI Agent Application Framework in .NET
 
 ## testing
@@ -18038,6 +18040,15 @@
 
 *   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 
+## orchestration
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+*   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
+*   [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
+*   [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
+*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
+
 ## aigc
 
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
@@ -22058,7 +22069,7 @@
 *   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 *   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 *   [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
 *   [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 *   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -29378,7 +29389,7 @@
 
 ## autonomous-agents
 
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 ## cloud-workloads
 
@@ -31282,14 +31293,6 @@
 *   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 *   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 *   [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
-
-## orchestration
-
-*   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
-*   [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
-*   [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
-*   [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-*   [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system.
 
 ## xcode
 
