@@ -37,6 +37,7 @@
 *   [Dockerfile](#dockerfile)
 *   [CMake](#cmake)
 *   [MDX](#mdx)
+*   [SCSS](#scss)
 *   [CodeQL](#codeql)
 *   [Text](#text)
 *   [CoffeeScript](#coffeescript)
@@ -61,7 +62,6 @@
 *   [Visual Basic](#visual-basic)
 *   [BrighterScript](#brighterscript)
 *   [OCaml](#ocaml)
-*   [SCSS](#scss)
 *   [ActionScript](#actionscript)
 *   [Astro](#astro)
 *   [Markdown](#markdown)
@@ -786,7 +786,7 @@
 *   [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 *   [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 *   [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 *   [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 *   [timokroeger/kbremap](https://github.com/timokroeger/kbremap) - Custom keyboard layouts for windows.
@@ -838,7 +838,7 @@
 
 *   [enricoros/big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
 *   [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
-*   [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
+*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 *   [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
@@ -1523,7 +1523,7 @@
 *   [keenerd/rtl-sdr](https://github.com/keenerd/rtl-sdr) - RTL-SDR experimental branch
 *   [MalcolmRobb/dump1090](https://github.com/MalcolmRobb/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 *   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
-*   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
+*   [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
 
 ## C\#
 
@@ -1622,7 +1622,6 @@
 *   [IntergatedCircuits/HidSharp](https://github.com/IntergatedCircuits/HidSharp) - HIDSharp is a multiplatform C# library for USB HID devices by James F. Bellinger
 *   [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - Use FluentValidation rules instead of ComponentModel attributes
 *   [mattfrear/Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore
-*   [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The AI Agent Application Framework in .NET
 *   [ggnaegi/SwizlyPeasy.Gateway](https://github.com/ggnaegi/SwizlyPeasy.Gateway) - SwizlyPeasy.Gateway is a simple API gateway based on YARP Reverse Proxy. This gateway should support OIDC authentication and service discovery with Consul.
 *   [castorix/WinUI3\_NotifyIcon](https://github.com/castorix/WinUI3_NotifyIcon) -
 *   [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
@@ -3697,6 +3696,15 @@
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
+## SCSS
+
+*   [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The AI Agent Application Framework in .NET
+*   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+*   [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
+*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
+
 ## CodeQL
 
 *   [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) - Starter workspace to use with the CodeQL extension for Visual Studio Code.
@@ -3826,14 +3834,6 @@
 ## OCaml
 
 *   [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-
-## SCSS
-
-*   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
-*   [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
-*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-*   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 
 ## ActionScript
 
