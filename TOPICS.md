@@ -17661,7 +17661,7 @@
 *   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 *   [builtbybel/JunkCtrl](https://github.com/builtbybel/JunkCtrl) - Decluttering bot
-*   [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - The real Windows 11 Copilot
+*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
 *   [krlvm/BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
@@ -31311,7 +31311,7 @@
 
 ## bloatynosy
 
-*   [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - The real Windows 11 Copilot
+*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
 
 ## ace
 
