@@ -2771,6 +2771,8 @@
 *   [fzf](#fzf)
 *   [unix](#unix)
 *   [commit-message](#commit-message)
+*   [gpt-4-vision](#gpt-4-vision)
+*   [gpt-4-vision-preview](#gpt-4-vision-preview)
 *   [githook](#githook)
 *   [access-tokens](#access-tokens)
 *   [delphi](#delphi)
@@ -30163,6 +30165,14 @@
 ## commit-message
 
 *   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
+
+## gpt-4-vision
+
+*   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+
+## gpt-4-vision-preview
+
+*   [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
 
 ## githook
 
