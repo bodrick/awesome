@@ -155,6 +155,7 @@
 *   [ml](#ml)
 *   [mlops](#mlops)
 *   [theresanaiforthat](#theresanaiforthat)
+*   [top-ai-tools](#top-ai-tools)
 *   [bentoml](#bentoml)
 *   [falcon](#falcon)
 *   [fine-tuning](#fine-tuning)
@@ -11533,6 +11534,10 @@
 *   [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 
 ## theresanaiforthat
+
+*   [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
+
+## top-ai-tools
 
 *   [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 
