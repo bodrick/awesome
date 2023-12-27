@@ -80,6 +80,7 @@
 
 ## Python
 
+*   [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
 *   [ollo69/ha-samsungtv-smart](https://github.com/ollo69/ha-samsungtv-smart) - 📺 Home Assistant SamsungTV Smart Component with simplified SmartThings API Support configurable from User Interface.
 *   [chipsec/chipsec](https://github.com/chipsec/chipsec) - Platform Security Assessment Framework
 *   [platomav/BIOSUtilities](https://github.com/platomav/BIOSUtilities) - Various BIOS Utilities for Modding/Research
@@ -328,6 +329,7 @@
 
 ## miscellaneous
 
+*   [mycroftwilde/portainer\_templates](https://github.com/mycroftwilde/portainer_templates) - Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
 *   [linuxenko/awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - A curated list of smart :tv: frameworks, libraries, software and resources.
 *   [rgl/intel-amt-notes](https://github.com/rgl/intel-amt-notes) - notes about intel amt
 *   [web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) - A curated list of awesome Lit resources.
@@ -3388,8 +3390,6 @@
 *   [winjs/winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
 *   [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
 *   [FoxUSA/OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
-*   [bootboxjs/bootbox](https://github.com/bootboxjs/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework
-*   [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 
 ## Jupyter Notebook
 
