@@ -1223,11 +1223,10 @@
 *   [minification](#minification)
 *   [svg](#svg)
 *   [svgo](#svgo)
+*   [ai-gateway](#ai-gateway)
 *   [gateway](#gateway)
-*   [hacksquad](#hacksquad)
-*   [hacksquad2023-accepted](#hacksquad2023-accepted)
-*   [hacktoberfest-2023](#hacktoberfest-2023)
-*   [hacktoberfest-accepted](#hacktoberfest-accepted)
+*   [llama-index](#llama-index)
+*   [router](#router)
 *   [ai-monitoring](#ai-monitoring)
 *   [ai-observability](#ai-observability)
 *   [ai-roi](#ai-roi)
@@ -1261,6 +1260,7 @@
 *   [starred](#starred)
 *   [starred-repositories](#starred-repositories)
 *   [stablediffusion](#stablediffusion)
+*   [hacktoberfest-accepted](#hacktoberfest-accepted)
 *   [fast](#fast)
 *   [logger](#logger)
 *   [pino](#pino)
@@ -1539,7 +1539,6 @@
 *   [orchestration](#orchestration)
 *   [babyagi](#babyagi)
 *   [dolly](#dolly)
-*   [llama-index](#llama-index)
 *   [memcache](#memcache)
 *   [milvus](#milvus)
 *   [similarity-search](#similarity-search)
@@ -3208,7 +3207,6 @@
 *   [plotly](#plotly)
 *   [redshift](#redshift)
 *   [auto-readme](#auto-readme)
-*   [automated-documentation](#automated-documentation)
 *   [automated-readme](#automated-readme)
 *   [documentation-generator](#documentation-generator)
 *   [gpt-readme](#gpt-readme)
@@ -11513,7 +11511,6 @@
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 *   [Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) - Explore a curated selection of AI tools and resources
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
 *   [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 *   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -13403,6 +13400,7 @@
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 *   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
 *   [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
@@ -13425,6 +13423,7 @@
 *   [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
 *   [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 *   [wealthsimple/llm-gateway](https://github.com/wealthsimple/llm-gateway) - Gateway for secure & reliable communications with OpenAI and other LLM providers
 *   [KenyonY/openai-forward](https://github.com/KenyonY/openai-forward) - 🚀  大型语言模型的高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy · ChatGPT API Proxy
@@ -14090,7 +14089,6 @@
 *   [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 *   [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 *   [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
 *   [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 *   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 
@@ -14100,7 +14098,7 @@
 *   [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
 *   [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 *   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.
 *   [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
@@ -17965,7 +17963,7 @@
 *   [instill-ai/vdp](https://github.com/instill-ai/vdp) - 💧 Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack
 *   [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 *   [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 *   [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 
@@ -18540,7 +18538,7 @@
 *   [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
 *   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 *   [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - A simple library to build RAG + Reasoning + Function calling Agents + LLM Proxy + Tracing + Logging
 *   [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
@@ -18551,7 +18549,7 @@
 *   [YiVal/YiVal](https://github.com/YiVal/YiVal) - Your Automatic Prompt Engineering Assistant for GenAI Applications
 *   [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 *   [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 *   [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
 *   [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
@@ -22162,33 +22160,24 @@
 
 *   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 
+## ai-gateway
+
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+
 ## gateway
 
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 *   [wealthsimple/llm-gateway](https://github.com/wealthsimple/llm-gateway) - Gateway for secure & reliable communications with OpenAI and other LLM providers
 *   [TykTechnologies/tyk-gateway-docker](https://github.com/TykTechnologies/tyk-gateway-docker) - Docker compose deployment to run Tyk OSS Gateway
 
-## hacksquad
+## llama-index
 
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+*   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
 
-## hacksquad2023-accepted
+## router
 
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
-
-## hacktoberfest-2023
-
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
-
-## hacktoberfest-accepted
-
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway by Portkey.ai
-*   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
-*   [FireCubeStudios/FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
-*   [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
-*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
-*   [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
-*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
 
 ## ai-monitoring
 
@@ -22354,6 +22343,15 @@
 ## stablediffusion
 
 *   [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+
+## hacktoberfest-accepted
+
+*   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
+*   [FireCubeStudios/FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
+*   [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
+*   [ServiceNowDevProgram/code-snippets](https://github.com/ServiceNowDevProgram/code-snippets) - ServiceNow's Code Snippets community repository, managed by the Developer Program and the sndevs community.
+*   [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
+*   [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 
 ## fast
 
@@ -22963,6 +22961,7 @@
 *   [zce/caz](https://github.com/zce/caz) - A simple yet powerful template-based Scaffolding tools.
 *   [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 *   [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 *   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
 *   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
 *   [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card\_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
@@ -24438,10 +24437,6 @@
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
 
 ## dolly
-
-*   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
-
-## llama-index
 
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
 
@@ -33568,10 +33563,6 @@
 *   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 ## auto-readme
-
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
-
-## automated-documentation
 
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal using GPT LLM APIs 💫
 
