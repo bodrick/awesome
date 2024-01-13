@@ -1072,7 +1072,7 @@
 *   [large-language-model](#large-language-model)
 *   [llm-cpu](#llm-cpu)
 *   [neural-chat](#neural-chat)
-*   [neural-chat-7b-v3-1](#neural-chat-7b-v3-1)
+*   [neural-chat-7b](#neural-chat-7b)
 *   [neurips2023](#neurips2023)
 *   [pc](#pc)
 *   [speculative-decoding](#speculative-decoding)
@@ -21262,7 +21262,7 @@
 
 *   [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 
-## neural-chat-7b-v3-1
+## neural-chat-7b
 
 *   [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 
