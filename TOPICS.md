@@ -2244,10 +2244,8 @@
 *   [pytorch-transformers](#pytorch-transformers)
 *   [seq2seq](#seq2seq)
 *   [apps](#apps)
-*   [atomic](#atomic)
 *   [bun](#bun)
 *   [functional](#functional)
-*   [headless](#headless)
 *   [foss](#foss)
 *   [meteor](#meteor)
 *   [mit](#mit)
@@ -6648,6 +6646,7 @@
 *   [chrome-headless](#chrome-headless)
 *   [visual-regression-tests](#visual-regression-tests)
 *   [chrome-debugging-protocol](#chrome-debugging-protocol)
+*   [headless](#headless)
 *   [microsoft-edge](#microsoft-edge)
 *   [mobile-safari](#mobile-safari)
 *   [cv](#cv)
@@ -12106,6 +12105,7 @@
 
 *   [JZO001/Forge.OpenAI](https://github.com/JZO001/Forge.OpenAI) - OpenAI API client library for .NET. I was developed it for for public use and it is free.
 *   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+*   [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 *   [AderitoSilva/XInputium](https://github.com/AderitoSilva/XInputium) - The elemental XInput library for .NET.
 *   [itext/itext7-dotnet](https://github.com/itext/itext7-dotnet) - iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enha
 *   [AngleSharp/AngleSharp](https://github.com/AngleSharp/AngleSharp) - :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
@@ -15884,7 +15884,6 @@
 *   [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 *   [CCob/MinHook.NET](https://github.com/CCob/MinHook.NET) - A C# port of the MinHook API hooking library
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-*   [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
 *   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 *   [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation. YCombinator - YC W24
 *   [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -28583,10 +28582,6 @@
 *   [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 *   [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 
-## atomic
-
-*   [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-
 ## bun
 
 *   [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
@@ -28595,13 +28590,6 @@
 ## functional
 
 *   [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-
-## headless
-
-*   [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster.
-*   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
-*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
-*   [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## foss
 
@@ -49311,6 +49299,12 @@
 ## chrome-debugging-protocol
 
 *   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
+
+## headless
+
+*   [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - Chrome Debugging Protocol interface for Node.js
+*   [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
+*   [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## microsoft-edge
 
