@@ -83,6 +83,7 @@
 
 ## JavaScript
 
+*   [suchipi/transform-imports](https://github.com/suchipi/transform-imports) - Tools that make it easy to codemod imports/requires in your JS
 *   [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 *   [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 *   [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -128,7 +129,7 @@
 *   [Sjeiti/TinySort](https://github.com/Sjeiti/TinySort) - TinySort is a small script that sorts HTML elements. It sorts by text- or attribute value, or by that of one of it's children.
 *   [AdguardTeam/FiltersCompiler](https://github.com/AdguardTeam/FiltersCompiler) - A tool that compiles & validates filters
 *   [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
-*   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
+*   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent )
 *   [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson) - Prettier plugin for package.json
 *   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 *   [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
@@ -774,7 +775,6 @@
 *   [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
 *   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 *   [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
-*   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
 
 ## miscellaneous
 
@@ -873,7 +873,6 @@
 *   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
 *   [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 *   [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
-*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows. (Issues-only repo)
 *   [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 *   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 *   [cybermaxs/awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
@@ -1960,6 +1959,7 @@
 *   [Sergio0694/PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun! 🚀
 *   [Cinchoo/ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
 *   [dwmkerr/sharpshell](https://github.com/dwmkerr/sharpshell) - SharpShell makes it easy to create Windows Shell Extensions using the .NET Framework.
+*   [jenius-apps/nightingale-rest-api-client](https://github.com/jenius-apps/nightingale-rest-api-client) - A modern, resource-efficient REST API client for Windows
 *   [randyrants/sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 *   [menees/Analyzers](https://github.com/menees/Analyzers) - C# code analyzers
 *   [dsafa/CSDeskBand](https://github.com/dsafa/CSDeskBand) - Windows deskband with C#
