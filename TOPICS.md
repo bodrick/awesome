@@ -2977,6 +2977,7 @@
 *   [productivity-tool](#productivity-tool)
 *   [tab-expansion](#tab-expansion)
 *   [tab-expansion-handlers](#tab-expansion-handlers)
+*   [binary-analysis](#binary-analysis)
 *   [debug](#debug)
 *   [debugger](#debugger)
 *   [ept](#ept)
@@ -2996,7 +2997,6 @@
 *   [snes-controller](#snes-controller)
 *   [switch](#switch)
 *   [yuzu](#yuzu)
-*   [binary-analysis](#binary-analysis)
 *   [ctf](#ctf)
 *   [exploit-development](#exploit-development)
 *   [oscp](#oscp)
@@ -18273,6 +18273,7 @@
 *   [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.
 *   [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 *   [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below
+*   [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 *   [diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse) - An advanced tool for working with access tokens and Windows security policy.
 *   [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
@@ -18516,6 +18517,7 @@
 *   [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 *   [itext/itext7-dotnet](https://github.com/itext/itext7-dotnet) - iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enha
 *   [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+*   [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 *   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -20663,6 +20665,7 @@
 *   [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 *   [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 *   [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) - Hand-crafted Frida examples
+*   [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -27516,6 +27519,7 @@
 ## malware-analysis
 
 *   [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) - Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
+*   [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 *   [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI
 *   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -32638,6 +32642,13 @@
 
 *   [DiaAzul/Posh-Predictive-Text](https://github.com/DiaAzul/Posh-Predictive-Text) - PowerShell predictive text for popular command line tools.
 
+## binary-analysis
+
+*   [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
+*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
 ## debug
 
 *   [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
@@ -32735,12 +32746,6 @@
 ## yuzu
 
 *   [Davidobot/BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
-
-## binary-analysis
-
-*   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
 ## ctf
 
