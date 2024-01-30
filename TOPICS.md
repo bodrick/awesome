@@ -2595,6 +2595,7 @@
 *   [autonomous-agent](#autonomous-agent)
 *   [codebase-generation](#codebase-generation)
 *   [coding-assistant](#coding-assistant)
+*   [gpt-engineer](#gpt-engineer)
 *   [lifecycle](#lifecycle)
 *   [navigation](#navigation)
 *   [navigationbar](#navigationbar)
@@ -15978,6 +15979,7 @@
 ## codegen
 
 *   [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Instant answers to any programming question
+*   [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 *   [podimo/Podimo.ConstEmbed](https://github.com/podimo/Podimo.ConstEmbed) - Compile-time file embedding as string constants.
 *   [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 
@@ -24800,6 +24802,7 @@
 
 *   [VirtualEstatePlanner/MegaDocker](https://github.com/VirtualEstatePlanner/MegaDocker) - A tool to easily generate docker swarm stacks
 *   [ignatandrei/RSCG\_Examples](https://github.com/ignatandrei/RSCG_Examples) - Roslyn Source Code Generators with Examples
+*   [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 *   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
 *   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
 *   [msawczyn/EFDesigner](https://github.com/msawczyn/EFDesigner) - Entity Framework visual design surface and code-first code generation for EF6, Core and beyond
@@ -30804,6 +30807,10 @@
 *   [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 
 ## coding-assistant
+
+*   [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+
+## gpt-engineer
 
 *   [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 

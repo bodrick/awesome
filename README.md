@@ -66,7 +66,6 @@
 *   [Visual Basic](#visual-basic)
 *   [BrighterScript](#brighterscript)
 *   [OCaml](#ocaml)
-*   [ActionScript](#actionscript)
 *   [Astro](#astro)
 *   [Vala](#vala)
 *   [Haml](#haml)
@@ -768,6 +767,7 @@
 *   [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 *   [icedland/iced](https://github.com/icedland/iced) - Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua
+*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 *   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -4150,10 +4150,6 @@
 ## OCaml
 
 *   [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-
-## ActionScript
-
-*   [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Astro
 
