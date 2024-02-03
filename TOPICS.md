@@ -9317,7 +9317,7 @@
 *   [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 *   [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 *   [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 *   [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 *   [mcmonkeyprojects/KeyboardChatterBlocker](https://github.com/mcmonkeyprojects/KeyboardChatterBlocker) - A handy quick tool for blocking mechanical keyboard chatter.
 *   [SeeminglyScience/EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
