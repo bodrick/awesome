@@ -1550,7 +1550,7 @@
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 *   [mi4code/onscreen-hid](https://github.com/mi4code/onscreen-hid) - fully customizable onscreen keyboard and touchpad app written in python and HTML
-*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
+*   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
 *   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 *   [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
@@ -2086,7 +2086,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53162, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.52237)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53212, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.52237)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
