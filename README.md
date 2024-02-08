@@ -568,7 +568,7 @@
 *   [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
-*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure that works universally.
+*   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers that works universally.
 *   [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 *   [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more.
 *   [bulwarkid/bulwark-passkey](https://github.com/bulwarkid/bulwark-passkey) - BulwarkID FIDO Passkey
@@ -1900,6 +1900,7 @@
 *   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 *   [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
 *   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
+*   [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes, and more
 
 ## CSS
 
@@ -2253,7 +2254,6 @@
 *   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
 *   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
 *   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
-*   [PNRxA/corrupted-media-scanner](https://github.com/PNRxA/corrupted-media-scanner) - Uses handbrake to check if files are corrupt or unplayable
 *   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
 *   [EvotecIT/PSEventViewer](https://github.com/EvotecIT/PSEventViewer) - PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. One of the features you may be interested in is a simple way of getting “hidden” events data
 *   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
