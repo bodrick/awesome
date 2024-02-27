@@ -157,7 +157,6 @@
 *   [Exafunction/CodeiumVisualStudio](https://github.com/Exafunction/CodeiumVisualStudio) - Visual Studio extension for Codeium
 *   [akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder) - ⏺️ A simple recording program with the ability to record screens and audio on your computer.
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-*   [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) -
 *   [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
 *   [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows.
 *   [Stability-AI/StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
@@ -900,7 +899,7 @@
 *   [microsoft/SqlNexus](https://github.com/microsoft/SqlNexus) - SQL Nexus is a tool that helps you identify the root cause of SQL Server performance issues. It loads and analyzes performance data collected by  SQL LogScout, SQLDiag or PSSDiag. It can dramatically reduce the amount of time you spend manually analyzing data.
 *   [bugzinga/sql-hunting-dog](https://github.com/bugzinga/sql-hunting-dog) - Quick Search Tool (AddIn) for Microsoft SQL Management Studio
 *   [dotnet/roslynator](https://github.com/dotnet/roslynator) - Roslynator is a set of code analysis tools for C#, powered by Roslyn.
-*   [Yvand/LDAPCP](https://github.com/Yvand/LDAPCP) - This claims provider connects SharePoint Subscription / 2019 / 2016 / 2013 with Active Directory and LDAP servers to improve the experience when authentication is federated with ADFS
+*   [Yvand/LDAPCP](https://github.com/Yvand/LDAPCP) - A claims provider to connect SharePoint Subscription / 2019 / 2016 with Active Directory and LDAP directories in federated authentication
 *   [ebekker/ACMESharp](https://github.com/ebekker/ACMESharp) - An ACME client library and PowerShell client for the .NET platform (Let's Encrypt)
 *   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
 *   [lduchosal/ipnetwork](https://github.com/lduchosal/ipnetwork) - IPNetwork command line and C# library take care of complex network, IP, IPv4, IPv6, netmask, CIDR, subnet, subnetting, supernet, and supernetting calculation for .NET developers. It works with IPv4 as well as IPv6, is written in C#, has a light and clean API, and is fully unit-tested
@@ -2705,6 +2704,7 @@
 *   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 *   [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
+*   [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) -
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms.
 *   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 *   [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
