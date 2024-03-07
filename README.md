@@ -1426,7 +1426,7 @@
 *   [microsoft/TailwindTraders-Backend](https://github.com/microsoft/TailwindTraders-Backend) - Tailwind Traders Backend Services
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 *   [builtbybel/privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 *   [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 *   [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 *   [lecaillon/Evolve](https://github.com/lecaillon/Evolve) - Database migration tool for .NET and .NET Core projects. Inspired by Flyway.
@@ -3884,7 +3884,6 @@
 *   [silvio/docker-languagetool](https://github.com/silvio/docker-languagetool) - Dockerfile for LanguageTool
 *   [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 *   [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services.
-*   [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 *   [PartialVolume/shredos.x86\_64](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
 *   [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 *   [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
@@ -4086,6 +4085,7 @@
 *   [Atinoda/text-generation-webui-docker](https://github.com/Atinoda/text-generation-webui-docker) - Docker variants of oobabooga's text-generation-webui, including pre-built images.
 *   [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀
 *   [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+*   [masipcat/wireguard-go-docker](https://github.com/masipcat/wireguard-go-docker) - Wireguard docker image
 *   [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 *   [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 *   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
