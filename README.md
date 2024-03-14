@@ -1293,7 +1293,7 @@
 *   [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 *   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 *   [microsoft/playwright-dotnet](https://github.com/microsoft/playwright-dotnet) - .NET version of the Playwright testing and automation library.
-*   [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
+*   [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, and Linux
 *   [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework
 *   [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 *   [bkoelman/ResharperCodeContractNullability](https://github.com/bkoelman/ResharperCodeContractNullability) - Reports diagnostics, helping you to annotate your source tree with (Item)NotNull / (Item)CanBeNull attributes.
@@ -2192,7 +2192,7 @@
 *   [funilrys/PyFunceble](https://github.com/funilrys/PyFunceble) - The tool to check the availability or syntax of domain, IP or URL.
 *   [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
 *   [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
-*   [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+*   [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 *   [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
 *   [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 *   [tomsquest/docker-radicale](https://github.com/tomsquest/docker-radicale) - :calendar: Docker image for Radicale calendar and contact server + security :closed\_lock\_with\_key: + addons :rocket:
