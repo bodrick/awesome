@@ -164,7 +164,7 @@
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
 *   [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
-*   [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 *   [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 *   [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 *   [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
@@ -963,7 +963,7 @@
 *   [jeffdapaz/VisualChatGPTStudio](https://github.com/jeffdapaz/VisualChatGPTStudio) - Add chatGPT functionalities directly on Visual Studio
 *   [trampster/SqlSrcGen](https://github.com/trampster/SqlSrcGen) - SqlSrcGen
 *   [aarondandy/WeCantSpell.Hunspell](https://github.com/aarondandy/WeCantSpell.Hunspell) - A port of Hunspell v1 for .NET and .NET Standard
-*   [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
+*   [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - Dynamic Tiling Window Manager for Windows
 *   [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 *   [menees/VsTools](https://github.com/menees/VsTools) - A VS extension to process selected text, add new text, and work with open files
 *   [GregsStack/InputSimulatorStandard](https://github.com/GregsStack/InputSimulatorStandard) - Input Simulator Standard
