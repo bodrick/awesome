@@ -2694,7 +2694,7 @@
 *   [pinecone-io/examples](https://github.com/pinecone-io/examples) - Jupyter Notebooks to help you get hands-on with Pinecone vector databases
 *   [microsoft/mssql-support](https://github.com/microsoft/mssql-support) - workspace to share scripts and utilities used by mssql support team
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-*   [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+*   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 *   [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
 *   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 *   [andrewgcodes/lightspeedGPT](https://github.com/andrewgcodes/lightspeedGPT) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
