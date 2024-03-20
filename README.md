@@ -1137,7 +1137,7 @@
 *   [HavenDV/H.NotifyIcon](https://github.com/HavenDV/H.NotifyIcon) - TrayIcon for WPF/WinUI/Uno/MAUI
 *   [betalgo/openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E
 *   [AArnott/DotNetRepoTools](https://github.com/AArnott/DotNetRepoTools) - A CLI tool with commands to help maintain .NET codebases
-*   [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot (former Bloatynosy)
+*   [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot
 *   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 *   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
 *   [philips-software/roslyn-analyzers](https://github.com/philips-software/roslyn-analyzers) - Roslyn Diagnostic Analyzers are customized compiler errors providing real-time feedback to C# developers. Each Analyzer optionally includes an automatic Code Fixer.
