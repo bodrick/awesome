@@ -4033,7 +4033,7 @@
 
 *   [wallacebrf/synology\_SMART\_disk\_data\_logger](https://github.com/wallacebrf/synology_SMART_disk_data_logger) - Script to save SMART disk data from synology NAS into InfluxDB
 *   [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
-*   [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+*   [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 *   [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 *   [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
