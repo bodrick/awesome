@@ -216,6 +216,7 @@
 *   [garzj/google-photos-migrate](https://github.com/garzj/google-photos-migrate) - A tool to fix EXIF data and recover filenames from a Google Photos takeout, preserving albums within the directory structure.
 *   [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 *   [mb21/panwriter](https://github.com/mb21/panwriter) - Markdown editor with pandoc integration and paginated preview.
+*   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 *   [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 *   [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 *   [mckaywrigley/chatbot-ui-lite](https://github.com/mckaywrigley/chatbot-ui-lite) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
@@ -2176,7 +2177,6 @@
 *   [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 *   [mitchcapper/CefSharpDockerfiles](https://github.com/mitchcapper/CefSharpDockerfiles) - Automated chrome cef building and cefsharp building with docker and build scripts
 *   [comet-ml/comet-llm](https://github.com/comet-ml/comet-llm) - Log, Track, and Visualize your LLM Prompts and Chains
-*   [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 *   [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama\_index.
 *   [vrnetlab/vrnetlab](https://github.com/vrnetlab/vrnetlab) - Run virtual routers with docker
 *   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
