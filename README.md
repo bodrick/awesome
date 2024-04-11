@@ -202,7 +202,7 @@
 *   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 *   [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 *   [VirtualEstatePlanner/MegaDocker](https://github.com/VirtualEstatePlanner/MegaDocker) - A tool to easily generate docker swarm stacks
-*   [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
+*   [eslint-community/eslint-stylistic](https://github.com/eslint-community/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 *   [wealthsimple/llm-gateway](https://github.com/wealthsimple/llm-gateway) - Gateway for secure & reliable communications with OpenAI and other LLM providers
 *   [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
 *   [Helicone/helicone](https://github.com/Helicone/helicone) -
@@ -870,7 +870,7 @@
 *   [FireCubeStudios/StartStrikesBack](https://github.com/FireCubeStudios/StartStrikesBack) - Fixed Windows 11 start menu by FireCube
 *   [dotnet/Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning) - Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official builds.
 *   [microsoft/vssetup.powershell](https://github.com/microsoft/vssetup.powershell) - PowerShell module to interact with Visual Studio Setup
-*   [microsoft/dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is a command line tool that simulates real world behaviors of HTTP APIs, including Microsoft Graph, locally.
+*   [microsoft/dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 *   [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
 *   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 *   [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
