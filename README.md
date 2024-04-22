@@ -38,6 +38,7 @@
 *   [Vue](#vue)
 *   [Vim Snippet](#vim-snippet)
 *   [Elm](#elm)
+*   [Yacc](#yacc)
 *   [Ruby](#ruby)
 *   [Lua](#lua)
 *   [Haskell](#haskell)
@@ -193,7 +194,7 @@
 *   [psychic-api/psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 *   [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+*   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 *   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 *   [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 *   [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
@@ -998,7 +999,7 @@
 *   [AvaloniaInside/Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require
 *   [RickStrahl/Westwind.Wpf.Statusbar](https://github.com/RickStrahl/Westwind.Wpf.Statusbar) - A small WPF library to provide animated status bar operations
 *   [StubbleOrg/Stubble](https://github.com/StubbleOrg/Stubble) - Trimmed down {{mustache}} templates in .NET
-*   [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A cross-platform library to run 🦙LLaMA/LLaVA model (and others) on your local device efficiently.
+*   [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM models (🦙LLaMA/LLaVA) on your local device efficiently.
 *   [AderitoSilva/XInputium](https://github.com/AderitoSilva/XInputium) - The elemental XInput library for .NET.
 *   [LibUsbDotNet/LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet) - My updates to LibUsbDotNet, an excellent library for cross-platform USB device control using Mono/.NET
 *   [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
@@ -1828,7 +1829,6 @@
 *   [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 *   [mon5termatt/medicat\_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
-*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 *   [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 *   [bmrf/standalone\_scripts](https://github.com/bmrf/standalone_scripts) - Various standalone scripts
 *   [bmrf/tron](https://github.com/bmrf/tron) - Tron
@@ -2600,6 +2600,7 @@
 *   [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
 *   [nightroman/PS-GuiCompletion](https://github.com/nightroman/PS-GuiCompletion) - A graphical menu for PowerShell tab completions.
 *   [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 *   [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 *   [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
 *   [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - A set of PowerShell 7.x tools for automating script and module development.
@@ -2879,7 +2880,6 @@
 *   [orouits/qjackrcd](https://github.com/orouits/qjackrcd) - Simple stereo jack recorder with silence processing
 *   [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
 *   [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
-*   [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 *   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
 *   [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 *   [Devolutions/MsRdpEx](https://github.com/Devolutions/MsRdpEx) - Microsoft RDP Client Extensions
@@ -4181,6 +4181,10 @@
 ## Elm
 
 *   [eikek/docspell](https://github.com/eikek/docspell) - Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort.
+
+## Yacc
+
+*   [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 
 ## Ruby
 
