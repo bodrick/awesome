@@ -146,7 +146,7 @@
 *   [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 *   [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 *   [antfu/pnpm-patch-i](https://github.com/antfu/pnpm-patch-i) - A better and interactive pnpm patch
-*   [privatenumber/eslint-config](https://github.com/privatenumber/eslint-config) - 🤖 privatenumber's ESLint config for JS, TS, Vue, React, JSON, YAML, Markdown and more!
+*   [privatenumber/lintroll](https://github.com/privatenumber/lintroll) - 🤖 privatenumber's ESLint config for JS, TS, Vue, React, JSON, YAML, Markdown and more!
 *   [desktop/dugite](https://github.com/desktop/dugite) - Elegant bindings for working with Git in your Node applications
 *   [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 *   [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A simple note-taking app for better thinking
