@@ -3686,7 +3686,6 @@
 *   [doedje/jquery.soap](https://github.com/doedje/jquery.soap) - This script uses $.ajax to send a SOAP:Envelope. It can take XML DOM, XML string or JSON as input and the response can be returned as either XML DOM, XML string or JSON too.
 *   [jonthornton/jquery-timepicker](https://github.com/jonthornton/jquery-timepicker) - A javascript timepicker plugin for jQuery inspired by Google Calendar.
 *   [skorecky/Add-Clear](https://github.com/skorecky/Add-Clear) - jQuery Plugin to add a (x) clear button to your input fields
-*   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 *   [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.
 *   [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
 *   [CSSLint/csslint](https://github.com/CSSLint/csslint) - Automated linting of Cascading Stylesheets
@@ -4109,6 +4108,7 @@
 
 *   [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 *   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 
 ## TSQL
 
