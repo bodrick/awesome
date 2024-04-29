@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Svelte](#svelte)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -27,7 +28,6 @@
 *   [CSS](#css)
 *   [Swift](#swift)
 *   [Visual Basic .NET](#visual-basic-net)
-*   [Java](#java)
 *   [PHP](#php)
 *   [Dockerfile](#dockerfile)
 *   [Jinja](#jinja)
@@ -80,6 +80,74 @@
 *   [SQLPL](#sqlpl)
 *   [Objective-C](#objective-c)
 
+## Java
+
+*   [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+*   [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
+*   [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
+*   [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
+*   [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
+*   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+*   [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
+*   [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+*   [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework
+*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
+*   [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+*   [jsslkeylog/jsslkeylog](https://github.com/jsslkeylog/jsslkeylog) - Java Agent Library to log SSL session keys to a file for Wireshark
+*   [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
+*   [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
+*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
+*   [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
+*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+*   [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+*   [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+*   [hyscale/hyscale](https://github.com/hyscale/hyscale) - HyScale is an Application Centric Abstraction Framework over K8s.
+*   [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
+*   [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
+*   [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+*   [otros-systems/otroslogviewer](https://github.com/otros-systems/otroslogviewer) - Log viewer focused on developers work
+*   [huxi/lilith](https://github.com/huxi/lilith) - Lilith is a Logging- and AccessEvent viewer for Logback, log4j, log4j2 and java.util.logging
+*   [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+*   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+*   [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
+*   [bonigarcia/selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) - JUnit 5 extension for Selenium WebDriver
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+*   [BaronKiko/LauncherHijack](https://github.com/BaronKiko/LauncherHijack) - For Amazon Fire Tablets and TV's
+*   [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
+*   [GoldenKappa/notSABS](https://github.com/GoldenKappa/notSABS) - notSABS ver 1.0.0
+*   [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
+*   [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
+*   [uchicago/shibboleth-oidc](https://github.com/uchicago/shibboleth-oidc) - OpenID Connect support for the Shibboleth Identity Provider  v3
+*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
+*   [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
+*   [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
+*   [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
+*   [NielsMasdorp/Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) - \[Not maintained] Android application powering a magic mirror.
+*   [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
+*   [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
+*   [watabou/pixel-dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
+*   [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
+*   [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
+*   [microsoft/vsminecraft](https://github.com/microsoft/vsminecraft) - Visual Studio extension for developing MinecraftForge mods using Java.
+*   [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
+*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+*   [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+*   [Sammy1Am/MoppyClassic](https://github.com/Sammy1Am/MoppyClassic) - Moppy has been replaced with Moppy 2.0!
+*   [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
+*   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
+*   [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
+*   [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+*   [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
+*   [jonathanlermitage/tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages.
+
 ## Svelte
 
 *   [goniszewski/grimoire-web-extension](https://github.com/goniszewski/grimoire-web-extension) - Companion extension for Grimoire - the bookmark manager for the wizards 🧙
@@ -108,7 +176,7 @@
 *   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 *   [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS
 *   [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
-*   [typedoc-plugin-markdown/typedoc-plugin-markdown](https://github.com/typedoc-plugin-markdown/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
+*   [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 *   [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
@@ -1816,7 +1884,6 @@
 *   [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 *   [MiniProfiler/dotnet](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET (and Core) websites
 *   [filipw/Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) - ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers
-*   [mwrock/RequestReduce](https://github.com/mwrock/RequestReduce) - Instantly makes your .net website faster by reducing the number and size of requests with almost no effort.
 
 ## Batchfile
 
@@ -3917,6 +3984,7 @@
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 *   [mausba/rssheap](https://github.com/mausba/rssheap) - An advanced web and mobile based RSS reader for software developers built on the .NET platform
 *   [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 *   [Screenly/Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
 *   [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
 *   [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
@@ -3960,73 +4028,6 @@
 *   [clinthuffman/PAL](https://github.com/clinthuffman/PAL) - Performance Analysis of Logs (PAL) tool
 *   [DanCooper/Ember-MM-Newscraper](https://github.com/DanCooper/Ember-MM-Newscraper) - New Ember Media Manager - The all in one media manager for Kodi and other media centers
 *   [steveschofield/IISlogsSolution](https://github.com/steveschofield/IISlogsSolution) - IISLogs Compression EXE And Service solution
-
-## Java
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-*   [rom1v/sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
-*   [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
-*   [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
-*   [grpc-swagger/grpc-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
-*   [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-*   [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
-*   [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
-*   [eclipse/xtext](https://github.com/eclipse/xtext) - Eclipse Xtext™ is a language development framework
-*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-*   [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
-*   [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
-*   [jsslkeylog/jsslkeylog](https://github.com/jsslkeylog/jsslkeylog) - Java Agent Library to log SSL session keys to a file for Wireshark
-*   [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
-*   [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
-*   [apache/skywalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System
-*   [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
-*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
-*   [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
-*   [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
-*   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-*   [hyscale/hyscale](https://github.com/hyscale/hyscale) - HyScale is an Application Centric Abstraction Framework over K8s.
-*   [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
-*   [internetarchive/heritrix3](https://github.com/internetarchive/heritrix3) - Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.
-*   [google/google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-*   [otros-systems/otroslogviewer](https://github.com/otros-systems/otroslogviewer) - Log viewer focused on developers work
-*   [huxi/lilith](https://github.com/huxi/lilith) - Lilith is a Logging- and AccessEvent viewer for Logback, log4j, log4j2 and java.util.logging
-*   [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
-*   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-*   [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [bonigarcia/selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) - JUnit 5 extension for Selenium WebDriver
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-*   [BaronKiko/LauncherHijack](https://github.com/BaronKiko/LauncherHijack) - For Amazon Fire Tablets and TV's
-*   [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
-*   [GoldenKappa/notSABS](https://github.com/GoldenKappa/notSABS) - notSABS ver 1.0.0
-*   [kaikramer/keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
-*   [guardianproject/haven](https://github.com/guardianproject/haven) - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
-*   [uchicago/shibboleth-oidc](https://github.com/uchicago/shibboleth-oidc) - OpenID Connect support for the Shibboleth Identity Provider  v3
-*   [java-decompiler/jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
-*   [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
-*   [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
-*   [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
-*   [MinecraftForge/MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/
-*   [NielsMasdorp/Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) - \[Not maintained] Android application powering a magic mirror.
-*   [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
-*   [chunky-dev/chunky](https://github.com/chunky-dev/chunky) - A path tracer to create realistic images of your Minecraft worlds.
-*   [watabou/pixel-dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
-*   [HannahMitt/HomeMirror](https://github.com/HannahMitt/HomeMirror) - Android application powering the mirror in my house
-*   [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
-*   [microsoft/vsminecraft](https://github.com/microsoft/vsminecraft) - Visual Studio extension for developing MinecraftForge mods using Java.
-*   [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
-*   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
-*   [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-*   [Sammy1Am/MoppyClassic](https://github.com/Sammy1Am/MoppyClassic) - Moppy has been replaced with Moppy 2.0!
-*   [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
-*   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-*   [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
-*   [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
-*   [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
-*   [jonathanlermitage/tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages.
 
 ## PHP
 
@@ -4099,7 +4100,6 @@
 *   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
 *   [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 *   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
 *   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 *   [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
