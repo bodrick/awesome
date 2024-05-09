@@ -54,9 +54,9 @@
 *   [AutoHotkey](#autohotkey)
 *   [Bicep](#bicep)
 *   [AutoIt](#autoit)
-*   [Pascal](#pascal)
 *   [Dart](#dart)
 *   [Elixir](#elixir)
+*   [Pascal](#pascal)
 *   [Roff](#roff)
 *   [HLSL](#hlsl)
 *   [Clojure](#clojure)
@@ -132,7 +132,6 @@
 *   [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 *   [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
 *   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-*   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 *   [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
 *   [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 *   [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
@@ -381,7 +380,7 @@
 *   [mintty/wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 *   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 *   [memtest86plus/memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+
-*   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS) and Virtual Machines
+*   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines
 *   [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86\_64 Emulator with a twist, targeted at ARM64 Linux devices
 *   [snesrev/sm](https://github.com/snesrev/sm) - early version
 *   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
@@ -1550,6 +1549,7 @@
 *   [devlooped/nugetizer](https://github.com/devlooped/nugetizer) - A simple to understand packing model for authoring NuGet packages
 *   [emgarten/Sleet](https://github.com/emgarten/Sleet) - A static nuget feed generator for Azure Storage, AWS S3, and more.
 *   [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
+*   [devlooped/GitInfo](https://github.com/devlooped/GitInfo) - Git and SemVer Info from MSBuild, C# and VB
 *   [Turnerj/NetworkedVegas2](https://github.com/Turnerj/NetworkedVegas2) - Helps connect Rainbow Six Vegas 2 across the internet
 *   [ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter) - Arsenal Image Mounter mounts the contents of disk images as complete disks in Microsoft Windows.
 *   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -2755,6 +2755,7 @@
 *   [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 *   [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 *   [ztrhgf/useful\_powershell\_modules](https://github.com/ztrhgf/useful_powershell_modules) -
+*   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
 *   [cisagov/LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a no-cost and open logging and protective monitoring solution serving all organizations.
 *   [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
 *   [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
@@ -3086,7 +3087,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.54499, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54604, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -4286,14 +4287,6 @@
 *   [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 *   [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 
-## Pascal
-
-*   [devlooped/GitInfo](https://github.com/devlooped/GitInfo) - Git and SemVer Info from MSBuild, C# and VB
-*   [diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse) - An advanced tool for working with access tokens and Windows security policy.
-*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
-*   [matortheeternal/smash](https://github.com/matortheeternal/smash) - An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for TES and Fallout games.
-*   [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
-
 ## Dart
 
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
@@ -4304,6 +4297,13 @@
 ## Elixir
 
 *   [Logflare/logflare](https://github.com/Logflare/logflare) - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
+
+## Pascal
+
+*   [diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse) - An advanced tool for working with access tokens and Windows security policy.
+*   [CHEF-KOCH/GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) - Windows 10 and (some) Linux Gaming Tweaks without myths
+*   [matortheeternal/smash](https://github.com/matortheeternal/smash) - An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for TES and Fallout games.
+*   [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
 
 ## Roff
 
