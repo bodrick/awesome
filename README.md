@@ -1903,6 +1903,7 @@
 *   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 *   [chinhdo/txFileManager](https://github.com/chinhdo/txFileManager) - .NET Transactional File Manager is a .NET Standard library that allows you to enlist file operations (file/folder copies, writes, deletes, appends, etc.) in distributed transactions.
 *   [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 *   [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) -
 *   [amd989/Symlinker](https://github.com/amd989/Symlinker) - Symbolic Link Creator. GUI for mklink, Microsoft Windows symlink utility
 *   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
@@ -3024,7 +3025,6 @@
 *   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 *   [pawelgnatowski/WSL2-Network-Fix](https://github.com/pawelgnatowski/WSL2-Network-Fix) -
 *   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 *   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 *   [devonfw-forge/rd-installer](https://github.com/devonfw-forge/rd-installer) - Supercharged installer of Rancher Desktop as Docker Desktop alternative
 *   [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
