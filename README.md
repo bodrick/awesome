@@ -1176,7 +1176,7 @@
 *   [FormidableLabs/inspectpack](https://github.com/FormidableLabs/inspectpack) - An inspection tool for Webpack frontend JavaScript bundles.
 *   [manuelbieh/react-ssr-setup](https://github.com/manuelbieh/react-ssr-setup) - React Starter Project with Webpack 4, Babel 7, TypeScript, CSS Modules, Server Side Rendering, i18n and some more niceties
 *   [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 *   [relative-ci/bundle-stats](https://github.com/relative-ci/bundle-stats) - Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, rollup and vite.
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 *   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -2635,6 +2635,7 @@
 *   [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
 *   [collective/icalendar](https://github.com/collective/icalendar) - icalendar parser library for Python
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.
 *   [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 *   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
@@ -2695,7 +2696,7 @@
 *   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
 *   [emdb-empiar/sfftk](https://github.com/emdb-empiar/sfftk) - Toolkit for working with EMDB-SFF and other segmentation file formats
 *   [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
-*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+*   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 *   [apprenticeharper/DeDRM\_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 *   [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 *   [samloader/samloader](https://github.com/samloader/samloader) - Download Samsung firmware from official servers
@@ -3114,7 +3115,7 @@
 *   [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
 *   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 *   [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
-*   [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+*   [mistralai/mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 *   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 *   [DeepSoftwareAnalytics/SoTaNa](https://github.com/DeepSoftwareAnalytics/SoTaNa) -
 *   [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -3340,7 +3341,6 @@
 *   [adamgibbons/ics](https://github.com/adamgibbons/ics) - iCalendar (ics) file generator for node.js
 *   [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
 *   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 *   [nodists/nodist](https://github.com/nodists/nodist) - Natural node.js and npm version manager for windows.
 *   [neuroneural/brainchop](https://github.com/neuroneural/brainchop) - Brainchop: In-browser 3D MRI rendering and segmentation
 *   [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
