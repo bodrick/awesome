@@ -1648,7 +1648,7 @@
 *   [AvaloniaInside/Shell](https://github.com/AvaloniaInside/Shell) - Reduces the complexity of mobile/desktop application development by providing the fundamental features that most applications require
 *   [RickStrahl/Westwind.Wpf.Statusbar](https://github.com/RickStrahl/Westwind.Wpf.Statusbar) - A small WPF library to provide animated status bar operations
 *   [StubbleOrg/Stubble](https://github.com/StubbleOrg/Stubble) - Trimmed down {{mustache}} templates in .NET
-*   [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM models (🦙LLaMA/LLaVA) on your local device efficiently.
+*   [SciSharp/LLamaSharp](https://github.com/SciSharp/LLamaSharp) - A C#/.NET library to run LLM (🦙LLaMA/LLaVA) on your local device efficiently.
 *   [AderitoSilva/XInputium](https://github.com/AderitoSilva/XInputium) - The elemental XInput library for .NET.
 *   [LibUsbDotNet/LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet) - My updates to LibUsbDotNet, an excellent library for cross-platform USB device control using Mono/.NET
 *   [tom-englert/RegionToShare](https://github.com/tom-englert/RegionToShare) - Helper app to share only a part of a screen via video conference apps
