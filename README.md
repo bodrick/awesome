@@ -1197,7 +1197,7 @@
 *   [microsoft/azure-repos-vscode](https://github.com/microsoft/azure-repos-vscode) - Azure Repos extension for VS Code
 *   [robertknight/webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles
 *   [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-*   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+*   [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 *   [bugsnag/bugsnag-js](https://github.com/bugsnag/bugsnag-js) - JavaScript error handling tool for BugSnag. Monitor and report JavaScript bugs & errors.
 *   [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 *   [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
