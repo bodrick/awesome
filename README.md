@@ -1197,7 +1197,7 @@
 *   [microsoft/azure-repos-vscode](https://github.com/microsoft/azure-repos-vscode) - Azure Repos extension for VS Code
 *   [robertknight/webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer) - A tool for finding out what contributes to the size of Webpack bundles
 *   [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-*   [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+*   [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 *   [bugsnag/bugsnag-js](https://github.com/bugsnag/bugsnag-js) - JavaScript error handling tool for BugSnag. Monitor and report JavaScript bugs & errors.
 *   [buttercup/buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Cross-Platform Passwords & Secrets Vault
 *   [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
@@ -1246,7 +1246,7 @@
 *   [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 *   [l-lin/angular-datatables](https://github.com/l-lin/angular-datatables) - DataTables with Angular
 *   [WesSouza/calendar-base](https://github.com/WesSouza/calendar-base) - Base methods for generating calendars using JavaScript.
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
 *   [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 *   [mozilla/shumway](https://github.com/mozilla/shumway) - Shumway is a Flash VM and runtime written in JavaScript
 *   [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
@@ -1289,6 +1289,7 @@
 *   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 *   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
+*   [dotnet/upgrade-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond
 *   [compat-table/compat-table](https://github.com/compat-table/compat-table) - ECMAScript compatibility tables
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 *   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
@@ -2046,7 +2047,6 @@
 *   [brminnick/AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
 *   [JimBobSquarePants/ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
 *   [webprofusion/certify](https://github.com/webprofusion/certify) - Professional ACME Client for Windows. Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com
-*   [dotnet/upgrade-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond
 *   [dotnet/CliCommandLineParser](https://github.com/dotnet/CliCommandLineParser) - A second-generation parser for the .NET Core command line tools
 *   [KirillOsenkov/MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog) - A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.
 *   [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
