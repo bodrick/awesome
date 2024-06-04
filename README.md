@@ -1679,7 +1679,7 @@
 *   [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 *   [mhutch/MonoDevelop.MSBuildEditor](https://github.com/mhutch/MonoDevelop.MSBuildEditor) - Improved MSBuild editing support
 *   [EaseFilterSDK/mini-filter-driver-framework](https://github.com/EaseFilterSDK/mini-filter-driver-framework) - A mini filter driver development framework allows you to develop minit filter driver with different features.
-*   [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
+*   [fiddyschmitt/SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using one set of monitors, mouse and keyboard
 *   [JocysCom/VsAiCompanion](https://github.com/JocysCom/VsAiCompanion) - AI Companion that analyzes your project files and works alongside you to streamline development and boost productivity.
 *   [0handersson0/UnitGPT](https://github.com/0handersson0/UnitGPT) - Small visual studio extension for creating code and unit tests with the power of openAI
 *   [sprache/Sprache](https://github.com/sprache/Sprache) - A tiny, friendly, C# parser construction library
