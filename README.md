@@ -1513,7 +1513,7 @@
 *   [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 *   [erikmav/WinVFS](https://github.com/erikmav/WinVFS) - Sample Windows virtual filesystem using ProjFS
 *   [tkellogg/Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
-*   [marticliment/WingetUI-Widgets](https://github.com/marticliment/WingetUI-Widgets) - Widgets to interact with WingetUI from Dev Home and Windows Widgets (Based on Adaptive Cards)
+*   [marticliment/Widgets-for-UniGetUI](https://github.com/marticliment/Widgets-for-UniGetUI) - Widgets to interact with UniGetUI from Dev Home and Windows Widgets
 *   [DapperLib/DapperAOT](https://github.com/DapperLib/DapperAOT) - Build time tools in the flavor of Dapper
 *   [ericdc1/Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD) - Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
 *   [phnx47/dapper-repositories](https://github.com/phnx47/dapper-repositories) - CRUD for Dapper
