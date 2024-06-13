@@ -228,6 +228,7 @@
 *   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
 *   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
 *   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
+*   [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account. The sample also shows how to use MSAL to obtain a token for invoking the Microsoft Graph, as well as incrementental consent.
 *   [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
 *   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
 *   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
@@ -2138,7 +2139,6 @@
 *   [Tyrrrz/CliFx](https://github.com/Tyrrrz/CliFx) - Class-first framework for building command-line interfaces
 *   [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
 *   [AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) - IdentityModel extensions for .Net
-*   [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account. The sample also shows how to use MSAL to obtain a token for invoking the Microsoft Graph, as well as incrementental consent.
 *   [houseofcat/Authentication](https://github.com/houseofcat/Authentication) - Authentication examples for AspNetCore 3.1
 *   [emgucv/emgutf](https://github.com/emgucv/emgutf) - Emgu TF is a cross platform .Net wrapper for the Google Tensorflow library. Allows Tensorflow functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython.
 *   [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
