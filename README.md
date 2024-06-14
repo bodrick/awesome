@@ -256,7 +256,7 @@
 *   [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 *   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
 *   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-*   [htpcBeginner/AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker) - Moved - https://github.com/htpcBeginner/docker-traefik
+*   [anandslab/AtoMiC-ToolKit-Docker](https://github.com/anandslab/AtoMiC-ToolKit-Docker) - Moved - https://github.com/htpcBeginner/docker-traefik
 *   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
 *   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 *   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
@@ -780,7 +780,7 @@
 *   [ds300/lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
 *   [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 *   [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
-*   [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+*   [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 *   [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 *   [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Language-to-actions engine
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Jest and type definitions included.
@@ -1381,7 +1381,7 @@
 *   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 *   [wiedehopf/adsb-scripts](https://github.com/wiedehopf/adsb-scripts) - Solutions to common problems for rtl\_sdr / ADS-B stuff
 *   [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
-*   [htpcBeginner/auto-traefik](https://github.com/htpcBeginner/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
+*   [anandslab/auto-traefik](https://github.com/anandslab/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
 *   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 *   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 *   [mattermost/openops](https://github.com/mattermost/openops) - Open source stack for applying AI to workflows in secure environments
@@ -1450,7 +1450,7 @@
 *   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 *   [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
 *   [pia-foss/manual-connections](https://github.com/pia-foss/manual-connections) - Scripts for manual connections to Private Internet Access
-*   [htpcBeginner/docker-traefik](https://github.com/htpcBeginner/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+*   [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 *   [alexellis/k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian) - Kubernetes on Raspbian (Raspberry Pi)
 *   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 *   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -1705,7 +1705,7 @@
 *   [awaescher/Fusion](https://github.com/awaescher/Fusion) - 🧰 A modern alternative to the Microsoft Assembly Binding Log Viewer (FUSLOGVW.exe)
 *   [microsoft/Tokenizer](https://github.com/microsoft/Tokenizer) - Typescript and .NET implementation of BPE tokenizer for OpenAI LLMs.
 *   [devlooped/Mvp.Xml](https://github.com/devlooped/Mvp.Xml) -
-*   [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Windows tool to check for NVIDIA GPU driver updates
+*   [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Open sourced tool for keeping NVIDIA GPUs updated, featuring fully customizable driver installs for complete control, multi-GPU support, and more!
 *   [dotnet-script/dotnet-script](https://github.com/dotnet-script/dotnet-script) - Run C# scripts from the .NET CLI.
 *   [martin-honnen/XSLT\_XQuery\_XPath\_Notepad](https://github.com/martin-honnen/XSLT_XQuery_XPath_Notepad) - XSLT, XQuery, XPath Notepad using Saxon-HE
 *   [tryAGI/Tiktoken](https://github.com/tryAGI/Tiktoken) - This project implements token calculation for OpenAI's gpt-4 and gpt-3.5-turbo model, specifically using `cl100k_base` encoding.
