@@ -400,7 +400,7 @@
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 *   [br-sn/CheekyBlinder](https://github.com/br-sn/CheekyBlinder) - Enumerating and removing kernel callbacks using signed vulnerable drivers
 *   [MiroKaku/DetoursX](https://github.com/MiroKaku/DetoursX) - Kernel-Mode extended version of https://github.com/microsoft/Detours
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 *   [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js) - quick-lint-js finds bugs in JavaScript programs
 *   [guilryder/clavier-plus](https://github.com/guilryder/clavier-plus) - Clavier+ keyboard shortcuts manager for Windows
 *   [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) - Total Registry - enhanced Registry editor/viewer
@@ -2276,7 +2276,7 @@
 *   [aspnet/JavaScriptServices](https://github.com/aspnet/JavaScriptServices) - \[Archived] This repository has been archived
 *   [StreamWhatYouHear/SWYH](https://github.com/StreamWhatYouHear/SWYH) - Stream the sound from your PC to an UPnP/DLNA device
 *   [zzzprojects/EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more
-*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 *   [rickparrish/GameSrv](https://github.com/rickparrish/GameSrv) - A BBS door game server for Windows and Linux written in C#
 *   [PolicyServer/PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) - Sample OSS version of PolicyServer
 *   [microsoft/VSSDK-Extensibility-Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples) - Samples for building your own Visual Studio extensions
@@ -2549,7 +2549,7 @@
 *   [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
 *   [isafulf/inbox\_cleaner](https://github.com/isafulf/inbox_cleaner) - A python script to help manage a Gmail inbox by filtering out promotional emails using GPT-3 or GPT-4.
 *   [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 *   [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 *   [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 *   [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
