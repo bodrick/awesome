@@ -359,6 +359,7 @@
 *   [riverar/mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool
 *   [Devolutions/MsRdpEx](https://github.com/Devolutions/MsRdpEx) - Microsoft RDP Client Extensions
 *   [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 *   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 *   [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 *   [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -620,7 +621,6 @@
 *   [zodiacon/SystemExplorer](https://github.com/zodiacon/SystemExplorer) - Windows System Explorer
 *   [swh/timemachine](https://github.com/swh/timemachine) - A JACK aplication that can retrospectively record audio.
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 *   [libarchive/libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 *   [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 *   [skeeto/optparse](https://github.com/skeeto/optparse) - Portable, reentrant, getopt-like option parser
