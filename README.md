@@ -69,6 +69,7 @@
 *   [OCaml](#ocaml)
 *   [Astro](#astro)
 *   [Vala](#vala)
+*   [Fluent](#fluent)
 *   [Haml](#haml)
 *   [PLpgSQL](#plpgsql)
 *   [Less](#less)
@@ -910,7 +911,7 @@
 *   [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - 👨‍💻 An awesome and curated list of best code-LLM for research.
 *   [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 *   [dotnet-architecture/eBooks](https://github.com/dotnet-architecture/eBooks) - .NET Architecture e-Books
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 *   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 *   [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods) - Awesome list of codemods for various languages, libraries and frameworks
 *   [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -1600,7 +1601,6 @@
 *   [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 *   [HaveAGitGat/HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) - A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker
 *   [frontarm/async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
-*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 *   [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 *   [GMG-Special-Projects-Desk/pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
 *   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
@@ -4363,6 +4363,10 @@
 ## Vala
 
 *   [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
+
+## Fluent
+
+*   [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Haml
 
