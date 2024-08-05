@@ -101,6 +101,7 @@
 *   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 *   [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 *   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 *   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 *   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 *   [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -172,7 +173,7 @@
 *   [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 *   [JoshuaKGoldberg/ts-api-utils](https://github.com/JoshuaKGoldberg/ts-api-utils) - Utility functions for working with TypeScript's API. Successor to the wonderful tsutils. 🛠️️
 *   [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 *   [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 *   [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
 *   [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) - A prettier plugin to sort imports in typescript and javascript files by the provided RegEx order.
@@ -738,7 +739,6 @@
 *   [microsoft/vssetup.powershell](https://github.com/microsoft/vssetup.powershell) - PowerShell module to interact with Visual Studio Setup
 *   [microsoft/dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 *   [workspacer/workspacer](https://github.com/workspacer/workspacer) - a tiling window manager for Windows
-*   [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 *   [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 *   [MoaidHathot/Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
 *   [oleg-shilo/cs-script](https://github.com/oleg-shilo/cs-script) - C# scripting platform
