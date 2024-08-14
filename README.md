@@ -83,6 +83,7 @@
 
 ## TypeScript
 
+*   [FireCoderAI/firecoder](https://github.com/FireCoderAI/firecoder) - Firecoder: Your Self-hosted AI Code Assistant
 *   [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 *   [antfu/eslint-vitest-rule-tester](https://github.com/antfu/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
 *   [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -4214,7 +4215,6 @@
 *   [kneath/kss](https://github.com/kneath/kss) - A methodology for documenting CSS and generating styleguides.
 *   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 *   [errbit/errbit](https://github.com/errbit/errbit) - The open source error catcher that's Airbrake API compliant
-*   [sensu/sensu](https://github.com/sensu/sensu) - Monitoring for today's infrastructure.
 
 ## Lua
 
