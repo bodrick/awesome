@@ -83,6 +83,7 @@
 
 ## TypeScript
 
+*   [antfu/vsc-material-theme](https://github.com/antfu/vsc-material-theme) - Source Code Perseverance of vsc-material-theme
 *   [FireCoderAI/firecoder](https://github.com/FireCoderAI/firecoder) - Firecoder: Your Self-hosted AI Code Assistant
 *   [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 *   [antfu/eslint-vitest-rule-tester](https://github.com/antfu/eslint-vitest-rule-tester) - ESLint rule tester with Vitest, with more powerful and friendly APIs.
@@ -677,7 +678,7 @@
 *   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 *   [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) - This app demonstrates the controls available in WinUI and the Fluent Design System.
 *   [microsoft/fluentui-blazor](https://github.com/microsoft/fluentui-blazor) - Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications
-*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is a set of 70+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.
+*   [radzenhq/radzen-blazor](https://github.com/radzenhq/radzen-blazor) - Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.
 *   [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.
 *   [jpmikkers/Avalonia-TFTPClient](https://github.com/jpmikkers/Avalonia-TFTPClient) - Cross platform TFTP client desktop application, uses Avalonia as the UI framework
 *   [jpmikkers/TFTPServer](https://github.com/jpmikkers/TFTPServer) - Managed TFTP server implementation, written in C#. Features: IPv4 and IPv6, blocksize, single port mode, windowed mode, unlimited transfers, MIT licensed
@@ -4087,7 +4088,6 @@
 *   [shabeer-ali-m/jPut](https://github.com/shabeer-ali-m/jPut) - jPut is a small jquey plugin which you can put your JSON as customized HTML format easily.It supports loading JSON via ajax.
 *   [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
 *   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-*   [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 
 ## Dockerfile
 
