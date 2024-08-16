@@ -83,6 +83,8 @@
 
 ## TypeScript
 
+*   [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay) - Show array index inlay hints for large arrays for VS Code
+*   [antfu/eslint-plugin-antfu](https://github.com/antfu/eslint-plugin-antfu) - Anthony extended ESLint rules.
 *   [antfu/vsc-material-theme](https://github.com/antfu/vsc-material-theme) - Source Code Perseverance of vsc-material-theme
 *   [FireCoderAI/firecoder](https://github.com/FireCoderAI/firecoder) - Firecoder: Your Self-hosted AI Code Assistant
 *   [ntegrals/aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
@@ -192,7 +194,7 @@
 *   [codesandbox/sandpack](https://github.com/codesandbox/sandpack) - A component toolkit for creating live-running code editing experiences, using the power of CodeSandbox.
 *   [pwa-builder/PWABuilder](https://github.com/pwa-builder/PWABuilder) - The simplest way to create progressive web apps across platforms and devices.  Start here. This repo is home to several projects in the PWABuilder family of tools.
 *   [unjs/jiti](https://github.com/unjs/jiti) - Runtime Typescript and ESM support for Node.js
-*   [finic-ai/psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+*   [finic-ai/finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 *   [alexanderatallah/window.ai](https://github.com/alexanderatallah/window.ai) - Use your own AI models on the web
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -610,7 +612,6 @@
 *   [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 *   [mperdeck/jsnlog.js](https://github.com/mperdeck/jsnlog.js) - Tiny JavaScript logging library, simple and well documented. Lots of options to filter logging data.
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-*   [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 
 ## C\#
 
@@ -1590,7 +1591,6 @@
 *   [getsentry/raven-csharp](https://github.com/getsentry/raven-csharp) - Superseded by: https://github.com/getsentry/sentry-dotnet
 *   [owin/owin.dll](https://github.com/owin/owin.dll) - OWIN defines a standard interface between .NET web servers and web applications.
 *   [opserver/Opserver](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System
-*   [Glimpse/Glimpse](https://github.com/Glimpse/Glimpse) - The open source diagnostics platform for the web
 
 ## C
 
