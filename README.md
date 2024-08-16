@@ -639,7 +639,7 @@
 *   [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 *   [microsoft/axe-windows](https://github.com/microsoft/axe-windows) - Automated accessibility testing engine for Windows applications
 *   [KirillOsenkov/RoslynQuoter](https://github.com/KirillOsenkov/RoslynQuoter) - Roslyn tool that for a given C# program shows syntax tree API calls to construct its syntax tree
-*   [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An HTTP testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
+*   [alexandrehtrb/Pororoca](https://github.com/alexandrehtrb/Pororoca) - An API testing tool with support for HTTP/2 and HTTP/3. Alternative to Postman.
 *   [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 *   [erikmav/WinVFS](https://github.com/erikmav/WinVFS) - Sample Windows virtual filesystem using ProjFS
 *   [tkellogg/Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
@@ -3240,7 +3240,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.0.56008, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56110, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
