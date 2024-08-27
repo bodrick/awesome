@@ -762,6 +762,7 @@
 *   [DotNetAnalyzers/IDisposableAnalyzers](https://github.com/DotNetAnalyzers/IDisposableAnalyzers) - Roslyn analyzers for IDisposable
 *   [marcinotorowski/MSIX-Hero](https://github.com/marcinotorowski/MSIX-Hero) - MSIX Hero - Open source MSIX manager and toolkit
 *   [security-code-scan/security-code-scan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET
+*   [dotnet/reproducible-builds](https://github.com/dotnet/reproducible-builds) - Contains the DotNet.ReproducibleBuilds package
 *   [dotpcap/packetnet](https://github.com/dotpcap/packetnet) - Official repository - High performance .Net assembly for dissecting and constructing network packets such as ethernet, ip, tcp, udp etc.
 *   [0xd4d/dnlib](https://github.com/0xd4d/dnlib) - Reads and writes .NET assemblies and modules
 *   [Concurrency-Lab/ParallelHelper](https://github.com/Concurrency-Lab/ParallelHelper) - Parallel Helper is a static code analyzer for C# projects that supports the development of parallel and asynchronous code. The analyzer is built with the help of the .NET Compiler Platform (Roslyn) and is available as a NuGet package as well as a Visual Studio extension.
@@ -1886,7 +1887,6 @@
 *   [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 *   [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
 *   [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
-*   [dotnet/reproducible-builds](https://github.com/dotnet/reproducible-builds) - Contains the DotNet.ReproducibleBuilds package
 *   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 *   [tom-englert/VSIX-SdkProjectAdapter](https://github.com/tom-englert/VSIX-SdkProjectAdapter) - Extends Microsoft.VSSDK.BuildTools so you can use SDK style projects for your Visual Studio Extension.
 *   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
