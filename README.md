@@ -3154,7 +3154,7 @@
 *   [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
 *   [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 *   [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-*   [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+*   [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 *   [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 *   [nosarthur/gita](https://github.com/nosarthur/gita) - Manage many git repos with sanity 从容管理多个git库
 *   [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
