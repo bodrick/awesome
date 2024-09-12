@@ -1475,7 +1475,7 @@
 *   [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 *   [esfx/esfx](https://github.com/esfx/esfx) - A suite of packages designed to provide low-level APIs for interoperable libraries.
 *   [ljosberinn/eslint-config-galex](https://github.com/ljosberinn/eslint-config-galex) - hopefully the last eslint config you'll ever need - customizable & modern best practices for JS, TS, Node, React, Remix, Next, Jest, testing-library & storybook
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 *   [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 *   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 *   [zbecknell/t4-support](https://github.com/zbecknell/t4-support) - Provides syntax highlighting for T4 Text Templates in Visual Studio Code.
