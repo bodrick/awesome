@@ -82,6 +82,7 @@
 
 ## miscellaneous
 
+*   [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of \*arrs and related stuff.
 *   [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 *   [SimonCropp/ExplorerTabUtility](https://github.com/SimonCropp/ExplorerTabUtility) - Explorer Tab Utility: Force new windows to tabs. Streamline navigation!
 *   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -704,7 +705,7 @@
 *   [Sjeiti/TinySort](https://github.com/Sjeiti/TinySort) - TinySort is a small script that sorts HTML elements. It sorts by text- or attribute value, or by that of one of it's children.
 *   [AdguardTeam/FiltersCompiler](https://github.com/AdguardTeam/FiltersCompiler) - A tool that compiles & validates filters
 *   [violentmonkey/generator-userscript](https://github.com/violentmonkey/generator-userscript) - A yeoman generator to create a userscript project rapidly
-*   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴脚本集 ユーザースクリプト集
+*   [hoothin/UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts ( Pagetual / Picviewer CE+ / DownloadAllContent ) 油猴腳本集 ユーザースクリプト集
 *   [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson) - Prettier plugin for package.json
 *   [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 *   [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
@@ -1335,7 +1336,6 @@
 *   [pimterry/loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods
 *   [DataTables/VisualEvent](https://github.com/DataTables/VisualEvent) - Visually show Javascript events on a page
 *   [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
-*   [guybedford/require-less](https://github.com/guybedford/require-less) - LESS loader plugin for RequireJS with builds, based on RequireCSS
 
 ## Shell
 
