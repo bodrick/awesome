@@ -624,6 +624,7 @@
 *   [uncss/uncss](https://github.com/uncss/uncss) - Remove unused styles from CSS
 *   [brunch/brunch](https://github.com/brunch/brunch) - :fork\_and\_knife: Web applications made easy. Since 2011.
 *   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 *   [walmik/timer.jquery](https://github.com/walmik/timer.jquery) - jQuery Timer: Start/Stop/Resume/Remove pretty timer inside any HTML element.
 *   [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
 *   [cheeaun/mooeditable](https://github.com/cheeaun/mooeditable) - \[DISCONTINUED] A simple web-based WYSIWYG editor, written in MooTools.
@@ -3476,7 +3477,6 @@
 *   [fogleman/Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 *   [dokan-dev/dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 *   [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
-*   [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 *   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 *   [axboe/fio](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
