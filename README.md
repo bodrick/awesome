@@ -923,6 +923,7 @@
 *   [a1xd/rawaccel](https://github.com/a1xd/rawaccel) - kernel mode mouse accel
 *   [creviceapp/creviceapp](https://github.com/creviceapp/creviceapp) - Multi purpose utility which supports gestures with mouse and keyboard.
 *   [Maassoft/ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 *   [TechnitiumSoftware/TechnitiumLibrary](https://github.com/TechnitiumSoftware/TechnitiumLibrary) - A library for .net based applications.
 *   [CoreWebForms/CoreWebForms](https://github.com/CoreWebForms/CoreWebForms) -
 *   [dwmkerr/consolecontrol](https://github.com/dwmkerr/consolecontrol) - ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
@@ -2408,6 +2409,7 @@
 *   [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 *   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 *   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 *   [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 *   [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 *   [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
@@ -2682,7 +2684,6 @@
 *   [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 *   [orouits/qjackrcd](https://github.com/orouits/qjackrcd) - Simple stereo jack recorder with silence processing
 *   [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 *   [moonlight-stream/Internet-Hosting-Tool](https://github.com/moonlight-stream/Internet-Hosting-Tool) - Enable Moonlight streaming from your PC over the Internet with no configuration required
 *   [itsmikethetech/Virtual-Display-Driver](https://github.com/itsmikethetech/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
 *   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
@@ -4136,7 +4137,6 @@
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 *   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 *   [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 *   [andrewgcodes/lightspeedGPT](https://github.com/andrewgcodes/lightspeedGPT) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
 *   [stanford-futuredata/FrugalGPT](https://github.com/stanford-futuredata/FrugalGPT) - FrugalGPT: better quality and lower cost for LLM applications
 *   [facebookresearch/seamless\_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
