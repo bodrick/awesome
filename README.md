@@ -170,7 +170,6 @@
 *   [a1xd/rawaccel](https://github.com/a1xd/rawaccel) - kernel mode mouse accel
 *   [creviceapp/creviceapp](https://github.com/creviceapp/creviceapp) - Multi purpose utility which supports gestures with mouse and keyboard.
 *   [Maassoft/ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 *   [TechnitiumSoftware/TechnitiumLibrary](https://github.com/TechnitiumSoftware/TechnitiumLibrary) - A library for .net based applications.
 *   [CoreWebForms/CoreWebForms](https://github.com/CoreWebForms/CoreWebForms) -
 *   [dwmkerr/consolecontrol](https://github.com/dwmkerr/consolecontrol) - ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
@@ -2051,7 +2050,7 @@
 *   [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 *   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
-*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Private, real-time log viewer for Kubernetes
+*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Kubernetes logging tool with realtime web dashboard
 *   [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 *   [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 *   [ota-meshi/eslint-online-playground](https://github.com/ota-meshi/eslint-online-playground) - ESLint Online Playground
@@ -4138,6 +4137,7 @@
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 *   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 *   [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 *   [andrewgcodes/lightspeedGPT](https://github.com/andrewgcodes/lightspeedGPT) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
 *   [stanford-futuredata/FrugalGPT](https://github.com/stanford-futuredata/FrugalGPT) - FrugalGPT: better quality and lower cost for LLM applications
 *   [facebookresearch/seamless\_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
