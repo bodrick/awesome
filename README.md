@@ -308,7 +308,7 @@
 *   [sboulema/NuGetMonitor](https://github.com/sboulema/NuGetMonitor) - A Visual Studio extension that checks and notifies about available updates for the installed NuGet packages for the open solution.
 *   [ppy/SDL2-CS](https://github.com/ppy/SDL2-CS) - SDL2# - C# Wrapper for SDL2
 *   [flibitijibibo/SDL2-CS](https://github.com/flibitijibibo/SDL2-CS) - SDL2# - C# Wrapper for SDL2
-*   [Windows-Apps-Hub/UnitedSets](https://github.com/Windows-Apps-Hub/UnitedSets) - Bringing back Sets and Browser
+*   [Developer-Sanctuary/UnitedSets](https://github.com/Developer-Sanctuary/UnitedSets) - Bringing back Sets and Browser
 *   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
 *   [rr-wfm/MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) - An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
 *   [nefarius/Nefarius.Utilities.DotNetInstaller](https://github.com/nefarius/Nefarius.Utilities.DotNetInstaller) - Utility classes to download and install modern .NET runtimes.
@@ -2050,7 +2050,7 @@
 *   [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 *   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
-*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Logging tool for Kubernetes with real-time web dashboard
+*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Tool for viewing logs from multiple Kubernetes pods simultaneously
 *   [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 *   [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 *   [ota-meshi/eslint-online-playground](https://github.com/ota-meshi/eslint-online-playground) - ESLint Online Playground
