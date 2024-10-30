@@ -966,7 +966,7 @@
 *   [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations
 *   [coderrio/Coderr.Server](https://github.com/coderrio/Coderr.Server) - Replace logfiles with Coderr to correct bugs faster and more efficiently.
 *   [peachpiecompiler/peachpie](https://github.com/peachpiecompiler/peachpie) - PeachPie - the PHP compiler and runtime for .NET and .NET Core
-*   [lextudio/sharpsnmplib](https://github.com/lextudio/sharpsnmplib) - Sharp SNMP Library- Open Source SNMP for .NET
+*   [lextudio/sharpsnmplib](https://github.com/lextudio/sharpsnmplib) - C# SNMP Library (#SNMP) - Open source SNMP implementation for C# and .NET
 *   [cbaxter/Harvester](https://github.com/cbaxter/Harvester) - Debug Viewer for Trace, NLog & Log4Net
 *   [sshnet/SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 *   [mgravell/fast-member](https://github.com/mgravell/fast-member) - Automatically exported from code.google.com/p/fast-member
