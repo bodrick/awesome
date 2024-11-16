@@ -1281,7 +1281,7 @@
 ## TypeScript
 
 *   [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
-*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Official web clipper extension for Obsidian.
+*   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -1329,7 +1329,7 @@
 *   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A progressive web framework based on React and Rsbuild.
 *   [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 *   [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
-*   [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨
+*   [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨
 *   [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 *   [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
 *   [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
@@ -1895,6 +1895,7 @@
 *   [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 *   [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 *   [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 *   [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 *   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -3324,7 +3325,7 @@
 *   [m417z/Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don't allow it otherwise
 *   [JibbSmart/GamepadMotionHelpers](https://github.com/JibbSmart/GamepadMotionHelpers) - Lightweight header-only library for sensor fusion, gyro calibration, etc. BYO input library (eg SDL2).
 *   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-*   [radareorg/iaito](https://github.com/radareorg/iaito) - Official QT frontend of radare2
+*   [radareorg/iaito](https://github.com/radareorg/iaito) - Official radare2 GUI
 *   [hunspell/hunspell](https://github.com/hunspell/hunspell) - The most popular spellchecking library.
 *   [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
 *   [m417z/UWPSpy](https://github.com/m417z/UWPSpy) - An inspection tool for UWP and WinUI 3 applications. Seamlessly view and manipulate UI elements and their properties in real time.
@@ -3914,7 +3915,6 @@
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 *   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 *   [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 *   [andrewgcodes/lightspeedGPT](https://github.com/andrewgcodes/lightspeedGPT) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
 *   [stanford-futuredata/FrugalGPT](https://github.com/stanford-futuredata/FrugalGPT) - FrugalGPT: better quality and lower cost for LLM applications
 *   [facebookresearch/seamless\_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
