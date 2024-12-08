@@ -2103,7 +2103,7 @@
 *   [maskati/azure-icons](https://github.com/maskati/azure-icons) - Azure Icons
 *   [Ylianst/MeshCommander](https://github.com/Ylianst/MeshCommander) - MeshCommander is a Intel(R) Active Management Technology (Intel(R) AMT) remote management tool. It's feature rich and includes a built-in remote desktop viewer for Hardware-KVM, a Serial-over-LAN terminal, IDER-Redirection support and much more. MeshCommander is built on web technologies and runs on many plaforms. In addition to being available as a stand-alone tool, MeshCommander was built to be very space efficient to that it can be uploaded into Intel AMT flash space to have it served diretly from the Intel AMT web serve.
 *   [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
-*   [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+*   [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
 *   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 *   [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -2962,7 +2962,7 @@
 *   [jonthysell/Chordious](https://github.com/jonthysell/Chordious) - Fretboard diagram generator for fretted stringed instruments.
 *   [mono/SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
 *   [ElinamLLC/SharpVectors](https://github.com/ElinamLLC/SharpVectors) - SharpVectors - SVG# Reloaded: SVG DOM and Rendering in C# for the .Net.
-*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+*   [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 *   [sharpenrocks/Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing codebase
 *   [PoshCode/Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 *   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
