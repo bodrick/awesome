@@ -678,7 +678,7 @@
 *   [antfu/utils](https://github.com/antfu/utils) - Collection of common JavaScript / TypeScript utils
 *   [antfu-collective/vitesse](https://github.com/antfu-collective/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
 *   [grid-js/gridjs](https://github.com/grid-js/gridjs) - Advanced table plugin
-*   [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+*   [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 *   [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -1091,7 +1091,7 @@
 *   [damienbod/bff-aspnetcore-vuejs](https://github.com/damienbod/bff-aspnetcore-vuejs) - Backend for frontend security using Vue.js Typescript, Vite, ASP.NET Core backend and Microsoft Entra ID
 *   [microsoft/WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 *   [googleprojectzero/sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) - Set of tools to analyze Windows sandboxes for exposed attack surface.
-*   [FireCubeStudios/FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
+*   [FireCubeStudios/FluentFlyouts](https://github.com/FireCubeStudios/FluentFlyouts) - Fluent Flyouts
 *   [Webreaper/CentralisedPackageConverter](https://github.com/Webreaper/CentralisedPackageConverter) - Converts a project to use Centralised Package Management
 *   [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 *   [hardcodet/wpf-notifyicon](https://github.com/hardcodet/wpf-notifyicon) - NotifyIcon (aka system tray icon or taskbar icon) for the WPF platform
@@ -1293,7 +1293,7 @@
 *   [HavenDV/H.NotifyIcon](https://github.com/HavenDV/H.NotifyIcon) - TrayIcon for WPF/WinUI/Uno/MAUI
 *   [betalgo/openai](https://github.com/betalgo/openai) - .NET library for the OpenAI service API by Betalgo Ranul
 *   [AArnott/DotNetRepoTools](https://github.com/AArnott/DotNetRepoTools) - A CLI tool with commands to help maintain .NET codebases
-*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The king is back -leaner, faster, and ready to declutter your Windows 11
+*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
 *   [microsoft/BuildXL](https://github.com/microsoft/BuildXL) - Microsoft Build Accelerator
 *   [terrafx/terrafx.interop.windows](https://github.com/terrafx/terrafx.interop.windows) - Interop bindings for Windows.
 *   [dotnet/dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK from source
@@ -3204,7 +3204,6 @@
 *   [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server
 *   [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 *   [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
-*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 *   [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 *   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 *   [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -4120,6 +4119,7 @@
 *   [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 *   [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 *   [microsoft/FLAML](https://github.com/microsoft/FLAML) - A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.
+*   [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 *   [andrewgcodes/lightspeedGPT](https://github.com/andrewgcodes/lightspeedGPT) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
 *   [stanford-futuredata/FrugalGPT](https://github.com/stanford-futuredata/FrugalGPT) - FrugalGPT: better quality and lower cost for LLM applications
 *   [facebookresearch/seamless\_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
