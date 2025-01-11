@@ -1336,7 +1336,7 @@
 *   [sboulema/NuGetMonitor](https://github.com/sboulema/NuGetMonitor) - A Visual Studio extension that checks and notifies about available updates for the installed NuGet packages for the open solution.
 *   [ppy/SDL2-CS](https://github.com/ppy/SDL2-CS) - SDL2# - C# Wrapper for SDL2
 *   [flibitijibibo/SDL2-CS](https://github.com/flibitijibibo/SDL2-CS) - SDL2# - C# Wrapper for SDL2
-*   [Developer-Sanctuary/Community-UnitedSets](https://github.com/Developer-Sanctuary/Community-UnitedSets) - Bringing back Sets and Browser
+*   [Windows-Apps-Hub/UnitedSets](https://github.com/Windows-Apps-Hub/UnitedSets) - Bringing back Sets and Browser
 *   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
 *   [rr-wfm/MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) - An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
 *   [nefarius/Nefarius.Utilities.DotNetInstaller](https://github.com/nefarius/Nefarius.Utilities.DotNetInstaller) - Utility classes to download and install modern .NET runtimes.
