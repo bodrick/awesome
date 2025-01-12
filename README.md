@@ -1337,7 +1337,7 @@
 *   [sboulema/NuGetMonitor](https://github.com/sboulema/NuGetMonitor) - A Visual Studio extension that checks and notifies about available updates for the installed NuGet packages for the open solution.
 *   [ppy/SDL2-CS](https://github.com/ppy/SDL2-CS) - SDL2# - C# Wrapper for SDL2
 *   [flibitijibibo/SDL2-CS](https://github.com/flibitijibibo/SDL2-CS) - SDL2# - C# Wrapper for SDL2
-*   [Windows-Apps-Hub/UnitedSets](https://github.com/Windows-Apps-Hub/UnitedSets) - Bringing back Sets and Browser
+*   [Windows-Apps-Hub/UnitedSets](https://github.com/Windows-Apps-Hub/UnitedSets) - Bring back Sets and tabs by grouping windows into tabs
 *   [ControlzEx/ControlzEx](https://github.com/ControlzEx/ControlzEx) - Shared Controlz for WPF and ... more
 *   [rr-wfm/MSBuild.Sdk.SqlProj](https://github.com/rr-wfm/MSBuild.Sdk.SqlProj) - An MSBuild SDK that provides similar functionality to SQL Server Data Tools (.sqlproj) projects
 *   [nefarius/Nefarius.Utilities.DotNetInstaller](https://github.com/nefarius/Nefarius.Utilities.DotNetInstaller) - Utility classes to download and install modern .NET runtimes.
@@ -4011,7 +4011,7 @@
 *   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 *   [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 *   [mvp/uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
-*   [simon987/sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool
+*   [sist2app/sist2](https://github.com/sist2app/sist2) - Lightning-fast file system indexer and search tool
 *   [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 *   [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
 *   [nefarius/WinApiSniffer](https://github.com/nefarius/WinApiSniffer) - Windows API sniffer and dumper utility for reverse engineering.
