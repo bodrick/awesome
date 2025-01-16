@@ -155,7 +155,7 @@
 *   [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest + Testing Library + Playwright + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS ✨
 *   [talyssonoc/node-api-boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - DDD/Clean Architecture inspired boilerplate for Node web APIs
 *   [typedoc2md/typedoc-plugin-markdown](https://github.com/typedoc2md/typedoc-plugin-markdown) - A plugin for TypeDoc that enables TypeScript API documentation to be generated in Markdown.
-*   [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr that adds additional media server support.
+*   [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 *   [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 *   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
