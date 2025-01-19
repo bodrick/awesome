@@ -1323,7 +1323,7 @@
 *   [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 *   [davidfowl/IISCrossover](https://github.com/davidfowl/IISCrossover) - A prototype running ASP.NET and ASP.NET Core in the same IIS pipeline
 *   [xceedsoftware/DocX](https://github.com/xceedsoftware/DocX) - Fast and easy to use .NET library that creates or modifies Microsoft Word files without installing Word.
-*   [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 6+, with support for Obsidian Vaults navigation.
+*   [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown parsing library for .NET 8+, with support for Obsidian Vaults navigation.
 *   [PowerShell/PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
 *   [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 *   [2fast-team/2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App)
@@ -1526,7 +1526,7 @@
 *   [AzureAD/microsoft-authentication-extensions-for-dotnet](https://github.com/AzureAD/microsoft-authentication-extensions-for-dotnet) - Secure cross-platform token cache for MSAL public client apps
 *   [derskythe/WpfSettings](https://github.com/derskythe/WpfSettings) -
 *   [buraksenyurt/skynet](https://github.com/buraksenyurt/skynet) - Some kinds of programming tutorials on MacOS/Windows/Linux. There are 41 sample applications.
-*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 9 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 19, React 19, Vue 3.5, BFF with YARP, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, Entity Framework Core, OpenTelemetry, SignalR, Hosted Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ...
+*   [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 9 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 19, React 19, Vue 3.5, BFF with YARP, NextJs 15, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, EF Core, OpenTelemetry, SignalR, Hosted Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ..
 *   [FortuneN/FineCodeCoverage](https://github.com/FortuneN/FineCodeCoverage) - Visualize unit test code coverage easily for free in Visual Studio Community Edition (and other editions too)
 *   [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
 *   [dotnet/sourcelink](https://github.com/dotnet/sourcelink) - Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets
