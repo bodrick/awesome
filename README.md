@@ -84,6 +84,9 @@
 
 ## C\#
 
+*   [dotnet/infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
+*   [shouldly/shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
+*   [citronneur/detours.net](https://github.com/citronneur/detours.net) - Hook native API with C#
 *   [OneIdentity/IdentityManager.LogInsights](https://github.com/OneIdentity/IdentityManager.LogInsights) - Log viewer and analyzer for Identity Manager logs
 *   [microsoft/BITS-Manager](https://github.com/microsoft/BITS-Manager) - The BITS Manager is a sample WPF C#/.NET utility to examine and control your BITS uploads and downloads
 *   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
@@ -1113,7 +1116,7 @@
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 *   [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 *   [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
-*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+*   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, and Gemini.
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 *   [rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion) - Autocomplete your obsidian notes with AI, including ChatGPT, through a copilot-like interface.
 *   [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -1805,7 +1808,7 @@
 *   [jessehouwing/azure-pipelines-tasks-zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips) - This repository contains a pre-built version of the built-in tasks of Azure DevOps. In case you need to install an updated version into Team Foundation Server or Azure DevOps Server, you can use these zips.
 *   [promptussoftware/bigfix-powershell](https://github.com/promptussoftware/bigfix-powershell) - Integration module offering a consistent, simple, and streamlined approach to interacting with the BigFix suite of products and APIs directly from within PowerShell.
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-*   [Devolutions/RDMSamples-ps](https://github.com/Devolutions/RDMSamples-ps) - Remote Desktop Manager (RDM) samples of powershell code
+*   [Devolutions/DevoSamples-ps](https://github.com/Devolutions/DevoSamples-ps) - Samples of Devolutions PowerShell code
 *   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 *   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 *   [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
@@ -2961,8 +2964,6 @@
 *   [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes, and more
 *   [winjs/winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
 *   [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
-*   [FoxUSA/OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.
-*   [bootboxjs/bootbox](https://github.com/bootboxjs/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework
 
 ## EJS
 
@@ -4234,7 +4235,6 @@
 *   [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
 *   [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 *   [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
-*   [jonathanlermitage/tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) - Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages.
 
 ## Elixir
 
