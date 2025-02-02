@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [PowerShell](#powershell)
-*   [C#](#c)
 *   [ASP.NET](#aspnet)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -82,447 +82,9 @@
 *   [SQLPL](#sqlpl)
 *   [Objective-C](#objective-c)
 
-## miscellaneous
-
-*   [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
-*   [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
-*   [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-*   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
-*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-*   [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
-*   [wiltondb/wiltondb](https://github.com/wiltondb/wiltondb) - RDBMS that can work with applications written for Microsoft SQL Server
-*   [SimonCropp/netcore-boilerplate](https://github.com/SimonCropp/netcore-boilerplate) - Boilerplate of API in .NET 8
-*   [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of \*arrs and related stuff.
-*   [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
-*   [SimonCropp/ExplorerTabUtility](https://github.com/SimonCropp/ExplorerTabUtility) - Explorer Tab Utility: Force new windows to tabs. Streamline navigation!
-*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
-*   [merill/awesome-entra](https://github.com/merill/awesome-entra) - 😎 Awesome list of all things related to Microsoft Entra
-*   [microsoft/DesktopBridgeToUWP-Samples](https://github.com/microsoft/DesktopBridgeToUWP-Samples) - This repo contains the samples that demonstrate the usage patterns for the Desktop Conversion extensions.
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-*   [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - 👨‍💻 An awesome and curated list of best code-LLM for research.
-*   [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
-*   [dotnet-architecture/eBooks](https://github.com/dotnet-architecture/eBooks) - .NET Architecture e-Books
-*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-*   [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods) - Awesome list of codemods for various languages, libraries and frameworks
-*   [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-*   [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
-*   [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
-*   [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
-*   [mycroftwilde/portainer\_templates](https://github.com/mycroftwilde/portainer_templates) - Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
-*   [linuxenko/awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - A curated list of smart :tv: frameworks, libraries, software and resources.
-*   [rgl/intel-amt-notes](https://github.com/rgl/intel-amt-notes) - notes about intel amt
-*   [web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) - A curated list of awesome Lit resources.
-*   [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
-*   [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-*   [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
-*   [microsoft/vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) -
-*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-*   [coqui-ai/open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) - 💎 A list of accessible speech corpora for ASR, TTS, and other Speech Technologies
-*   [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
-*   [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
-*   [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
-*   [snowfort-ai/awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications
-*   [mingze-yuan/Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) - The paper list of the review on LLMs in medicine - "Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review".
-*   [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
-*   [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
-*   [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-*   [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
-*   [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
-*   [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
-*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-*   [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
-*   [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
-*   [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
-*   [WhatTheBlock/WindowsSimplify](https://github.com/WhatTheBlock/WindowsSimplify) - Windows Simplify Project
-*   [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
-*   [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
-*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
-*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
-*   [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
-*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
-*   [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This repository is used for Windows client for IT Pro content on Microsoft Learn.
-*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
-*   [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
-*   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
-*   [ktaranov/naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
-*   [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
-*   [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
-*   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-*   [JetBrains/resharper-devguide](https://github.com/JetBrains/resharper-devguide) - Developer guide for the ReSharper Platform
-*   [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
-*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
-*   [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -
-*   [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
-*   [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -
-*   [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-*   [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
-*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-*   [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild
-*   [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
-*   [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) - A collection of interesting libraries and tools for Avalonia project.
-*   [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
-*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
-*   [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
-*   [tallesl/net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
-*   [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
-*   [JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022](https://github.com/JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022) - Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022
-*   [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
-*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
-*   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-*   [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3
-*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
-*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
-*   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-*   [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
-*   [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
-*   [dotnet/runtimelab](https://github.com/dotnet/runtimelab) - This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.
-*   [keithn/dotnetviteguide](https://github.com/keithn/dotnetviteguide) - Guide to getting started with .NET 6, Vite, and Vue 3
-*   [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
-*   [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-*   [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
-*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
-*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
-*   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
-*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
-*   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
-*   [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
-*   [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
-*   [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
-*   [cybermaxs/awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
-*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-*   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-*   [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
-*   [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-*   [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
-*   [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
-*   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
-*   [tom-englert/VSIX-SdkProjectAdapter](https://github.com/tom-englert/VSIX-SdkProjectAdapter) - Extends Microsoft.VSSDK.BuildTools so you can use SDK style projects for your Visual Studio Extension.
-*   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
-*   [cezarypiatek/msbuild-cheatsheet](https://github.com/cezarypiatek/msbuild-cheatsheet) -
-*   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-*   [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
-*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
-*   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
-*   [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
-*   [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
-*   [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-*   [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - Cloudflare Tunnel Instructions and Template for Unraid
-*   [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
-*   [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
-*   [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
-*   [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
-*   [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
-*   [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-*   [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-*   [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
-*   [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
-*   [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
-*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-*   [Azure-Samples/active-directory-dotnet-iwa-v2](https://github.com/Azure-Samples/active-directory-dotnet-iwa-v2) - .NET console application letting a user acquire a token for the Microsoft Graph using Integrated Windows Authentication (on domain joined or AAD joined machines)
-*   [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
-*   [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
-*   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
-*   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
-*   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
-*   [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account. The sample also shows how to use MSAL to obtain a token for invoking the Microsoft Graph, as well as incrementental consent.
-*   [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
-*   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
-*   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
-*   [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
-*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-*   [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) - A curated list of awesome C-Sharp frameworks, libraries and software.
-*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-*   [TrunkRecorder/trunk-recorder-docker](https://github.com/TrunkRecorder/trunk-recorder-docker) - a version of trunk-recorder that is designed for docker
-*   [microsoftarchive/msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) - Samples from Microsoft teams for the MSDN Code Gallery
-*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
-*   [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
-*   [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
-*   [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-*   [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
-*   [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
-*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
-*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-*   [pnpm/awesome-pnpm](https://github.com/pnpm/awesome-pnpm) - Awesome pnpm resources
-*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
-*   [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
-*   [Jackysi/advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
-*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
-*   [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
-*   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
-*   [SimpleHomelab/AtoMiC-ToolKit-Docker](https://github.com/SimpleHomelab/AtoMiC-ToolKit-Docker) - Moved - https://github.com/htpcBeginner/docker-traefik
-*   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
-*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
-*   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
-*   [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-*   [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
-*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
-*   [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
-*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-*   [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
-*   [microsoft/nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
-*   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
-*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-*   [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
-*   [aspnet/MusicStore](https://github.com/aspnet/MusicStore) - \[Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore
-*   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-*   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-*   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-*   [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
-*   [NeverSinkDev/NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
-*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-*   [Evdlaar/QueryStoreDashboard](https://github.com/Evdlaar/QueryStoreDashboard) - Query Store Database Performance Dashboard
-*   [leereilly/games](https://github.com/leereilly/games) - :video\_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
-*   [RickStrahl/WestWindWebSurge](https://github.com/RickStrahl/WestWindWebSurge) - Quick and easy URL and Load Testing for your Web applications on Windows
-*   [verbosemode/public-notes](https://github.com/verbosemode/public-notes) - My public (install) notes. /me doing linux/networking/... networking things
-*   [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
-*   [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
-*   [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-*   [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
-*   [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
-*   [gsscoder/commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
-*   [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
-*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
-*   [cmangos/issues](https://github.com/cmangos/issues) - This repository is used as a centralized point for all issues regarding CMaNGOS.
-*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-*   [bmkmanoj/js-by-examples](https://github.com/bmkmanoj/js-by-examples) - Learn JavaScript by examples
-*   [zzzprojects/System.Linq.Dynamic](https://github.com/zzzprojects/System.Linq.Dynamic) - \[Deprecated] This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
-*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-*   [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
-*   [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-*   [camohub/jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) - jQuery plugin to sorting lists also the tree structures.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [PowerShell/DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
-*   [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
-*   [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
-*   [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection of free Bootstrap 5 templates.
-*   [aspnet/aspnet-docker](https://github.com/aspnet/aspnet-docker) - \[Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up.
-*   [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
-*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
-*   [justinwalsh/daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
-*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-*   [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
-*   [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-*   [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
-*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
-*   [corporate-gadfly/Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) -
-*   [Jackysi/advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
-*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-
-## PowerShell
-
-*   [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) - 🍋Yet Another Personal Bucket for Scoop
-*   [ACooper81/scoop-apps](https://github.com/ACooper81/scoop-apps) - A personal bucket for http://scoop.sh
-*   [ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager) - A PowerShell GUI tool for efficiently managing and offboarding devices from Microsoft Intune, Autopilot, and Entra ID, featuring bulk operations and real-time analytics for streamlined device lifecycle management.
-*   [dfinke/DougFinke-PowerShell-Scripts-Collection](https://github.com/dfinke/DougFinke-PowerShell-Scripts-Collection) - This repository contains a collection of PowerShell scripts developed by Doug Finke. The scripts cover a variety of tasks, ranging from fun projects to practical utilities aimed at enhancing productivity and automation. Feel free to explore, use, and contribute to this collection!
-*   [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
-*   [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal research.
-*   [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
-*   [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
-*   [jborean93/ProcessEx](https://github.com/jborean93/ProcessEx) - Exposes the Windows Process creation Win32 functions in PowerShell
-*   [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
-*   [IISResetMe/PSProfiler](https://github.com/IISResetMe/PSProfiler) - PowerShell Script Profiler
-*   [potatoqualitee/aidertools](https://github.com/potatoqualitee/aidertools) - PowerShell wrapper for the Aider code assistant
-*   [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
-*   [rod-meaney/ps-community-blog](https://github.com/rod-meaney/ps-community-blog) - Code that is used in the logs for the PS community
-*   [pspete/CredentialRetriever](https://github.com/pspete/CredentialRetriever) - Retrieve Credentials from CyberArk Central Credential Provider Web Service, or Local Credential Provider using CLIPasswordSDK
-*   [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
-*   [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
-*   [aaronparker/evergreen](https://github.com/aaronparker/evergreen) - Create evergreen Windows image build pipelines with the latest version numbers and download URLs for common applications
-*   [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
-*   [dfinke/PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more. On the gallery
-*   [RamblingCookieMonster/BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
-*   [PKISharp/ACME-PS](https://github.com/PKISharp/ACME-PS) - PowerShell module supporting ACME v2 certificate management
-*   [proxb/PoshWSUS](https://github.com/proxb/PoshWSUS) - PowerShell module to manage Windows Server Update Services (WSUS)
-*   [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
-*   [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
-*   [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
-*   [riedyw/PoshFunctions](https://github.com/riedyw/PoshFunctions) - A curated collection of PowerShell scripts packaged into a module.
-*   [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
-*   [asheroto/Root-Certificate-Updater](https://github.com/asheroto/Root-Certificate-Updater) - Update root certificates (and disallowed certificates) on Windows. No changes to settings.
-*   [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
-*   [jsecurity101/PowerParse](https://github.com/jsecurity101/PowerParse) - PowerShell PE Parser
-*   [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
-*   [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
-*   [ztrhgf/useful\_powershell\_modules](https://github.com/ztrhgf/useful_powershell_modules) - Source code for modules placed in PowerShell Gallery and on my https://doitpshway.com blog.
-*   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
-*   [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
-*   [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
-*   [potatoqualitee/finetuna](https://github.com/potatoqualitee/finetuna) - 🐟 An OpenAI Fine Tuner written in PowerShell
-*   [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
-*   [cloudbase/windows-imaging-tools](https://github.com/cloudbase/windows-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
-*   [StartAutomating/Benchpress](https://github.com/StartAutomating/Benchpress) - Easy Benchmarking with PowerShell
-*   [dataplat/dbaclone](https://github.com/dataplat/dbaclone) - 👯 Clone SQL Server databases using PowerShell previously named PSDatabaseClone
-*   [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
-*   [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
-*   [mikepruett3/dotposh](https://github.com/mikepruett3/dotposh) - Profile, functions, and Modules for my PowerShell Environment
-*   [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
-*   [ianis58/tiny11builder](https://github.com/ianis58/tiny11builder) - This script create a trimmed-down Windows 11 image. PowerShell version of ntdevlabs/tiny11builder with some improvements.
-*   [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
-*   [RamblingCookieMonster/PowerShell](https://github.com/RamblingCookieMonster/PowerShell) - Various PowerShell functions and scripts
-*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
-*   [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
-*   [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
-*   [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
-*   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
-*   [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
-*   [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below or buy me a coffee :)  https://www.buymeacoffee.com/powershellisfun
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-*   [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
-*   [CZEMacLeod/WindowsServerCore\_container\_with\_fonts](https://github.com/CZEMacLeod/WindowsServerCore_container_with_fonts) - This repo contains build scripts to create a docker image from an existing Windows Server Core docker image that adds the fonts features that are normally missing.
-*   [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
-*   [Azure/azure-vm-scripts](https://github.com/Azure/azure-vm-scripts) - Repository of custom scripts for managing Azure virtual machines and related infrastructure.
-*   [bigfix/restapi-examples](https://github.com/bigfix/restapi-examples) - A collection of examples to demonstrate the usage of the HCL BigFix RESTAPI
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
-*   [MethodsAndPractices/vsteam](https://github.com/MethodsAndPractices/vsteam) - PowerShell module for accessing Azure DevOps Services and Azure DevOps Server (formerly VSTS or TFS)
-*   [gngrninja/PSFolderSize](https://github.com/gngrninja/PSFolderSize) - This module will allow you to get folder sizes and export information easily via PowerShell
-*   [EliteLoser/GetSTFolderSize](https://github.com/EliteLoser/GetSTFolderSize) - Get folder sizes blazingly fast with PowerShell
-*   [ZenitH-AT/nvidia-update](https://github.com/ZenitH-AT/nvidia-update) - Checks for a new version of the NVIDIA driver, downloads and installs it.
-*   [ChristianLempa/dotfiles-win](https://github.com/ChristianLempa/dotfiles-win) - These are my user-specific configuration files that I use to personalize my Windows experience.
-*   [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
-*   [yenpuren/WMI-Fixer-Tool](https://github.com/yenpuren/WMI-Fixer-Tool) - This tool was made to help others fix their server's WMI Repository when they're corrupted or experiencing related issued, for many IT Pros scripts aren't always very friendly, so i've decided to make a Tool using Windows Powershell and Windows Forms.This tool is freely available
-*   [andysvints/PSGalleryStats](https://github.com/andysvints/PSGalleryStats) - Get Powershell Gallery Statistics for the specified Date.
-*   [JustinGrote/WindowsCredentialManager](https://github.com/JustinGrote/WindowsCredentialManager) -
-*   [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate) - This module contain cmdlets to manage Windows Update Client.
-*   [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Get-ChildItemColor provides colorized version of Get-ChildItem Cmdlet of PowerShell.
-*   [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
-*   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
-*   [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
-*   [mdgrs-mei/DynamicTitle](https://github.com/mdgrs-mei/DynamicTitle) - A PowerShell module for advanced console title customizations.
-*   [MSEndpointMgr/ModernDriverManagement](https://github.com/MSEndpointMgr/ModernDriverManagement) - Official repo of Modern Driver Management from MSEndpointMgr.com
-*   [dakhama-mehdi/Modern\_ActiveDirectory](https://github.com/dakhama-mehdi/Modern_ActiveDirectory) - Modern Active Directory
-*   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
-*   [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
-*   [nightroman/PS-GuiCompletion](https://github.com/nightroman/PS-GuiCompletion) - A graphical menu for PowerShell tab completions.
-*   [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
-*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-*   [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-*   [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
-*   [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - :toolbox: A set of PowerShell 7.x tools for automating and accelerating script and module development. :writing\_hand:
-*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
-*   [Jaykul/BetterCredentials](https://github.com/Jaykul/BetterCredentials) - A wrapper for Get-Credential offering options that it should have offered
-*   [EliteLoser/DotNetVersionLister](https://github.com/EliteLoser/DotNetVersionLister) - Use Svendsen Tech's Get-STDotNetVersion function to get a list of installed .NET Framework versions on (remote) Windows computers. I also added a simple solution for .NET 5+
-*   [jdhitsolutions/WingetTools](https://github.com/jdhitsolutions/WingetTools) - A set of PowerShell tools for working with the winget package manager.
-*   [wikijm/PowerShell-AdminScripts](https://github.com/wikijm/PowerShell-AdminScripts) - PowerShell Administration scripts
-*   [compwiz32/PowerShell](https://github.com/compwiz32/PowerShell) - My everyday PS code as well as a collection of scripts I have downloaded for reference
-*   [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
-*   [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
-*   [ztrhgf/useful\_powershell\_functions](https://github.com/ztrhgf/useful_powershell_functions) - powershell functions to make my admin work easier
-*   [microsoft/Documentarian](https://github.com/microsoft/Documentarian) - An open source toolkit for documentarians and community contributors to reduce friction and provide a delightful experience for contributing to and maintaining documentation.
-*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
-*   [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
-*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
-*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create a compliant and secure Windows 10/11 system with our Gold Master image creation tool. Adhere to DoD STIG/SRG Requirements and NSA Cybersecurity guidance for standalone Windows systems with ease, using our ultimate STIG script.
-*   [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
-*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
-*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-*   [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
-*   [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
-*   [dataplat/dbachecks](https://github.com/dataplat/dbachecks) - ✔ SQL Server Environmental Validation
-*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
-*   [pawelgnatowski/WSL2-Network-Fix](https://github.com/pawelgnatowski/WSL2-Network-Fix) -
-*   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
-*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-*   [devonfw-forge/rd-installer](https://github.com/devonfw-forge/rd-installer) - Supercharged installer of Rancher Desktop as Docker Desktop alternative
-*   [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
-*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
-*   [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
-*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
-*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
-*   [PowershellFrameworkCollective/psframework](https://github.com/PowershellFrameworkCollective/psframework) - A module that provides tools for other modules and scripts
-*   [jessehouwing/azure-pipelines-tasks-zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips) - This repository contains a pre-built version of the built-in tasks of Azure DevOps. In case you need to install an updated version into Team Foundation Server or Azure DevOps Server, you can use these zips.
-*   [promptussoftware/bigfix-powershell](https://github.com/promptussoftware/bigfix-powershell) - Integration module offering a consistent, simple, and streamlined approach to interacting with the BigFix suite of products and APIs directly from within PowerShell.
-*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-*   [Devolutions/DevoSamples-ps](https://github.com/Devolutions/DevoSamples-ps) - Samples of Devolutions PowerShell code
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
-*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-*   [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
-*   [AArnott/Library.Template](https://github.com/AArnott/Library.Template) - A template for a NuGet package with tests, static analysis, code style, versioning, Azure Pipelines and GitHub Actions builds ready to go.
-*   [mikefrobbins/PowerShell](https://github.com/mikefrobbins/PowerShell) - PowerShell scripts and functions
-*   [nsacyber/Mitigating-Obsolete-TLS](https://github.com/nsacyber/Mitigating-Obsolete-TLS) - Guidance for mitigating obsolete Transport Layer Security configurations. #nsacyber
-*   [itpro-tips/PowerShell-Toolbox](https://github.com/itpro-tips/PowerShell-Toolbox) -
-*   [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
-*   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
-*   [AjahnCharles/lab-image-win](https://github.com/AjahnCharles/lab-image-win) -
-*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-*   [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
-*   [OnyxXP/Poor\_System\_Performance](https://github.com/OnyxXP/Poor_System_Performance) - Generic but extensive cleanup of cookies/cache/temp files on Windows based assets.
-*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
-*   [awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer) - Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
-*   [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
-*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
-*   [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Manually ported color themes for ConEmu
-*   [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
-*   [Justin-Lund/Printer-Remapper](https://github.com/Justin-Lund/Printer-Remapper) - Deletes network printers & printer drivers, & then re-installs the printers
-*   [PoshCode/Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
-*   [PowerShellOrg/Plaster](https://github.com/PowerShellOrg/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
-*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
-*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
-*   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
-*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
-*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
-*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
-*   [Average-Bear/Configure-StigIIS](https://github.com/Average-Bear/Configure-StigIIS) -
-*   [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
-*   [microsoft/PowerStigDsc](https://github.com/microsoft/PowerStigDsc) - This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig
-*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
-*   [microsoft/BaselineManagement](https://github.com/microsoft/BaselineManagement) - Conversion tool used to Convert Group Policy baselines into DSC
-*   [steviecoaster/PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) - A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable
-*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
-*   [adbertram/PSSoftware](https://github.com/adbertram/PSSoftware) -
-*   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
-*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
-*   [microsoft/DSCEA](https://github.com/microsoft/DSCEA) - DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration.
-*   [Sup3rlativ3/Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) - This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution.
-*   [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - | Public |  A repository of step templates and other community-contributed extensions to Octopus Deploy
-*   [dataplat/dbareports](https://github.com/dataplat/dbareports) - PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.**
-*   [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
-*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-*   [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
-*   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
-*   [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
-*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
-*   [SQLDBAWithABeard/DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) - This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate
-*   [MikeShepard/SQLPSX](https://github.com/MikeShepard/SQLPSX) - SQL PowerShell Extensions
-*   [joel74/POSH-LTM-Rest](https://github.com/joel74/POSH-LTM-Rest) - PowerShell module and scripts for working with F5's LTM REST API
-*   [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
-*   [MattHodge/PoshHubot](https://github.com/MattHodge/PoshHubot) - PowerShell Module for Hubot
-*   [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
-*   [BladeFireLight/WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) - PowerShell Tools creating and updating Windows Images
-*   [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
-*   [slavizh/Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) - In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it.
-*   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
-
 ## C\#
 
+*   [djonasdev/NLogViewer](https://github.com/djonasdev/NLogViewer) - NlogViewer is a ui control library to visualize NLog logs
 *   [dotnet/infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
 *   [shouldly/shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
 *   [citronneur/detours.net](https://github.com/citronneur/detours.net) - Hook native API with C#
@@ -1543,6 +1105,445 @@
 *   [madskristensen/MiniBlog](https://github.com/madskristensen/MiniBlog) - A minimal blog engine using Razor Web Pages
 *   [getsentry/raven-csharp](https://github.com/getsentry/raven-csharp) - Superseded by: https://github.com/getsentry/sentry-dotnet
 *   [owin/owin.dll](https://github.com/owin/owin.dll) - OWIN defines a standard interface between .NET web servers and web applications.
+
+## miscellaneous
+
+*   [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+*   [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
+*   [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+*   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
+*   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+*   [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
+*   [wiltondb/wiltondb](https://github.com/wiltondb/wiltondb) - RDBMS that can work with applications written for Microsoft SQL Server
+*   [SimonCropp/netcore-boilerplate](https://github.com/SimonCropp/netcore-boilerplate) - Boilerplate of API in .NET 8
+*   [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of \*arrs and related stuff.
+*   [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
+*   [SimonCropp/ExplorerTabUtility](https://github.com/SimonCropp/ExplorerTabUtility) - Explorer Tab Utility: Force new windows to tabs. Streamline navigation!
+*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+*   [merill/awesome-entra](https://github.com/merill/awesome-entra) - 😎 Awesome list of all things related to Microsoft Entra
+*   [microsoft/DesktopBridgeToUWP-Samples](https://github.com/microsoft/DesktopBridgeToUWP-Samples) - This repo contains the samples that demonstrate the usage patterns for the Desktop Conversion extensions.
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+*   [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - 👨‍💻 An awesome and curated list of best code-LLM for research.
+*   [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+*   [dotnet-architecture/eBooks](https://github.com/dotnet-architecture/eBooks) - .NET Architecture e-Books
+*   [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+*   [rajasegar/awesome-codemods](https://github.com/rajasegar/awesome-codemods) - Awesome list of codemods for various languages, libraries and frameworks
+*   [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+*   [awesome-gptX/awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+*   [shobrook/adrenaline](https://github.com/shobrook/adrenaline) - Chat with (and visualize) your codebase
+*   [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
+*   [mycroftwilde/portainer\_templates](https://github.com/mycroftwilde/portainer_templates) - Portainer Version 2 Template and Self-Hosting Cookbook. A Series of Tools, Tutorials/Instructions, and Links to help you create your very own Self-Hosting System and Lab Sandbox!
+*   [linuxenko/awesome-smarttv](https://github.com/linuxenko/awesome-smarttv) - A curated list of smart :tv: frameworks, libraries, software and resources.
+*   [rgl/intel-amt-notes](https://github.com/rgl/intel-amt-notes) - notes about intel amt
+*   [web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) - A curated list of awesome Lit resources.
+*   [httptoolkit/httptoolkit](https://github.com/httptoolkit/httptoolkit) - HTTP Toolkit is a beautiful & open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac  :tada:  Open an issue here to give feedback or ask for help.
+*   [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+*   [onethawt/reverseengineering-reading-list](https://github.com/onethawt/reverseengineering-reading-list) - A list of Reverse Engineering articles, books, and papers
+*   [microsoft/vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) -
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+*   [coqui-ai/open-speech-corpora](https://github.com/coqui-ai/open-speech-corpora) - 💎 A list of accessible speech corpora for ASR, TTS, and other Speech Technologies
+*   [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
+*   [oxnr/awesome-analytics](https://github.com/oxnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
+*   [antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) - A collection of Awesome low-code development platform (LCDP).
+*   [snowfort-ai/awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications
+*   [mingze-yuan/Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) - The paper list of the review on LLMs in medicine - "Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review".
+*   [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
+*   [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
+*   [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+*   [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A curated list of references for MLOps
+*   [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
+*   [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages.
+*   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+*   [Nriver/awesome-trilium](https://github.com/Nriver/awesome-trilium) - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集
+*   [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
+*   [gitbito/CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows.  This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
+*   [WhatTheBlock/WindowsSimplify](https://github.com/WhatTheBlock/WindowsSimplify) - Windows Simplify Project
+*   [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+*   [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools
+*   [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
+*   [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+*   [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
+*   [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+*   [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
+*   [MicrosoftDocs/windows-itpro-docs](https://github.com/MicrosoftDocs/windows-itpro-docs) - This repository is used for Windows client for IT Pro content on Microsoft Learn.
+*   [BoringBoredom/PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - collection of various resources devoted to performance and input lag optimization
+*   [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
+*   [dweinstein/awesome-frida](https://github.com/dweinstein/awesome-frida) - Awesome Frida - A curated list of Frida resources http://www.frida.re/ (https://github.com/frida/frida)
+*   [ktaranov/naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
+*   [awesome-scripts/awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+*   [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
+*   [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+*   [JetBrains/resharper-devguide](https://github.com/JetBrains/resharper-devguide) - Developer guide for the ReSharper Platform
+*   [matthiasjost/dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
+*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
+*   [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) -
+*   [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff.
+*   [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) -
+*   [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+*   [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
+*   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+*   [esbuild/community-plugins](https://github.com/esbuild/community-plugins) - Community plugins for esbuild
+*   [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
+*   [AvaloniaCommunity/awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) - A collection of interesting libraries and tools for Avalonia project.
+*   [qdm12/gluetun-wiki](https://github.com/qdm12/gluetun-wiki) - Home to the Markdown Wiki page for Gluetun
+*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+*   [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
+*   [tallesl/net-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier.
+*   [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
+*   [JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022](https://github.com/JoanComasFdz/dotnet-how-to-debug-source-generator-vs2022) - Step by step guide on how to debug a C# SourceGenerator in Visual Studio 2022
+*   [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
+*   [sindresorhus/awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+*   [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+*   [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community <3
+*   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+*   [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+*   [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+*   [0xk1h0/ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
+*   [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
+*   [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
+*   [dotnet/runtimelab](https://github.com/dotnet/runtimelab) - This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.
+*   [keithn/dotnetviteguide](https://github.com/keithn/dotnetviteguide) - Guide to getting started with .NET 6, Vite, and Vue 3
+*   [trackawesomelist/trackawesomelist](https://github.com/trackawesomelist/trackawesomelist) - Track 500+ Awesome List Updates, Track it - not just star it!
+*   [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+*   [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
+*   [Lumaeris/awesome-windows](https://github.com/Lumaeris/awesome-windows) - :computer: :tada: A curated list of awesome applications, software, tools and shiny things for Windows.
+*   [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
+*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
+*   [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
+*   [windows-powertool/Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
+*   [davidfowl/DotNetCodingPatterns](https://github.com/davidfowl/DotNetCodingPatterns) - A collection of coding patterns in no particular order
+*   [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+*   [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
+*   [macbian-admin/macos-subsystem-for-linux](https://github.com/macbian-admin/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
+*   [cybermaxs/awesome-analyzers](https://github.com/cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
+*   [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+*   [AdrienTorris/awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+*   [paintdotnet/release](https://github.com/paintdotnet/release) - Downloads for Paint.NET, such as installer EXEs and portable ZIPs
+*   [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
+*   [brabadu/awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything
+*   [Jolg42/awesome-typography](https://github.com/Jolg42/awesome-typography) - ✏︎ Curated list about digital typography 🔥
+*   [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
+*   [tom-englert/VSIX-SdkProjectAdapter](https://github.com/tom-englert/VSIX-SdkProjectAdapter) - Extends Microsoft.VSSDK.BuildTools so you can use SDK style projects for your Visual Studio Extension.
+*   [amis92/csharp-source-generators](https://github.com/amis92/csharp-source-generators) - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
+*   [cezarypiatek/msbuild-cheatsheet](https://github.com/cezarypiatek/msbuild-cheatsheet) -
+*   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
+*   [TemporalAgent7/awesome-windows-privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
+*   [maartenba/rider-content](https://github.com/maartenba/rider-content) - A curated list of content around JetBrains Rider
+*   [kristerkari/awesome-bundle-size](https://github.com/kristerkari/awesome-bundle-size) - 📝 An awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
+*   [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
+*   [IAmStoxe/wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+*   [technorabilia/portainer-templates](https://github.com/technorabilia/portainer-templates) - Various Portainer App Templates
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+*   [aeleos/cloudflared](https://github.com/aeleos/cloudflared) - Cloudflare Tunnel Instructions and Template for Unraid
+*   [sonicoder86/awesome-vue-3](https://github.com/sonicoder86/awesome-vue-3) - A curated list of awesome things related to Vue 3
+*   [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
+*   [rollup/awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources
+*   [RyanZim/awesome-npm-scripts](https://github.com/RyanZim/awesome-npm-scripts) - Everything awesome related to npm scripts and using npm as a build tool.
+*   [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
+*   [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
+*   [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+*   [dustinspecker/awesome-eslint](https://github.com/dustinspecker/awesome-eslint) - A list of awesome ESLint plugins, configs, etc.
+*   [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
+*   [mjebrahimi/Awesome-Microservices-DotNet](https://github.com/mjebrahimi/Awesome-Microservices-DotNet) - 💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET
+*   [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+*   [Azure-Samples/active-directory-dotnet-iwa-v2](https://github.com/Azure-Samples/active-directory-dotnet-iwa-v2) - .NET console application letting a user acquire a token for the Microsoft Graph using Integrated Windows Authentication (on domain joined or AAD joined machines)
+*   [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
+*   [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
+*   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
+*   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
+*   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
+*   [Azure-Samples/ms-identity-aspnet-webapp-openidconnect](https://github.com/Azure-Samples/ms-identity-aspnet-webapp-openidconnect) - A sample showcasing how to develop a web application that handles sign on via the unified Azure AD and MSA endpoint, so that users can sign in using both their work/school account or Microsoft account. The sample also shows how to use MSAL to obtain a token for invoking the Microsoft Graph, as well as incrementental consent.
+*   [babel/awesome-babel](https://github.com/babel/awesome-babel) - 😎A list of awesome Babel plugins, presets, etc.
+*   [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
+*   [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
+*   [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
+*   [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+*   [uhub/awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) - A curated list of awesome C-Sharp frameworks, libraries and software.
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [TrunkRecorder/trunk-recorder-docker](https://github.com/TrunkRecorder/trunk-recorder-docker) - a version of trunk-recorder that is designed for docker
+*   [microsoftarchive/msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) - Samples from Microsoft teams for the MSDN Code Gallery
+*   [ironcev/awesome-roslyn](https://github.com/ironcev/awesome-roslyn) - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators
+*   [airbnb/css](https://github.com/airbnb/css) - A mostly reasonable approach to CSS and Sass.
+*   [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
+*   [race2infinity/The-Documentation-Compendium](https://github.com/race2infinity/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+*   [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
+*   [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
+*   [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
+*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
+*   [pnpm/awesome-pnpm](https://github.com/pnpm/awesome-pnpm) - Awesome pnpm resources
+*   [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+*   [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+*   [Jackysi/advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
+*   [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
+*   [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
+*   [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
+*   [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+*   [SimpleHomelab/AtoMiC-ToolKit-Docker](https://github.com/SimpleHomelab/AtoMiC-ToolKit-Docker) - Moved - https://github.com/htpcBeginner/docker-traefik
+*   [RehanSaeed/EditorConfig](https://github.com/RehanSaeed/EditorConfig) - A very generic .editorconfig file supporting .NET, C#, VB and web technologies.
+*   [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+*   [natemcmaster/dotnet-tools](https://github.com/natemcmaster/dotnet-tools) - A list of tools to extend the .NET Core command line (dotnet)
+*   [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+*   [adolfintel/Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
+*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
+*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
+*   [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+*   [GoogleChromeLabs/webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) - Using a library in your webpack project? Here’s how to optimize it
+*   [lukehoban/es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [joho/awesome-code-review](https://github.com/joho/awesome-code-review) - An "Awesome" list of code review resources - articles, papers, tools, etc
+*   [microsoft/nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
+*   [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
+*   [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
+*   [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+*   [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
+*   [aspnet/MusicStore](https://github.com/aspnet/MusicStore) - \[Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore
+*   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+*   [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+*   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+*   [teesloane/Auth-Boss](https://github.com/teesloane/Auth-Boss) - 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web.
+*   [NeverSinkDev/NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) - This is a lootfilter for the game "Path of Exile". It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining.
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+*   [Evdlaar/QueryStoreDashboard](https://github.com/Evdlaar/QueryStoreDashboard) - Query Store Database Performance Dashboard
+*   [leereilly/games](https://github.com/leereilly/games) - :video\_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+*   [RickStrahl/WestWindWebSurge](https://github.com/RickStrahl/WestWindWebSurge) - Quick and easy URL and Load Testing for your Web applications on Windows
+*   [verbosemode/public-notes](https://github.com/verbosemode/public-notes) - My public (install) notes. /me doing linux/networking/... networking things
+*   [firefox-devtools/debugger](https://github.com/firefox-devtools/debugger) - The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠
+*   [adamsitnik/awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.
+*   [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+*   [metagrover/ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
+*   [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
+*   [gsscoder/commandline](https://github.com/gsscoder/commandline) - Terse syntax C# command line parser for .NET with F# support
+*   [AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
+*   [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML \<head> elements
+*   [cmangos/issues](https://github.com/cmangos/issues) - This repository is used as a centralized point for all issues regarding CMaNGOS.
+*   [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+*   [bmkmanoj/js-by-examples](https://github.com/bmkmanoj/js-by-examples) - Learn JavaScript by examples
+*   [zzzprojects/System.Linq.Dynamic](https://github.com/zzzprojects/System.Linq.Dynamic) - \[Deprecated] This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality.
+*   [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
+*   [AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - A collection of tips to help up your jQuery game 🎮
+*   [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [camohub/jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) - jQuery plugin to sorting lists also the tree structures.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [PowerShell/DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
+*   [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
+*   [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
+*   [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection of free Bootstrap 5 templates.
+*   [aspnet/aspnet-docker](https://github.com/aspnet/aspnet-docker) - \[Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up.
+*   [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
+*   [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
+*   [justinwalsh/daux.io](https://github.com/justinwalsh/daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+*   [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+*   [philipwalton/flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+*   [NARKOZ/guides](https://github.com/NARKOZ/guides) - Design and development guides
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+*   [raspberrypi/firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware.
+*   [jpillora/notifyjs](https://github.com/jpillora/notifyjs) - Notify.js - A simple, versatile notification library
+*   [corporate-gadfly/Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) -
+*   [Jackysi/advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
+*   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+
+## PowerShell
+
+*   [hoilc/scoop-lemon](https://github.com/hoilc/scoop-lemon) - 🍋Yet Another Personal Bucket for Scoop
+*   [ACooper81/scoop-apps](https://github.com/ACooper81/scoop-apps) - A personal bucket for http://scoop.sh
+*   [ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager) - A PowerShell GUI tool for efficiently managing and offboarding devices from Microsoft Intune, Autopilot, and Entra ID, featuring bulk operations and real-time analytics for streamlined device lifecycle management.
+*   [dfinke/DougFinke-PowerShell-Scripts-Collection](https://github.com/dfinke/DougFinke-PowerShell-Scripts-Collection) - This repository contains a collection of PowerShell scripts developed by Doug Finke. The scripts cover a variety of tasks, ranging from fun projects to practical utilities aimed at enhancing productivity and automation. Feel free to explore, use, and contribute to this collection!
+*   [PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - PowerSploit - A PowerShell Post-Exploitation Framework
+*   [djdallmann/GamingPCSetup](https://github.com/djdallmann/GamingPCSetup) - A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable technical references, and personal research.
+*   [couleur-tweak-tips/TweakList](https://github.com/couleur-tweak-tips/TweakList) - ✨Centralized tweaking/fine-tuning PowerShell module, importable with a single command!
+*   [EvotecIT/PowerBGInfo](https://github.com/EvotecIT/PowerBGInfo) - PowerBGInfo is a PowerShell module that is used to generate background information for Windows machines. It's a replacement for BGInfo that doesn't require installation and is much more flexible.
+*   [jborean93/ProcessEx](https://github.com/jborean93/ProcessEx) - Exposes the Windows Process creation Win32 functions in PowerShell
+*   [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
+*   [IISResetMe/PSProfiler](https://github.com/IISResetMe/PSProfiler) - PowerShell Script Profiler
+*   [potatoqualitee/aidertools](https://github.com/potatoqualitee/aidertools) - PowerShell wrapper for the Aider code assistant
+*   [ironmansoftware/gallery](https://github.com/ironmansoftware/gallery) - Public gallery of modules for PowerShell Universal
+*   [rod-meaney/ps-community-blog](https://github.com/rod-meaney/ps-community-blog) - Code that is used in the logs for the PS community
+*   [pspete/CredentialRetriever](https://github.com/pspete/CredentialRetriever) - Retrieve Credentials from CyberArk Central Credential Provider Web Service, or Local Credential Provider using CLIPasswordSDK
+*   [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
+*   [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+*   [aaronparker/evergreen](https://github.com/aaronparker/evergreen) - Create evergreen Windows image build pipelines with the latest version numbers and download URLs for common applications
+*   [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
+*   [dfinke/PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more. On the gallery
+*   [RamblingCookieMonster/BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
+*   [PKISharp/ACME-PS](https://github.com/PKISharp/ACME-PS) - PowerShell module supporting ACME v2 certificate management
+*   [proxb/PoshWSUS](https://github.com/proxb/PoshWSUS) - PowerShell module to manage Windows Server Update Services (WSUS)
+*   [potatoqualitee/kbupdate](https://github.com/potatoqualitee/kbupdate) - 🛡 KB Viewer, Saver, Installer and Uninstaller
+*   [kacos2000/Win10](https://github.com/kacos2000/Win10) - Win 10/11 related research
+*   [kelleyma49/PSFzf](https://github.com/kelleyma49/PSFzf) - A PowerShell wrapper around the fuzzy finder fzf
+*   [riedyw/PoshFunctions](https://github.com/riedyw/PoshFunctions) - A curated collection of PowerShell scripts packaged into a module.
+*   [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
+*   [asheroto/Root-Certificate-Updater](https://github.com/asheroto/Root-Certificate-Updater) - Update root certificates (and disallowed certificates) on Windows. No changes to settings.
+*   [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
+*   [jsecurity101/PowerParse](https://github.com/jsecurity101/PowerParse) - PowerShell PE Parser
+*   [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
+*   [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
+*   [ztrhgf/useful\_powershell\_modules](https://github.com/ztrhgf/useful_powershell_modules) - Source code for modules placed in PowerShell Gallery and on my https://doitpshway.com blog.
+*   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
+*   [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) - Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.
+*   [EvotecIT/PSWriteHTML](https://github.com/EvotecIT/PSWriteHTML) - PSWriteHTML is PowerShell Module to generate beautiful HTML reports, pages, emails without any knowledge of HTML, CSS or JavaScript. To get started basics PowerShell knowledge is required.
+*   [potatoqualitee/finetuna](https://github.com/potatoqualitee/finetuna) - 🐟 An OpenAI Fine Tuner written in PowerShell
+*   [FriendsOfMDT/PSD](https://github.com/FriendsOfMDT/PSD) - PowerShell Deployment
+*   [cloudbase/windows-imaging-tools](https://github.com/cloudbase/windows-imaging-tools) - Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.
+*   [StartAutomating/Benchpress](https://github.com/StartAutomating/Benchpress) - Easy Benchmarking with PowerShell
+*   [dataplat/dbaclone](https://github.com/dataplat/dbaclone) - 👯 Clone SQL Server databases using PowerShell previously named PSDatabaseClone
+*   [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
+*   [MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - Copies of my 'Script Center' and 'Technet Gallery' publications
+*   [mikepruett3/dotposh](https://github.com/mikepruett3/dotposh) - Profile, functions, and Modules for my PowerShell Environment
+*   [scriptrunner/ActionPacks](https://github.com/scriptrunner/ActionPacks) - Public PowerShell script gallery for ScriptRunner.
+*   [ianis58/tiny11builder](https://github.com/ianis58/tiny11builder) - This script create a trimmed-down Windows 11 image. PowerShell version of ntdevlabs/tiny11builder with some improvements.
+*   [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
+*   [RamblingCookieMonster/PowerShell](https://github.com/RamblingCookieMonster/PowerShell) - Various PowerShell functions and scripts
+*   [scipag/HardeningKitty](https://github.com/scipag/HardeningKitty) - HardeningKitty - Checks and hardens your Windows configuration
+*   [lptstr/winfetch](https://github.com/lptstr/winfetch) - 🛠 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.
+*   [fleschutz/PowerShell](https://github.com/fleschutz/PowerShell) - 500+ free PowerShell scripts (.ps1) for Linux, Mac OS, and Windows.
+*   [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.
+*   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
+*   [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
+*   [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below or buy me a coffee :)  https://www.buymeacoffee.com/powershellisfun
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+*   [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
+*   [CZEMacLeod/WindowsServerCore\_container\_with\_fonts](https://github.com/CZEMacLeod/WindowsServerCore_container_with_fonts) - This repo contains build scripts to create a docker image from an existing Windows Server Core docker image that adds the fonts features that are normally missing.
+*   [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
+*   [Azure/azure-vm-scripts](https://github.com/Azure/azure-vm-scripts) - Repository of custom scripts for managing Azure virtual machines and related infrastructure.
+*   [bigfix/restapi-examples](https://github.com/bigfix/restapi-examples) - A collection of examples to demonstrate the usage of the HCL BigFix RESTAPI
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
+*   [MethodsAndPractices/vsteam](https://github.com/MethodsAndPractices/vsteam) - PowerShell module for accessing Azure DevOps Services and Azure DevOps Server (formerly VSTS or TFS)
+*   [gngrninja/PSFolderSize](https://github.com/gngrninja/PSFolderSize) - This module will allow you to get folder sizes and export information easily via PowerShell
+*   [EliteLoser/GetSTFolderSize](https://github.com/EliteLoser/GetSTFolderSize) - Get folder sizes blazingly fast with PowerShell
+*   [ZenitH-AT/nvidia-update](https://github.com/ZenitH-AT/nvidia-update) - Checks for a new version of the NVIDIA driver, downloads and installs it.
+*   [ChristianLempa/dotfiles-win](https://github.com/ChristianLempa/dotfiles-win) - These are my user-specific configuration files that I use to personalize my Windows experience.
+*   [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
+*   [yenpuren/WMI-Fixer-Tool](https://github.com/yenpuren/WMI-Fixer-Tool) - This tool was made to help others fix their server's WMI Repository when they're corrupted or experiencing related issued, for many IT Pros scripts aren't always very friendly, so i've decided to make a Tool using Windows Powershell and Windows Forms.This tool is freely available
+*   [andysvints/PSGalleryStats](https://github.com/andysvints/PSGalleryStats) - Get Powershell Gallery Statistics for the specified Date.
+*   [JustinGrote/WindowsCredentialManager](https://github.com/JustinGrote/WindowsCredentialManager) -
+*   [mgajda83/PSWindowsUpdate](https://github.com/mgajda83/PSWindowsUpdate) - This module contain cmdlets to manage Windows Update Client.
+*   [joonro/Get-ChildItemColor](https://github.com/joonro/Get-ChildItemColor) - Get-ChildItemColor provides colorized version of Get-ChildItem Cmdlet of PowerShell.
+*   [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
+*   [okibcn/wslcompact](https://github.com/okibcn/wslcompact) - Compacts the size of the ever-growing WSL vhdx images.
+*   [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly just from a right-click
+*   [mdgrs-mei/DynamicTitle](https://github.com/mdgrs-mei/DynamicTitle) - A PowerShell module for advanced console title customizations.
+*   [MSEndpointMgr/ModernDriverManagement](https://github.com/MSEndpointMgr/ModernDriverManagement) - Official repo of Modern Driver Management from MSEndpointMgr.com
+*   [dakhama-mehdi/Modern\_ActiveDirectory](https://github.com/dakhama-mehdi/Modern_ActiveDirectory) - Modern Active Directory
+*   [TheTaylorLee/AdminToolbox](https://github.com/TheTaylorLee/AdminToolbox) - Repository for the AdminToolbox PowerShell Modules
+*   [EvotecIT/PSSharedGoods](https://github.com/EvotecIT/PSSharedGoods) - PSSharedGoods is little PowerShell Module that primary purpose is to be useful for multiple tasks, unrelated to each other. I've created this module as “a glue” between my other modules.
+*   [nightroman/PS-GuiCompletion](https://github.com/nightroman/PS-GuiCompletion) - A graphical menu for PowerShell tab completions.
+*   [AnderssonPeter/PowerType](https://github.com/AnderssonPeter/PowerType) - Autocomplete for PowerShell
+*   [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+*   [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+*   [nightroman/PowerShellTraps](https://github.com/nightroman/PowerShellTraps) - Collection of PowerShell traps and oddities
+*   [jdhitsolutions/PSFunctionTools](https://github.com/jdhitsolutions/PSFunctionTools) - :toolbox: A set of PowerShell 7.x tools for automating and accelerating script and module development. :writing\_hand:
+*   [Moeologist/scoop-completion](https://github.com/Moeologist/scoop-completion) - scoop tab completion, work with powershell
+*   [Jaykul/BetterCredentials](https://github.com/Jaykul/BetterCredentials) - A wrapper for Get-Credential offering options that it should have offered
+*   [EliteLoser/DotNetVersionLister](https://github.com/EliteLoser/DotNetVersionLister) - Use Svendsen Tech's Get-STDotNetVersion function to get a list of installed .NET Framework versions on (remote) Windows computers. I also added a simple solution for .NET 5+
+*   [jdhitsolutions/WingetTools](https://github.com/jdhitsolutions/WingetTools) - A set of PowerShell tools for working with the winget package manager.
+*   [wikijm/PowerShell-AdminScripts](https://github.com/wikijm/PowerShell-AdminScripts) - PowerShell Administration scripts
+*   [compwiz32/PowerShell](https://github.com/compwiz32/PowerShell) - My everyday PS code as well as a collection of scripts I have downloaded for reference
+*   [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
+*   [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
+*   [ztrhgf/useful\_powershell\_functions](https://github.com/ztrhgf/useful_powershell_functions) - powershell functions to make my admin work easier
+*   [microsoft/Documentarian](https://github.com/microsoft/Documentarian) - An open source toolkit for documentarians and community contributors to reduce friction and provide a delightful experience for contributing to and maintaining documentation.
+*   [simeononsecurity/Windows-Optimize-Harden-Debloat](https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat) - Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.
+*   [ChrisTitusTech/powershell-profile](https://github.com/ChrisTitusTech/powershell-profile) - Pretty PowerShell that looks good and functions almost as good as Linux terminal
+*   [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
+*   [simeononsecurity/Standalone-Windows-STIG-Script](https://github.com/simeononsecurity/Standalone-Windows-STIG-Script) - Create a compliant and secure Windows 10/11 system with our Gold Master image creation tool. Adhere to DoD STIG/SRG Requirements and NSA Cybersecurity guidance for standalone Windows systems with ease, using our ultimate STIG script.
+*   [microsoft/CSS-Exchange](https://github.com/microsoft/CSS-Exchange) - Exchange Server support tools and scripts
+*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
+*   [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
+*   [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend) - PowerShell Dependency Handler
+*   [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files
+*   [dataplat/dbachecks](https://github.com/dataplat/dbachecks) - ✔ SQL Server Environmental Validation
+*   [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
+*   [pawelgnatowski/WSL2-Network-Fix](https://github.com/pawelgnatowski/WSL2-Network-Fix) -
+*   [farag2/Utilities](https://github.com/farag2/Utilities) - Useful things
+*   [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+*   [devonfw-forge/rd-installer](https://github.com/devonfw-forge/rd-installer) - Supercharged installer of Rancher Desktop as Docker Desktop alternative
+*   [mikebattista/PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
+*   [techthoughts2/Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module and vault project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
+*   [PowershellFrameworkCollective/PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
+*   [PoShLog/PoShLog](https://github.com/PoShLog/PoShLog) - :nut\_and\_bolt:  PoShLog is PowerShell cross-platform logging module. It allows you to log structured event data into console, file and much more places easily. It's built upon great C# logging library Serilog - https://serilog.net/
+*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
+*   [PowershellFrameworkCollective/psframework](https://github.com/PowershellFrameworkCollective/psframework) - A module that provides tools for other modules and scripts
+*   [jessehouwing/azure-pipelines-tasks-zips](https://github.com/jessehouwing/azure-pipelines-tasks-zips) - This repository contains a pre-built version of the built-in tasks of Azure DevOps. In case you need to install an updated version into Team Foundation Server or Azure DevOps Server, you can use these zips.
+*   [promptussoftware/bigfix-powershell](https://github.com/promptussoftware/bigfix-powershell) - Integration module offering a consistent, simple, and streamlined approach to interacting with the BigFix suite of products and APIs directly from within PowerShell.
+*   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+*   [Devolutions/DevoSamples-ps](https://github.com/Devolutions/DevoSamples-ps) - Samples of Devolutions PowerShell code
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
+*   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
+*   [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
+*   [AArnott/Library.Template](https://github.com/AArnott/Library.Template) - A template for a NuGet package with tests, static analysis, code style, versioning, Azure Pipelines and GitHub Actions builds ready to go.
+*   [mikefrobbins/PowerShell](https://github.com/mikefrobbins/PowerShell) - PowerShell scripts and functions
+*   [nsacyber/Mitigating-Obsolete-TLS](https://github.com/nsacyber/Mitigating-Obsolete-TLS) - Guidance for mitigating obsolete Transport Layer Security configurations. #nsacyber
+*   [itpro-tips/PowerShell-Toolbox](https://github.com/itpro-tips/PowerShell-Toolbox) -
+*   [StefanScherer/docker-windows-box](https://github.com/StefanScherer/docker-windows-box) - Various Vagrant envs with Windows 2019/10 and Docker, Swarm mode, LCOW, WSL2, ...
+*   [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
+*   [AjahnCharles/lab-image-win](https://github.com/AjahnCharles/lab-image-win) -
+*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
+*   [kerol2r20/Windows-terminal-context-menu](https://github.com/kerol2r20/Windows-terminal-context-menu) - 📃 This is a simple script to add right click context menu for your best Windows terminal ❤
+*   [OnyxXP/Poor\_System\_Performance](https://github.com/OnyxXP/Poor_System_Performance) - Generic but extensive cleanup of cookies/cache/temp files on Windows based assets.
+*   [EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials) - PowerShell Active Directory helper functions to manage healthy Active Directory
+*   [awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer) - Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
+*   [Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
+*   [lextm/windowsterminal-shell](https://github.com/lextm/windowsterminal-shell) - Install/uninstall scripts for Windows Terminal context menu items
+*   [joonro/ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Manually ported color themes for ConEmu
+*   [Jaykul/PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
+*   [Justin-Lund/Printer-Remapper](https://github.com/Justin-Lund/Printer-Remapper) - Deletes network printers & printer drivers, & then re-installs the printers
+*   [PoshCode/Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
+*   [PowerShellOrg/Plaster](https://github.com/PowerShellOrg/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
+*   [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2) - A prompt theming engine for Powershell
+*   [dotnet/machinelearning-samples](https://github.com/dotnet/machinelearning-samples) - Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.
+*   [EvotecIT/PSTeams](https://github.com/EvotecIT/PSTeams) - PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.
+*   [EvotecIT/PSWinReporting](https://github.com/EvotecIT/PSWinReporting) - This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+*   [EvotecIT/PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
+*   [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+*   [Average-Bear/Configure-StigIIS](https://github.com/Average-Bear/Configure-StigIIS) -
+*   [microsoft/PowerStig](https://github.com/microsoft/PowerStig) - STIG Automation
+*   [microsoft/PowerStigDsc](https://github.com/microsoft/PowerStigDsc) - This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig
+*   [microsoft/MSLab](https://github.com/microsoft/MSLab) - Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts
+*   [microsoft/BaselineManagement](https://github.com/microsoft/BaselineManagement) - Conversion tool used to Convert Group Policy baselines into DSC
+*   [steviecoaster/PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) - A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable
+*   [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
+*   [adbertram/PSSoftware](https://github.com/adbertram/PSSoftware) -
+*   [DTW-DanWard/PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) - A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core
+*   [SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy) - Six Degrees of Domain Admin
+*   [microsoft/DSCEA](https://github.com/microsoft/DSCEA) - DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration.
+*   [Sup3rlativ3/Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) - This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution.
+*   [OctopusDeploy/Library](https://github.com/OctopusDeploy/Library) - | Public |  A repository of step templates and other community-contributed extensions to Octopus Deploy
+*   [dataplat/dbareports](https://github.com/dataplat/dbareports) - PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.**
+*   [dotnet/blazor](https://github.com/dotnet/blazor) - Blazor moved to https://github.com/dotnet/aspnetcore
+*   [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
+*   [madbomb122/BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations
+*   [Snow-Shell/servicenow-powershell](https://github.com/Snow-Shell/servicenow-powershell) - PowerShell module to automate ServiceNow service and asset management.  This module can be used standalone, with Azure Automation, or Docker.
+*   [giMini/PowerMemory](https://github.com/giMini/PowerMemory) - Exploit the credentials present in files and memory
+*   [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer
+*   [SQLDBAWithABeard/DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) - This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate
+*   [MikeShepard/SQLPSX](https://github.com/MikeShepard/SQLPSX) - SQL PowerShell Extensions
+*   [joel74/POSH-LTM-Rest](https://github.com/joel74/POSH-LTM-Rest) - PowerShell module and scripts for working with F5's LTM REST API
+*   [adbertram/Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) - Random PowerShell Work
+*   [MattHodge/PoshHubot](https://github.com/MattHodge/PoshHubot) - PowerShell Module for Hubot
+*   [MicrosoftDocs/Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) - Place to store our documentation, code samples, etc for public consumption.
+*   [BladeFireLight/WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) - PowerShell Tools creating and updating Windows Images
+*   [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+*   [slavizh/Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) - In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it.
+*   [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell
 
 ## ASP.NET
 
@@ -3217,7 +3218,6 @@
 *   [filamentgroup/politespace](https://github.com/filamentgroup/politespace) - Politely add spaces to numeric form values to increase readability (credit card numbers, phone numbers, etc).
 *   [scottjehl/picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for \<picture>, srcset, sizes, and more
 *   [winjs/winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
-*   [vodkabears/Remodal](https://github.com/vodkabears/Remodal) - No longer actively maintained.
 
 ## EJS
 
