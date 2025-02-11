@@ -1889,7 +1889,6 @@
 *   [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 *   [WhitewaterFoundry/Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.
 *   [chronoxor/FastBinaryEncoding](https://github.com/chronoxor/FastBinaryEncoding) - Fast Binary Encoding is ultra fast and universal serialization solution for C++, C#, Go, Java, JavaScript, Kotlin, Python, Ruby, Swift
-*   [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 *   [uncrustify/uncrustify](https://github.com/uncrustify/uncrustify) - Code beautifier
 *   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 *   [ultravnc/UltraVNC](https://github.com/ultravnc/UltraVNC) - UltraVNC Server, UltraVNC Viewer, UltraVNC Repeater and UltraVNC SC | Official repository: https://github.com/ultravnc/UltraVNC
@@ -2430,6 +2429,7 @@
 *   [dennisdoomen/CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines) - A set of coding guidelines for C# 9.0, design principles and layout rules for improving the overall quality of your code development.
 *   [fire1ce/3os.org](https://github.com/fire1ce/3os.org) - Collocation of technical documentation and guides for devops, developers, pentesters, systems administrators and other IT professionals website
 *   [asterics/FLipMouse](https://github.com/asterics/FLipMouse) - The repository for FLipMouse (Finger and LipMouse)
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [maskati/azure-icons](https://github.com/maskati/azure-icons) - Azure Icons
 *   [Ylianst/MeshCommander](https://github.com/Ylianst/MeshCommander) - MeshCommander is a Intel(R) Active Management Technology (Intel(R) AMT) remote management tool. It's feature rich and includes a built-in remote desktop viewer for Hardware-KVM, a Serial-over-LAN terminal, IDER-Redirection support and much more. MeshCommander is built on web technologies and runs on many plaforms. In addition to being available as a stand-alone tool, MeshCommander was built to be very space efficient to that it can be uploaded into Intel AMT flash space to have it served diretly from the Intel AMT web serve.
 *   [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
@@ -3700,7 +3700,6 @@
 
 ## Python
 
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 *   [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 *   [esdalmaijer/PyGaze](https://github.com/esdalmaijer/PyGaze) - an open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments
@@ -4112,6 +4111,7 @@
 *   [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 *   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 *   [dhowland/EasyAVR](https://github.com/dhowland/EasyAVR) - Easy AVR USB Keyboard Firmware and Keymapper
+*   [vpinball/vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 *   [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) - MSIX SDK
 *   [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 *   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
