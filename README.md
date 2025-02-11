@@ -2986,7 +2986,7 @@
 *   [TheNightmanCodeth/open-in-code](https://github.com/TheNightmanCodeth/open-in-code) - Browser extension that adds "Open in Visual Studio Code" button to GitHub repos
 *   [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 *   [giraudvalentin/better-onetab](https://github.com/giraudvalentin/better-onetab) - :bookmark\_tabs: better-onetab fork because project is not supported anymore and I need more features :)
-*   [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark\_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :construction: V2 is WIP
+*   [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark\_tabs: A better OneTab for Chrome  :memo:
 *   [sepharg/NugetVisualizer](https://github.com/sepharg/NugetVisualizer) - Tool intended to help visualize all of the nuget packages and their corresponding versions for a set of given git repositories
 *   [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 *   [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
