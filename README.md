@@ -4545,7 +4545,7 @@
 
 ## Mustache
 
-*   [open-amt-cloud-toolkit/open-amt-cloud-toolkit](https://github.com/open-amt-cloud-toolkit/open-amt-cloud-toolkit) - Open AMT Cloud Toolkit offers open-source microservices and libraries to streamline Intel AMT integration, simplifying out-of-band management solutions for Intel vPro Platforms.
+*   [device-management-toolkit/open-amt-cloud-toolkit](https://github.com/device-management-toolkit/open-amt-cloud-toolkit) - Open AMT Cloud Toolkit offers open-source microservices and libraries to streamline Intel AMT integration, simplifying out-of-band management solutions for Intel vPro Platforms.
 
 ## Visual Basic
 
