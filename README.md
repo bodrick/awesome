@@ -1114,7 +1114,6 @@
 *   [microsoft/axe-pipelines-samples](https://github.com/microsoft/axe-pipelines-samples) - Samples that demonstrate running axe accessibility scans from Azure Pipelines
 *   [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-*   [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 *   [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -2070,6 +2069,7 @@
 *   [azu/eslint-cjs-to-esm](https://github.com/azu/eslint-cjs-to-esm) - ESLint wrapper for migration from CJS to ESM.
 *   [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 *   [Andrews54757/FastStream](https://github.com/Andrews54757/FastStream) - Stream videos without buffering in the browser. An extension that gives you a better, accessible video player designed for your needs.
+*   [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 *   [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 *   [njic/medassist](https://github.com/njic/medassist) - Medication Assistant
 *   [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
@@ -2957,6 +2957,7 @@
 ## Python
 
 *   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 *   [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 *   [esdalmaijer/PyGaze](https://github.com/esdalmaijer/PyGaze) - an open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments
@@ -3757,7 +3758,6 @@
 *   [dennisdoomen/CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines) - A set of coding guidelines for C# 9.0, design principles and layout rules for improving the overall quality of your code development.
 *   [fire1ce/3os.org](https://github.com/fire1ce/3os.org) - Collocation of technical documentation and guides for devops, developers, pentesters, systems administrators and other IT professionals website
 *   [asterics/FLipMouse](https://github.com/asterics/FLipMouse) - The repository for FLipMouse (Finger and LipMouse)
-*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [maskati/azure-icons](https://github.com/maskati/azure-icons) - Azure Icons
 *   [Ylianst/MeshCommander](https://github.com/Ylianst/MeshCommander) - MeshCommander is a Intel(R) Active Management Technology (Intel(R) AMT) remote management tool. It's feature rich and includes a built-in remote desktop viewer for Hardware-KVM, a Serial-over-LAN terminal, IDER-Redirection support and much more. MeshCommander is built on web technologies and runs on many plaforms. In addition to being available as a stand-alone tool, MeshCommander was built to be very space efficient to that it can be uploaded into Intel AMT flash space to have it served diretly from the Intel AMT web serve.
 *   [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
