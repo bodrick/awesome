@@ -710,7 +710,7 @@
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
 *   [KirillOsenkov/SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers http://referencesource.microsoft.com and http://sourceroslyn.io
 *   [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
-*   [zarunbal/LogExpert](https://github.com/zarunbal/LogExpert) - Windows tail program and log file analyzer.
+*   [LogExperts/LogExpert](https://github.com/LogExperts/LogExpert) - Windows tail program and log file analyzer.
 *   [theraot/Theraot](https://github.com/theraot/Theraot) - Backporting .NET and more: LINQ expressions in .net 2.0 - nuget Theraot.Core available.
 *   [manuelroemer/IsExternalInit](https://github.com/manuelroemer/IsExternalInit) - A source code only package which allows you to use C# 9's init and record features in older target frameworks like .NET Standard 2.0 or the "old" .NET Framework by providing a polyfill for the IsExternalInit class.
 *   [dotnet/format](https://github.com/dotnet/format) - Home for the dotnet-format command
@@ -1989,7 +1989,7 @@
 *   [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 *   [jarulraj/sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 *   [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.
-*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+*   [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 *   [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 *   [microsoft/win32metadata](https://github.com/microsoft/win32metadata) - Tooling to generate metadata for Win32 APIs in the Windows SDK.
