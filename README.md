@@ -2037,7 +2037,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.59538, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.0.59570, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.59069)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -4399,7 +4399,7 @@
 ## TSQL
 
 *   [babelfish-for-postgresql/babelfish\_extensions](https://github.com/babelfish-for-postgresql/babelfish_extensions) - Babelfish for PostgreSQL provides the capability for PostgreSQL to work with applications written for Microsoft SQL Server. Babelfish understands the SQL Server wire-protocol and T-SQL, the Microsoft SQL Server query and procedural language, so you don’t have to switch database drivers or rewrite all of your application queries.
-*   [MadeiraData/MadeiraToolbox](https://github.com/MadeiraData/MadeiraToolbox) - Open-source Repository of Useful Scripts and Solutions for Microsoft Data Platform Administrators
+*   [MadeiraData/MadeiraToolbox](https://github.com/MadeiraData/MadeiraToolbox) - This repository is deprecated and no longer updated. Please visit the new repository:
 *   [SQLadmin/tsqltools](https://github.com/SQLadmin/tsqltools) - Tsql stored procedures and scripts  to help the DBAs and Developers to make their job easier
 *   [amachanic/sp\_whoisactive](https://github.com/amachanic/sp_whoisactive) - sp\_whoisactive
 *   [bricelam/EFCore.TextTemplating](https://github.com/bricelam/EFCore.TextTemplating) - Sample using T4 with reverse engineering in EF Core
