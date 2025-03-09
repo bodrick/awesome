@@ -2086,7 +2086,7 @@
 *   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 *   [Notifiarr/dockwatch](https://github.com/Notifiarr/dockwatch) - Automated Container Management and Notifications w/ beautiful WebUI
 *   [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
-*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+*   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 *   [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 *   [billchurch/webssh2](https://github.com/billchurch/webssh2) - Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 *   [eslint-community/eslint-plugin-promise](https://github.com/eslint-community/eslint-plugin-promise) - Enforce best practices for JavaScript promises
@@ -3051,7 +3051,7 @@
 *   [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
 *   [isafulf/inbox\_cleaner](https://github.com/isafulf/inbox_cleaner) - A python script to help manage a Gmail inbox by filtering out promotional emails using GPT-3 or GPT-4.
 *   [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over federated data.
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
 *   [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 *   [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 *   [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
