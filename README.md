@@ -2051,7 +2051,7 @@
 *   [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 *   [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 *   [ariccio/altWinDirStat](https://github.com/ariccio/altWinDirStat) - An unofficial modification of WinDirStat
-*   [robotastic/trunk-recorder](https://github.com/robotastic/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
+*   [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 *   [cjcliffe/CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application
 *   [maciejczyzewski/libchaos](https://github.com/maciejczyzewski/libchaos) - Advanced library for randomization, hashing and statistical analysis (devoted to chaos machines). :microscope:
 *   [pothosware/SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor and platform neutral SDR support library.
