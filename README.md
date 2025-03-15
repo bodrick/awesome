@@ -2074,7 +2074,6 @@
 *   [njic/medassist](https://github.com/njic/medassist) - Medication Assistant
 *   [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
 *   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-*   [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 *   [insulineru/ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
 *   [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 *   [CZEMacLeod/SystemWeb-SDK-with-TypeScript](https://github.com/CZEMacLeod/SystemWeb-SDK-with-TypeScript) - Example SystemWeb SDK project with TypeScript
@@ -2799,6 +2798,7 @@
 *   [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 *   [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 *   [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+*   [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 *   [equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli) - OpenTelemetry command-line tool for sending events from shell scripts & similar environments
 *   [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 *   [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -3782,7 +3782,6 @@
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 *   [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 *   [asterics/esp32\_mouse\_keyboard](https://github.com/asterics/esp32_mouse_keyboard) - ESP32 implementation for HID over GATT Keyboard and Mouse (Bluetooth Low Energy). Including serial API for external modules (similar to Adafruit EZKey HID)
-*   [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) -
 *   [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 *   [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
@@ -3916,7 +3915,7 @@
 *   [PREngineer/nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.
 *   [github/platform-samples](https://github.com/github/platform-samples) - A public place for all platform sample projects.
 *   [007revad/Synology\_enable\_M2\_volume](https://github.com/007revad/Synology_enable_M2_volume) - Enable creating volumes with non-Synology M.2 drives
-*   [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)
+*   [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 *   [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 *   [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ A dotfile ecosystem: cross-shell, cross-os, cross-arch. Make your commands and configurations portable, solve a problem once and for all users. Hundreds of builtin composable primitives for powerful and intuitive CLI and TUI scripting and automation. Portable between Bash, Zsh, Fish, Nu, Xonsh, Elvish, Dash, KornShell, macOS, Linux, Windows
 *   [desktop/dugite-native](https://github.com/desktop/dugite-native) - A toolchain for building a portable, cross-platform Git for applications
@@ -4503,6 +4502,7 @@
 ## AutoIt
 
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+*   [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) -
 *   [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 *   [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 
