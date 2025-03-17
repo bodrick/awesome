@@ -2962,7 +2962,6 @@
 *   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 *   [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 *   [esdalmaijer/PyGaze](https://github.com/esdalmaijer/PyGaze) - an open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments
-*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 *   [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 *   [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 *   [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
@@ -3910,6 +3909,7 @@
 
 *   [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) -
 *   [revenz/FileFlowsRepository](https://github.com/revenz/FileFlowsRepository) - Repository for Scripts and Templates for FileFlows
+*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 *   [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 *   [markdumay/synology-pihole](https://github.com/markdumay/synology-pihole) - Install or Update Pi-Hole as Docker Container on a Synology NAS with a Static IP Address
