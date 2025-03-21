@@ -2983,7 +2983,7 @@
 *   [ArthurMitchell42/nutcase](https://github.com/ArthurMitchell42/nutcase) - A NUT and APCd UPS data conversion bridge and graphic UI  to link to both Prometheus metrics and JSON format for HomePage/Uptime Kuma etc.
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 *   [dtmilano/AndroidViewClient](https://github.com/dtmilano/AndroidViewClient) - Android ViewServer and ADB client
-*   [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 10-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.
+*   [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - An 11-Lesson course teaching everything you need to know about harnessing GitHub Copilot as an AI Paired Programming resource.
 *   [omaha-consulting/winget.pro](https://github.com/omaha-consulting/winget.pro) -
 *   [microsoft/mssql-scripter](https://github.com/microsoft/mssql-scripter) - Repository for the new SQL cross-platform command line tools
 *   [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -4442,7 +4442,7 @@
 
 *   [namigop/OneBella](https://github.com/namigop/OneBella) - A cross platform GUI tool for  LiteDB v5+
 *   [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-*   [ieviev/pscomplete](https://github.com/ieviev/pscomplete) - cross-platform custom powershell autocomplete
+*   [ieviev/pscomplete](https://github.com/ieviev/pscomplete) - Cross-platform custom powershell completions
 *   [SteveGilham/altcover](https://github.com/SteveGilham/altcover) - Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono
 *   [fsprojects/Paket](https://github.com/fsprojects/Paket) - A dependency manager for .NET with support for NuGet packages and Git repositories.
 *   [nessos/LinqOptimizer](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ.
