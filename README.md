@@ -4050,7 +4050,7 @@
 ## C
 
 *   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 *   [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 *   [ataradov/usb-sniffer-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
 *   [futo-org/voice-input](https://github.com/futo-org/voice-input) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/voiceinput
