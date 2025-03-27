@@ -131,7 +131,7 @@
 *   [unoplatform/uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downloads!!
 *   [microsoft/DevSkim](https://github.com/microsoft/DevSkim) - DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
 *   [ArchonSystemsInc/LettuceEncrypt-Archon](https://github.com/ArchonSystemsInc/LettuceEncrypt-Archon) - Free, automatic HTTPS certificate generation for ASP.NET Core web apps
-*   [CZEMacLeod/C3D.Extensions.Aspire.IISExpress](https://github.com/CZEMacLeod/C3D.Extensions.Aspire.IISExpress) - Extensions for Microsoft Aspire to deal with ASP.Net 4.x IIS Express based projects
+*   [CZEMacLeod/C3D.Extensions.Aspire](https://github.com/CZEMacLeod/C3D.Extensions.Aspire) - Extensions for Microsoft Aspire
 *   [SimonCropp/SqlParser-cs](https://github.com/SimonCropp/SqlParser-cs) - A Friendly SQL Parser for .NET
 *   [bkaankose/Wino-Mail](https://github.com/bkaankose/Wino-Mail) - Built-in Mail & Calendars app clone for Windows.
 *   [madskristensen/SqlFormatter](https://github.com/madskristensen/SqlFormatter) -
@@ -1205,7 +1205,7 @@
 *   [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 *   [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 *   [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-*   [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
+*   [openchatai/copilot](https://github.com/openchatai/copilot) -
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 *   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 *   [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
