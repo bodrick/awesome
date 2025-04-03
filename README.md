@@ -576,7 +576,7 @@
 *   [telerik/JustAssembly](https://github.com/telerik/JustAssembly) - Assembly Diff and Analysis Tool
 *   [KyleMcMaster/payroll-processor](https://github.com/KyleMcMaster/payroll-processor) - A smorgasbord of modern .NET tech written with functional and asynchronous patterns
 *   [ardalis/ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
-*   [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 6 and newer.
+*   [FastEndpoints/FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.NET 8 and newer.
 *   [zzzprojects/Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods) - C# Extension Methods | Over 1000 extension methods:
 *   [freezy/VisualPinball.Engine](https://github.com/freezy/VisualPinball.Engine) - :video\_game: Visual Pinball Engine for Unity
 *   [reactiveui/splat](https://github.com/reactiveui/splat) - Makes things cross-platform
@@ -1235,6 +1235,7 @@
 *   [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 *   [pzavolinsky/ts-unused-exports](https://github.com/pzavolinsky/ts-unused-exports) - ts-unused-exports finds unused exported symbols in your Typescript project
 *   [tareqimbasher/NetPad](https://github.com/tareqimbasher/NetPad) - A cross-platform C# editor and playground.
+*   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 *   [bmish/eslint-doc-generator](https://github.com/bmish/eslint-doc-generator) - Automatic documentation generator for ESLint plugins and rules.
 *   [devchat-ai/devchat-vscode](https://github.com/devchat-ai/devchat-vscode) - DevChat VS Code extension
 *   [ex3ndr/llama-coder](https://github.com/ex3ndr/llama-coder) - Replace Copilot local AI
@@ -2120,7 +2121,6 @@
 *   [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 *   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 *   [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
-*   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 *   [suchipi/transform-imports](https://github.com/suchipi/transform-imports) - Tools that make it easy to codemod imports/requires in your JS
 *   [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 *   [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
