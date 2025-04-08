@@ -3861,7 +3861,7 @@
 *   [Joedmin/xExtension-readeck-button](https://github.com/Joedmin/xExtension-readeck-button) - Add FreshRSS articles to Readeck with one simple button click or a keyboard shortcut.
 *   [heussd/fivefilters-full-text-rss-docker](https://github.com/heussd/fivefilters-full-text-rss-docker) - Retrieves the full-text of individual Web pages or entire RSS feeds - Unofficial Docker image for fivefilters' Full-Text RSS service
 *   [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
-*   [SimpleHomelab/deployarr](https://github.com/SimpleHomelab/deployarr) - Deployarr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
+*   [SimpleHomelab/Deployrr](https://github.com/SimpleHomelab/Deployrr) - Deployarr automates Homelab setup using Docker and Docker Compose. Below you will find more information its features and what it can/cannot do.
 *   [edv/docker-spotweb](https://github.com/edv/docker-spotweb) - Dockerfile to easily set up Spotweb using Docker on the Raspberry Pi (or any compatible arm chipset) and regular x86 chipsets
 *   [wallacebrf/synology\_SMART\_disk\_data\_logger](https://github.com/wallacebrf/synology_SMART_disk_data_logger) - Script to save SMART disk data from synology NAS into InfluxDB
 *   [spotweb/spotweb](https://github.com/spotweb/spotweb) - Decentralized community
@@ -3930,7 +3930,7 @@
 *   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 *   [wiedehopf/adsb-scripts](https://github.com/wiedehopf/adsb-scripts) - Solutions to common problems for rtl\_sdr / ADS-B stuff
 *   [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome & curated list of best LLMOps tools for developers
-*   [SimpleHomelab/auto-traefik](https://github.com/SimpleHomelab/auto-traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
+*   [SimpleHomelab/Auto-Traefik](https://github.com/SimpleHomelab/Auto-Traefik) - Support files to automatically setup Socket Proxy, Traefik, and fetch LE SSL certificates.
 *   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 *   [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 *   [mattermost/openops](https://github.com/mattermost/openops) - Open source stack for applying AI to workflows in secure environments
@@ -3996,7 +3996,7 @@
 *   [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 *   [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM) - Tools to set up a quick macOS VM in QEMU, accelerated by KVM.
 *   [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
-*   [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+*   [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 *   [alexellis/k8s-on-raspbian](https://github.com/alexellis/k8s-on-raspbian) - Kubernetes on Raspbian (Raspberry Pi)
 *   [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 *   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
