@@ -218,7 +218,7 @@
 *   [credfeto/nuget-multi-push](https://github.com/credfeto/nuget-multi-push) - dotnet core tool to push multiple packages to nuget in one go
 *   [ubisoft/Sharpmake](https://github.com/ubisoft/Sharpmake) - Sharpmake is an open-source C#-based solution for generating project definition files, such as Visual Studio projects and solutions, GNU makefiles, Xcode projects, etc.
 *   [iNKORE-NET/UI.WPF.Modern](https://github.com/iNKORE-NET/UI.WPF.Modern) - Modern (Fluent 2) styles and controls for your WPF applications
-*   [Exafunction/CodeiumVisualStudio](https://github.com/Exafunction/CodeiumVisualStudio) - Visual Studio extension for Codeium
+*   [Exafunction/WindsurfVisualStudio](https://github.com/Exafunction/WindsurfVisualStudio) - Visual Studio extension for Codeium
 *   [akon47/ScreenRecorder](https://github.com/akon47/ScreenRecorder) - ⏺️ A simple recording program with the ability to record screens and audio on your computer.
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 *   [davidfowl/TodoApp](https://github.com/davidfowl/TodoApp) - Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication
