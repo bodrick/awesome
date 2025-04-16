@@ -3796,6 +3796,7 @@
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 *   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 *   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 *   [mcreed/zoombot](https://github.com/mcreed/zoombot) - A highly advanced AI to handle Zoom calls
 *   [hyperhype/hyperscript](https://github.com/hyperhype/hyperscript) - Create HyperText with JavaScript.
 *   [cypress-io/cypress-example-kitchensink](https://github.com/cypress-io/cypress-example-kitchensink) - This is an example app used to showcase Cypress.io testing.
@@ -4331,7 +4332,6 @@
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Batchfile
 
