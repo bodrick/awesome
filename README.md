@@ -710,7 +710,7 @@
 *   [rsdn/CodeJam](https://github.com/rsdn/CodeJam) - Set of handy reusable .NET components that can simplify your daily work and save your time when you copy and paste your favorite helper methods and classes from one project to another
 *   [bamotav/Hangfire.RecurringJobAdmin](https://github.com/bamotav/Hangfire.RecurringJobAdmin) - A dashboard to manage Hangfire's recurring jobs.
 *   [roslynpad/roslynpad](https://github.com/roslynpad/roslynpad) - A cross-platform C# editor based on Roslyn and AvalonEdit
-*   [KirillOsenkov/SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers http://referencesource.microsoft.com and http://sourceroslyn.io
+*   [KirillOsenkov/SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser) - Source browser website generator that powers https://source.dot.net, https://referencesource.microsoft.com and https://sourceroslyn.io
 *   [pardeike/Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 *   [LogExperts/LogExpert](https://github.com/LogExperts/LogExpert) - Windows tail program and log file analyzer.
 *   [theraot/Theraot](https://github.com/theraot/Theraot) - Backporting .NET and more: LINQ expressions in .net 2.0 - nuget Theraot.Core available.
@@ -1378,7 +1378,6 @@
 *   [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 *   [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 *   [NiGhTTraX/ts-monorepo](https://github.com/NiGhTTraX/ts-monorepo) - Template for setting up a TypeScript monorepo
-*   [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 *   [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 *   [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
 *   [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
@@ -3353,6 +3352,7 @@
 *   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 *   [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
 *   [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
+*   [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 *   [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 *   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 *   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
