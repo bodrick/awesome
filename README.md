@@ -3735,6 +3735,7 @@
 *   [PowerShell/DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
 *   [sachin1092/awesome-material](https://github.com/sachin1092/awesome-material) - A curated list of Google's material design libraries for different frameworks.
 *   [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
+*   [paperwork/paperwork](https://github.com/paperwork/paperwork) -
 *   [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection of free Bootstrap 5 templates.
 *   [aspnet/aspnet-docker](https://github.com/aspnet/aspnet-docker) - \[Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up.
 *   [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff) - 📝 A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript.
@@ -4025,7 +4026,6 @@
 *   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 *   [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 *   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-*   [paperwork/paperwork](https://github.com/paperwork/paperwork) - Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 *   [BlameTheNetwork/NetPi](https://github.com/BlameTheNetwork/NetPi) - NetPi Network Analyzer based on Raspberry Pi b+/2 hardware
 *   [shmick/TV\_Stuff](https://github.com/shmick/TV_Stuff) - Scripts and documentation for my TV Setup
 *   [mr-canoehead/vpn\_client\_gateway](https://github.com/mr-canoehead/vpn_client_gateway) - Pi-Powered VPN Client Gateway: installation documentation and related files.
