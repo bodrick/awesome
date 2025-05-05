@@ -438,7 +438,7 @@
 *   [greenshot/greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 *   [mfakane/rawinput-sharp](https://github.com/mfakane/rawinput-sharp) - C# wrapper library for Raw Input
 *   [StephenCleary/Disposables](https://github.com/StephenCleary/Disposables) - IDisposable helper types.
-*   [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer .net and C# features to older runtimes.
+*   [SimonCropp/Polyfill](https://github.com/SimonCropp/Polyfill) - Source only package that exposes newer APIs, .net features, and C# features to older runtimes.
 *   [techgems/Vite.NET](https://github.com/techgems/Vite.NET) - A sample of how to integrate Vite, HMR and Razor Pages for a more integrated experience.
 *   [justcoding121/titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy) - A cross-platform asynchronous HTTP(S) proxy server in C#.
 *   [alirizaadiyahsi/Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
