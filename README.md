@@ -3794,7 +3794,7 @@
 *   [dotnet/upgrade-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond
 *   [compat-table/compat-table](https://github.com/compat-table/compat-table) - ECMAScript compatibility tables
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 *   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 *   [mcreed/zoombot](https://github.com/mcreed/zoombot) - A highly advanced AI to handle Zoom calls
