@@ -1419,7 +1419,6 @@
 *   [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 *   [haacked/aspnet-client-validation](https://github.com/haacked/aspnet-client-validation) - A client validation library for ASP.NET MVC that does not require jQuery
 *   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript
-*   [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 *   [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 *   [microsoft/IIS.WebManager](https://github.com/microsoft/IIS.WebManager) - Web Manager for managing IIS
 *   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
@@ -3411,6 +3410,7 @@
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 *   [Flowko/website-shot](https://github.com/Flowko/website-shot) - 📸 Generate a full web-page screenshot, Website-shot provides rich interface to make any kind of web screenshots online for free with no limits.
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
+*   [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 *   [robconery/Vue.Starter](https://github.com/robconery/Vue.Starter) - The ASP.NET Vue Starter Template
 *   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
