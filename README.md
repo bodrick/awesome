@@ -68,13 +68,13 @@
 *   [Visual Basic](#visual-basic)
 *   [BrighterScript](#brighterscript)
 *   [OCaml](#ocaml)
-*   [Astro](#astro)
 *   [Vala](#vala)
 *   [Fluent](#fluent)
 *   [Haml](#haml)
 *   [PLpgSQL](#plpgsql)
 *   [Less](#less)
 *   [OpenSCAD](#openscad)
+*   [Astro](#astro)
 *   [SWIG](#swig)
 *   [Processing](#processing)
 *   [R](#r)
@@ -3474,6 +3474,7 @@
 *   [cristianmiranda/mediabox](https://github.com/cristianmiranda/mediabox) - 🐳 Docker based MEDIABOX 📺
 *   [shawnwildermuth/WilderBlog](https://github.com/shawnwildermuth/WilderBlog) - My Blog as an ASP.NET Core 5 Project
 *   [microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders) -
+*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 *   [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 *   [psu-libraries/psul-wc](https://github.com/psu-libraries/psul-wc) - A mono-repo for storage of web components with development led by the Pennsylvania State University Libraries
 *   [csstools/postcss-normalize](https://github.com/csstools/postcss-normalize) - Use the parts of normalize.css (or sanitize.css) you need from your browserslist
@@ -4560,11 +4561,6 @@
 
 *   [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
-## Astro
-
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
-*   [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
-
 ## Vala
 
 *   [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
@@ -4588,6 +4584,10 @@
 ## OpenSCAD
 
 *   [dmopalmer/PiPiece](https://github.com/dmopalmer/PiPiece) - Electronic eyepiece for telescopes etc. using the Raspberry Pi camera module
+
+## Astro
+
+*   [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
 
 ## SWIG
 
