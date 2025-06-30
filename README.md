@@ -1103,6 +1103,7 @@
 *   [JaCraig/Craig-s-Utility-Library](https://github.com/JaCraig/Craig-s-Utility-Library) - A giant set of utility classes originally start back in the .Net 2.0 days and updated until .Net Core and .Net Standard became a thing. At which point I took the library and broke it up into a ton of smaller libraries. View my profile for more up to date versions of everything.
 *   [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 *   [xamarin/PortableRazor](https://github.com/xamarin/PortableRazor) - A lightweight implementation of ASP.NET MVC APIs for mobile devices.
+*   [ALMMa/datatables.aspnet](https://github.com/ALMMa/datatables.aspnet) - Microsoft AspNet bindings and automatic parsing for jQuery DataTables along with extension methods to help on data queries.
 
 ## TypeScript
 
@@ -3980,7 +3981,6 @@
 *   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 *   [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker.
 *   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-*   [guillaumedsde/alpine-qbittorrent-openvpn](https://github.com/guillaumedsde/alpine-qbittorrent-openvpn) - qBittorrent docker container with OpenVPN client running as unprivileged user on alpine linux
 *   [TRaSH-Guides/Synology-Templates](https://github.com/TRaSH-Guides/Synology-Templates) - Here you will find a collection of docker-compose's for Synology related to TRaSH Guides
 *   [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
 *   [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
