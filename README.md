@@ -110,7 +110,7 @@
 *   [Crypto137/Bifrost](https://github.com/Crypto137/Bifrost) - A custom launcher for Marvel Heroes
 *   [matracey/XInputBatteryMeter](https://github.com/matracey/XInputBatteryMeter) - Displays a battery meter for connected XInput controller devices in the Windows taskbar.
 *   [Keboo/DotnetTemplates](https://github.com/Keboo/DotnetTemplates) - A repository for my dotnet templates
-*   [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - The easiest way to use the Ollama API in .NET
+*   [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - The easiest way to use Ollama in .NET
 *   [ButchersBoy/Dragablz](https://github.com/ButchersBoy/Dragablz) - Dragable and tearable tab control for WPF
 *   [microsoft/azure-openai-service-proxy](https://github.com/microsoft/azure-openai-service-proxy) - The Azure AI proxy service facilitates easy access to Azure AI resources for workshops and hackathons. It offers a Playground-like interface and supports Azure AI SDKs. Access is granted through a time-limited API key and endpoint.
 *   [RageAgainstThePixel/ElevenLabs-DotNet](https://github.com/RageAgainstThePixel/ElevenLabs-DotNet) - A Non-Official ElevenLabs RESTful API Client for dotnet
