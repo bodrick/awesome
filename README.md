@@ -98,7 +98,7 @@
 *   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 *   [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support
 *   [kevingosse/ClipPing](https://github.com/kevingosse/ClipPing) - Displays a visual notification in the active window when the clipboard is updated.
-*   [marticliment/GSudo-for-UniGetUI](https://github.com/marticliment/GSudo-for-UniGetUI) - UniGetUI Elevator - A stripped-down verrsion of GSudo for UniGetUI
+*   [marticliment/GSudo-for-UniGetUI](https://github.com/marticliment/GSudo-for-UniGetUI) - UniGetUI Elevator - A stripped-down version of GSudo for UniGetUI
 *   [hfiref0x/WinDepends](https://github.com/hfiref0x/WinDepends) - Windows Dependencies
 *   [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 *   [microsoft/ai-powered-notes-winui3-sample](https://github.com/microsoft/ai-powered-notes-winui3-sample) -
