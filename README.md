@@ -2795,6 +2795,7 @@
 *   [Modernizr/Modernizr](https://github.com/Modernizr/Modernizr) - Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 *   [requirejs/requirejs](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript
 *   [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
+*   [weareoutman/clockpicker](https://github.com/weareoutman/clockpicker) - A clock-style timepicker for Bootstrap (or jQuery). Sorry but no longer maintained.
 
 ## Go
 
@@ -3909,7 +3910,6 @@
 ## Shell
 
 *   [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) -
-*   [fileflows/FileFlows](https://github.com/fileflows/FileFlows) - Repository for Scripts and Templates for FileFlows
 *   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 *   [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
