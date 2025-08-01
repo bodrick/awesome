@@ -23,6 +23,7 @@
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [C](#c-2)
+*   [SCSS](#scss)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Ruby](#ruby)
 *   [Java](#java)
@@ -37,7 +38,6 @@
 *   [Swift](#swift)
 *   [Visual Basic .NET](#visual-basic-net)
 *   [Jinja](#jinja)
-*   [SCSS](#scss)
 *   [Markdown](#markdown)
 *   [TSQL](#tsql)
 *   [Handlebars](#handlebars)
@@ -3207,7 +3207,7 @@
 *   [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 *   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 *   [apprenticeharper/DeDRM\_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
-*   [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+*   [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 *   [samloader/samloader](https://github.com/samloader/samloader) - Download Samsung firmware from official servers
 *   [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 *   [beville/flux\_led](https://github.com/beville/flux_led) - A utility for controlling Flux WiFi Smart LED Light Bulbs
@@ -3768,7 +3768,6 @@
 *   [Ylianst/MeshCommander](https://github.com/Ylianst/MeshCommander) - MeshCommander is a Intel(R) Active Management Technology (Intel(R) AMT) remote management tool. It's feature rich and includes a built-in remote desktop viewer for Hardware-KVM, a Serial-over-LAN terminal, IDER-Redirection support and much more. MeshCommander is built on web technologies and runs on many plaforms. In addition to being available as a stand-alone tool, MeshCommander was built to be very space efficient to that it can be uploaded into Intel AMT flash space to have it served diretly from the Intel AMT web serve.
 *   [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 *   [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
-*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 *   [mrmierzejewski/hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console) - Minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
 *   [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 *   [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -4177,6 +4176,20 @@
 *   [MalcolmRobb/dump1090](https://github.com/MalcolmRobb/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 *   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 
+## SCSS
+
+*   [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
+*   [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
+*   [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
+*   [Moonlight-Panel/Moonlight](https://github.com/Moonlight-Panel/Moonlight) - The next generation hosting panel
+*   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+*   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
+*   [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
+*   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
+*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
+*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
+
 ## Jupyter Notebook
 
 *   [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
@@ -4372,19 +4385,6 @@
 ## Jinja
 
 *   [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-
-## SCSS
-
-*   [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-*   [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
-*   [Moonlight-Panel/Moonlight](https://github.com/Moonlight-Panel/Moonlight) - The next generation hosting panel
-*   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-*   [microsoft/TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together.
-*   [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
-*   [bencodezen/vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.
-*   [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
-*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-*   [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 
 ## Markdown
 
