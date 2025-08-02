@@ -1208,7 +1208,7 @@
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Vitest and type definitions included.
 *   [kriasoft/graphql-starter-kit](https://github.com/kriasoft/graphql-starter-kit) - 💥  Monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, React, and Joy UI.
 *   [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-*   [sourcegraph/cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
+*   [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 *   [shd101wyy/crossnote](https://github.com/shd101wyy/crossnote) - Powerful markdown tool
 *   [ota-meshi/eslint-online-playground](https://github.com/ota-meshi/eslint-online-playground) - ESLint Online Playground
 *   [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors
@@ -1911,7 +1911,7 @@
 *   [mamedev/mame](https://github.com/mamedev/mame) - MAME
 *   [RudjiGames/MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 3/4/5, Nintendo Switch, Android and other platforms
 *   [KindDragon/vld](https://github.com/KindDragon/vld) - Visual Leak Detector for Visual C++ 2008-2015
-*   [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
+*   [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform camera suite.
 *   [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 *   [zrythm/zrythm](https://github.com/zrythm/zrythm) - a highly automated and intuitive digital audio workstation - official mirror
 *   [orouits/qjackrcd](https://github.com/orouits/qjackrcd) - Simple stereo jack recorder with silence processing
@@ -4044,6 +4044,7 @@
 *   [ohmae/orientation-faker](https://github.com/ohmae/orientation-faker) - Android app to control screen orientation
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 *   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
+*   [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
 
 ## C
 
@@ -4303,7 +4304,6 @@
 *   [Sammy1Am/MoppyClassic](https://github.com/Sammy1Am/MoppyClassic) - Moppy has been replaced with Moppy 2.0!
 *   [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 *   [validator/validator](https://github.com/validator/validator) - Nu Html Checker – Helps you catch problems in your HTML/CSS/SVG
-*   [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
 *   [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 *   [M66B/XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager
 
