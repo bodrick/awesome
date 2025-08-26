@@ -1717,7 +1717,7 @@
 *   [pspete/CredentialRetriever](https://github.com/pspete/CredentialRetriever) - Retrieve Credentials from CyberArk Central Credential Provider Web Service, or Local Credential Provider using CLIPasswordSDK
 *   [pspete/psPAS](https://github.com/pspete/psPAS) - PowerShell module for CyberArk Privileged Access Security REST API
 *   [Windos/BurntToast](https://github.com/Windos/BurntToast) - Module for creating and displaying Toast Notifications on Microsoft Windows 10.
-*   [aaronparker/evergreen](https://github.com/aaronparker/evergreen) - Create evergreen Windows image build pipelines with the latest version numbers and download URLs for common applications
+*   [EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module) - Create evergreen Windows image build pipelines with the latest version numbers and download URLs for common applications
 *   [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 *   [dfinke/PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more. On the gallery
 *   [RamblingCookieMonster/BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
