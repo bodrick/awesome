@@ -3152,7 +3152,7 @@
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 *   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
-*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, personalized and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6
+*   [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6
 *   [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 *   [pieeg-club/EEGwithRaspberryPI](https://github.com/pieeg-club/EEGwithRaspberryPI) - Not supported. Measure 8 EEG channels with Shield PiEEG and RaspberryPi in C library
 *   [funkyfuture/deck-chores](https://github.com/funkyfuture/deck-chores) - A job scheduler for Docker containers, configured via labels.
@@ -3181,7 +3181,6 @@
 *   [networkupstools/TLS-UPSmon](https://github.com/networkupstools/TLS-UPSmon) - Replacement for NUT upsmon/upssched/upssched-cmd supports TLS 1.3
 *   [tiredofit/docker-traefik-cloudflare-companion](https://github.com/tiredofit/docker-traefik-cloudflare-companion) - Automatically Create CNAME records for containers served by Traefik
 *   [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
-*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 *   [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 *   [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 *   [tasmota/tasmotizer](https://github.com/tasmota/tasmotizer) - ESP... The time has come to... Tasmotize!
@@ -3982,6 +3981,7 @@
 *   [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 *   [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker.
 *   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+*   [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 *   [TRaSH-Guides/Synology-Templates](https://github.com/TRaSH-Guides/Synology-Templates) - Here you will find a collection of docker-compose's for Synology related to TRaSH Guides
 *   [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 *   [binhex/arch-qbittorrentvpn](https://github.com/binhex/arch-qbittorrentvpn) - Docker build script for Arch Linux base with qBittorrent, Privoxy and OpenVPN
