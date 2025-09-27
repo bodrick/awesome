@@ -2197,7 +2197,7 @@
 *   [AdguardTeam/HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry) - Known hosts blocklists that are made available to the users of AdGuard products
 *   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 *   [CZEMacLeod/WebAPI2-Owin](https://github.com/CZEMacLeod/WebAPI2-Owin) - Example MSBuild.SDK.SystemWeb project for WebAPI2 hosted with Owin.
-*   [raindropio/app](https://github.com/raindropio/app) -
+*   [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 *   [antonycourtney/tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome
 *   [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
 *   [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
