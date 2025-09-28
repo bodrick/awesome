@@ -3416,7 +3416,7 @@
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 *   [robconery/Vue.Starter](https://github.com/robconery/Vue.Starter) - The ASP.NET Vue Starter Template
-*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
+*   [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 *   [tmoreno/open-log-viewer](https://github.com/tmoreno/open-log-viewer) - A multi-platform log viewer built with Electron and styled with Material Design
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 *   [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
