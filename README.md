@@ -89,7 +89,7 @@
 *   [versionize/versionize](https://github.com/versionize/versionize) - Automatic versioning and CHANGELOG generation, with semver and conventional commits for dotnet
 *   [dotnet/extensions](https://github.com/dotnet/extensions) - This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.
 *   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
-*   [djonasdev/NLogViewer](https://github.com/djonasdev/NLogViewer) - NlogViewer is a ui control library to visualize NLog logs
+*   [boexler/NLogViewer](https://github.com/boexler/NLogViewer) - NlogViewer is a ui control library to visualize NLog logs
 *   [dotnet/infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
 *   [shouldly/shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
 *   [citronneur/detours.net](https://github.com/citronneur/detours.net) - Hook native API with C#
@@ -1279,7 +1279,7 @@
 *   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 *   [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 *   [microsoft/azurechat](https://github.com/microsoft/azurechat) - 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
-*   [Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) - Explore a curated selection of AI tools and resources
+*   [Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) - AI tools platform with 800+ curated tools, built-in workspace tools, and job board for developers and researchers.
 *   [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) -
 *   [altair-graphql/altair](https://github.com/altair-graphql/altair) - ✨⚡️ A feature-rich GraphQL Client for all platforms.
 *   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
