@@ -2088,7 +2088,7 @@
 *   [CZEMacLeod/SystemWeb-SDK-with-TypeScript](https://github.com/CZEMacLeod/SystemWeb-SDK-with-TypeScript) - Example SystemWeb SDK project with TypeScript
 *   [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 *   [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine.
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 *   [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle) - Best Cron Docker Self-Hosted, Simple, lightweight, beautiful webui Cronjob / Scheduled task docker solution.
 *   [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
