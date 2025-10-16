@@ -215,7 +215,7 @@
 *   [ap0405140/MSSQLLogAnalyzer](https://github.com/ap0405140/MSSQLLogAnalyzer) - Microsoft SQL Server Log Analyzer. DBLOG.DatabaseLogAnalyzer can read the SQL Server transaction logs online, and return RedoSQL and UndoSQL for every transaction. It base on SQL Server fn\_dblog() function and develop some extension.
 *   [mganss/SyncChanges](https://github.com/mganss/SyncChanges) - Synchronize/Replicate database changes using SQL Server Change Tracking
 *   [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
-*   [credfeto/nuget-multi-push](https://github.com/credfeto/nuget-multi-push) - dotnet core tool to push multiple packages to nuget in one go
+*   [credfeto/credfeto-nuget-multi-push](https://github.com/credfeto/credfeto-nuget-multi-push) - dotnet core tool to push multiple packages to nuget in one go
 *   [ubisoft/Sharpmake](https://github.com/ubisoft/Sharpmake) - Sharpmake is an open-source C#-based solution for generating project definition files, such as Visual Studio projects and solutions, GNU makefiles, Xcode projects, etc.
 *   [iNKORE-NET/UI.WPF.Modern](https://github.com/iNKORE-NET/UI.WPF.Modern) - Modern (Fluent 2) styles and controls for your WPF applications
 *   [Exafunction/WindsurfVisualStudio](https://github.com/Exafunction/WindsurfVisualStudio) - Visual Studio extension for Codeium
@@ -387,7 +387,7 @@
 *   [microsoft/VSConfigFinder](https://github.com/microsoft/VSConfigFinder) - Locate Visual Studio installation configuration files (.vsconfigs) downstream recursively and merge them all together
 *   [devlooped/nugetizer](https://github.com/devlooped/nugetizer) - A simple to understand packing model for authoring NuGet packages
 *   [emgarten/Sleet](https://github.com/emgarten/Sleet) - A static nuget feed generator for Azure Storage, AWS S3, and more.
-*   [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Exposes project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
+*   [devlooped/ThisAssembly](https://github.com/devlooped/ThisAssembly) - Expose project and assembly level information as constants in the ThisAssembly class using source generators powered by Roslyn.
 *   [Turnerj/NetworkedVegas2](https://github.com/Turnerj/NetworkedVegas2) - Helps connect Rainbow Six Vegas 2 across the internet
 *   [ArsenalRecon/Arsenal-Image-Mounter](https://github.com/ArsenalRecon/Arsenal-Image-Mounter) - Arsenal Image Mounter mounts the contents of disk images as complete disks in Microsoft Windows.
 *   [octokit/octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
@@ -1574,6 +1574,7 @@
 *   [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 *   [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 *   [zbecknell/t4-support](https://github.com/zbecknell/t4-support) - Provides syntax highlighting for T4 Text Templates in Visual Studio Code.
+*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 *   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 *   [egoist/bili](https://github.com/egoist/bili) - Bili makes it easier to bundle JavaScript libraries.
@@ -2353,7 +2354,6 @@
 *   [5to6/5to6-codemod](https://github.com/5to6/5to6-codemod) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 *   [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 *   [webpack-contrib/eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin) - A ESLint plugin for webpack
-*   [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 *   [jouni-kantola/templated-assets-webpack-plugin](https://github.com/jouni-kantola/templated-assets-webpack-plugin) - webpack plugin for creating assets to be used with server rendered web frameworks.
 *   [openedx/paragon](https://github.com/openedx/paragon) - 💎 An accessible, theme-ready design system built for learning applications and Open edX.
 *   [jouni-kantola/razor-partial-views-webpack-plugin](https://github.com/jouni-kantola/razor-partial-views-webpack-plugin) - Plugin for generating ASP.NET Razor partial views for assets built with webpack.
@@ -4041,7 +4041,7 @@
 ## Shell
 
 *   [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) -
-*   [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+*   [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 *   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 *   [prodrigestivill/docker-postgres-backup-local](https://github.com/prodrigestivill/docker-postgres-backup-local) - Backup PostgresSQL to local filesystem with periodic backups and rotate backups.
 *   [markdumay/synology-pihole](https://github.com/markdumay/synology-pihole) - Install or Update Pi-Hole as Docker Container on a Synology NAS with a Static IP Address
