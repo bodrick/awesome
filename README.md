@@ -106,8 +106,8 @@
 *   [Cysharp/ObservableCollections](https://github.com/Cysharp/ObservableCollections) - High performance observable collections and synchronized views, for WPF, Blazor, Unity.
 *   [PikeNote/taskbar-groups-pike-beta](https://github.com/PikeNote/taskbar-groups-pike-beta) - Lightweight application that lets users create and pin groups to the Windows taskbar och desktop
 *   [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-*   [Crypto137/MHServerEmu](https://github.com/Crypto137/MHServerEmu) - A server emulator for Marvel Heroes
-*   [Crypto137/Bifrost](https://github.com/Crypto137/Bifrost) - A custom launcher for Marvel Heroes
+*   [Crypto137/MHServerEmu](https://github.com/Crypto137/MHServerEmu) - Server emulator for Marvel Heroes
+*   [Crypto137/Bifrost](https://github.com/Crypto137/Bifrost) - Custom launcher for Marvel Heroes
 *   [matracey/XInputBatteryMeter](https://github.com/matracey/XInputBatteryMeter) - Displays a battery meter for connected XInput controller devices in the Windows taskbar.
 *   [Keboo/DotnetTemplates](https://github.com/Keboo/DotnetTemplates) - A repository for my dotnet templates
 *   [awaescher/OllamaSharp](https://github.com/awaescher/OllamaSharp) - The easiest way to use Ollama in .NET
