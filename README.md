@@ -1758,7 +1758,6 @@
 *   [0x6d69636b/windows\_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 *   [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
 *   [HarmVeenstra/Powershellisfun](https://github.com/HarmVeenstra/Powershellisfun) - Repository with the scripts that I have used in my blogs on https://powershellisfun.com. If you like these, please sponsor this project using the Sponsor button below or buy me a coffee :)  https://www.buymeacoffee.com/powershellisfun
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 *   [meetrevision/playbook](https://github.com/meetrevision/playbook) - A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility
 *   [CZEMacLeod/WindowsServerCore\_container\_with\_fonts](https://github.com/CZEMacLeod/WindowsServerCore_container_with_fonts) - This repo contains build scripts to create a docker image from an existing Windows Server Core docker image that adds the fonts features that are normally missing.
 *   [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
@@ -4336,6 +4335,7 @@
 
 *   [wureset-tools/script-wureset](https://github.com/wureset-tools/script-wureset) - This script reset the Windows Update Components.
 *   [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 *   [AveYo/fox](https://github.com/AveYo/fox) - Firefox stuff
 *   [AveYo/LeanAndMean](https://github.com/AveYo/LeanAndMean) - snippets for power users
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
