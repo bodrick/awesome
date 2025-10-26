@@ -416,9 +416,9 @@
 *   [LiamMorrow/DateTime.Now-Banisher](https://github.com/LiamMorrow/DateTime.Now-Banisher) - Disables the use of DateTime.Now, in favour of DateTime.UtcNow in C# projects
 *   [cezarypiatek/CSharpExtensions](https://github.com/cezarypiatek/CSharpExtensions) - A set of annotations and analyzers that add additional constraints to your codebase
 *   [credfeto/credfeto-enum-source-generation](https://github.com/credfeto/credfeto-enum-source-generation) - C# source generator for producing faster enum lookups
-*   [Tyrrrz/PolyShim](https://github.com/Tyrrrz/PolyShim) - Polyfills for projects targeting older versions of .NET
+*   [Tyrrrz/PolyShim](https://github.com/Tyrrrz/PolyShim) - Collection of polyfills for projects targeting older versions of .NET
 *   [waf/CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
-*   [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
+*   [Tyrrrz/CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for interacting with command-line interfaces
 *   [olsh/resharper-structured-logging](https://github.com/olsh/resharper-structured-logging) - An extension for ReSharper and Rider that highlights structured logging templates and contains some useful analyzers
 *   [damienbod/AspNetCoreCertificates](https://github.com/damienbod/AspNetCoreCertificates) - Certificate Manager in .NET Core for creating and using X509 certificates
 *   [mysticmind/reversemarkdown-net](https://github.com/mysticmind/reversemarkdown-net) - ReverseMarkdown.Net is a Html to Markdown converter library in C#. Conversion is very reliable since HtmlAgilityPack (HAP) library is used for traversing the Html DOM
