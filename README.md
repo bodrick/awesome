@@ -1192,7 +1192,7 @@
 *   [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 *   [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell) - Provides PowerShell language and debugging support for Visual Studio Code
 *   [lobehub/lobe-tts](https://github.com/lobehub/lobe-tts) - 🎤 Lobe TTS - A high-quality & reliable TTS/STT library for Server and Browser
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 *   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 *   [Writesonic/GPTRouter](https://github.com/Writesonic/GPTRouter) - Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.
 *   [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
@@ -3015,7 +3015,7 @@
 *   [clearml/clearml](https://github.com/clearml/clearml) - ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution
 *   [platomav/MCExtractor](https://github.com/platomav/MCExtractor) - Intel, AMD, VIA & Freescale Microcode Extraction Tool
 *   [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-*   [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+*   [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
 *   [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 *   [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 *   [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
@@ -3076,7 +3076,7 @@
 *   [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 *   [Quansight/ragna](https://github.com/Quansight/ragna) - RAG orchestration framework ⛵️
 *   [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
 *   [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 *   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
