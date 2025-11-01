@@ -2353,7 +2353,7 @@
 *   [cpojer/js-codemod](https://github.com/cpojer/js-codemod) - Codemod scripts to transform code to next generation JS
 *   [5to6/5to6-codemod](https://github.com/5to6/5to6-codemod) - A collection of codemods that allow you to transform your js code from ES5 to ES6.
 *   [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
-*   [webpack-contrib/eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin) - A ESLint plugin for webpack
+*   [webpack/eslint-webpack-plugin](https://github.com/webpack/eslint-webpack-plugin) - A ESLint plugin for webpack
 *   [jouni-kantola/templated-assets-webpack-plugin](https://github.com/jouni-kantola/templated-assets-webpack-plugin) - webpack plugin for creating assets to be used with server rendered web frameworks.
 *   [openedx/paragon](https://github.com/openedx/paragon) - 💎 An accessible, theme-ready design system built for learning applications and Open edX.
 *   [jouni-kantola/razor-partial-views-webpack-plugin](https://github.com/jouni-kantola/razor-partial-views-webpack-plugin) - Plugin for generating ASP.NET Razor partial views for assets built with webpack.
