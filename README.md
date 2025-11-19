@@ -2043,7 +2043,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.64395, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.5.64484, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -2816,7 +2816,7 @@
 *   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 *   [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
 *   [thedevsaddam/docgen](https://github.com/thedevsaddam/docgen) - Transform your postman collection to HTML/Markdown documentation
-*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser, on your desktop or in your cluster.
+*   [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View your logs in a terminal or a browser, run on your desktop or in your cluster.
 *   [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 *   [yangwenmai/github-trending-backup](https://github.com/yangwenmai/github-trending-backup) - Github trending backup by everyday.
 *   [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -3815,7 +3815,6 @@
 *   [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 *   [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 *   [jim3ma/synology-igc](https://github.com/jim3ma/synology-igc) - Intel I225/I226 igc driver for Synology Kernel 4.4.180
-*   [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
 *   [syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng) - syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.
 *   [pauldotknopf/WPFKeyboard](https://github.com/pauldotknopf/WPFKeyboard) - A virtual keyboard in WPF that uses the built in keyboard layouts of the operating system.
 *   [qmk/qmk\_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
@@ -3921,6 +3920,7 @@
 *   [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 *   [KristofferStrube/EditorConfigWizard](https://github.com/KristofferStrube/EditorConfigWizard) - A Wizard for creating and editing EditorConfig files.
+*   [robertklep/dsm7-usb-serial-drivers](https://github.com/robertklep/dsm7-usb-serial-drivers) - Synology DSM 7 USB serial drivers
 *   [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 *   [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 *   [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
