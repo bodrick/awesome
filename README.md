@@ -2442,7 +2442,7 @@
 *   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 *   [spencermountain/spacetime](https://github.com/spencermountain/spacetime) - A lightweight javascript timezone library
 *   [intoli/remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
-*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+*   [ai/nanoid](https://github.com/ai/nanoid) - A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 *   [GoogleChrome/samples](https://github.com/GoogleChrome/samples) - A repo containing samples tied to new functionality in each release of Google Chrome.
 *   [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 *   [henriqueboaventura/jquery.idle](https://github.com/henriqueboaventura/jquery.idle) - A dead simple jQuery plugin that executes a callback function if the user is idle.
