@@ -3099,7 +3099,6 @@
 *   [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A searchable directory of buckets for the scoop package manager for Windows
 *   [hsand/pia-wg](https://github.com/hsand/pia-wg) - A WireGuard configuration utility for Private Internet Access
 *   [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
-*   [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 *   [turboderp/exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
 *   [AutoGPTQ/AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 *   [aorumbayev/autogpt4all](https://github.com/aorumbayev/autogpt4all) - 🛠️ User-friendly bash script for setting up and configuring your LocalAI server with the GPT4All for free! 💸
@@ -4303,6 +4302,7 @@
 
 *   [jagandeepbrar/lunasea](https://github.com/jagandeepbrar/lunasea) - Self-hosted software controller built using Flutter
 *   [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+*   [nyxiereal/XToolbox](https://github.com/nyxiereal/XToolbox) - XToolBox - A collection of 150+ Windows 10/11 optimization and tweaking apps!
 *   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 *   [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 *   [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
