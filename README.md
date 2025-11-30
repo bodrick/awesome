@@ -1893,7 +1893,7 @@
 *   [opentrack/opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 *   [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 *   [mhogomchungu/sirikali](https://github.com/mhogomchungu/sirikali) - A Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs
-*   [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - maybe a new fcitx.
+*   [fcitx/fcitx5](https://github.com/fcitx/fcitx5) - Next generation of fcitx, cross-platform input method framework.
 *   [microsoft/WindowsAppSDK-Samples](https://github.com/microsoft/WindowsAppSDK-Samples) - Feature samples for the Windows App SDK
 *   [microsoft/FFmpegInterop](https://github.com/microsoft/FFmpegInterop) -  This is a code sample to make it easier to use FFmpeg in Windows applications.
 *   [microsoft/WinDbg-Samples](https://github.com/microsoft/WinDbg-Samples) - Sample extensions, scripts, and API uses for WinDbg.
