@@ -3281,6 +3281,7 @@
 *   [kpreid/shinysdr](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR.
 *   [MilhouseVH/texturecache.py](https://github.com/MilhouseVH/texturecache.py) - Utility script to manage the XBMC texture cache
 *   [SiCKRAGE/SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) - Mirror of OFFICIAL SiCKRAGE
+*   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
 ## Dockerfile
 
@@ -4611,4 +4612,3 @@
 ## Objective-C
 
 *   [GoogleChromeLabs/MiniMobileDeviceLab](https://github.com/GoogleChromeLabs/MiniMobileDeviceLab) - A mini mobile web device lab
-*   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
