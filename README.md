@@ -1556,7 +1556,6 @@
 *   [baptisteArno/tinking](https://github.com/baptisteArno/tinking) - 🧶 Extract data from any website without code, just clicks.
 *   [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 *   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 *   [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 *   [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
@@ -2073,6 +2072,7 @@
 *   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
 *   [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 *   [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+*   [hyperion-project/hyperion](https://github.com/hyperion-project/hyperion) - Hyperion is an open source ambient light software. Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/
 
 ## JavaScript
 
@@ -2333,6 +2333,7 @@
 *   [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 *   [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 *   [ecomfe/echarts-gl](https://github.com/ecomfe/echarts-gl) - Extension pack for Apache ECharts, providing globe visualization and 3D plots.
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 *   [gustavohenke/bselect](https://github.com/gustavohenke/bselect) - DEPRECATED - The select decorator component that was missing for Twitter Bootstrap.
 *   [lafikl/perfBar](https://github.com/lafikl/perfBar) -
 *   [codetheweb/tuyapi](https://github.com/codetheweb/tuyapi) - 🌧 An easy-to-use API for devices that use Tuya's cloud services. Documentation: https://codetheweb.github.io/tuyapi.
@@ -3064,7 +3065,6 @@
 *   [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
 *   [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
 *   [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
-*   [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 *   [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 *   [Feramance/qBitrr](https://github.com/Feramance/qBitrr) - qBitrr keeps qBittorrent, Radarr, Sonarr, and your request tools chatting happily so downloads finish, import, and clean up without babysitting.
 *   [StuffAnThings/qbit\_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
