@@ -979,7 +979,7 @@
 *   [scientistproject/Scientist.net](https://github.com/scientistproject/Scientist.net) - A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library
 *   [ErikEJ/SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress) - SQL query stress simulator created by Adam Machanic http://dataeducation.com/sqlquerystress-the-source-code/
 *   [cDima/Aerial](https://github.com/cDima/Aerial) - Aerial Apple TV screen saver for Windows
-*   [statiqdev/Statiq.Web](https://github.com/statiqdev/Statiq.Web) - Statiq Web is a flexible static site generator written in .NET.
+*   [statiqdev/Statiq](https://github.com/statiqdev/Statiq) - Statiq is a flexible static site generator written in .NET.
 *   [openhardwaremonitor/openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor
 *   [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 *   [hallatore/Netling](https://github.com/hallatore/Netling) - Netling is a load tester client for easy web testing.
