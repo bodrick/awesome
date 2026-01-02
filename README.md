@@ -1107,7 +1107,7 @@
 
 ## TypeScript
 
-*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+*   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 *   [antfu/starter-monorepo](https://github.com/antfu/starter-monorepo) -
 *   [ambar/vscode-bundle-size](https://github.com/ambar/vscode-bundle-size) - Display the bundle size of npm packages: https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size
 *   [codemod-js/codemod](https://github.com/codemod-js/codemod) - codemod rewrites JavaScript and TypeScript using babel plugins.
