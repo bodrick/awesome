@@ -1824,7 +1824,7 @@
 *   [promptussoftware/bigfix-powershell](https://github.com/promptussoftware/bigfix-powershell) - Integration module offering a consistent, simple, and streamlined approach to interacting with the BigFix suite of products and APIs directly from within PowerShell.
 *   [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 *   [Devolutions/DevoSamples-ps](https://github.com/Devolutions/DevoSamples-ps) - Samples of Devolutions PowerShell code
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11
 *   [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
 *   [webmd-health-services/Carbon](https://github.com/webmd-health-services/Carbon) -
 *   [AArnott/Library.Template](https://github.com/AArnott/Library.Template) - A template for a NuGet package with tests, static analysis, code style, versioning, Azure Pipelines and GitHub Actions builds ready to go.
@@ -2119,7 +2119,7 @@
 *   [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm, mdx) compliant markdown parser
 *   [unifiedjs/unified](https://github.com/unifiedjs/unified) - Parse, inspect, transform, and serialize content with syntax trees
 *   [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
-*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/wekan only.
+*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New development has moved to Wami https://github.com/wekan/wami . Non-English translations at https://app.transifex.com/wekan/wekan only.
 *   [yyx990803/launch-editor](https://github.com/yyx990803/launch-editor) - Open file in editor from Node.js.
 *   [buxlabs/amd-to-es6](https://github.com/buxlabs/amd-to-es6) - convert amd to es
 *   [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
