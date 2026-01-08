@@ -381,6 +381,7 @@
 *   [nefarius/Nefarius.Drivers.WinUSB](https://github.com/nefarius/Nefarius.Drivers.WinUSB) - WinUSB .NET wrapper library
 *   [Ginger-Automation/Ginger](https://github.com/Ginger-Automation/Ginger) - Ginger Automation IDE
 *   [FlaUI/FlaUI](https://github.com/FlaUI/FlaUI) - UI automation library for .Net
+*   [robiot/AlphaClicker](https://github.com/robiot/AlphaClicker) - 🖱️ Windows Autoclicker with a modern ui
 *   [oriash93/AutoClicker](https://github.com/oriash93/AutoClicker) - AutoClicker is a useful simple tool for automating mouse clicks.
 *   [qgindi/LibreAutomate](https://github.com/qgindi/LibreAutomate) - C# script editor and automation library for Windows
 *   [riok/mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection.
@@ -1617,7 +1618,7 @@
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 *   [relative-ci/bundle-stats](https://github.com/relative-ci/bundle-stats) - Analyze bundle stats(bundle size, assets, modules, packages) and compare the results between different builds. Support for webpack, rspack, vite, rolldown and rollup.
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 *   [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 *   [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
@@ -2072,7 +2073,6 @@
 *   [szechyjs/dsd](https://github.com/szechyjs/dsd) - Digital Speech Decoder
 *   [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 *   [tjanczuk/edge](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
-*   [hyperion-project/hyperion](https://github.com/hyperion-project/hyperion) - Hyperion is an open source ambient light software. Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/
 
 ## JavaScript
 
