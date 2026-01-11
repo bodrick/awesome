@@ -64,7 +64,6 @@
 *   [Zig](#zig)
 *   [Perl](#perl)
 *   [Nu](#nu)
-*   [YARA](#yara)
 *   [Mustache](#mustache)
 *   [HCL](#hcl)
 *   [Visual Basic](#visual-basic)
@@ -97,7 +96,6 @@
 *   [citronneur/detours.net](https://github.com/citronneur/detours.net) - Hook native API with C#
 *   [OneIdentity/IdentityManager.LogInsights](https://github.com/OneIdentity/IdentityManager.LogInsights) - Log viewer and analyzer for Identity Manager logs
 *   [microsoft/BITS-Manager](https://github.com/microsoft/BITS-Manager) - The BITS Manager is a sample WPF C#/.NET utility to examine and control your BITS uploads and downloads
-*   [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 *   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 *   [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support
 *   [kevingosse/ClipPing](https://github.com/kevingosse/ClipPing) - Displays a visual notification in the active window when the clipboard is updated.
@@ -2287,6 +2285,7 @@
 *   [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 *   [keithamus/eslint-plugin-escompat](https://github.com/keithamus/eslint-plugin-escompat) - Report errors for code which wont work in browsers without transpiling
 *   [github/browser-support](https://github.com/github/browser-support) - Polyfills & Capable Browser detection
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 *   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 *   [chrome-enhanced-history/enhanced-history](https://github.com/chrome-enhanced-history/enhanced-history) - Non-hijacked fork of Better History for Chrome
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -3401,6 +3400,7 @@
 ## Vue
 
 *   [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
+*   [kimmknight/raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 *   [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
 *   [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests) - Showcase your Open Source Contributions (pull requests).
 *   [antfu/releases.antfu.me](https://github.com/antfu/releases.antfu.me) - Page for Anthony's Recent Releases
@@ -4544,10 +4544,6 @@
 ## Nu
 
 *   [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
-
-## YARA
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## Mustache
 
