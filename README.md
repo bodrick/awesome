@@ -1228,7 +1228,7 @@
 *   [privatenumber/lintroll](https://github.com/privatenumber/lintroll) - 🤖 privatenumber's code linter
 *   [desktop/dugite](https://github.com/desktop/dugite) - Elegant bindings for working with Git in your Node applications
 *   [shd101wyy/vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
-*   [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - Distraction-free notes, made to last
+*   [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A free, open-source note-taking app that syncs with markdown files in your GitHub repository
 *   [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 *   [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 *   [antfu/vscode-browse-lite](https://github.com/antfu/vscode-browse-lite) - 🚀 An embedded browser in VS Code
@@ -4288,7 +4288,7 @@
 *   [MrCrayfish/MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) - A Furniture Mod for Minecraft. Download ▶
 *   [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 *   [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
-*   [Sammy1Am/MoppyClassic](https://github.com/Sammy1Am/MoppyClassic) - Moppy has been replaced with Moppy 2.0!
+*   [samphonic/MoppyClassic](https://github.com/samphonic/MoppyClassic) - Moppy has been replaced with Moppy 2.0!
 *   [HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) - A High Dynamic Range (HDR) Histogram
 *   [validator/validator](https://github.com/validator/validator) - The Nu Html Checker (vnu)
 *   [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
