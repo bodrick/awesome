@@ -3915,7 +3915,6 @@
 *   [nefarius/docs.nefarius.at](https://github.com/nefarius/docs.nefarius.at) - Sources of Nefarius' Knowledge-Base Website
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 *   [asterics/esp32\_mouse\_keyboard](https://github.com/asterics/esp32_mouse_keyboard) - ESP32 implementation for HID over GATT Keyboard and Mouse (Bluetooth Low Energy). Including serial API for external modules (similar to Adafruit EZKey HID)
-*   [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) -
 *   [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 *   [abacaj/chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 *   [mysticmind/reversemarkdown-net](https://github.com/mysticmind/reversemarkdown-net) - ReverseMarkdown.Net is a Html to Markdown converter library in C#. Conversion is very reliable since HtmlAgilityPack (HAP) library is used for traversing the Html DOM
@@ -4498,6 +4497,7 @@
 ## AutoIt
 
 *   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+*   [rizonesoft/Resolute](https://github.com/rizonesoft/Resolute) -
 *   [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 *   [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 
