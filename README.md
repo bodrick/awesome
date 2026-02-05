@@ -2152,7 +2152,7 @@
 *   [rvagg/bole](https://github.com/rvagg/bole) - A tiny JSON logger
 *   [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
-*   [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
+*   [SplashtopInc/winstall](https://github.com/SplashtopInc/winstall) - A web app for browsing and installing Windows Package Manager apps.
 *   [ruudmens/LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
 *   [TykTechnologies/tyk-gateway-docker](https://github.com/TykTechnologies/tyk-gateway-docker) - Docker compose deployment to run Tyk OSS Gateway
 *   [adobe/jsonschema2md](https://github.com/adobe/jsonschema2md) - Convert Complex JSON Schemas into Markdown Documentation
