@@ -65,7 +65,6 @@
 *   [YAML](#yaml)
 *   [Perl](#perl)
 *   [Nu](#nu)
-*   [YARA](#yara)
 *   [Mustache](#mustache)
 *   [HCL](#hcl)
 *   [Visual Basic](#visual-basic)
@@ -2290,6 +2289,7 @@
 *   [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library.
 *   [keithamus/eslint-plugin-escompat](https://github.com/keithamus/eslint-plugin-escompat) - Report errors for code which wont work in browsers without transpiling
 *   [github/browser-support](https://github.com/github/browser-support) - Polyfills & Capable Browser detection
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 *   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 *   [chrome-enhanced-history/enhanced-history](https://github.com/chrome-enhanced-history/enhanced-history) - Non-hijacked fork of Better History for Chrome
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
@@ -4548,10 +4548,6 @@
 ## Nu
 
 *   [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
-
-## YARA
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## Mustache
 
