@@ -74,7 +74,6 @@
 *   [Fluent](#fluent)
 *   [Haml](#haml)
 *   [PLpgSQL](#plpgsql)
-*   [Less](#less)
 *   [OpenSCAD](#openscad)
 *   [Astro](#astro)
 *   [SWIG](#swig)
@@ -1157,6 +1156,7 @@
 *   [josh-berry/tab-stash](https://github.com/josh-berry/tab-stash) - Firefox extension to save and restore tabs as bookmarks. Clear your tabs, clear your mind.
 *   [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) - `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin.
 *   [Brandawg93/PeaNUT](https://github.com/Brandawg93/PeaNUT) - A tiny dashboard for Network UPS Tools
+*   [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 *   [antfu/vscode-pnpm-catalog-lens](https://github.com/antfu/vscode-pnpm-catalog-lens) - Show versions inline for PNPM/Yarn/Bun catalogfield
 *   [basarat/course-react](https://github.com/basarat/course-react) - Complete Course to get Started with React
 *   [antfu/vscode-array-index-inlay](https://github.com/antfu/vscode-array-index-inlay) - Show array index inlay hints for large arrays for VS Code
@@ -2816,7 +2816,6 @@
 *   [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 *   [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind \*nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 *   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-*   [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 *   [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 *   [aptible/supercronic](https://github.com/aptible/supercronic) - Cron for containers
@@ -3138,7 +3137,7 @@
 *   [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 *   [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+*   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 *   [mi4code/onscreen-hid](https://github.com/mi4code/onscreen-hid) - fully customizable onscreen keyboard and touchpad app written in python and HTML
 *   [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 *   [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
@@ -4322,6 +4321,7 @@
 *   [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code) - 💫 An AI-powered coding assistant, built to try out the ChatGPT API
 *   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 *   [raphtlw/symbit](https://github.com/raphtlw/symbit) - A simple root manager for Android devices without TWRP
+*   [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 
 ## MDX
 
@@ -4584,10 +4584,6 @@
 ## PLpgSQL
 
 *   [MrFoxSQL/SQLServerHelpScripts](https://github.com/MrFoxSQL/SQLServerHelpScripts) - A collection of various adhoc SQL Server scripts which can be used to monitor, administer, copy, tune etc varous SQL Server database, tables, indexes or instances
-
-## Less
-
-*   [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 
 ## OpenSCAD
 
