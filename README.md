@@ -2047,7 +2047,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.0.65727, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65867, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -2838,7 +2838,7 @@
 *   [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
 *   [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 *   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
-*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 *   [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
 *   [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 *   [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
@@ -2958,6 +2958,7 @@
 *   [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 *   [DapperDox/dapperdox](https://github.com/DapperDox/dapperdox) - Beautiful, integrated, OpenAPI documentation.
 *   [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
+*   [mescon/Muximux](https://github.com/mescon/Muximux) - A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 *   [mehrdadrad/mylg](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool
 *   [gonum/plot](https://github.com/gonum/plot) - A repository for plotting and visualizing data
 *   [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -4321,7 +4322,6 @@
 *   [Lissy93/cheat-code](https://github.com/Lissy93/cheat-code) - 💫 An AI-powered coding assistant, built to try out the ChatGPT API
 *   [rogchap/wombat](https://github.com/rogchap/wombat) - Cross platform gRPC client
 *   [raphtlw/symbit](https://github.com/raphtlw/symbit) - A simple root manager for Android devices without TWRP
-*   [mescon/Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC
 
 ## MDX
 
