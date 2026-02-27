@@ -367,6 +367,7 @@
 *   [lucasg/Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 *   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 *   [viciousviper/DokanCloudFS](https://github.com/viciousviper/DokanCloudFS) - A virtual filesystem for various publicly accessible Cloud storage services on the Microsoft Windows platform.
+*   [microsoft/ProjFS-Managed-API](https://github.com/microsoft/ProjFS-Managed-API) - A managed-code API for the Windows Projected File System
 *   [bostrot/PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) - Winget plugin for PowerToys Run
 *   [microsoft/perfview](https://github.com/microsoft/perfview) - PerfView is a CPU and memory performance-analysis tool
 *   [christianhelle/apiclientcodegen](https://github.com/christianhelle/apiclientcodegen) - A collection of Visual Studio code generators for Swagger / OpenAPI specification files
@@ -1949,7 +1950,6 @@
 *   [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 *   [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 *   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-*   [microsoft/ProjFS-Managed-API](https://github.com/microsoft/ProjFS-Managed-API) - A managed-code API for the Windows Projected File System
 *   [daynix/UsbDk](https://github.com/daynix/UsbDk) - Usb Drivers Development Kit for Windows
 *   [stefankueng/sendmessage](https://github.com/stefankueng/sendmessage) - SendMessage is a little tool to send Windows messages to any window.
 *   [prsyahmi/GpuRamDrive](https://github.com/prsyahmi/GpuRamDrive) - RamDrive that is backed by GPU Memory
@@ -3439,7 +3439,7 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 *   [SixBytesUnder/infoboard](https://github.com/SixBytesUnder/infoboard) - Infoboard showing time, weather, calendar events, photos from local folder or online sources as background and Transport for London status updates. Intended for Raspberry Pi, but should work on any machine with NodeJS available.
 *   [lusaxweb/vuesax](https://github.com/lusaxweb/vuesax) - New Framework Components for Vue.js 2
-*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Open source admin template based on Bootstrap 5 and Vue 3
+*   [coreui/coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) - Free Vue Admin & Dashboard Template Built for AI-Assisted Development
 *   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 *   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 *   [airyland/vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
@@ -3943,7 +3943,7 @@
 *   [frontarm/async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) - Cheatsheet for promises and async/await.
 *   [GMG-Special-Projects-Desk/pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) - See the people Facebook thinks you know
 *   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-*   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
+*   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
 *   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
