@@ -98,7 +98,6 @@
 *   [microsoft/BITS-Manager](https://github.com/microsoft/BITS-Manager) - The BITS Manager is a sample WPF C#/.NET utility to examine and control your BITS uploads and downloads
 *   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 *   [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support
-*   [kevingosse/ClipPing](https://github.com/kevingosse/ClipPing) - Displays a visual notification in the active window when the clipboard is updated.
 *   [marticliment/GSudo-for-UniGetUI](https://github.com/marticliment/GSudo-for-UniGetUI) - UniGetUI Elevator - A stripped-down version of GSudo for UniGetUI
 *   [hfiref0x/WinDepends](https://github.com/hfiref0x/WinDepends) - Windows Dependencies
 *   [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
@@ -1893,6 +1892,7 @@
 
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+*   [kevingosse/ClipPing](https://github.com/kevingosse/ClipPing) - Displays a visual notification in the active window when the clipboard is updated.
 *   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 *   [aahmad097/AlternativeShellcodeExec](https://github.com/aahmad097/AlternativeShellcodeExec) - Alternative Shellcode Execution Via Callbacks
 *   [webcamoid/akvirtualcamera](https://github.com/webcamoid/akvirtualcamera) - akvirtualcamera, virtual camera for Mac and Windows
@@ -2113,6 +2113,7 @@
 *   [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
 *   [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman
 *   [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
+*   [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 *   [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 *   [kaelzhang/node-ignore](https://github.com/kaelzhang/node-ignore) - 🔍 node-ignore is the manager and filter for .gitignore rules, the one used by eslint, prettier and many others.
 *   [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel's engineering style guide
@@ -2257,7 +2258,7 @@
 *   [katranci/github-npm-stats](https://github.com/katranci/github-npm-stats) - Chrome extension that displays npm download stats on GitHub
 *   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: File Management Platform / Universal Data Access Layer (without FUSE)
 *   [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-*   [lockys/AwesomeSearch2.0](https://github.com/lockys/AwesomeSearch2.0) - 🔍 Awesome Search 2.0
+*   [lockys/AwesomeSearch2](https://github.com/lockys/AwesomeSearch2) - 🔍 Awesome Search 2.0
 *   [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 *   [ubershmekel/default-scrollbar](https://github.com/ubershmekel/default-scrollbar) - Fix the sites that try to change your scrollbar by deleting the scrollbar CSS rules every few seconds
 *   [tonystark93/crx-download](https://github.com/tonystark93/crx-download) - Download CRX files as zip or directly.
@@ -3002,7 +3003,6 @@
 *   [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 *   [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-*   [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 *   [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 *   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 *   [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate inference and training of 🤗 Transformers, Diffusers, TIMM and Sentence Transformers with easy to use hardware optimization tools
