@@ -907,7 +907,7 @@
 *   [j-east/JevonsCameraViewer](https://github.com/j-east/JevonsCameraViewer) - An app for viewing multiple video streams from USB cameras. Low cost real time eye tracking. You can rotate and mirror the images and also use a variety of filters. Easily take screenshots. Very useful for c270 hacks. Exposure lock and some openCV examples included
 *   [ALM-Rangers/DevOps-VSTS-Bot](https://github.com/ALM-Rangers/DevOps-VSTS-Bot) - Making Visual Studio Team Services (VSTS) part of your daily digital conversations
 *   [jelledruyts/TfsWorkspacesCleaner](https://github.com/jelledruyts/TfsWorkspacesCleaner) - TFS Workspaces Cleaner deletes Team Foundation Server workspaces that have not been accessed in a number of days, along with their files locally on disk.
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
 *   [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 *   [tom-englert/Wax](https://github.com/tom-englert/Wax) - An interactive editor for WiX setup projects.
 *   [coverlet-coverage/coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
