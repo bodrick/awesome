@@ -1768,7 +1768,7 @@
 *   [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 *   [Azure/azure-vm-scripts](https://github.com/Azure/azure-vm-scripts) - Repository of custom scripts for managing Azure virtual machines and related infrastructure.
 *   [bigfix/restapi-examples](https://github.com/bigfix/restapi-examples) - A collection of examples to demonstrate the usage of the HCL BigFix RESTAPI
-*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 *   [MethodsAndPractices/vsteam](https://github.com/MethodsAndPractices/vsteam) - PowerShell module for accessing Azure DevOps Services and Azure DevOps Server (formerly VSTS or TFS)
 *   [gngrninja/PSFolderSize](https://github.com/gngrninja/PSFolderSize) - This module will allow you to get folder sizes and export information easily via PowerShell
 *   [EliteLoser/GetSTFolderSize](https://github.com/EliteLoser/GetSTFolderSize) - Get folder sizes blazingly fast with PowerShell
