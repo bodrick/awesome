@@ -98,7 +98,7 @@
 *   [microsoft/BITS-Manager](https://github.com/microsoft/BITS-Manager) - The BITS Manager is a sample WPF C#/.NET utility to examine and control your BITS uploads and downloads
 *   [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 *   [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support
-*   [marticliment/GSudo-for-UniGetUI](https://github.com/marticliment/GSudo-for-UniGetUI) - UniGetUI Elevator - A stripped-down version of GSudo for UniGetUI
+*   [Devolutions/GSudo-for-UniGetUI](https://github.com/Devolutions/GSudo-for-UniGetUI) - UniGetUI Elevator - A stripped-down version of GSudo for UniGetUI
 *   [hfiref0x/WinDepends](https://github.com/hfiref0x/WinDepends) - Windows Dependencies
 *   [gaseous-project/gaseous-server](https://github.com/gaseous-project/gaseous-server) - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata
 *   [microsoft/ai-powered-notes-winui3-sample](https://github.com/microsoft/ai-powered-notes-winui3-sample) -
@@ -161,7 +161,7 @@
 *   [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 *   [erikmav/WinVFS](https://github.com/erikmav/WinVFS) - Sample Windows virtual filesystem using ProjFS
 *   [tkellogg/Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind
-*   [marticliment/Widgets-for-UniGetUI](https://github.com/marticliment/Widgets-for-UniGetUI) - Widgets to interact with UniGetUI from Dev Home and Windows Widgets
+*   [Devolutions/Widgets-for-UniGetUI](https://github.com/Devolutions/Widgets-for-UniGetUI) - Widgets to interact with UniGetUI from Dev Home and Windows Widgets
 *   [DapperLib/DapperAOT](https://github.com/DapperLib/DapperAOT) - Build time tools in the flavor of Dapper
 *   [ericdc1/Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD) - Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper.
 *   [phnx47/dapper-repositories](https://github.com/phnx47/dapper-repositories) - CRUD for Dapper
@@ -549,7 +549,7 @@
 *   [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
 *   [chinhdo/txFileManager](https://github.com/chinhdo/txFileManager) - .NET Transactional File Manager is a .NET Standard library that allows you to enlist file operations (file/folder copies, writes, deletes, appends, etc.) in distributed transactions.
 *   [tjackenpacken/taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
-*   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+*   [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 *   [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) -
 *   [amd989/Symlinker](https://github.com/amd989/Symlinker) - Symbolic Link Creator. GUI for mklink, Microsoft Windows symlink utility
 *   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
@@ -2052,7 +2052,7 @@
 *   [f4exb/sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube
 *   [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 *   [TanninOne/modorganizer](https://github.com/TanninOne/modorganizer) - Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66263, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66337, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 *   [sm0svx/svxlink](https://github.com/sm0svx/svxlink) - Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client
 *   [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 *   [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
