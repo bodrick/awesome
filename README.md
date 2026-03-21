@@ -358,7 +358,7 @@
 *   [ElPumpo/TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - The best NVIDIA GPU update checker for Windows power users/gamers. Fully open sourced and lightweight.
 *   [dotnet-script/dotnet-script](https://github.com/dotnet-script/dotnet-script) - Run C# scripts from the .NET CLI.
 *   [martin-honnen/XSLT\_XQuery\_XPath\_Notepad](https://github.com/martin-honnen/XSLT_XQuery_XPath_Notepad) - XSLT, XQuery, XPath Notepad using Saxon-HE
-*   [tryAGI/Tiktoken](https://github.com/tryAGI/Tiktoken) - This project implements token calculation for OpenAI's gpt-4 and gpt-3.5-turbo model, specifically using `cl100k_base` encoding.
+*   [tryAGI/Tiktoken](https://github.com/tryAGI/Tiktoken) - High-performance .NET BPE tokenizer — up to 571 MiB/s, competitive with Rust. Zero-allocation counting, multilingual cache, o200k/cl100k/r50k/p50k encodings + HuggingFace tokenizer.json support.
 *   [AlphaNecron/TitlebarZ](https://github.com/AlphaNecron/TitlebarZ) - A simple titlebar customizer for Windows 10.
 *   [hdrive99/AutomationMaxWindow](https://github.com/hdrive99/AutomationMaxWindow) - Auto-maximizes newly created windows using Automation (to work with FancyZones' current active monitor)
 *   [DiaAzul/Posh-Predictive-Text](https://github.com/DiaAzul/Posh-Predictive-Text) - PowerShell predictive text for popular command line tools.
@@ -840,6 +840,7 @@
 *   [Analogy-LogViewer/Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) - A customizable Log Viewer with ability to create custom providers. Can be used with C#, C++, Python, Java and others
 *   [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 *   [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
+*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 *   [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 *   [nickbabcock/Pfim](https://github.com/nickbabcock/Pfim) - .NET Standard targa (.tga) and direct draw surface (.dds) image decoder
 *   [murrayju/CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) - Creates a process in a different Windows session
@@ -1128,7 +1129,7 @@
 *   [pattazl/markdown-image-manage](https://github.com/pattazl/markdown-image-manage) - markdown-image-manage for vscode
 *   [obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer) - Obsidian Importer lets you import notes from other apps and file formats into your Obsidian vault.
 *   [obsidianmd/obsidian-sample-plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Template for Obsidian community plugins with build configuration and development best practices.
-*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
+*   [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
 *   [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
@@ -4492,7 +4493,6 @@
 ## Bicep
 
 *   [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
-*   [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 
 ## AutoIt
 
