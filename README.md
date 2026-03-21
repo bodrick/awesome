@@ -118,7 +118,7 @@
 *   [rremote/rremote](https://github.com/rremote/rremote) - A software remote control for your Roku device or TV
 *   [MoonStorm/FastCrud](https://github.com/MoonStorm/FastCrud) - fast .NET ORM for strongly typed people
 *   [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A rich set of enterprise-class UI components based on Ant Design and Blazor.
-*   [tryAGI/CSharpToJsonSchema](https://github.com/tryAGI/CSharpToJsonSchema) - Helpers and Source generator to define OpenAI/Ollama/Anthropic/Gemini/LangChain tools natively through C# interfaces and without Reflection
+*   [tryAGI/CSharpToJsonSchema](https://github.com/tryAGI/CSharpToJsonSchema) - Source generator to convert C# interfaces to JSON Schema for AI tool calling
 *   [Simnico99/MicaWPF](https://github.com/Simnico99/MicaWPF) - This is a library to make Mica available in WPF.
 *   [StephenClearyExamples/DotNetTelemetry](https://github.com/StephenClearyExamples/DotNetTelemetry) - How to use telemetry in .NET
 *   [microsoft/vs-solutionpersistence](https://github.com/microsoft/vs-solutionpersistence) - Shared serializers and models for Visual Studio solution files. Handles traditional .sln file and new .slnx file.
@@ -3154,7 +3154,7 @@
 *   [salesforce/logai](https://github.com/salesforce/logai) - LogAI - An open-source library for log analytics and intelligence
 *   [collective/icalendar](https://github.com/collective/icalendar) - icalendar parser library for Python
 *   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-*   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, 20+ clouds, or on-prem).
+*   [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access & manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).
 *   [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 *   [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -3212,7 +3212,6 @@
 *   [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 *   [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 *   [emdb-empiar/sfftk](https://github.com/emdb-empiar/sfftk) - Toolkit for working with EMDB-SFF and other segmentation file formats
-*   [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 *   [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 *   [apprenticeharper/DeDRM\_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 *   [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
@@ -3850,6 +3849,7 @@
 *   [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 *   [merbanan/rtl\_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 *   [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
+*   [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 *   [myfreeer/chrome-pak-customizer](https://github.com/myfreeer/chrome-pak-customizer) - a simple command-line tool to pack and unpack pak files in chrome or chromium-based browser
 *   [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 *   [xC0000005/Marlin](https://github.com/xC0000005/Marlin) - Optimized firmware for RepRap 3D printers based on the Arduino platform.
