@@ -1201,7 +1201,7 @@
 *   [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 *   [Writesonic/GPTRouter](https://github.com/Writesonic/GPTRouter) - Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.
 *   [mdx-js/eslint-mdx](https://github.com/mdx-js/eslint-mdx) - ESLint Parser/Plugin for MDX
-*   [microsoft/workspace-tools](https://github.com/microsoft/workspace-tools) - JS Monorepo Workspace Tools
+*   [microsoft/workspace-tools](https://github.com/microsoft/workspace-tools) - Repo has been merged into https://github.com/microsoft/lage
 *   [microsoft/beachball](https://github.com/microsoft/beachball) - The Sunniest Semantic Version Bumper
 *   [microsoft/lage](https://github.com/microsoft/lage) - Task runner in JS monorepos
 *   [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
@@ -1426,6 +1426,7 @@
 *   [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 *   [haacked/aspnet-client-validation](https://github.com/haacked/aspnet-client-validation) - A client validation library for ASP.NET MVC that does not require jQuery
 *   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
+*   [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 *   [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 *   [microsoft/IIS.WebManager](https://github.com/microsoft/IIS.WebManager) - Web Manager for managing IIS
 *   [pwwang/vscode-gptcommit](https://github.com/pwwang/vscode-gptcommit) - Automated git commit messages using GPT models via gptcommit for VS Code.
@@ -3422,7 +3423,6 @@
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 *   [Flowko/website-shot](https://github.com/Flowko/website-shot) - 📸 Generate a full web-page screenshot, Website-shot provides rich interface to make any kind of web screenshots online for free with no limits.
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
-*   [antfu-collective/vite-plugin-inspect](https://github.com/antfu-collective/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins
 *   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 *   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
 *   [tmoreno/open-log-viewer](https://github.com/tmoreno/open-log-viewer) - A multi-platform log viewer built with Electron and styled with Material Design
