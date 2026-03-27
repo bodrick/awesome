@@ -1297,6 +1297,7 @@
 *   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+*   [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 *   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 *   [vultix/ts-results](https://github.com/vultix/ts-results) - A typescript implementation of Rust's Result object.
 *   [VirtualEstatePlanner/MegaDocker](https://github.com/VirtualEstatePlanner/MegaDocker) - A tool to easily generate docker swarm stacks
@@ -3091,7 +3092,6 @@
 *   [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
-*   [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 *   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
 *   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [PAPAMICA/docker-compose-collection](https://github.com/PAPAMICA/docker-compose-collection) - These docker-compose allow you to deploy multiple services easily and quickly.  You can use them with Portainer directly or via docker-compose commands.
