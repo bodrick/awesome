@@ -3035,7 +3035,7 @@
 *   [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 *   [Tecnativa/docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - Proxy over your Docker socket to restrict which requests it accepts
 *   [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
-*   [asheroto/UpdateRootCertificates](https://github.com/asheroto/UpdateRootCertificates) - Downloads and installs current trusted root certificates on Windows and removes any disallowed certificates. Zero dependencies. No .NET, no certutil, no updroots.exe, and no Windows Update required.
+*   [asheroto/UpdateRootCertificates](https://github.com/asheroto/UpdateRootCertificates) - Downloads and installs current trusted root certificates on Windows and removes any disallowed certificates. Zero dependencies. No .NET, no certutil, no updroots, and no Windows Update required.
 *   [microsoft/Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) -
 *   [sbrunner/scan-to-paperless](https://github.com/sbrunner/scan-to-paperless) -
 *   [m-antonov/USBIPManager](https://github.com/m-antonov/USBIPManager) - Advanced client for USBIP project
