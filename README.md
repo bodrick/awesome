@@ -3369,7 +3369,7 @@
 *   [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 *   [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 *   [PowerShell/DSC](https://github.com/PowerShell/DSC) - This repo is for the DSC v3 project
-*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - experimental package manager for node.js
+*   [pnpm/pacquet](https://github.com/pnpm/pacquet) - The official pnpm rewrite in Rust
 *   [JamieMason/syncpack](https://github.com/JamieMason/syncpack) - Consistent dependency versions in large JavaScript Monorepos.
 *   [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 *   [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -3835,7 +3835,7 @@
 *   [KittyGiraudel/SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon
 *   [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
 *   [epochjs/epoch](https://github.com/epochjs/epoch) - A general purpose, real-time visualization library.
-*   [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
+*   [kjur/jsrsasign](https://github.com/kjur/jsrsasign) - CAUTION: END OF SUPPORT ON 3 JUN 2026. The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES and JSON Web Signature/Token in pure JavaScript.
 *   [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - \[OLD] Please go to new source, link below.
 *   [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
