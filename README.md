@@ -4550,7 +4550,7 @@
 
 ## Mustache
 
-*   [device-management-toolkit/cloud-deployment](https://github.com/device-management-toolkit/cloud-deployment) - Device Management Toolkit offers open-source microservices, applications and libraries to streamline Intel AMT integration, simplifying out-of-band management solutions for Intel vPro Platforms.
+*   [device-management-toolkit/deployment](https://github.com/device-management-toolkit/deployment) - Device Management Toolkit offers open-source microservices, applications and libraries to streamline Intel AMT integration, simplifying out-of-band management solutions for Intel vPro Platforms.
 
 ## HCL
 
