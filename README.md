@@ -3532,7 +3532,7 @@
 *   [microsoft/DesktopBridgeToUWP-Samples](https://github.com/microsoft/DesktopBridgeToUWP-Samples) - This repo contains the samples that demonstrate the usage patterns for the Desktop Conversion extensions.
 *   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 *   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron \[SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]
 *   [huybery/Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - 👨‍💻 An awesome and curated list of best code-LLM for research.
 *   [openai/openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
 *   [dotnet-architecture/eBooks](https://github.com/dotnet-architecture/eBooks) - .NET Architecture e-Books
@@ -3765,7 +3765,7 @@
 *   [corporate-gadfly/Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) -
 *   [Jackysi/advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
 *   [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 *   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 *   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 
