@@ -3090,7 +3090,7 @@
 *   [kelvins/awesome-mlops](https://github.com/kelvins/awesome-mlops) - :sunglasses: A curated list of awesome MLOps tools
 *   [Quansight/ragna](https://github.com/Quansight/ragna) - RAG orchestration framework ⛵️
 *   [docker/genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 *   [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. 开源大模型的统一后端接口
 *   [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 *   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
