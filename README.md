@@ -215,7 +215,7 @@
 *   [dwmkerr/consolecontrol](https://github.com/dwmkerr/consolecontrol) - ConsoleControl is a C# class library that lets you embed a console in a WinForms or WPF application.
 *   [MonoMod/MonoMod](https://github.com/MonoMod/MonoMod) - C# modding swiss army knife, powered by cecil.
 *   [jimradford/superputty](https://github.com/jimradford/superputty) - The SuperPuTTY Window Manager for putty sessions
-*   [ap0405140/MSSQLLogAnalyzer](https://github.com/ap0405140/MSSQLLogAnalyzer) - Microsoft SQL Server Log Analyzer. DBLOG.DatabaseLogAnalyzer can read the SQL Server transaction logs online, and return RedoSQL and UndoSQL for every transaction. It base on SQL Server fn\_dblog() function and develop some extension.
+*   [ap0405140/MSSQLLogAnalyzer](https://github.com/ap0405140/MSSQLLogAnalyzer) - Microsoft SQL Server Log Analyzer. DBLOG.DatabaseLogAnalyzer can read the SQL Server transaction logs online, and return RedoSQL and UndoSQL for every transaction. It base on SQL Server sys.fn\_dblog() function and develop some extension.
 *   [mganss/SyncChanges](https://github.com/mganss/SyncChanges) - Synchronize/Replicate database changes using SQL Server Change Tracking
 *   [uxmal/reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 *   [credfeto/credfeto-nuget-multi-push](https://github.com/credfeto/credfeto-nuget-multi-push) - dotnet core tool to push multiple packages to nuget in one go
@@ -1285,7 +1285,7 @@
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 *   [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-*   [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
+*   [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.
 *   [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy on-prem or in the cloud.
 *   [langchain-ai/langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
 *   [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -3663,7 +3663,7 @@
 *   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 *   [Azure-Samples/active-directory-dotnet-iwa-v2](https://github.com/Azure-Samples/active-directory-dotnet-iwa-v2) - .NET console application letting a user acquire a token for the Microsoft Graph using Integrated Windows Authentication (on domain joined or AAD joined machines)
 *   [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
-*   [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM & VMAF) calculated by ffmpeg.exe
+*   [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR & VMAF) calculated by ffmpeg.exe
 *   [typescript-cheatsheets/utilities](https://github.com/typescript-cheatsheets/utilities) - a list of typescript helper libraries
 *   [webpack/changelog-v5](https://github.com/webpack/changelog-v5) - Temporary repo for the changelog for webpack 5
 *   [CVJoint/traefik2](https://github.com/CVJoint/traefik2) - Traefik v2: docker-compose repo
