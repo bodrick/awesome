@@ -1136,7 +1136,7 @@
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 *   [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) - Accessibility Insights for Web
 *   [tak-bro/aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
-*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+*   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 *   [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
