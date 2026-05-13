@@ -1120,6 +1120,7 @@
 *   [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 *   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
+*   [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 *   [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
 *   [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
@@ -2094,7 +2095,6 @@
 *   [azu/eslint-cjs-to-esm](https://github.com/azu/eslint-cjs-to-esm) - ESLint wrapper for migration from CJS to ESM.
 *   [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 *   [Andrews54757/FastStream](https://github.com/Andrews54757/FastStream) - Stream videos without buffering in the browser. An extension that gives you a better, accessible video player designed for your needs.
-*   [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 *   [nirui/sshwifty](https://github.com/nirui/sshwifty) - Web SSH & Telnet (WebSSH & WebTelnet client) 🔮
 *   [njic/medassist](https://github.com/njic/medassist) - Medication Assistant
 *   [gildas-lormeau/SingleFile-MV3](https://github.com/gildas-lormeau/SingleFile-MV3) - SingleFile version compatible with Manifest V3
