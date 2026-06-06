@@ -143,7 +143,7 @@
 *   [microsoft/SQLCallStackResolver](https://github.com/microsoft/SQLCallStackResolver) - A sample tool for users of Microsoft SQL Server to aid in troubleshooting otherwise difficult to diagnose issues. Provided AS-IS - see SUPPORT.md.
 *   [dotnet/samples](https://github.com/dotnet/samples) - Sample code referenced by the .NET documentation
 *   [grantwinney/Surviving-WinForms](https://github.com/grantwinney/Surviving-WinForms) - WinForms ain't going away anytime soon. A lot of us have to deal with it. Let's make the most of it, shall we? 😎
-*   [pavlovtech/WebReaper](https://github.com/pavlovtech/WebReaper) - AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
+*   [alex-on-ai/WebReaper](https://github.com/alex-on-ai/WebReaper) - AI-native web scraper. Single binary with a bundled Claude Code skill. MIT-licensed alternative to Firecrawl.
 *   [dotnetcore/DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
 *   [sjdirect/abot](https://github.com/sjdirect/abot) - Cross Platform C# web crawler framework built for speed and flexibility. Please star this project! +1.
 *   [Drizin/DapperQueryBuilder](https://github.com/Drizin/DapperQueryBuilder) - Dapper Query Builder using String Interpolation and Fluent API
