@@ -552,7 +552,7 @@
 *   [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 *   [dotnet/systemweb-adapters](https://github.com/dotnet/systemweb-adapters) -
 *   [amd989/Symlinker](https://github.com/amd989/Symlinker) - Symbolic Link Creator. GUI for mklink, Microsoft Windows symlink utility
-*   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET
+*   [apache/lucenenet](https://github.com/apache/lucenenet) - Apache Lucene.NET is an open-source full-text search library written in C#, ported from the Apache Lucene project.
 *   [IzyPro/WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime.
 *   [wieslawsoltes/Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) - An SVG rendering library.
 *   [RandomEngy/UnitTestBoilerplateGenerator](https://github.com/RandomEngy/UnitTestBoilerplateGenerator) - An extension for Visual Studio that generates a unit test boilerplate from a given class, setting up mocks for all dependencies. Supports NUnit, Visual Studio Test, XUnit and many mock frameworks.
@@ -774,7 +774,7 @@
 *   [BRH-Media/PlexDL](https://github.com/BRH-Media/PlexDL) - Plex Downloader/Streamer written in C#
 *   [antonpup/Aurora](https://github.com/antonpup/Aurora) - Unified lighting effects across multiple brands and various games.
 *   [DarthAffe/RGB.NET](https://github.com/DarthAffe/RGB.NET) - The one-stop SDK for RGB-peripherals
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+*   [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 *   [mikependon/RepoDB](https://github.com/mikependon/RepoDB) - A hybrid ORM library for .NET.
 *   [davidfowl/AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios) - This repository has examples of broken patterns in ASP.NET Core applications
 *   [khellang/Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
@@ -2402,7 +2402,6 @@
 *   [leviwheatcroft/selfhosted-awesome-unlist](https://github.com/leviwheatcroft/selfhosted-awesome-unlist) - repository of selfhosted and sysadmin projects
 *   [tabulator-tables/tabulator](https://github.com/tabulator-tables/tabulator) - Interactive Tables and Data Grids for JavaScript
 *   [GoogleChromeLabs/critters](https://github.com/GoogleChromeLabs/critters) - 🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
-*   [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 *   [Sonnyducks/ServiceNow](https://github.com/Sonnyducks/ServiceNow) - Useful ServiceNow scripts
 *   [arnoudkooi/SN-Utils](https://github.com/arnoudkooi/SN-Utils) - Browser Extension to enhance experience and productivity in ServiceNow
 *   [FallingSnow/h265ize](https://github.com/FallingSnow/h265ize) - A node utility utilizing ffmpeg to encode videos with the hevc codec.
@@ -3075,7 +3074,6 @@
 *   [abhishekkr/gmail-helper](https://github.com/abhishekkr/gmail-helper) - it will contain different utilities for GMail API over OAuth2
 *   [isafulf/inbox\_cleaner](https://github.com/isafulf/inbox_cleaner) - A python script to help manage a Gmail inbox by filtering out promotional emails using GPT-3 or GPT-4.
 *   [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-*   [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 *   [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 *   [espnet/espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 *   [gitmylo/audio-webui](https://github.com/gitmylo/audio-webui) - A webui for different audio related Neural Networks
@@ -3308,6 +3306,7 @@
 *   [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool) - Dockerfile for LanguageTool server
 *   [sickcodes/dock-droid](https://github.com/sickcodes/dock-droid) - Docker Android - Run QEMU Android in a Docker! X11 Forwarding! CI/CD for Android!
 *   [vitalets/docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI
+*   [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).
 *   [Atinoda/text-generation-webui-docker](https://github.com/Atinoda/text-generation-webui-docker) - Docker variants of oobabooga's text-generation-webui, including pre-built images.
 *   [bluxmit/alnoda-workspaces](https://github.com/bluxmit/alnoda-workspaces) - :fireworks: Flexible and extendable containerized workspaces. Now. with free offline chat GPT!!!  🚀🚀🚀
 *   [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
@@ -4290,6 +4289,7 @@
 *   [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 *   [Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
 *   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+*   [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 *   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 *   [typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate](https://github.com/typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate) - :bento: Nuxt.js with TypeScript and Run with docker and docker-compose 🐶🦄🔥 visit: https://typescript-nuxtjs-boilerplate.netlify.com/example
 *   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
