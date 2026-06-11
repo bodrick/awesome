@@ -951,7 +951,6 @@
 *   [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
 *   [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 *   [DuendeArchive/IdentityModel](https://github.com/DuendeArchive/IdentityModel) - .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect.
-*   [cloudscribe/cloudscribe.Web.Navigation](https://github.com/cloudscribe/cloudscribe.Web.Navigation) - ASP.NET Core MVC ViewComponent for navigation menus and breadcrumbs
 *   [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 *   [reactiveui/refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 *   [fremag/MemoScope.Net](https://github.com/fremag/MemoScope.Net) - Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd )
@@ -2809,6 +2808,7 @@
 *   [usablica/progress.js](https://github.com/usablica/progress.js) - ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page.
 *   [VinceG/twitter-bootstrap-wizard](https://github.com/VinceG/twitter-bootstrap-wizard) - This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.
 *   [nakupanda/bootstrap3-dialog](https://github.com/nakupanda/bootstrap3-dialog) - Make use of Twitter Bootstrap's modal more monkey-friendly.
+*   [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
 
 ## Go
 
@@ -3110,7 +3110,7 @@
 *   [vrnetlab/vrnetlab](https://github.com/vrnetlab/vrnetlab) - Run virtual routers with docker
 *   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 *   [BerriAI/liteLLM-proxy](https://github.com/BerriAI/liteLLM-proxy) -
-*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
+*   [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 *   [rasa/scoop-directory](https://github.com/rasa/scoop-directory) - A searchable directory of buckets for the scoop package manager for Windows
 *   [hsand/pia-wg](https://github.com/hsand/pia-wg) - A WireGuard configuration utility for Private Internet Access
 *   [microsoft/LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and MLLMs
@@ -4289,7 +4289,7 @@
 *   [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 *   [Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
 *   [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-*   [gothinkster/vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
+*   [realworld-apps/vue-realworld-example-app](https://github.com/realworld-apps/vue-realworld-example-app) - An exemplary real-world application built with Vue.js, Vuex, axios and different other technologies. This is a good example to discover Vue for beginners.
 *   [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 *   [typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate](https://github.com/typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate) - :bento: Nuxt.js with TypeScript and Run with docker and docker-compose 🐶🦄🔥 visit: https://typescript-nuxtjs-boilerplate.netlify.com/example
 *   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
