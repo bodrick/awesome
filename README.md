@@ -1924,7 +1924,7 @@
 *   [Mattiwatti/EfiGuard](https://github.com/Mattiwatti/EfiGuard) - Disable PatchGuard and Driver Signature Enforcement at boot time
 *   [JibbSmart/JoyShockMapper](https://github.com/JibbSmart/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4, DualSense, JoyCon, and Switch Pro Controllers. Gyro aiming, flick stick.
 *   [mamedev/mame](https://github.com/mamedev/mame) - MAME
-*   [RudjiGames/MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 3/4/5, Nintendo Switch, Android and other platforms
+*   [RudjiGames/MTuner](https://github.com/RudjiGames/MTuner) - MTuner is a C/C++ memory profiler and memory leak finder for Windows and other platforms
 *   [KindDragon/vld](https://github.com/KindDragon/vld) - Visual Leak Detector for Visual C++ 2008-2015
 *   [webcamoid/webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform camera suite.
 *   [Ardour/ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
