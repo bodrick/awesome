@@ -3878,7 +3878,7 @@
 *   [007revad/Synology\_enable\_M2\_volume](https://github.com/007revad/Synology_enable_M2_volume) - Enable creating volumes with non-Synology M.2 drives
 *   [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 *   [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
-*   [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source packages/apps/utilities: github/brew/apt/flatpak/appimage/cargo/npm/… ④ Hundreds of cross-os commands: macos/linux/windows, x86/arm/riscv.
+*   [bevry/dorothy](https://github.com/bevry/dorothy) - 🧙🏻‍♀️ Terminal ecosystem, featuring: ① Framework for cross-shell/cli/tui scripting: bash/nu/deno/unix/… ② Overlay for cross-shell/env/dotfile interop: bash/zsh/fish/nu/… ③ Manager for cross-source packages/apps/utilities: github/brew/apt/flatpak/appimage/cargo/npm/… ④ Hundreds of cross-os commands: macos/linux/windows, x86/arm.
 *   [desktop/dugite-native](https://github.com/desktop/dugite-native) - A toolchain for building a portable, cross-platform Git for applications
 *   [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 *   [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
