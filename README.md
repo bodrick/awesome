@@ -458,7 +458,7 @@
 *   [proggmatic/vite-server-middleware](https://github.com/proggmatic/vite-server-middleware) - Vite dev server middleware for .NET
 *   [Jaxelr/VueSimpleTemplate](https://github.com/Jaxelr/VueSimpleTemplate) - A minimal dotnet template for Vuejs 3.X using Single File Component.
 *   [themotleyfool/SlimJim](https://github.com/themotleyfool/SlimJim) - Visual Studio solution file generator. Generates solution file based on a root project, and pulls in all projects which have a reference to the root, as well as all of its own dependencies.
-*   [gui-cs/TerminalGuiDesigner](https://github.com/gui-cs/TerminalGuiDesigner) - Forms Designer for Terminal.Gui (aka gui.cs)
+*   [tui-cs/TerminalGuiDesigner](https://github.com/tui-cs/TerminalGuiDesigner) - Forms Designer for Terminal.Gui (aka gui.cs)
 *   [Snoothy/UCR](https://github.com/Snoothy/UCR) - Universal Control Remapper \[Alpha]
 *   [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) - The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.
 *   [ermig1979/AntiDupl](https://github.com/ermig1979/AntiDupl) - A program to search similar and defect pictures on the disk
@@ -860,7 +860,7 @@
 *   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 *   [fluentmigrator/fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 *   [metherul/Automaton](https://github.com/metherul/Automaton) - The open modpack platform.
-*   [gui-cs/Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
+*   [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 *   [FastReports/FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
 *   [lukencode/FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 *   [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
@@ -1114,7 +1114,6 @@
 *   [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector) - Interactive UI for local node modules inspection
 *   [microsoft/axe-pipelines-samples](https://github.com/microsoft/axe-pipelines-samples) - Samples that demonstrate running axe accessibility scans from Azure Pipelines
 *   [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
-*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 *   [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 *   [sakowicz/actual-ai](https://github.com/sakowicz/actual-ai) - Categorise transactions in Actual Budget using AI.
@@ -1711,6 +1710,7 @@
 *   [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 *   [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 *   [mperdeck/jsnlog.js](https://github.com/mperdeck/jsnlog.js) - Tiny JavaScript logging library, simple and well documented. Lots of options to filter logging data.
+*   [socketio/socket.io](https://github.com/socketio/socket.io) - Bidirectional and low-latency communication for every platform
 
 ## PowerShell
 
@@ -1743,7 +1743,7 @@
 *   [rmbolger/Posh-ACME](https://github.com/rmbolger/Posh-ACME) - PowerShell module and ACME client to create certificates from Let's Encrypt (or other ACME CA)
 *   [matt9ucci/DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
 *   [jonny-jhnson/PowerParse](https://github.com/jonny-jhnson/PowerParse) - PowerShell PE Parser
-*   [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
+*   [tui-cs/F7History](https://github.com/tui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 *   [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 *   [ztrhgf/useful\_powershell\_modules](https://github.com/ztrhgf/useful_powershell_modules) - Source code for modules placed in PowerShell Gallery and on my https://doitpshway.com blog.
 *   [abbodi1406/WHD](https://github.com/abbodi1406/WHD) - WHDownloader backup repo
@@ -2576,7 +2576,6 @@
 *   [chromelens/chromelens](https://github.com/chromelens/chromelens) - Chrome DevTools extension for web accessibility development
 *   [Moeditor/Moeditor](https://github.com/Moeditor/Moeditor) - (discontinued) Your all-purpose markdown editor.
 *   [mout/mout](https://github.com/mout/mout) - Modular JavaScript Utilities
-*   [devbridge/Performance](https://github.com/devbridge/Performance) - Client side performance tool
 *   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 *   [MicrosoftEdge/magic-mirror-demo](https://github.com/MicrosoftEdge/magic-mirror-demo) - A :zap:Magic Mirror:zap: powered by a UWP Hosted Web App :rocket:
 *   [katiefenn/parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.
@@ -3476,6 +3475,7 @@
 ## miscellaneous
 
 *   [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
+*   [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 *   [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
 *   [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 *   [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
